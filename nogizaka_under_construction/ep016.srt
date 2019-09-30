@@ -1,0 +1,2937 @@
+1
+00:00:00,000 --> 00:00:00,000
+<font face="Calibri" size="18">{\an7}m 0 0 l 0 27 l 2 27 l 2 0 l 0 0 m 2 0 l -4 0 l -4 6 l 16 6 l 16 4 l -2 4 l -2 2 l 0 2 m 2 2 m 16 0 l 16 27 l 18 27 l 18 -1 l 16 -1 m 22 0 l 22 0 l 24 0 l 24 11 l 19 11 l 19 9 l 22 9 l 22 2 l 15 2 l 15 0 m 6 18 l 6 12 l 12 12 l 12 14 l 8 14 l 8 18 l 6 18 m 12 18 l 12 20 l 6 20 l 6 18 l 10 18 l 10 14 l 12 14 l 12 18 m 5 7 l 8 9 l 7 10 l 4 8 l 5 7 m 10 9 l 10 9 l 13 7 l 14 8 l 11 10 l 10 9 m 3 24 b 3 24 3 23 3 23 b 7 21 11 21 15 23 b 15 23 15 25 15 25 b 11 23 7 23 3 25 
+<b>MasToppu.blogspot.co.id</b></font>
+
+2
+00:00:00,000 --> 00:00:00,480
+<font face="Arial Rounded MT Bold" size="20"><b>{\an8}[ This is a parody segment of NHK's 
+"Professional: Shigoto no Ryugi" ]</b></font>
+
+3
+00:00:00,480 --> 00:00:02,490
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font size="20"><font face="Arial Narrow"></font></font></b>World's first OL and Idol at the same time</font>
+
+4
+00:00:02,490 --> 00:00:04,750
+<font face="Arial Rounded MT Bold" size="20">{\an7}World's first?</font>
+
+5
+00:00:07,120 --> 00:00:09,970
+<font size="28"><b><i>Nogizaka46's Shinuchi Mai.</i></b></font>
+
+6
+00:00:09,970 --> 00:00:11,480
+<font face="Arial Rounded MT Bold" size="20">{\an7}Professional, huh?</font>
+
+7
+00:00:12,460 --> 00:00:17,090
+<font size="28"><b><i>In 2013, she started her activity as...</i></b></font>
+
+8
+00:00:17,090 --> 00:00:18,930
+<font size="28"><b><i>... an Idol of Nogizaka46's second generation.</i></b></font>
+
+9
+00:00:19,500 --> 00:00:20,330
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#d650ff"><font size="30">APRIL 2014</font></font></b></font>
+
+10
+00:00:20,330 --> 00:00:23,420
+<font size="28"><b><i>And she is still continuing as one 
+ whenever the chance presents itself.</i></b></font>
+
+11
+00:00:23,420 --> 00:00:28,310
+<font size="28"><b><i>Now, she's just not an Idol, 
+ but she also has another profession, an office lady.</i></b></font>
+
+12
+00:00:28,310 --> 00:00:28,310
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font face="Arial"><font size="35">NOGIfessional</font></font></b></font>
+
+13
+00:00:28,310 --> 00:00:28,310
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#a4a4a4">m 167 42 l 0 42 l 0 0 l 167 0</font></b></font>
+
+14
+00:00:28,310 --> 00:00:28,310
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font face="Agency FB"><font color="#000000">Shinuchi's <font color="#fefdfd">Way</font></font></font></b></font>
+
+15
+00:00:28,310 --> 00:00:31,140
+<font face="Arial Rounded MT Bold" size="20"><b>{\an8}[ Nogifessional = Nogizaka + Professional ]</b></font>
+
+16
+00:00:31,140 --> 00:00:31,480
+<font face="Arial Rounded MT Bold" size="20">{\an7}So, Nogifessional, huh?</font>
+
+17
+00:00:31,480 --> 00:00:32,180
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font face="Arial"><font size="35">NOGIfessional</font></font></b></font>
+
+18
+00:00:32,180 --> 00:00:33,610
+<font face="Arial Rounded MT Bold" size="20"><b>{\an8}</b></font>
+
+19
+00:00:33,610 --> 00:00:33,610
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}Profession</b></font>
+
+20
+00:00:33,610 --> 00:00:34,460
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}Idol, OL</b></font>
+
+21
+00:00:34,460 --> 00:00:37,780
+<font face="Arial Rounded MT Bold" size="20">{\an7}- Were you working?
+- I seriously was.</font>
+
+22
+00:00:38,120 --> 00:00:38,120
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}Sato Kenji</b></font>
+
+23
+00:00:38,120 --> 00:00:38,120
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}Narrator</b></font>
+
+24
+00:00:38,120 --> 00:00:38,120
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#ff6694">Tight rivalry era of Idols</font></b></font>
+
+25
+00:00:38,120 --> 00:00:38,940
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#ff6694">Tight rivalry era of Idols</font></b></font>
+
+26
+00:00:38,940 --> 00:00:41,100
+<font size="28"><b><i>In this tight rivalry era of Idols...</i></b></font>
+
+27
+00:00:41,100 --> 00:00:41,690
+<font size="28"><b><i>... in order to survive in such harsh world... </i></b></font>
+
+28
+00:00:41,690 --> 00:00:41,690
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}In order to survive</b></font>
+
+29
+00:00:41,690 --> 00:00:43,990
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}In order to survive</b></font>
+
+30
+00:00:43,990 --> 00:00:45,890
+<font size="28"><b><i>... this woman has chosen that road.</i></b></font>
+
+31
+00:00:45,890 --> 00:00:45,890
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#ffff5d">Golden Chance</font></b></font>
+
+32
+00:00:45,890 --> 00:00:47,140
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#fffc00">Golden Chance</font></b></font>
+
+33
+00:00:47,140 --> 00:00:48,330
+<font size="28"><b>Shinuchi Mai.</b></font>
+
+34
+00:00:48,330 --> 00:00:51,520
+<font size="28"><b><i>Then, she has gotten the chance.</i></b></font>
+
+35
+00:00:52,000 --> 00:00:54,270
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#d650ff">Selected to be a 
+Senbatsu member of 12nd single</font></b></font>
+
+36
+00:00:54,800 --> 00:00:57,170
+<font size="28"><b>Since I'm selected as Senbatsu member, of course...</b></font>
+
+37
+00:00:57,170 --> 00:01:00,940
+<font size="28"><b>... I think it will be hard to do both.</b></font>
+
+38
+00:01:01,070 --> 00:01:02,530
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}Idol</b></font>
+
+39
+00:01:02,530 --> 00:01:05,240
+<font size="28"><b><i>As an Idol and an OL...</i></b></font>
+
+40
+00:01:05,880 --> 00:01:05,880
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#c71a1c">Heavy Burden</font></b></font>
+
+41
+00:01:05,880 --> 00:01:05,900
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#000000">Heavy Burden</font></b></font>
+
+42
+00:01:05,900 --> 00:01:09,650
+<font size="28"><b><i>... those two things will definitely be very difficult to do.</i></b></font>
+
+43
+00:01:11,490 --> 00:01:14,050
+<font size="28"><b>Guess I need to redo everything from scratch.</b></font>
+
+44
+00:01:14,050 --> 00:01:16,420
+<font size="28"><b>I feel like giving up here.</b></font>
+
+45
+00:01:16,560 --> 00:01:16,560
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font size="30"><font color="#000000">Desperations</font></font></b></font>
+
+46
+00:01:16,560 --> 00:01:17,490
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font size="30"><font color="#000000">Desperations</font></font></b></font>
+
+47
+00:01:17,490 --> 00:01:17,520
+<font face="Arial Rounded MT Bold" size="20"><b>{\an9}Why are you giving up?</b></font>
+
+48
+00:01:17,520 --> 00:01:17,520
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font size="30"><font color="#000000">Hardships</font></font></b></font>
+
+49
+00:01:17,520 --> 00:01:18,040
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font size="30"><font color="#000000">Hardships</font></font></b></font>
+
+50
+00:01:18,040 --> 00:01:20,130
+<font size="28"><b><i>As an OL, she's ready with having such burden.</i></b></font>
+
+51
+00:01:20,130 --> 00:01:20,130
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}Never Happened Before</b></font>
+
+52
+00:01:20,130 --> 00:01:21,660
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#fffe65">Never Happened Before</font></b></font>
+
+53
+00:01:21,660 --> 00:01:24,230
+<font size="28"><b><i>That's because she wants to see 
+ good things this world has to offer.</i></b></font>
+
+54
+00:01:24,230 --> 00:01:26,100
+<font size="28"><b><i>She can only step forward.</i></b></font>
+
+55
+00:01:26,100 --> 00:01:26,460
+<font size="28"><b><i>Tonight, we will reveal another side of Shinuchi Mai.</i></b></font>
+
+56
+00:01:26,460 --> 00:01:28,300
+<font face="Arial Rounded MT Bold" size="20"><b>{\an9}This is so OL.</b></font>
+
+57
+00:01:28,400 --> 00:01:28,400
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font face="Arial"></font></b>Nogizaka46 - Shinuchi Mai</font>
+
+58
+00:01:28,400 --> 00:01:33,890
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font face="Arial"></font></b>Kennin Idol and OL with "Super Saving" principle</font>
+
+59
+00:01:33,890 --> 00:01:35,910
+<font face="Arial Rounded MT Bold" size="20"><b>{\an9}What does it mean,
+ Super Saving principle?</b></font>
+
+60
+00:01:36,270 --> 00:01:38,890
+<font size="28"><b>Good morning! Good morning!</b></font>
+
+61
+00:01:38,890 --> 00:01:40,380
+<font size="28"><b>Good morning.</b></font>
+
+62
+00:01:40,380 --> 00:01:42,410
+<font size="28"><b><i>Shinuchi Mai...</i></b></font>
+
+63
+00:01:42,410 --> 00:01:45,210
+<font size="28"><b><i>... as an OL, this is what she does everyday.</i></b></font>
+
+64
+00:01:45,210 --> 00:01:46,850
+<font face="Arial Rounded MT Bold" size="20"><b>{\an9}So you're working for real?</b></font>
+
+65
+00:01:46,850 --> 00:01:47,770
+<font face="Arial Rounded MT Bold" size="20"><b>{\an9}Yes.</b></font>
+
+66
+00:01:47,770 --> 00:01:49,150
+<font size="28"><b>Can you show it?</b></font>
+
+67
+00:01:49,150 --> 00:01:51,150
+<font size="28"><b>Eh, it's embarassing.</b></font>
+
+68
+00:01:53,530 --> 00:01:55,830
+<font size="28"><b>My ID card...</b></font>
+
+69
+00:01:55,830 --> 00:02:00,120
+<font size="28"><b>... I use my photo from 10th single.</b></font>
+
+70
+00:02:00,120 --> 00:02:02,530
+<font size="28"><b>Good morning.</b></font>
+
+71
+00:02:02,970 --> 00:02:04,520
+<font size="28"><b>Good morning.</b></font>
+
+72
+00:02:04,520 --> 00:02:05,280
+<font face="Arial Rounded MT Bold" size="20"><b>{\an9}This is legit.</b></font>
+
+73
+00:02:05,280 --> 00:02:07,510
+<font size="28"><b>Ah, I have lots of works today.</b></font>
+
+74
+00:02:08,010 --> 00:02:12,640
+<font size="28"><b><i>Shinuchi, there is always one thing she does 
+ when she arrives at her workplace.</i></b></font>
+
+75
+00:02:12,810 --> 00:02:15,410
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font size="20"><font face="Arial"></font></font></b>Turning On The Computer</font>
+
+76
+00:02:15,410 --> 00:02:16,680
+<font face="Arial Rounded MT Bold" size="20"><b>{\an9}Start from that?</b></font>
+
+77
+00:02:17,330 --> 00:02:21,290
+<font size="28"><b>Since we had a slow start,
+I'll turn on my computer first.</b></font>
+
+78
+00:02:21,290 --> 00:02:24,960
+<font size="28"><b>My office is not just here, 
+ I'll go next door.</b></font>
+
+79
+00:02:26,080 --> 00:02:27,020
+<font size="28"><b>Good morning...</b></font>
+
+80
+00:02:27,020 --> 00:02:28,760
+<font size="28"><b><i>One of Shinuchi's job is...</i></b></font>
+
+81
+00:02:28,760 --> 00:02:30,690
+<font size="28"><b><i>... delivering documents.</i></b></font>
+
+82
+00:02:30,690 --> 00:02:35,280
+<font size="28"><b>The table layout got changed this April, 
+ so I still haven't remembered it yet.</b></font>
+
+83
+00:02:35,280 --> 00:02:37,000
+<font size="28"><b>I don't know where to put this.</b></font>
+
+84
+00:02:37,000 --> 00:02:38,570
+<font size="28"><b>- Good morning.
+- Morning.</b></font>
+
+85
+00:02:38,570 --> 00:02:40,310
+<font size="28"><b>This is Ebina-san.</b></font>
+
+86
+00:02:40,310 --> 00:02:41,700
+<font size="28"><b>Eh, no, this is Inaba-san.</b></font>
+
+87
+00:02:41,700 --> 00:02:42,310
+<font face="Arial Rounded MT Bold" size="20"><b>{\an9}You were wrong.</b></font>
+
+88
+00:02:42,310 --> 00:02:45,240
+<font size="28"><b>- Oo.. I was surprised!
+- Sorry! Sorry!</b></font>
+
+89
+00:02:46,250 --> 00:02:50,520
+<font size="28"><b><i>As we can see, Shinuchi is good at recognizing her co-workers.</i></b></font>
+
+90
+00:02:50,520 --> 00:02:51,920
+<font size="28"><b>Clearly that's not the case!</b></font>
+
+91
+00:02:51,920 --> 00:02:53,290
+<font size="28"><b>She mentioned his name wrong, didn't she?</b></font>
+
+92
+00:02:53,290 --> 00:02:57,000
+<font size="28"><b><i>The place where Shinuchi works is a radio station.</i></b></font>
+
+93
+00:02:57,000 --> 00:03:00,180
+<font size="28"><b><i>She works at management department there.</i></b></font>
+
+94
+00:03:00,180 --> 00:03:02,790
+<font size="28"><b>This is my senior, Ida-san.</b></font>
+
+95
+00:03:02,790 --> 00:03:02,860
+<font size="28"><b>I make a lot of mistakes, but...</b></font>
+
+96
+00:03:02,860 --> 00:03:02,860
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font size="18">Management Department</font></b></font>
+
+97
+00:03:02,860 --> 00:03:05,120
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}Ida-san</b></font>
+
+98
+00:03:05,120 --> 00:03:07,700
+<font size="28"><b>... she handles them for me.</b></font>
+
+99
+00:03:13,520 --> 00:03:15,060
+<font size="28"><b>Hello, how can I help you?</b></font>
+
+100
+00:03:15,060 --> 00:03:16,710
+<font face="Arial Rounded MT Bold" size="20"><b>{\an9}She's receiving 
+a call seriously.</b></font>
+
+101
+00:03:16,710 --> 00:03:19,380
+<font size="28"><b>Ah, he's not present at the moment...</b></font>
+
+102
+00:03:19,380 --> 00:03:20,450
+<font face="Arial Rounded MT Bold" size="20"><b>{\an9}Not present?</b></font>
+
+103
+00:03:20,450 --> 00:03:23,920
+<font size="28"><b>Okay, I will relay that message.</b></font>
+
+104
+00:03:24,480 --> 00:03:28,550
+<font size="28"><b>When there's a phone call, I need to be careful 
+ so I don't pick it up too fast.</b></font>
+
+105
+00:03:28,550 --> 00:03:32,760
+<font size="28"><b>I pick it up after about two rings.</b></font>
+
+106
+00:03:32,760 --> 00:03:33,690
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#e9e4e3">Her job as an OL</font></b></font>
+
+107
+00:03:33,690 --> 00:03:35,530
+<font size="28"><b><i>Shinuchi's important task is...</i></b></font>
+
+108
+00:03:35,530 --> 00:03:38,700
+<font size="28"><b><i>... making company's invoices and arrange them.</i></b></font>
+
+109
+00:03:39,380 --> 00:03:42,570
+<font size="28"><b><i>There's also another task, where she has to write 200 pages many.</i></b></font>
+
+110
+00:03:42,570 --> 00:03:45,360
+<font size="28"><b><i>Mistake is not allowed in arranging documents.</i></b></font>
+
+111
+00:03:45,360 --> 00:03:48,580
+<font size="28"><b><i>When everything has done, she delivers them to each departments.</i></b></font>
+
+112
+00:03:48,580 --> 00:03:52,600
+<font size="28"><b>"<i>Financial system</i>" here handles the sale record,
+ then releases the bill...</b></font>
+
+113
+00:03:52,600 --> 00:03:57,080
+<font size="28"><b>... and also the agreement of the financial plan,
+ it's all being trusted to them.</b></font>
+
+114
+00:03:57,730 --> 00:04:01,550
+<font size="28"><b><i>Although her task is quite difficult, 
+there's one important thing Shinuchi does.</i></b></font>
+
+115
+00:04:01,610 --> 00:04:01,750
+<font face="Arial Rounded MT Bold" size="20"><b>{\an9}What? What?</b></font>
+
+116
+00:04:01,750 --> 00:04:04,650
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font size="20"><font face="Arial"></font></font></b>Getting Water</font>
+
+117
+00:04:04,650 --> 00:04:05,860
+<font face="Arial Rounded MT Bold" size="20"><b>{\an9}What is this?</b></font>
+
+118
+00:04:06,990 --> 00:04:09,930
+<font size="28"><b>On the fifth floor, there's a spot to get water.</b></font>
+
+119
+00:04:09,930 --> 00:04:12,360
+<font size="28"><b>I always get water here.</b></font>
+
+120
+00:04:15,480 --> 00:04:17,240
+<font size="28"><b>This and...</b></font>
+
+121
+00:04:17,240 --> 00:04:18,740
+<font size="28"><b>... hot water.</b></font>
+
+122
+00:04:19,780 --> 00:04:23,740
+<font size="28"><b><i>This is the thing that has supported Shinuchi's job,
+ an adequate water intake.</i></b></font>
+
+123
+00:04:23,740 --> 00:04:24,800
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}Keeps Moving</b></font>
+
+124
+00:04:24,800 --> 00:04:28,510
+<font size="28"><b><i>Then, for Shinuchi who often moves around to different floors...</i></b></font>
+
+125
+00:04:28,510 --> 00:04:30,510
+<font size="28"><b><i>... there's one special way she uses.</i></b></font>
+
+126
+00:04:31,220 --> 00:04:34,160
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font size="20"><font face="Arial"></font></font></b>Does Not Use The Elevator</font>
+
+127
+00:04:34,160 --> 00:04:35,420
+<font face="Arial Rounded MT Bold" size="20"><b>{\an9}Why though?</b></font>
+
+128
+00:04:35,750 --> 00:04:38,360
+<font size="28"><b>Well...</b></font>
+
+129
+00:04:38,360 --> 00:04:38,360
+<font size="28"><b>... it's for <font color="#e92c32">saving <font color="#ffffff">the elevators' electricity power.</font></font></b></font>
+
+130
+00:04:38,360 --> 00:04:40,770
+<font size="28"><b>... it's for <font color="#e92c32">saving <font color="#ffffff">the elevators' electricity power.</font></font></b></font>
+
+131
+00:04:40,770 --> 00:04:43,560
+<font size="28"><b>And it's good for my diet too.</b></font>
+
+132
+00:04:44,770 --> 00:04:49,100
+<font size="28"><b><i>And today, starts from 12 o'clock,
+ a meeting is being held every week.</i></b></font>
+
+133
+00:04:50,160 --> 00:04:52,570
+<font size="28"><b>I'm not really involved in company's transaction meeting now.</b></font>
+
+134
+00:04:52,570 --> 00:04:57,680
+<font size="28"><b>I'm still new here even though it's been 2 years already, 
+ but someone who's in his first year is attending it.</b></font>
+
+135
+00:04:57,680 --> 00:05:00,160
+<font size="28"><b>Basically, I'm just listening to them here.</b></font>
+
+136
+00:05:00,560 --> 00:05:02,110
+<font size="28"><b>Alright, let's start.</b></font>
+
+137
+00:05:02,110 --> 00:05:04,980
+<font size="28"><b><i>But in that meeting, Shinuchi...</i></b></font>
+
+138
+00:05:04,980 --> 00:05:06,980
+<font size="28"><b><i>... starts to do something.</i></b></font>
+
+139
+00:05:06,980 --> 00:05:10,860
+<font size="28"><b>I make notes, this is my habit now.</b></font>
+
+140
+00:05:10,860 --> 00:05:12,560
+<font size="28"><b>I write important things.</b></font>
+
+141
+00:05:12,590 --> 00:05:13,880
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}Shinuchi's Note</b></font>
+
+142
+00:05:13,880 --> 00:05:17,230
+<font size="28"><b><i>Then, what is Shinuchi writing?</i></b></font>
+
+143
+00:05:20,380 --> 00:05:21,970
+<font face="Arial Rounded MT Bold" size="20"><b>{\an9}She's just
+ doodling around.</b></font>
+
+144
+00:05:23,410 --> 00:05:24,970
+<font face="Arial Rounded MT Bold" size="20"><b>{\an9}She's making
+ a heart.</b></font>
+
+145
+00:05:26,050 --> 00:05:26,870
+<font face="Arial Rounded MT Bold" size="20"><b>{\an9}What's going on?</b></font>
+
+146
+00:05:26,870 --> 00:05:28,870
+<font size="28"><b><i>As an Idol...</i></b></font>
+
+147
+00:05:28,870 --> 00:05:31,410
+<font size="28"><b><i>... Shinuchi never wastes her time,
+not even a second.</i></b></font>
+
+148
+00:05:31,410 --> 00:05:33,120
+<font size="28"><b>I'm heading out.</b></font>
+
+149
+00:05:33,120 --> 00:05:39,040
+<font size="28"><b>When I'm having a break, I do some vocal training or stretching...</b></font>
+
+150
+00:05:39,040 --> 00:05:43,990
+<font size="28"><b>... in a studio my boss leads.</b></font>
+
+151
+00:05:43,990 --> 00:05:48,790
+<font size="28"><b>Even though I'm working as an OL, 
+I can't abandon my status as a member of Nogizaka.</b></font>
+
+152
+00:05:49,660 --> 00:05:54,500
+<font size="28"><b>I'm very thankful to be able to work in a place 
+ where I'm allowed to do this.</b></font>
+
+153
+00:05:55,330 --> 00:06:01,180
+<font size="28"><b><i>Then, Shinuchi's free time finally has come.</i></b></font>
+
+154
+00:06:01,180 --> 00:06:02,770
+<font size="28"><b><i>It's lunch break.</i></b></font>
+
+155
+00:06:02,770 --> 00:06:05,440
+<font size="28"><b><i>Shinichi's lunch menu is...</i></b></font>
+
+156
+00:06:05,440 --> 00:06:08,680
+<font size="28"><b>These are what I always eat.</b></font>
+
+157
+00:06:09,810 --> 00:06:12,880
+<font size="28"><b>This is "<i>My Dressing</i>".</b></font>
+
+158
+00:06:13,290 --> 00:06:14,370
+<font size="28"><b>I wrote Shin from my name, Shinuchi.</b></font>
+
+159
+00:06:14,370 --> 00:06:15,390
+<font face="Arial Rounded MT Bold" size="20"><b>{\an9}So you wrote
+ Shin there?</b></font>
+
+160
+00:06:15,390 --> 00:06:18,850
+<font size="28"><b>I keep "My Dressing" in the office's fridge.</b></font>
+
+161
+00:06:18,850 --> 00:06:18,850
+<font size="28"><b>I think it's a <font color="#e92c32">waste 
+if I have to buy small salad dressing everyday.</font></b></font>
+
+162
+00:06:18,850 --> 00:06:23,520
+<font size="28"><b>I think it's a <font color="#e92c32">waste<font color="#ffffff"> 
+if I have to buy small salad dressing everyday.</font></font></b></font>
+
+163
+00:06:23,520 --> 00:06:26,020
+<font size="28"><b>Thanks for the meal! I'm hungry...</b></font>
+
+164
+00:06:26,020 --> 00:06:28,670
+<font size="28"><b>You can say that I always buy salad.</b></font>
+
+165
+00:06:28,670 --> 00:06:32,090
+<font size="28"><b>Although I want to eat it a lot, 
+ the price of vegetables is on the rise now.</b></font>
+
+166
+00:06:32,090 --> 00:06:33,560
+<font size="28"><b>So I only buy the small one, every single day.</b></font>
+
+167
+00:06:33,560 --> 00:06:34,910
+<font face="Arial Rounded MT Bold" size="20"><b>{\an9}This feels like
+ an actual OL.</b></font>
+
+168
+00:06:34,910 --> 00:06:36,290
+<font size="28"><b>Now <i>onigiri</i>, I bring my own.</b></font>
+
+169
+00:06:36,290 --> 00:06:38,840
+<font face="Arial Rounded MT Bold" size="20"><b>{\an9}What kind of 
+ shape is this?</b></font>
+
+170
+00:06:38,840 --> 00:06:41,450
+<font size="28"><b>I just put <i>ume</i> inside.</b></font>
+
+171
+00:06:41,580 --> 00:06:42,020
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}Prefers Onigiri</b></font>
+
+172
+00:06:42,020 --> 00:06:43,750
+<font size="28"><b><i>Inside the onigiri...</i></b></font>
+
+173
+00:06:43,750 --> 00:06:46,550
+<font size="28"><b><i>... Shinuchi only puts simple ingredients.</i></b></font>
+
+174
+00:06:47,940 --> 00:06:51,390
+<font size="28"><b>We only need a short time with <i>ume</i>, don't we?</b></font>
+
+175
+00:06:51,390 --> 00:06:53,520
+<font size="28"><b>For example, if I use salmon...</b></font>
+
+176
+00:06:53,520 --> 00:06:55,520
+<font size="28"><b>... I need to use chopsticks to pick it.</b></font>
+
+177
+00:06:55,520 --> 00:06:58,700
+<font size="28"><b>If I use chopsticks when I'm making the <i>onigiri</i>
+ with my own hands...</b></font>
+
+178
+00:06:58,700 --> 00:07:01,430
+<font size="28"><b>... the chopsticks become dirty.</b></font>
+
+179
+00:07:01,430 --> 00:07:03,170
+<font size="28"><b>Which means, I have to wash them.</b></font>
+
+180
+00:07:03,170 --> 00:07:06,780
+<font size="28"><b>That's why after a consideration,
+<i>ume</i> is surely the best choice.</b></font>
+
+181
+00:07:06,780 --> 00:07:08,970
+<font size="28"><b>I want something more practical.</b></font>
+
+182
+00:07:08,970 --> 00:07:12,780
+<font size="28"><b>"Saving time". 
+As an OL, time is highly needed.</b></font>
+
+183
+00:07:12,780 --> 00:07:15,410
+<font size="28"><b><i>Then, in her remaining break time...</i></b></font>
+
+184
+00:07:15,410 --> 00:07:15,550
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#4e4534">Medical Room</font></b></font>
+
+185
+00:07:15,550 --> 00:07:17,550
+<font size="28"><b><i>... she always ask something.</i></b></font>
+
+186
+00:07:17,550 --> 00:07:19,320
+<font size="28"><b>Can I get some eyedrops?</b></font>
+
+187
+00:07:19,320 --> 00:07:20,500
+<font size="28"><b>- Like the usual?
+- Yes, eyedrops.</b></font>
+
+188
+00:07:20,500 --> 00:07:22,170
+<font face="Arial Rounded MT Bold" size="20"><b>{\an9}This is nice.</b></font>
+
+189
+00:07:22,170 --> 00:07:26,290
+<font size="28"><b>Since I'm wearing contact lenses, 
+my eyes are dry and I need this.</b></font>
+
+190
+00:07:26,290 --> 00:07:29,260
+<font size="28"><b>If I feel unwell, I also ask for vitamin here.</b></font>
+
+191
+00:07:29,260 --> 00:07:33,630
+<font size="28"><b>We're allowed to use them and it's all free too.</b></font>
+
+192
+00:07:34,210 --> 00:07:36,270
+<font size="28"><b>I'm very thankful.</b></font>
+
+193
+00:07:37,730 --> 00:07:40,940
+<font size="28"><b><i>After a break, Shinuchi instantly heads to one place.</i></b></font>
+
+194
+00:07:41,010 --> 00:07:43,480
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font size="20"><font face="Arial"></font></font></b>Getting Water</font>
+
+195
+00:07:43,480 --> 00:07:45,480
+<font face="Arial Rounded MT Bold" size="20"><b>{\an9}Didn't you 
+just go there?</b></font>
+
+196
+00:07:46,660 --> 00:07:48,090
+<font size="28"><b><i>However...</i></b></font>
+
+197
+00:07:49,960 --> 00:07:51,350
+<font size="28"><b>It's out.</b></font>
+
+198
+00:07:52,410 --> 00:07:55,690
+<font size="28"><b><i>Shinuchi's fountain of life is empty!</i></b></font>
+
+199
+00:07:59,380 --> 00:08:01,090
+<font size="28"><b><i>But, inside of Shinuchi...</i></b></font>
+
+200
+00:08:01,090 --> 00:08:02,860
+<font size="28"><b><i>... there's a strong will.</i></b></font>
+
+201
+00:08:02,860 --> 00:08:04,080
+<font face="Arial Rounded MT Bold" size="20"><b>{\an9}You refill it
+ by yourself, huh.</b></font>
+
+202
+00:08:04,080 --> 00:08:08,270
+<font size="28"><b><i>Because Shinuchi needs water, 
+ she refills it herself.</i></b></font>
+
+203
+00:08:08,270 --> 00:08:10,740
+<font size="28"><b><i>For the sake of getting water.</i></b></font>
+
+204
+00:08:11,410 --> 00:08:14,740
+<font size="28"><b><i>That effort of hers deserves a praise.</i></b></font>
+
+205
+00:08:14,740 --> 00:08:17,180
+<font size="28"><b><i>That has molded her as an OL.</i></b></font>
+
+206
+00:08:17,240 --> 00:08:19,560
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font size="20"><font face="Arial"></font></font></b>The Water Thief</font>
+
+207
+00:08:19,560 --> 00:08:21,750
+<font face="Arial Rounded MT Bold" size="20"><b>{\an9}Of course, that seems 
+ like a water thief.</b></font>
+
+208
+00:08:21,880 --> 00:08:25,300
+<font size="28"><b>Many people don't talk about this.</b></font>
+
+209
+00:08:25,300 --> 00:08:27,640
+<font size="28"><b>But I got called as "The Water Thief".</b></font>
+
+210
+00:08:27,640 --> 00:08:31,200
+<font size="28"><b>If we buy the 500 ml mineral water everyday...</b></font>
+
+211
+00:08:31,200 --> 00:08:33,030
+<font size="28"><b>... it's 160 Yen, isn't it?</b></font>
+
+212
+00:08:33,030 --> 00:08:35,530
+<font size="28"><b>That's why I do this to save money.</b></font>
+
+213
+00:08:36,450 --> 00:08:38,600
+<font size="28"><b><i>That day was the last day of the month.</i></b></font>
+
+214
+00:08:38,600 --> 00:08:43,600
+<font size="28"><b><i>Shinuchi always utilizes her time as best as she can,
+ because it's the most important moment for a company.</i></b></font>
+
+215
+00:08:43,700 --> 00:08:47,040
+<font size="28"><b><i>However, when it was about to finish...</i></b></font>
+
+216
+00:08:47,040 --> 00:08:48,680
+<font size="28"><b><i>... an unexpected thing happened.</i></b></font>
+
+217
+00:08:48,680 --> 00:08:49,800
+<font face="Arial Rounded MT Bold" size="20"><b>{\an9}Why?</b></font>
+
+218
+00:08:50,540 --> 00:08:52,220
+<font size="28"><b>Ida-san...</b></font>
+
+219
+00:08:52,220 --> 00:08:54,770
+<font size="28"><b>- ... I just realized, there's a problem.
+- What's wrong?</b></font>
+
+220
+00:08:54,770 --> 00:08:57,220
+<font size="28"><b>I put 20th as Saturday.</b></font>
+
+221
+00:08:57,220 --> 00:09:01,640
+<font size="28"><b>It should be 19th.</b></font>
+
+222
+00:09:01,640 --> 00:09:03,420
+<font size="28"><b>That?</b></font>
+
+223
+00:09:03,560 --> 00:09:04,520
+<font face="Arial Rounded MT Bold" size="20"><b>{\an9}What?</b></font>
+
+224
+00:09:07,130 --> 00:09:09,370
+<font size="28"><b>I have to start from the beginning, huh?</b></font>
+
+225
+00:09:09,370 --> 00:09:10,760
+<font face="Arial Rounded MT Bold" size="20"><b>{\an9}What? Why?</b></font>
+
+226
+00:09:11,650 --> 00:09:13,530
+<font size="28"><b><i>The bill release date...</i></b></font>
+
+227
+00:09:13,530 --> 00:09:15,530
+<font size="28"><b><i>... was wrong.</i></b></font>
+
+228
+00:09:15,530 --> 00:09:18,300
+<font size="28"><b>The bill payment date...</b></font>
+
+229
+00:09:18,300 --> 00:09:20,900
+<font size="28"><b>... I put it on a holiday, 
+ of course it can't be done.</b></font>
+
+230
+00:09:20,900 --> 00:09:23,210
+<font size="28"><b>It should be one day before.</b></font>
+
+231
+00:09:23,210 --> 00:09:25,510
+<font size="28"><b>I feel like giving up here.</b></font>
+
+232
+00:09:26,890 --> 00:09:30,250
+<font size="28"><b><i>She has to redo everything.</i></b></font>
+
+233
+00:09:30,730 --> 00:09:33,020
+<font size="28"><b>Don't make mistake this time, okay?</b></font>
+
+234
+00:09:33,020 --> 00:09:34,520
+<font size="28"><b>Eh, but...</b></font>
+
+235
+00:09:34,520 --> 00:09:36,990
+<font size="28"><b>... clearly this is my fault because I didn't pay attention.</b></font>
+
+236
+00:09:37,890 --> 00:09:40,260
+<font size="28"><b>Hold on, it's going to be done soon.</b></font>
+
+237
+00:09:41,330 --> 00:09:43,430
+<font size="28"><b><i>Shinuchi's gaze...</i></b></font>
+
+238
+00:09:43,430 --> 00:09:44,660
+<font size="28"><b><i>... has changed!</i></b></font>
+
+239
+00:09:48,580 --> 00:09:50,000
+<font size="28"><b><i>When she's having a mistake...</i></b></font>
+
+240
+00:09:50,000 --> 00:09:54,140
+<font size="28"><b><i>... Shinuchi The OL,
+is finally showing her seriousness.</i></b></font>
+
+241
+00:09:55,490 --> 00:09:57,980
+<font size="28"><b><i>As an Idol or an OL...</i></b></font>
+
+242
+00:09:57,980 --> 00:10:00,140
+<font size="28"><b><i>... she's giving her everything!</i></b></font>
+
+243
+00:10:00,140 --> 00:10:04,140
+<font size="28"><b><i>That's the marvel of Shinuchi!</i></b></font>
+
+244
+00:10:06,140 --> 00:10:07,690
+<font size="28"><b><i>Onegaishimasu.</i></b></font>
+
+245
+00:10:07,890 --> 00:10:11,320
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font size="20"><font face="Arial"></font></font></b>Your Definition of Professional</font>
+
+246
+00:10:12,560 --> 00:10:16,340
+<font size="28"><b>Trying our best to use the chance we've been given.</b></font>
+
+247
+00:10:16,340 --> 00:10:18,930
+<font size="28"><b>This is where we are not allowed to give in.</b></font>
+
+248
+00:10:19,460 --> 00:10:20,930
+<font size="28"><b>That's all?</b></font>
+
+249
+00:10:23,140 --> 00:10:25,540
+<font size="28"><b>He's laughing at me!</b></font>
+
+250
+00:10:25,540 --> 00:10:27,540
+<font size="28"><b>Look, he's laughing!</b></font>
+
+251
+00:10:28,420 --> 00:10:31,140
+<font size="28"><b><i>What does Shinuchi's senior have to comment about her?</i></b></font>
+
+252
+00:10:31,140 --> 00:10:31,140
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font size="18">Production Division Head</font></b></font>
+
+253
+00:10:31,140 --> 00:10:33,550
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font size="18">Tomiyama-san</font></b></font>
+
+254
+00:10:33,550 --> 00:10:37,420
+<font size="28"><b>If we're looking at her right now, 
+she looks tidy just like an OL, but...</b></font>
+
+255
+00:10:37,420 --> 00:10:39,650
+<font size="28"><b>... usually, she doesn't look like this.</b></font>
+
+256
+00:10:39,650 --> 00:10:41,920
+<font size="28"><b>Usually, she looks boring.</b></font>
+
+257
+00:10:41,920 --> 00:10:43,920
+<font size="28"><b>What kind of comment was that...</b></font>
+
+258
+00:10:44,620 --> 00:10:48,360
+<font size="28"><b><i>Her last task today is copying.</i></b></font>
+
+259
+00:10:48,360 --> 00:10:50,360
+<font size="28"><b>This is perfect!</b></font>
+
+260
+00:10:51,160 --> 00:10:53,130
+<font size="28"><b>Perfect!</b></font>
+
+261
+00:10:54,720 --> 00:10:56,900
+<font size="28"><b>I've done good as an OL today.</b></font>
+
+262
+00:10:59,940 --> 00:10:59,940
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font face="Arial"><font size="35">NOGIfessional</font></font></b></font>
+
+263
+00:10:59,940 --> 00:10:59,940
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#a4a4a4">m 167 42 l 0 42 l 0 0 l 167 0</font></b></font>
+
+264
+00:10:59,940 --> 00:10:59,940
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font face="Agency FB"><font color="#000000">Shinuchi's <font color="#fefdfd">Way</font></font></font></b></font>
+
+265
+00:10:59,940 --> 00:11:01,610
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font face="Agency FB">Finished</font></b></font>
+
+266
+00:11:07,490 --> 00:11:07,490
+<font size="28"><b><font color="#000000">Nogizaka Koujichuu</font></b></font>
+
+267
+00:11:07,490 --> 00:11:09,280
+<font size="28"><b><font color="#000000">Nogizaka Koujichuu</font></b></font>
+
+268
+00:11:09,480 --> 00:11:09,480
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#f9d700">BANANAMAN</font></b></font>
+
+269
+00:11:09,480 --> 00:11:09,480
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#000000">Himura Yuuki</font></b></font>
+
+270
+00:11:09,480 --> 00:11:09,540
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#000000">Shitara Osamu</font></b></font>
+
+271
+00:11:09,540 --> 00:11:13,990
+<font size="28"><b>Okay, Nogizaka Koujichuu is starting,
+ and here are the present members today.</b></font>
+
+272
+00:11:15,990 --> 00:11:17,490
+<font size="28"><b><i>Onegaishimasu</i>!</b></font>
+
+273
+00:11:17,490 --> 00:11:21,060
+<font size="28"><b>- Okay, today we're discussing Shinuchi!
+- Yes.</b></font>
+
+274
+00:11:21,060 --> 00:11:24,460
+<font size="28"><b>- You hadn't seen Shinuchi's activity
+ as an OL before, huh?   - Yes.</b></font>
+
+275
+00:11:24,460 --> 00:11:26,650
+<font size="28"><b>How often do you work?</b></font>
+
+276
+00:11:26,650 --> 00:11:30,400
+<font size="28"><b>When I'm not having a job in Nogizaka,
+I work everyday.</b></font>
+
+277
+00:11:30,400 --> 00:11:32,640
+<font size="28"><b>- You got nicknamed "The Water Thief"?
+- Correct.</b></font>
+
+278
+00:11:32,640 --> 00:11:36,740
+<font size="28"><b>It can be said that you're quite frugal in everything.</b></font>
+
+279
+00:11:36,740 --> 00:11:38,330
+<font size="28"><b>Seems boring, doesn't it?</b></font>
+
+280
+00:11:38,330 --> 00:11:39,810
+<font size="28"><b>Basically...</b></font>
+
+281
+00:11:39,810 --> 00:11:41,710
+<font size="28"><b>- ... I'm a type of person who has a boring life.
+- Boring type?</b></font>
+
+282
+00:11:41,710 --> 00:11:41,710
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#2a292c">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+283
+00:11:41,710 --> 00:11:43,370
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font size="18">Boring Life.</font></b></font>
+
+284
+00:11:43,370 --> 00:11:46,080
+<font size="28"><b>Truthfully, do you really want to work as an OL?</b></font>
+
+285
+00:11:46,080 --> 00:11:48,620
+<font size="28"><b>From the beginning I was considering 
+ to have a work with steady income.</b></font>
+
+286
+00:11:48,620 --> 00:11:48,620
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#2a292c">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+287
+00:11:48,620 --> 00:11:50,460
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font size="18">Playing it safe.</font></b></font>
+
+288
+00:11:50,660 --> 00:11:53,930
+<font size="28"><b>- What field did you choose 
+when you were looking for a job?   - IT.</b></font>
+
+289
+00:11:53,930 --> 00:11:55,610
+<font size="28"><b>IT?</b></font>
+
+290
+00:11:55,610 --> 00:11:57,330
+<font size="28"><b>I wanted to work in SI field.</b></font>
+
+291
+00:11:57,330 --> 00:12:00,460
+<font size="28"><b>- What's SI?
+- System Integrator.</b></font>
+
+292
+00:12:00,460 --> 00:12:03,570
+<font size="28"><b>- What's system integrator?
+- Never heard that.</b></font>
+
+293
+00:12:03,570 --> 00:12:07,510
+<font size="28"><b>It's a job where we do treatment on infrastructures
+ that are used by many people.</b></font>
+
+294
+00:12:07,510 --> 00:12:09,780
+<font size="28"><b>- That's amazing!
+- So you wanted to do that.</b></font>
+
+295
+00:12:09,780 --> 00:12:11,480
+<font size="28"><b>But it's boring, isn't it?</b></font>
+
+296
+00:12:11,480 --> 00:12:12,310
+<font size="28"><b>Uh huh.</b></font>
+
+297
+00:12:12,310 --> 00:12:12,310
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#2a292c">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+298
+00:12:12,310 --> 00:12:13,480
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font size="18">Uh huh.</font></b></font>
+
+299
+00:12:13,480 --> 00:12:16,210
+<font size="28"><b>- Interesting, right?
+- Indeed.</b></font>
+
+300
+00:12:16,210 --> 00:12:16,210
+<font size="28"><b>We saw people on the second or third row
+ just like <i>"Koi no Kara Sawagi"</i> show...</b></font>
+
+301
+00:12:16,210 --> 00:12:19,790
+<font face="Arial Rounded MT Bold" size="20"><b>{\an8}[ Koi no kara sawagi = a variety show 
+where girls are trying to find their love ]</b></font>
+
+302
+00:12:19,790 --> 00:12:19,790
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#2a292c">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+303
+00:12:19,790 --> 00:12:19,890
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font size="18">All agrees.</font></b></font>
+
+304
+00:12:19,890 --> 00:12:23,260
+<font size="28"><b>- True! That's true!
+- I saw it too.</b></font>
+
+305
+00:12:23,260 --> 00:12:25,760
+<font size="28"><b>The first row wasn't like that, right?</b></font>
+
+306
+00:12:25,760 --> 00:12:26,090
+<font size="28"><b>You look slender.</b></font>
+
+307
+00:12:26,090 --> 00:12:26,090
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#fde00c">m 167 42 l 0 42 l 0 0 l 167 0</font></b></font>
+
+308
+00:12:26,090 --> 00:12:26,360
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#000000">Tonight... The Queen of Horror Story Will Be Back!?
+A real & strange phenomenon happens in studio!</font></b></font>
+
+309
+00:12:26,360 --> 00:12:27,960
+<font size="28"><b><i>MANUALLY TRANSLATED FROM INDO SUBTITLE
+ORIGINAL SUB BY MasToppu.blogspot.co.id
+USE IT AT YOUR OWN RISK</i></b></font>
+
+310
+00:12:27,960 --> 00:12:30,060
+<font size="28"><b>Does it show?</b></font>
+
+311
+00:12:30,060 --> 00:12:32,060
+<font size="28"><b>- It shows so much.
+- Yeah, you look beautiful.</b></font>
+
+312
+00:12:32,060 --> 00:12:33,660
+<font size="28"><b>Eh, seriously?</b></font>
+
+313
+00:12:33,660 --> 00:12:35,120
+<font size="28"><b>- Noujou is beautiful, isn't she.
+- She's gorgeous.</b></font>
+
+314
+00:12:35,120 --> 00:12:36,840
+<font size="28"><b>- I'm very happy.
+- So slender.</b></font>
+
+315
+00:12:36,840 --> 00:12:37,840
+<font size="28"><b>True.</b></font>
+
+316
+00:12:37,840 --> 00:12:40,310
+<font size="28"><b>- Are you drooling?
+- A bit.</b></font>
+
+317
+00:12:41,530 --> 00:12:45,110
+<font size="28"><b>Nogizaka Check!!!</b></font>
+
+318
+00:12:45,800 --> 00:12:46,410
+<font size="28"><b>This is a segment where we find out about members
+using informations from other members, staffs, and viewers.</b></font>
+
+319
+00:12:46,410 --> 00:12:46,410
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#f7e000">m 167 42 l 0 42 l 0 0 l 167 0</font></b></font>
+
+320
+00:12:46,410 --> 00:12:46,410
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#423937">m 167 42 l 0 42 l 0 0 l 167 0</font></b></font>
+
+321
+00:12:46,410 --> 00:12:46,410
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font size="18">We will reveal Shinuchi Mai's capabilities
+with<font color="#3fe4eb"> various informations we have received</font></font></b></font>
+
+322
+00:12:46,410 --> 00:12:46,410
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#f7e000">m -1 5 b 3 5 3 0 -1 0 l -28 0 b -32 0 -32 5 -28 5</font></b></font>
+
+323
+00:12:46,410 --> 00:12:50,950
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font size="16"><font color="#423937">Nogizaka Check</font></font></b></font>
+
+324
+00:12:51,780 --> 00:12:55,920
+<font size="28"><b><i>First, information from 
+a second generation member, Watanabe Miria.</i></b></font>
+
+325
+00:12:56,220 --> 00:12:59,390
+<font size="28"><b>She reuses oden's container.</b></font>
+
+326
+00:12:59,390 --> 00:13:01,220
+<font size="28"><b>- What does this mean?
+- Unbelievable.</b></font>
+
+327
+00:13:01,220 --> 00:13:04,730
+<font size="28"><b>In lesson, members bought <i>onigiri</i>
+ and bread, then we ate them...</b></font>
+
+328
+00:13:04,730 --> 00:13:08,050
+<font size="28"><b>... she slowly took out an oden's container
+ gotten from convenience store.</b></font>
+
+329
+00:13:08,050 --> 00:13:08,050
+<font size="28"><b>She put the salad and <i>mozuku</i> into it, then she ate them.</b></font>
+
+330
+00:13:08,050 --> 00:13:11,370
+<font face="Arial Rounded MT Bold" size="20"><b>{\an8}[ Mozuku = some kind of seaweed ]</b></font>
+
+331
+00:13:11,370 --> 00:13:13,700
+<font size="28"><b>Did this really happen?</b></font>
+
+332
+00:13:13,700 --> 00:13:17,610
+<font size="28"><b>When I went to a convenience store, 
+ I thought "<i>I need some plate</i>"...</b></font>
+
+333
+00:13:17,610 --> 00:13:23,550
+<font size="28"><b>Then I asked the clerk there, 
+"<i>Can I take this oden's container?</i>"...</b></font>
+
+334
+00:13:23,550 --> 00:13:27,090
+<font size="28"><b>... she said "<i>Ah, yes</i>", 
+  so I took it...</b></font>
+
+335
+00:13:27,090 --> 00:13:31,820
+<font size="28"><b>After that, if I put salad and <i>mozuku</i> here,
+I thought it would be one delicious meal.</b></font>
+
+336
+00:13:31,820 --> 00:13:35,760
+<font size="28"><b>But Maichun also...
+There's a wrapping on salad, right?</b></font>
+
+337
+00:13:35,760 --> 00:13:39,620
+<font size="28"><b>She just put the salad's dressing, 
+ and ate it from there.</b></font>
+
+338
+00:13:39,620 --> 00:13:42,100
+<font size="28"><b>But I didn't put the dressing in.</b></font>
+
+339
+00:13:42,100 --> 00:13:44,100
+<font size="28"><b>- You didn't?
+- I didn't put it in.</b></font>
+
+340
+00:13:44,100 --> 00:13:46,100
+<font size="28"><b>- Ah, you mean the plastic wrapping?
+- Precisely.</b></font>
+
+341
+00:13:46,100 --> 00:13:48,840
+<font size="28"><b>- You just ate it from there?
+- Yeah.</b></font>
+
+342
+00:13:49,490 --> 00:13:50,840
+<font size="28"><b>You just ate it?</b></font>
+
+343
+00:13:50,840 --> 00:13:53,420
+<font size="28"><b>Do I look weird that way?</b></font>
+
+344
+00:13:53,420 --> 00:13:54,950
+<font size="28"><b>That's right, huh?</b></font>
+
+345
+00:13:54,950 --> 00:13:54,950
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#2a292c">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+346
+00:13:54,950 --> 00:13:57,130
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font size="18">He agrees too.</font></b></font>
+
+347
+00:13:57,130 --> 00:14:00,240
+<font size="28"><b>But basically, there's a lot of such informations.</b></font>
+
+348
+00:14:00,240 --> 00:14:02,880
+<font size="28"><b>She always carries few cucumbers.</b></font>
+
+349
+00:14:02,880 --> 00:14:04,680
+<font size="28"><b>- She carries cucumbers?
+- Yes.</b></font>
+
+350
+00:14:04,680 --> 00:14:10,530
+<font size="28"><b>When we were in a bus after we were done filming PV, 
+and everyone was having dinner with their <i>bento</i>...</b></font>
+
+351
+00:14:10,530 --> 00:14:13,800
+<font size="28"><b>... Maichun was the only one who was busy 
+looking for something from her bag.</b></font>
+
+352
+00:14:13,800 --> 00:14:17,690
+<font size="28"><b>Then she took out a cucumber and just ate it.</b></font>
+
+353
+00:14:17,690 --> 00:14:21,070
+<font size="28"><b>- Raw?
+- When I asked her, she said "<i>Without any extra</i>"...</b></font>
+
+354
+00:14:21,070 --> 00:14:25,210
+<font size="28"><b>"<i>It can remove the cucumber's nutrition</i>~" 
+while putting on a smile.</b></font>
+
+355
+00:14:26,020 --> 00:14:26,020
+<font size="28"><b>- So the nutrition can be removed.
+- That sounds like a <i>kappa</i>.</b></font>
+
+356
+00:14:26,020 --> 00:14:27,780
+<font face="Arial Rounded MT Bold" size="20"><b>{\an8}[ Kappa = Japanese mythical creature who loves to eat cucumbers ]</b></font>
+
+357
+00:14:27,780 --> 00:14:27,780
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#2a292c">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+358
+00:14:27,780 --> 00:14:29,180
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font size="18">Experience as a Kappa?</font></b></font>
+
+359
+00:14:29,180 --> 00:14:30,860
+<font size="28"><b>Why did she have to be like that?</b></font>
+
+360
+00:14:30,860 --> 00:14:33,150
+<font size="28"><b><i>"It can remove the cucumber's nutrition!"</i></b></font>
+
+361
+00:14:34,850 --> 00:14:36,990
+<font size="28"><b><i>"I didn't cook this!"</i></b></font>
+
+362
+00:14:36,990 --> 00:14:38,500
+<font size="28"><b>So there's something like that too.</b></font>
+
+363
+00:14:38,500 --> 00:14:43,700
+<font size="28"><b>Info from Kitano, when I thought
+ she'd be having a rare and expensive yoghurt...</b></font>
+
+364
+00:14:43,700 --> 00:14:45,700
+<font size="28"><b>... she preferred discounted products instead.</b></font>
+
+365
+00:14:46,210 --> 00:14:48,170
+<font size="28"><b>She's good at choosing products.</b></font>
+
+366
+00:14:48,170 --> 00:14:51,280
+<font size="28"><b>So you usually don't eat expensive yoghurt?</b></font>
+
+367
+00:14:51,280 --> 00:14:53,280
+<font size="28"><b>No...</b></font>
+
+368
+00:14:53,660 --> 00:14:56,080
+<font size="28"><b>Why are you that cheap?</b></font>
+
+369
+00:14:56,080 --> 00:14:57,640
+<font size="28"><b>I'm not saving too much.</b></font>
+
+370
+00:14:57,640 --> 00:15:00,950
+<font size="28"><b>Compared to the result of my hard work...</b></font>
+
+371
+00:15:00,950 --> 00:15:04,420
+<font size="28"><b>... if I just receive it like that, 
+ isn't it unfitting?</b></font>
+
+372
+00:15:04,420 --> 00:15:04,420
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#2a292c">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+373
+00:15:04,420 --> 00:15:05,450
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font size="18">Yoghurt  <font color="#f7e000">> <font color="#ffffff"> Her hard work</font></font></font></b></font>
+
+374
+00:15:05,450 --> 00:15:06,980
+<font size="28"><b>How come?</b></font>
+
+375
+00:15:06,980 --> 00:15:08,980
+<font size="28"><b>I would eat it if it was me.</b></font>
+
+376
+00:15:09,090 --> 00:15:11,220
+<font size="28"><b>She really resembles a wife.</b></font>
+
+377
+00:15:11,220 --> 00:15:13,630
+<font size="28"><b>I thought so too, she's like a housewife.</b></font>
+
+378
+00:15:13,970 --> 00:15:15,460
+<font size="28"><b>How many bath towels do you have?</b></font>
+
+379
+00:15:15,460 --> 00:15:18,650
+<font size="28"><b>I don't use bath towel.</b></font>
+
+380
+00:15:18,650 --> 00:15:20,360
+<font size="28"><b>You don't?!</b></font>
+
+381
+00:15:20,360 --> 00:15:23,340
+<font size="28"><b>Instead of bath towel, I use this one...</b></font>
+
+382
+00:15:23,340 --> 00:15:26,270
+<font size="28"><b>- Small towel?
+- The small one, I use it like this.</b></font>
+
+383
+00:15:27,440 --> 00:15:29,140
+<font size="28"><b>Why?</b></font>
+
+384
+00:15:29,140 --> 00:15:31,980
+<font size="28"><b>I don't really like the big one like that...</b></font>
+
+385
+00:15:31,980 --> 00:15:34,090
+<font size="28"><b>There it is, her frugality.</b></font>
+
+386
+00:15:34,090 --> 00:15:38,900
+<font size="28"><b>I thought you have at least few bath towels, like normally.</b></font>
+
+387
+00:15:38,900 --> 00:15:40,420
+<font size="28"><b>What about underwears, how many?</b></font>
+
+388
+00:15:40,420 --> 00:15:42,050
+<font size="28"><b>I don't mean it in a weird way.</b></font>
+
+389
+00:15:42,050 --> 00:15:44,990
+<font size="28"><b>Yamasaki Ana only had seven.</b></font>
+
+390
+00:15:44,990 --> 00:15:48,630
+<font size="28"><b>She washed all of them on Sunday, 
+then when she needed it, she could just wear it everyday.</b></font>
+
+391
+00:15:48,630 --> 00:15:50,340
+<font size="28"><b>And she'd wash them again on Sunday.</b></font>
+
+392
+00:15:50,340 --> 00:15:52,610
+<font size="28"><b>She said, there's no such person like that.</b></font>
+
+393
+00:15:52,610 --> 00:15:54,380
+<font size="28"><b>- I only have five...
+- Five?!</b></font>
+
+394
+00:15:54,380 --> 00:15:56,280
+<font size="28"><b>How do you survive one week 
+ if you only have five?</b></font>
+
+395
+00:15:56,970 --> 00:15:59,000
+<font size="28"><b>Ah, I wash them.</b></font>
+
+396
+00:15:59,000 --> 00:15:59,940
+<font size="28"><b>Of course it won't be enough.</b></font>
+
+397
+00:15:59,940 --> 00:16:02,610
+<font size="28"><b>So, the panty you wear most often...</b></font>
+
+398
+00:16:02,610 --> 00:16:04,140
+<font size="28"><b>Pardon, I ended up talking about panties.</b></font>
+
+399
+00:16:04,140 --> 00:16:04,140
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#2a292c">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+400
+00:16:04,140 --> 00:16:06,020
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font size="18">Not interest in that.</font></b></font>
+
+401
+00:16:06,020 --> 00:16:08,160
+<font size="28"><b>Clearly that won't be enough.</b></font>
+
+402
+00:16:08,160 --> 00:16:09,680
+<font size="28"><b>This seems like a Q&A segment of panties.</b></font>
+
+403
+00:16:09,680 --> 00:16:12,480
+<font size="28"><b>- The underwears that Himura-san wears are girl's panties.</b></font>
+
+404
+00:16:12,480 --> 00:16:12,480
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#2a292c">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+405
+00:16:12,480 --> 00:16:13,740
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font size="18">Seriously not interested.</font></b></font>
+
+406
+00:16:13,740 --> 00:16:16,720
+<font size="28"><b>He is such a freak guy.</b></font>
+
+407
+00:16:17,530 --> 00:16:19,730
+<font size="28"><b>Let's know second generation members more with...</b></font>
+
+408
+00:16:19,730 --> 00:16:19,730
+<font size="28"><b><font color="#633432">SUMMER HORROR <font color="#ffffff">STORY <font color="#b91217">COMPETITION 
+<font color="#ffd506">IN 30 SECONDS, <font color="#ffffff">SPECIAL EDITION!!!</font></font></font></font></font></b></font>
+
+409
+00:16:19,730 --> 00:16:26,630
+<font size="28"><b><font color="#633432">SUMMER HORROR <font color="#ffffff">STORY <font color="#b91217">COMPETITION 
+<font color="#ffd506">IN 30 SECONDS, <font color="#ffffff">SPECIAL EDITION!!!</font></font></font></font></font></b></font>
+
+410
+00:16:27,330 --> 00:16:27,330
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#423937">m 167 42 l 0 42 l 0 0 l 167 0</font></b></font>
+
+411
+00:16:27,330 --> 00:16:27,720
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font size="18">Hori has formed <font color="#f34580">"The Second Generation's Scary Story Trio"<font color="#ffffff"> 
+to do the 30 seconds scary story challenge</font></font></font></b></font>
+
+412
+00:16:27,720 --> 00:16:31,240
+<font size="28"><b><i>This time, Hori has formed 
+a trio of second generation members...</i></b></font>
+
+413
+00:16:31,240 --> 00:16:33,920
+<font size="28"><b><i>... to take on the 30 seconds horror story challenge.</i></b></font>
+
+414
+00:16:33,920 --> 00:16:36,940
+<font size="28"><b><i>Will the queen of horror story emerge?</i></b></font>
+
+415
+00:16:37,560 --> 00:16:40,280
+<font size="28"><b><i>First we have Yamazaki Rena, with her story...</i></b></font>
+
+416
+00:16:40,280 --> 00:16:42,010
+<font size="28"><b><i>"Summer Training..."</i></b></font>
+
+417
+00:16:42,320 --> 00:16:43,940
+<font size="28"><b>Alright...</b></font>
+
+418
+00:16:43,940 --> 00:16:45,080
+<font size="28"><b>Start!</b></font>
+
+419
+00:16:45,340 --> 00:16:45,340
+<font size="26" color="#ff0000"><b>This is a story when I was doing a training in summer.</b></font>
+
+420
+00:16:45,340 --> 00:16:48,420
+<font size="26" color="#ff0000"><b>This is a story when I was doing a training in summer.</b></font>
+
+421
+00:16:48,420 --> 00:16:48,420
+<font size="26" color="#ff0000"><b>Just before the bedtime, 
+suddenly from the wall of my room...</b></font>
+
+422
+00:16:48,420 --> 00:16:52,460
+<font size="26" color="#ff0000"><b>Just before the bedtime, 
+suddenly from the wall of my room...</b></font>
+
+423
+00:16:52,460 --> 00:16:52,460
+<font size="26" color="#ff0000"><b>... I heard "Bang, Bang, Bang!" sound 
+like someone was banging on it.</b></font>
+
+424
+00:16:52,460 --> 00:16:55,530
+<font size="26" color="#ff0000"><b>... I heard "Bang! Bang! Bang!" sound 
+like someone was banging on it.</b></font>
+
+425
+00:16:55,530 --> 00:16:55,530
+<font size="26" color="#ff0000"><b>Then I went out to take a look.</b></font>
+
+426
+00:16:55,530 --> 00:16:58,200
+<font size="26" color="#ff0000"><b>Then I went out to take a look.</b></font>
+
+427
+00:16:58,200 --> 00:16:58,200
+<font size="26" color="#ff0000"><b>There was also the same phenomenon in next room...</b></font>
+
+428
+00:16:58,200 --> 00:17:01,600
+<font size="26" color="#ff0000"><b>There was also the same phenomenon in next room...</b></font>
+
+429
+00:17:01,600 --> 00:17:01,600
+<font size="26" color="#ff0000"><b>... everyone was too scared to check outside.</b></font>
+
+430
+00:17:01,600 --> 00:17:04,090
+<font size="26" color="#ff0000"><b>... everyone was too scared to check outside.</b></font>
+
+431
+00:17:04,090 --> 00:17:04,090
+<font size="26" color="#ff0000"><b>Even though we thought someone was 
+ pulling a prank on us, but...</b></font>
+
+432
+00:17:04,090 --> 00:17:06,710
+<font size="26" color="#ff0000"><b>Even though we thought someone was 
+ pulling a prank on us, but...</b></font>
+
+433
+00:17:06,710 --> 00:17:06,710
+<font size="26" color="#ff0000"><b>... in the recorded video of that building...</b></font>
+
+434
+00:17:06,710 --> 00:17:09,120
+<font size="26" color="#ff0000"><b>... in the recorded video of that building...</b></font>
+
+435
+00:17:09,120 --> 00:17:09,120
+<font size="26" color="#ff0000"><b>... that was recorded by the surveillance cameras...</b></font>
+
+436
+00:17:09,120 --> 00:17:11,120
+<font size="26" color="#ff0000"><b>... that was recorded by the surveillance camera...</b></font>
+
+437
+00:17:11,120 --> 00:17:11,120
+<font size="26" color="#ff0000"><b>... no one was there.</b></font>
+
+438
+00:17:11,120 --> 00:17:13,550
+<font size="26" color="#ff0000"><b>... no one was there.</b></font>
+
+439
+00:17:15,550 --> 00:17:17,050
+<font size="28"><b>Okay, it's over.</b></font>
+
+440
+00:17:17,050 --> 00:17:18,040
+<font size="28"><b>What was that?</b></font>
+
+441
+00:17:18,040 --> 00:17:22,820
+<font size="28"><b>- "<i>No one was caught by the camera</i>", 
+is there more?    - No.</b></font>
+
+442
+00:17:22,820 --> 00:17:23,890
+<font size="28"><b>Oh come on!</b></font>
+
+443
+00:17:23,890 --> 00:17:25,800
+<font size="28"><b>Hori, was her story perfect?</b></font>
+
+444
+00:17:25,800 --> 00:17:27,160
+<font size="28"><b>Ah, that was perfect!</b></font>
+
+445
+00:17:27,160 --> 00:17:27,160
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#2a292c">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+446
+00:17:27,160 --> 00:17:28,560
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font size="18">Perfect score according to Hori.</font></b></font>
+
+447
+00:17:28,560 --> 00:17:29,660
+<font size="28"><b>Hori, seriously?!</b></font>
+
+448
+00:17:30,440 --> 00:17:34,640
+<font size="28"><b><i>Moving on, personal experience of Shinuchi,
+"On Way Home At Night."</i></b></font>
+
+449
+00:17:34,850 --> 00:17:36,640
+<font size="28"><b>Ready, start!</b></font>
+
+450
+00:17:36,970 --> 00:17:36,970
+<font size="26" color="#ff0000"><b>This story took place in a summer holiday,
+ in my first year of college.</b></font>
+
+451
+00:17:36,970 --> 00:17:40,010
+<font size="26" color="#ff0000"><b>This story took place in a summer holiday,
+ in my first year of college.</b></font>
+
+452
+00:17:40,010 --> 00:17:40,010
+<font size="26" color="#ff0000"><b>When I was on my way home, 
+ I could feel someone behind me suddenly.</b></font>
+
+453
+00:17:40,010 --> 00:17:43,610
+<font size="26" color="#ff0000"><b>When I was on my way home, 
+ I could feel someone behind me suddenly.</b></font>
+
+454
+00:17:43,610 --> 00:17:43,610
+<font size="26" color="#ff0000"><b>I thought, 
+"<i>Ah, perhaps I'm being stalked.</i>"</b></font>
+
+455
+00:17:43,610 --> 00:17:46,280
+<font size="26" color="#ff0000"><b>I thought, 
+"<i>Ah, perhaps I'm being stalked.</i>"</b></font>
+
+456
+00:17:46,280 --> 00:17:46,280
+<font size="26" color="#ff0000"><b>I stopped to check it myself.
+And when I was stopping...</b></font>
+
+457
+00:17:46,280 --> 00:17:49,860
+<font size="26" color="#ff0000"><b>I stopped to check it myself.
+And when I was stopping...</b></font>
+
+458
+00:17:49,860 --> 00:17:49,860
+<font size="26" color="#ff0000"><b>... the person behind me stopped too.
+ "<i>Ah, I'm totally being stalked right now</i>!"</b></font>
+
+459
+00:17:49,860 --> 00:17:53,990
+<font size="26" color="#ff0000"><b>... the person behind me stopped too.
+ "<i>Ah, I'm totally being stalked right now</i>!"</b></font>
+
+460
+00:17:53,990 --> 00:17:53,990
+<font size="26" color="#ff0000"><b>I was wondering how to prevent him 
+from knowing my house.</b></font>
+
+461
+00:17:53,990 --> 00:17:56,840
+<font size="26" color="#ff0000"><b>I was wondering how to prevent him 
+from knowing my house.</b></font>
+
+462
+00:17:56,840 --> 00:17:56,840
+<font size="26" color="#ff0000"><b>I decided to make a run to a big house
+ at the side of the road.</b></font>
+
+463
+00:17:56,840 --> 00:17:59,520
+<font size="26" color="#ff0000"><b>I decided to make a run to a big house
+ at the side of the road.</b></font>
+
+464
+00:17:59,520 --> 00:17:59,520
+<font size="26" color="#ff0000"><b>Then, when I was almost giving in...</b></font>
+
+465
+00:17:59,520 --> 00:18:01,360
+<font size="26" color="#ff0000"><b>Then, when I was almost giving in...</b></font>
+
+466
+00:18:01,360 --> 00:18:01,360
+<font size="26" color="#ff0000"><b>... about 5 minutes in, I started to panic 
+ and didn't know where to escape...</b></font>
+
+467
+00:18:01,360 --> 00:18:04,900
+<font size="26" color="#ff0000"><b>... about 5 minutes in, I started to panic 
+ and didn't know where to escape...</b></font>
+
+468
+00:18:04,900 --> 00:18:04,900
+<font size="26" color="#ff0000"><b>... then...</b></font>
+
+469
+00:18:04,900 --> 00:18:06,260
+<font size="26" color="#ff0000"><b>... then...</b></font>
+
+470
+00:18:06,580 --> 00:18:08,970
+<font size="28"><b>It's over!</b></font>
+
+471
+00:18:09,960 --> 00:18:11,340
+<font size="28"><b>I want to hear more!</b></font>
+
+472
+00:18:11,340 --> 00:18:15,070
+<font size="28"><b>- Next part is the climax of the story, right?
+- Yes, it is the climax.</b></font>
+
+473
+00:18:15,070 --> 00:18:17,910
+<font size="28"><b>- But you can't tell us.
+- It's making us curious.</b></font>
+
+474
+00:18:17,910 --> 00:18:19,850
+<font size="28"><b>What do you think, Hori-san?
+ It's not scary enough, is it?</b></font>
+
+475
+00:18:19,850 --> 00:18:22,850
+<font size="28"><b>When it got cut at the last part 
+right before the climax...</b></font>
+
+476
+00:18:22,850 --> 00:18:24,970
+<font size="28"><b>- ... it leaves us with questions, right?
+- Right.</b></font>
+
+477
+00:18:24,970 --> 00:18:27,020
+<font size="28"><b>- On the contrary, that's way better.
+- This girl, always thinking positively!</b></font>
+
+478
+00:18:27,020 --> 00:18:27,020
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#2a292c">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+479
+00:18:27,020 --> 00:18:28,950
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font size="18">An OK for Hori.</font></b></font>
+
+480
+00:18:29,690 --> 00:18:31,590
+<font size="28"><b><i>Next, it's time for Hori the leader...</i></b></font>
+
+481
+00:18:31,590 --> 00:18:33,960
+<font size="28"><b><i>... the title is,
+"After School"</i></b></font>
+
+482
+00:18:34,130 --> 00:18:35,960
+<font size="28"><b>Ready...</b></font>
+
+483
+00:18:35,960 --> 00:18:36,630
+<font size="28"><b>... start!!!</b></font>
+
+484
+00:18:36,630 --> 00:18:36,630
+<font size="26" color="#ff0000"><b>This after school story of mine 
+ is not something to be laughed at.</b></font>
+
+485
+00:18:36,630 --> 00:18:39,600
+<font size="26" color="#ff0000"><b>This after school story of mine 
+ is not something to be laughed at.</b></font>
+
+486
+00:18:39,600 --> 00:18:39,600
+<font size="26" color="#ff0000"><b>That time, I was alone in the classroom.</b></font>
+
+487
+00:18:39,600 --> 00:18:41,530
+<font size="26" color="#ff0000"><b>That time, I was alone in the classroom.</b></font>
+
+488
+00:18:41,530 --> 00:18:41,530
+<font size="26" color="#ff0000"><b>I wanted to go to toilet, 
+and somehow I went to the closed school toilet.</b></font>
+
+489
+00:18:41,530 --> 00:18:45,060
+<font size="26" color="#ff0000"><b>I wanted to go to toilet, 
+and somehow I went to the closed school toilet.</b></font>
+
+490
+00:18:45,060 --> 00:18:45,060
+<font size="26" color="#ff0000"><b>But the toilet there was dark.</b></font>
+
+491
+00:18:45,060 --> 00:18:46,880
+<font size="26" color="#ff0000"><b>But the toilet there was dark.</b></font>
+
+492
+00:18:46,880 --> 00:18:46,880
+<font size="26" color="#ff0000"><b>Just before I went back, I heard footsteps.</b></font>
+
+493
+00:18:46,880 --> 00:18:51,640
+<font size="26" color="#ff0000"><b>Just before I went back, I heard footsteps.</b></font>
+
+494
+00:18:51,640 --> 00:18:51,640
+<font size="26" color="#ff0000"><b>"<i>Did I just see something?</i>"
+I thought, "<i>Nope.</i>"</b></font>
+
+495
+00:18:51,640 --> 00:18:54,280
+<font size="26" color="#ff0000"><b>"<i>Did I just see something?</i>"
+I thought, "<i>Nope.</i>"</b></font>
+
+496
+00:18:54,280 --> 00:18:54,280
+<font size="26" color="#ff0000"><b>When I calmed down, 
+ something suddenly appeared in front of me.</b></font>
+
+497
+00:18:54,280 --> 00:18:56,780
+<font size="26" color="#ff0000"><b>When I calmed down, 
+ something suddenly appeared in front of me.</b></font>
+
+498
+00:18:56,780 --> 00:18:56,780
+<font size="26" color="#ff0000"><b>There was someone with a bloody face 
+staring down at me from above.</b></font>
+
+499
+00:18:56,780 --> 00:19:01,520
+<font size="26" color="#ff0000"><b>There was someone with a bloody face 
+staring down at me from above.</b></font>
+
+500
+00:19:02,140 --> 00:19:02,140
+<font size="26" color="#ff0000"><b>That's all...</b></font>
+
+501
+00:19:02,140 --> 00:19:03,520
+<font size="26" color="#ff0000"><b>That's all...</b></font>
+
+502
+00:19:04,620 --> 00:19:06,160
+<font size="28"><b>Okay.</b></font>
+
+503
+00:19:06,780 --> 00:19:09,630
+<font size="28"><b>Hold on, did that actually happen?</b></font>
+
+504
+00:19:09,630 --> 00:19:10,930
+<font size="28"><b>I saw it in my dream.</b></font>
+
+505
+00:19:10,930 --> 00:19:12,780
+<font size="28"><b>- Ah, dream?!</b></font>
+
+506
+00:19:12,780 --> 00:19:16,000
+<font size="28"><b>So it was a dream. Surprising. 
+But the beginning of the story was interesting.</b></font>
+
+507
+00:19:16,000 --> 00:19:19,730
+<font size="28"><b>She just suddenly got immersed into the story.</b></font>
+
+508
+00:19:19,730 --> 00:19:22,610
+<font size="28"><b>It's because I saw a lot of narrators...</b></font>
+
+509
+00:19:22,610 --> 00:19:25,700
+<font size="28"><b>... so I thought I had to set the atmosphere right, 
+but it failed.</b></font>
+
+510
+00:19:25,700 --> 00:19:29,280
+<font size="28"><b>- That's fine.
+- But Hori is known for that kind of soul.</b></font>
+
+511
+00:19:29,280 --> 00:19:29,310
+<font size="28"><b>Known for that kind of soul?</b></font>
+
+512
+00:19:29,310 --> 00:19:29,310
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#2a292c">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+513
+00:19:29,310 --> 00:19:31,020
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font size="18">An Idol who gets possessed easily.</font></b></font>
+
+514
+00:19:31,620 --> 00:19:33,590
+<font size="28"><b>After hearing them, 
+do first generation members have stories?</b></font>
+
+515
+00:19:33,590 --> 00:19:35,350
+<font size="28"><b>Takayama, do you have some?</b></font>
+
+516
+00:19:35,350 --> 00:19:38,260
+<font size="28"><b>- Do you want to share it?
+- Ah, if this is going to happen, I should prepare it...</b></font>
+
+517
+00:19:38,320 --> 00:19:38,320
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#2a292c">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+518
+00:19:38,320 --> 00:19:39,200
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font size="18">Serious.</font></b></font>
+
+519
+00:19:39,200 --> 00:19:40,490
+<font size="28"><b>What did you just say?</b></font>
+
+520
+00:19:40,490 --> 00:19:42,320
+<font size="28"><b>Hoshino, do you have a spooky experience?</b></font>
+
+521
+00:19:42,320 --> 00:19:43,920
+<font size="28"><b>I do, but it's not about spirits...</b></font>
+
+522
+00:19:43,920 --> 00:19:46,800
+<font size="28"><b>- We heard one that has no spirit just now.
+- Give it a shot!</b></font>
+
+523
+00:19:48,050 --> 00:19:50,170
+<font size="28"><b><i>Surprisingly, Hoshino joins in.</i></b></font>
+
+524
+00:19:50,170 --> 00:19:52,100
+<font size="28"><b><i>What will she tell us?</i></b></font>
+
+525
+00:19:52,360 --> 00:19:54,100
+<font size="28"><b>Ready... DON!</b></font>
+
+526
+00:19:54,100 --> 00:19:54,100
+<font size="26" color="#ff0000"><b>A while back, my mom and I 
+ were eating together in our home.</b></font>
+
+527
+00:19:54,100 --> 00:19:58,140
+<font size="26" color="#ff0000"><b>A while back, my mom and I 
+ were eating together in our home.</b></font>
+
+528
+00:19:58,140 --> 00:19:58,140
+<font size="26" color="#ff0000"><b>Then, my mom noticed that
+ I was doing something else beside eating.</b></font>
+
+529
+00:19:58,140 --> 00:20:01,350
+<font size="26" color="#ff0000"><b>Then, my mom noticed that
+ I was doing something else beside eating.</b></font>
+
+530
+00:20:01,350 --> 00:20:01,350
+<font size="26" color="#ff0000"><b>My mom said, 
+"<i>Aa, eat quickly!</i>"...</b></font>
+
+531
+00:20:01,350 --> 00:20:04,620
+<font size="26" color="#ff0000"><b>My mom said, 
+"<i>Aa, eat quickly!</i>"...</b></font>
+
+532
+00:20:04,620 --> 00:20:04,620
+<font size="26" color="#ff0000"><b>... I got scolded!</b></font>
+
+533
+00:20:04,620 --> 00:20:05,720
+<font size="26" color="#ff0000"><b>... I got scolded!</b></font>
+
+534
+00:20:05,720 --> 00:20:05,720
+<font size="26" color="#ff0000"><b>Ah, scary! Scary!</b></font>
+
+535
+00:20:05,720 --> 00:20:07,720
+<font size="26" color="#ff0000"><b>Ah, scary! Scary!</b></font>
+
+536
+00:20:08,120 --> 00:20:10,570
+<font size="28"><b>How cute~ !</b></font>
+
+537
+00:20:10,860 --> 00:20:12,990
+<font size="28"><b>That was so cute!</b></font>
+
+538
+00:20:12,990 --> 00:20:14,990
+<font size="28"><b>You're brave enough to tell such story.</b></font>
+
+539
+00:20:15,520 --> 00:20:17,960
+<font size="28"><b>- That was great. Takayama, have you gotten one?
+- I have.</b></font>
+
+540
+00:20:17,960 --> 00:20:19,960
+<font size="28"><b>- Really?
+- Gang boss!!!</b></font>
+
+541
+00:20:19,960 --> 00:20:20,930
+<font size="28"><b>As expected!</b></font>
+
+542
+00:20:20,930 --> 00:20:22,930
+<font size="28"><b>- But it's quite creepy.
+- Seriously?</b></font>
+
+543
+00:20:23,720 --> 00:20:27,910
+<font size="28"><b><i>What kind of creepy story that Takayama
+who suddenly joined in will tell?</i></b></font>
+
+544
+00:20:28,130 --> 00:20:29,910
+<font size="28"><b>Ready, start!</b></font>
+
+545
+00:20:30,080 --> 00:20:30,080
+<font size="26" color="#ff0000"><b>When we were recording yesterday, 
+I saw Ikoma's VTR where she drank cider...</b></font>
+
+546
+00:20:30,080 --> 00:20:36,100
+<font size="26" color="#ff0000"><b>When we were recording yesterday, 
+I saw Ikoma's VTR where she drank cider...</b></font>
+
+547
+00:20:36,100 --> 00:20:36,100
+<font size="26" color="#ff0000"><b>... which was taken in her house.</b></font>
+
+548
+00:20:36,100 --> 00:20:37,920
+<font size="26" color="#ff0000"><b>... which was taken in her house.</b></font>
+
+549
+00:20:37,920 --> 00:20:37,920
+<font size="26" color="#ff0000"><b>It was interesting in a glance, but...</b></font>
+
+550
+00:20:37,920 --> 00:20:40,060
+<font size="26" color="#ff0000"><b>It was interesting in a glance, but...</b></font>
+
+551
+00:20:40,060 --> 00:20:40,060
+<font size="26" color="#ff0000"><b>... I thought I saw it before.</b></font>
+
+552
+00:20:40,060 --> 00:20:42,990
+<font size="26" color="#ff0000"><b>... I thought I saw it before.</b></font>
+
+553
+00:20:42,990 --> 00:20:42,990
+<font size="26" color="#ff0000"><b>Her face when she was drinking the cider
+ was kinda unclear...</b></font>
+
+554
+00:20:42,990 --> 00:20:45,720
+<font size="26" color="#ff0000"><b>Her face when she was drinking the cider
+ was kinda unclear...</b></font>
+
+555
+00:20:45,720 --> 00:20:45,720
+<font size="26" color="#ff0000"><b>... when I was little, 
+there was an old lady.</b></font>
+
+556
+00:20:45,720 --> 00:20:47,940
+<font size="26" color="#ff0000"><b>... when I was little, 
+there was an old lady.</b></font>
+
+557
+00:20:47,940 --> 00:20:47,940
+<font size="26" color="#ff0000"><b>When I looked outside,
+ near the telephone pole...</b></font>
+
+558
+00:20:47,940 --> 00:20:51,720
+<font size="26" color="#ff0000"><b>When I looked outside,
+ near the telephone pole...</b></font>
+
+559
+00:20:51,720 --> 00:20:51,720
+<font size="26" color="#ff0000"><b>... an old lady was always standing there.</b></font>
+
+560
+00:20:51,720 --> 00:20:54,430
+<font size="26" color="#ff0000"><b>... an old lady was always standing there.</b></font>
+
+561
+00:20:55,240 --> 00:20:55,240
+<font size="26" color="#ff0000"><b>Then when I told it to my mom...</b></font>
+
+562
+00:20:55,240 --> 00:20:58,870
+<font size="26" color="#ff0000"><b>Then when I told it to my mom...</b></font>
+
+563
+00:20:58,870 --> 00:20:58,870
+<font size="26" color="#ff0000"><b>... she said,
+ "<i>No one is standing there</i>."</b></font>
+
+564
+00:20:58,870 --> 00:21:01,700
+<font size="26" color="#ff0000"><b>... she said,
+ "<i>No one is standing there</i>."</b></font>
+
+565
+00:21:01,700 --> 00:21:01,700
+<font size="26" color="#ff0000"><b>But I saw her, and Ikoma-chan's face
+ when she was drinking the cider...</b></font>
+
+566
+00:21:01,700 --> 00:21:05,740
+<font size="26" color="#ff0000"><b>But I saw her, and Ikoma-chan's face
+ when she was drinking the cider...</b></font>
+
+567
+00:21:05,740 --> 00:21:05,740
+<font size="26" color="#ff0000"><b>... was identical to hers!</b></font>
+
+568
+00:21:05,740 --> 00:21:07,740
+<font size="26" color="#ff0000"><b>... was identical to hers!</b></font>
+
+569
+00:21:08,160 --> 00:21:09,920
+<font size="28"><b>How was it?</b></font>
+
+570
+00:21:09,920 --> 00:21:12,350
+<font size="28"><b>- How was it?
+- It was quite creepy.  - I know, right?</b></font>
+
+571
+00:21:12,760 --> 00:21:15,120
+<font size="28"><b>What's with Ikoma's face
+ when she was drinking cider?</b></font>
+
+572
+00:21:15,120 --> 00:21:16,360
+<font size="28"><b>Sorry...</b></font>
+
+573
+00:21:16,360 --> 00:21:18,820
+<font size="28"><b>... my face is ugly as sin.</b></font>
+
+574
+00:21:18,820 --> 00:21:22,500
+<font size="28"><b>Can you make the face you were making 
+when you were drinking the cider?</b></font>
+
+575
+00:21:22,500 --> 00:21:24,500
+<font size="28"><b>What kind of face was it?</b></font>
+
+576
+00:21:26,050 --> 00:21:30,570
+<font size="28"><b>- Is this the old lady's face in your story?
+- A little bit more, her eyes are a bit...</b></font>
+
+577
+00:21:30,570 --> 00:21:32,570
+<font size="28"><b>- Like that?
+- The chin was more protruding...</b></font>
+
+578
+00:21:32,570 --> 00:21:33,610
+<font size="28"><b>Protrude your chin, do that Ikoma.</b></font>
+
+579
+00:21:33,610 --> 00:21:33,610
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#2a292c">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+580
+00:21:33,610 --> 00:21:35,210
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font size="18">Loads of requests.</font></b></font>
+
+581
+00:21:35,210 --> 00:21:37,780
+<font size="28"><b>In order to make Takayama's story clearer.</b></font>
+
+582
+00:21:37,780 --> 00:21:39,780
+<font size="28"><b>Opened, poured, then...</b></font>
+
+583
+00:21:39,780 --> 00:21:41,780
+<font size="28"><b>... drank...</b></font>
+
+584
+00:21:41,780 --> 00:21:43,780
+<font size="28"><b>Was the chin this protruding?</b></font>
+
+585
+00:21:45,130 --> 00:21:45,980
+<font size="28"><b>Her chin!</b></font>
+
+586
+00:21:45,980 --> 00:21:47,350
+<font size="28"><b>And her eyes too?</b></font>
+
+587
+00:21:47,350 --> 00:21:48,890
+<font size="28"><b>- A bit more.
+- A little bit more.</b></font>
+
+588
+00:21:48,890 --> 00:21:50,890
+<font size="28"><b>The angle is different!
+No, more to...</b></font>
+
+589
+00:21:50,890 --> 00:21:52,580
+<font size="28"><b>... the other way, the other way!</b></font>
+
+590
+00:21:52,580 --> 00:21:54,060
+<font size="28"><b>Waaah, that! That!</b></font>
+
+591
+00:21:54,060 --> 00:21:54,060
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#2a292c">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+592
+00:21:54,060 --> 00:21:55,940
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font size="18">Embarassing.</font></b></font>
+
+593
+00:21:55,940 --> 00:21:57,380
+<font size="28"><b>Just like that!</b></font>
+
+594
+00:21:58,210 --> 00:22:02,840
+<font size="28"><b>What does this mean?
+ Are you saying that Ikoma, in future later...</b></font>
+
+595
+00:22:02,840 --> 00:22:05,100
+<font size="28"><b>... will show up when you drink foamy beverage?</b></font>
+
+596
+00:22:05,100 --> 00:22:05,100
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#2a292c">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+597
+00:22:05,100 --> 00:22:06,340
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font size="18">Sci-Fi story?</font></b></font>
+
+598
+00:22:06,340 --> 00:22:07,170
+<font size="28"><b>That's too much!</b></font>
+
+599
+00:22:07,780 --> 00:22:11,780
+<font size="28"><b>Alright, who must go to a haunted place this time?</b></font>
+
+600
+00:22:11,780 --> 00:22:14,210
+<font size="28"><b>Members with non-scary stories...</b></font>
+
+601
+00:22:14,210 --> 00:22:16,450
+<font size="28"><b>... but essentially, everyone's fine.</b></font>
+
+602
+00:22:16,450 --> 00:22:18,540
+<font size="28"><b>Well then...</b></font>
+
+603
+00:22:18,540 --> 00:22:19,890
+<font size="28"><b>- ... Shiraishi, and...
+- EH, WHY?!</b></font>
+
+604
+00:22:19,890 --> 00:22:19,890
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#2a292c">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+605
+00:22:19,890 --> 00:22:22,590
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font size="18">Unexpected topic.</font></b></font>
+
+606
+00:22:23,240 --> 00:22:26,120
+<font size="28"><b>Your story was not scary at all.</b></font>
+
+607
+00:22:26,120 --> 00:22:29,760
+<font size="28"><b>- It wasn't scary at all, Shiraishi.
+- But I didn't even say anything!!</b></font>
+
+608
+00:22:29,760 --> 00:22:31,060
+<font size="28"><b>- That one part when you got cut...
+- I see.</b></font>
+
+609
+00:22:31,060 --> 00:22:31,060
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#2a292c">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+610
+00:22:31,060 --> 00:22:33,470
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font size="18">You were saying?</font></b></font>
+
+611
+00:22:33,470 --> 00:22:34,930
+<font size="28"><b>Anyone can go.</b></font>
+
+612
+00:22:34,930 --> 00:22:37,670
+<font size="28"><b>Member who didn't say anything scary,
+like Shiraishi...</b></font>
+
+613
+00:22:37,670 --> 00:22:40,140
+<font size="28"><b>- ... is Hashimoto, right?
+- Eh, no, no! Wait! Wait!</b></font>
+
+614
+00:22:40,140 --> 00:22:41,850
+<font size="28"><b>What's wrong, Hashimoto?</b></font>
+
+615
+00:22:41,850 --> 00:22:43,780
+<font size="28"><b>Your love talk was delicious.</b></font>
+
+616
+00:22:43,780 --> 00:22:43,780
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#2a292c">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+617
+00:22:43,780 --> 00:22:44,810
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font size="15">Why does it become a food story?</font></b></font>
+
+618
+00:22:44,810 --> 00:22:47,510
+<font size="28"><b>- You said you want more, didn't you?
+- No I never said that!</b></font>
+
+619
+00:22:47,510 --> 00:22:52,250
+<font size="28"><b>I have a terribly scary story if I were to move forward.
+Way scarier than everyone else's.</b></font>
+
+620
+00:22:54,130 --> 00:22:56,500
+<font size="28"><b>That story of mine will win here.</b></font>
+
+621
+00:22:57,410 --> 00:23:01,530
+<font size="28"><b><i>Then, a story chosen by Hashimoto
+to avoid the punishment will be...</i></b></font>
+
+622
+00:23:01,770 --> 00:23:03,240
+<font size="28"><b>Ready... DON!</b></font>
+
+623
+00:23:03,570 --> 00:23:03,570
+<font size="26" color="#ff0000"><b>Summer last year when I was having <i>Ohakamairi</i>,
+I visited <i>Noukotsudou</i>.</b></font>
+
+624
+00:23:03,570 --> 00:23:03,570
+<font size="26" color="#ff0000"><b>Summer last year when I was having <i>Ohakamairi</i>,
+I visited <i>Noukotsudou</i>.</b></font>
+
+625
+00:23:03,570 --> 00:23:07,570
+<font face="Arial Rounded MT Bold" size="20"><b>{\an8}[ Ohakamairi = tradition of visiting family's grave ]
+[ Noukotsudou = Columbarium, a place to store deceased's cremated remains, mainly families ]</b></font>
+
+626
+00:23:07,570 --> 00:23:07,570
+<font size="26" color="#ff0000"><b>There was only me alone 
+on the first floor of that <i>Noukotsudou</i>.</b></font>
+
+627
+00:23:07,570 --> 00:23:12,200
+<font size="26" color="#ff0000"><b>There was only me alone 
+on the first floor of that <i>Noukotsudou</i>.</b></font>
+
+628
+00:23:12,200 --> 00:23:12,200
+<font size="26" color="#ff0000"><b>When I walked to the area I was going to visit, there was
+ "DON! DON! DON!" sound even though no one was there.</b></font>
+
+629
+00:23:12,200 --> 00:23:17,710
+<font size="26" color="#ff0000"><b>When I walked to the area I was going to visit, there was
+ "DON! DON! DON!" sound even though no one was there.</b></font>
+
+630
+00:23:17,710 --> 00:23:17,710
+<font size="26" color="#ff0000"><b>Since the atmosphere was ominous, 
+ I just kept going my way...</b></font>
+
+631
+00:23:17,710 --> 00:23:21,550
+<font size="26" color="#ff0000"><b>Since the atmosphere was ominous, 
+ I just kept going my way...</b></font>
+
+632
+00:23:21,550 --> 00:23:21,550
+<font size="26" color="#ff0000"><b>... went in to the elevator, and press the close button.
+Then suddenly from the direction of <i>Noukotsudou</i>...</b></font>
+
+633
+00:23:21,550 --> 00:23:25,780
+<font size="26" color="#ff0000"><b>... went in to the elevator, and press the close button.
+Then suddenly from the direction of <i>Noukotsudou</i>...</b></font>
+
+634
+00:23:25,780 --> 00:23:25,780
+<font size="26" color="#ff0000"><b>... even though I got everything on my view...</b></font>
+
+635
+00:23:25,780 --> 00:23:27,660
+<font size="26" color="#ff0000"><b>... even though I got everything on my view...</b></font>
+
+636
+00:23:27,660 --> 00:23:27,660
+<font size="26" color="#ff0000"><b>... I heard DON! DON! DON! sound three times 
+from the opposite direction.</b></font>
+
+637
+00:23:27,660 --> 00:23:31,520
+<font size="26" color="#ff0000"><b>... I heard DON! DON! DON! sound three times 
+from the opposite direction.</b></font>
+
+638
+00:23:31,520 --> 00:23:31,520
+<font size="26" color="#ff0000"><b>Three times... after three times...</b></font>
+
+639
+00:23:31,520 --> 00:23:33,530
+<font size="26" color="#ff0000"><b>Three times... after three times...</b></font>
+
+640
+00:23:35,370 --> 00:23:36,830
+<font size="28"><b>Her hands are sticking out.</b></font>
+
+641
+00:23:36,830 --> 00:23:36,830
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#2a292c">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+642
+00:23:36,830 --> 00:23:36,930
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font size="18">A story of sticking out hands?</font></b></font>
+
+643
+00:23:36,930 --> 00:23:39,430
+<font size="28"><b>What is this? 
+ It stopped at three times part.</b></font>
+
+644
+00:23:39,890 --> 00:23:42,070
+<font size="28"><b>When the sound entered, the door closed.</b></font>
+
+645
+00:23:42,070 --> 00:23:45,540
+<font size="28"><b>- That was absolutely not scary.
+- That's right.   - It was!!!</b></font>
+
+646
+00:23:46,000 --> 00:23:49,370
+<font size="28"><b>When your hands were sticking out in the last part,
+ Ikoma laughed at you.</b></font>
+
+647
+00:23:49,940 --> 00:23:52,610
+<font size="28"><b>- That's true, then...
+- Second generation.</b></font>
+
+648
+00:23:52,610 --> 00:23:56,580
+<font size="28"><b>Miona for example, she told a story
+ of her dream, right? It's not a reality.</b></font>
+
+649
+00:23:56,580 --> 00:24:01,000
+<font size="28"><b>Look, Hori seems lost.</b></font>
+
+650
+00:24:01,000 --> 00:24:03,120
+<font size="28"><b>She's like, "<i>What, me?</i>"...</b></font>
+
+651
+00:24:03,120 --> 00:24:03,120
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#2a292c">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+652
+00:24:03,120 --> 00:24:03,890
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font size="18">What's wrong with me?</font></b></font>
+
+653
+00:24:03,890 --> 00:24:06,490
+<font size="28"><b>- "<i>So me?</i>" like that.
+- What's with that expression?</b></font>
+
+654
+00:24:07,720 --> 00:24:11,430
+<font size="28"><b><i>After this,
+ there will be a strange phenomenon in studio!</i></b></font>
+
+655
+00:24:12,460 --> 00:24:15,450
+<font size="28"><b>- Ikoma and Shiraishi, so it's three people.
+- WHAT!? STOP!</b></font>
+
+656
+00:24:15,450 --> 00:24:17,700
+<font size="28"><b>- You two are utterly not scary!
+- It's not like that.</b></font>
+
+657
+00:24:17,700 --> 00:24:20,170
+<font size="28"><b>Since your stories weren't scary, 
+we had to cut it.</b></font>
+
+658
+00:24:20,170 --> 00:24:20,890
+<font size="28"><b>Woah.</b></font>
+
+659
+00:24:20,890 --> 00:24:22,640
+<font size="28"><b>- KYAAAAA!!!</b></font>
+
+660
+00:24:23,080 --> 00:24:24,020
+<font size="28"><b>What? What? What's wrong?</b></font>
+
+661
+00:24:24,020 --> 00:24:25,740
+<font size="28"><b>A dragonfly fell.</b></font>
+
+662
+00:24:25,740 --> 00:24:27,320
+<font size="28"><b>- Huh?
+- Why?</b></font>
+
+663
+00:24:27,320 --> 00:24:29,320
+<font size="28"><b>- This is impossible!
+- How did it get in here?</b></font>
+
+664
+00:24:29,320 --> 00:24:31,920
+<font size="28"><b>- So big!
+- I don't like that.</b></font>
+
+665
+00:24:31,920 --> 00:24:33,920
+<font size="28"><b>- Why did it fall here?
+- Where did it come from?</b></font>
+
+666
+00:24:33,920 --> 00:24:35,390
+<font size="28"><b>Why did it fall here?</b></font>
+
+667
+00:24:35,390 --> 00:24:37,390
+<font size="28"><b>Why do we have a dragonfly on last part?</b></font>
+
+668
+00:24:37,900 --> 00:24:37,990
+<font size="28"><b>At the very last, it fits the theme.</b></font>
+
+669
+00:24:37,990 --> 00:24:37,990
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#fde00c">m 167 42 l 0 42 l 0 0 l 167 0</font></b></font>
+
+670
+00:24:37,990 --> 00:24:38,640
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#000000"><font size="18">Members who'll get the punishment will be announced next week!
+Sakurai Reika will hold a meeting just for female Idols!</font></font></b></font>
+
+671
+00:24:38,640 --> 00:24:40,060
+<font size="28"><b><i>MANUALLY TRANSLATED FROM INDO SUBTITLE
+ORIGINAL SUB BY MasToppu.blogspot.co.id
+USE IT AT YOUR OWN RISK</i></b></font>
+
+672
+00:24:40,060 --> 00:24:41,330
+<font size="28"><b>What is this?</b></font>
+
+673
+00:24:41,330 --> 00:24:42,960
+<font size="28"><b>Okay, we have decided the date.</b></font>
+
+674
+00:24:42,960 --> 00:24:44,200
+<font size="28"><b>And Wada will tag along too.</b></font>
+
+675
+00:24:44,200 --> 00:24:47,000
+<font size="28"><b>Eh, no, no way. 
+ You shouldn't bother.</b></font>
+
+676
+00:24:47,000 --> 00:24:49,600
+<font size="28"><b>Wada's story was completely not scary.</b></font>
+
+677
+00:24:49,600 --> 00:24:52,470
+<font size="28"><b>Don't worry, you'll get hypnotized later.</b></font>
+
+678
+00:24:53,460 --> 00:24:54,600
+<font size="28"><b>Eh, she's admiring me ~</b></font>
+
+679
+00:24:54,600 --> 00:24:57,480
+<font size="28"><b><i>Next episode, Sakurai's new character arises!</i></b></font>
+
+680
+00:24:57,480 --> 00:24:59,710
+<font size="28"><b>You get it, don't you?</b></font>
+

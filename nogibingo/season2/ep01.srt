@@ -1,0 +1,384 @@
+﻿
+Dialogue: 0,0:00:22.20,0:00:27.77,Default,,0,0,0,,{\b1\fs36}And, how about the members itself? what are they thinking about NOGIBINGO?
+Dialogue: 0,0:00:27.77,0:00:30.54,Default,,0,0,0,,{\b1\fs36}That's why, we are doing investigation about the truth
+Dialogue: 0,0:00:30.54,0:00:34.55,Default,,0,0,0,,{\b1\fs36}...want to make a good thing / wont happen!.. 100% wont happen!!
+Dialogue: 0,0:00:35.48,0:00:39.52,Default,,0,0,0,,{\b1\fs36}Let 2nd gen to be bathes with creams or powder.
+Dialogue: 0,0:00:40.62,0:00:43.49,Default,,0,0,0,,{\b1\fs36}I am not good at variety show...
+Dialogue: 0,0:00:43.49,0:00:46.49,Default,,0,0,0,,{\b1\fs36}Thats why...
+Dialogue: 0,0:00:46.49,0:00:50.30,Default,,0,0,0,,{\b1\fs36}can this show start smoothly?
+Dialogue: 0,0:00:51.40,0:00:53.80,Default,,0,0,0,,{\b1\fs36}Translator: Rustyhand\NTimer: koala13th\NDisclaimer:\NSUB-SHIRO (@subshiro46)
+Dialogue: 0,0:00:53.80,0:00:57.17,Default,,0,0,0,,{\b1\fs36}if you want to share or re-translate this fan sub to another language, please contact us
+Dialogue: 0,0:00:57.50,0:00:59.84,Default,,0,0,0,,{\b1\fs36}NOGIBINGO!2
+Dialogue: 0,0:01:05.18,0:01:06.65,Default,,0,0,0,,{\b1\fs36}Thank you for waiting
+Dialogue: 0,0:01:07.48,0:01:13.89,Default,,0,0,0,,{\b1\fs36}After this, we are going to do Opening Ceremony for NOGIBINGO!2
+Dialogue: 0,0:01:16.16,0:01:18.36,Default,,0,0,0,,{\b1\fs36}to defeat the winter cold...
+Dialogue: 0,0:01:18.36,0:01:23.03,Default,,0,0,0,,{\b1\fs36}NOGIBINGO! special samba carnival dancing show!
+Dialogue: 0,0:01:24.13,0:01:25.70,Default,,0,0,0,,{\b1\fs36}what??.. what??
+Dialogue: 0,0:01:27.13,0:01:30.34,Default,,0,0,0,,{\b1\fs36}
+Dialogue: 0,0:01:31.84,0:01:35.51,Default,,0,0,0,,{\b1\fs36}
+Dialogue: 0,0:01:35.51,0:01:37.84,Default,,0,0,0,,{\b1\fs36}
+Dialogue: 0,0:01:52.12,0:01:53.56,Default,,0,0,0,,{\b1\fs36}
+Dialogue: 0,0:01:54.39,0:01:57.20,Default,,0,0,0,,{\b1\fs36}
+Dialogue: 0,0:01:57.20,0:01:59.47,Default,,0,0,0,,{\b1\fs36}YOOO, long time no see^^
+Dialogue: 0,0:02:01.10,0:02:03.20,Default,,0,0,0,,{\b1\fs36}are you all doing good?
+Dialogue: 0,0:02:09.41,0:02:12.34,Default,,0,0,0,,{\b1\fs36}NOGIBINGO!2's MC, Ijiri Okada!
+Dialogue: 0,0:02:13.98,0:02:16.35,Default,,0,0,0,,{\b1\fs36}I'm happy!
+Dialogue: 0,0:02:16.35,0:02:22.25,Default,,0,0,0,,{\b1\fs36}what thing make me happy? .. everytime I can wear member's thing.... that why Im happy
+Dialogue: 0,0:02:22.25,0:02:24.52,Default,,0,0,0,,{\b1\fs36}
+Dialogue: 0,0:02:24.52,0:02:27.63,Default,,0,0,0,,{\b1\fs36}do you know whose is this?
+Dialogue: 0,0:02:27.63,0:02:30.46,Default,,0,0,0,,{\b1\fs36}It's Mattsun's / REALLY?
+Dialogue: 0,0:02:30.46,0:02:31.86,Default,,0,0,0,,{\b1\fs36}Matsumura!
+Dialogue: 0,0:02:31.86,0:02:35.87,Default,,0,0,0,,{\b1\fs36}Last time, I wore your dress right? / yes, you did it
+Dialogue: 0,0:02:35.87,0:02:38.50,Default,,0,0,0,,{\b1\fs36}after that, Matsumura's match with me
+Dialogue: 0,0:02:38.50,0:02:40.24,Default,,0,0,0,,{\b1\fs36}
+Dialogue: 0,0:02:42.34,0:02:44.31,Default,,0,0,0,,{\b1\fs36}this is good!
+Dialogue: 0,0:02:44.31,0:02:48.85,Default,,0,0,0,,{\b1\fs36}
+Dialogue: 0,0:02:48.85,0:02:53.59,Default,,0,0,0,,{\b1\fs36}Last time, because of you are chasing AKB, we make the program to be same with them
+Dialogue: 0,0:02:53.59,0:03:00.63,Default,,0,0,0,,{\b1\fs36} This time, to overtake! Thats why we ill make you all do more things compared to the previous one. Is that clear? / yes!
+Dialogue: 0,0:03:00.63,0:03:05.63,Default,,0,0,0,,{\b1\fs36}With this NOGIBINGO!2 Start!
+Dialogue: 0,0:03:07.87,0:03:15.54,Default,,0,0,0,,{\b1\fs36}Urgent inspection! Do Nogizaka46 have some love for NOGIBINGO?
+Dialogue: 0,0:03:16.81,0:03:18.31,Default,,0,0,0,,{\b1\fs36}what?
+Dialogue: 0,0:03:18.31,0:03:27.19,Default,,0,0,0,,{\b1\fs36}this time, this program has just started, so we would like to know are Nogizaka46's members really love NOGIBINGO?
+Dialogue: 0,0:03:27.19,0:03:29.29,Default,,0,0,0,,{\b1\fs36}To check this, we did some secret filming
+Dialogue: 0,0:03:30.02,0:03:32.39,Default,,0,0,0,,{\b1\fs36}Secret filming is already done
+Dialogue: 0,0:03:32.39,0:03:35.06,Default,,0,0,0,,{\b1\fs36}You all, are you love NOGIBINGO?
+Dialogue: 0,0:03:35.06,0:03:38.20,Default,,0,0,0,,{\b1\fs36}we love it / there's no spirit at all!
+Dialogue: 0,0:03:38.73,0:03:40.27,Default,,0,0,0,,{\b1\fs36}so you love it right?
+Dialogue: 0,0:03:40.27,0:03:41.87,Default,,0,0,0,,{\b1\fs36}yes / we love it
+Dialogue: 0,0:03:41.87,0:03:43.60,Default,,0,0,0,,{\b1\fs36}Captain, thats right, right? / I love it
+Dialogue: 0,0:03:43.60,0:03:46.84,Default,,0,0,0,,{\b1\fs36}then, it should have no problem with this secret filming
+Dialogue: 0,0:03:46.84,0:03:50.58,Default,,0,0,0,,{\b1\fs36}and then, please play the VTR
+Dialogue: 0,0:03:50.58,0:03:58.42,Default,,0,0,0,,{\b1\fs36}with nogibingo2 has just started, with their manager's help, we did some investigation
+Dialogue: 0,0:03:58.98,0:04:03.42,Default,,0,0,0,,{\b1\fs36}Nogizaka46's verification. do they have love with this show?
+Dialogue: 0,0:04:03.86,0:04:04.99,Default,,0,0,0,,{\b1\fs36}
+Dialogue: 0,0:04:04.99,0:04:06.86,Default,,0,0,0,,{\b1\fs36}someday in December
+Dialogue: 0,0:04:06.86,0:04:09.13,Default,,0,0,0,,{\b1\fs36}
+Dialogue: 0,0:04:11.86,0:04:14.70,Default,,0,0,0,,{\b1\fs36}sorry for keeping you waiting / its ok
+Dialogue: 0,0:04:14.70,0:04:17.87,Default,,0,0,0,,{\b1\fs36}the reason why i called you two is...
+Dialogue: 0,0:04:17.87,0:04:20.07,Default,,0,0,0,,{\b1\fs36}NOGIBINGO!2 is starting
+Dialogue: 0,0:04:20.07,0:04:22.31,Default,,0,0,0,,{\b1\fs36}
+Dialogue: 0,0:04:24.51,0:04:31.05,Default,,0,0,0,,{\b1\fs36}the last time on NOGIBINGO, \Nyou all use your physical to do lots of things / yes~
+Dialogue: 0,0:04:31.05,0:04:38.12,Default,,0,0,0,,{\b1\fs36}this time, i will do hearing with you and report it to the staffs
+Dialogue: 0,0:04:38.39,0:04:41.36,Default,,0,0,0,,{\b1\fs36}is there any fun program last time?
+Dialogue: 0,0:04:41.79,0:04:45.70,Default,,0,0,0,,{\b1\fs36}what programs thatt we didn't do? I don't remember it.
+Dialogue: 0,0:04:45.70,0:04:50.20,Default,,0,0,0,,{\b1\fs36} so, you didn't remember what have you did?
+Dialogue: 0,0:04:50.20,0:04:52.81,Default,,0,0,0,,{\b1\fs36}how bout you Sakurai? / What did you do Sakurai?
+Dialogue: 0,0:04:52.81,0:04:54.47,Default,,0,0,0,,{\b1\fs36}what did I do...
+Dialogue: 0,0:04:58.91,0:05:00.35,Default,,0,0,0,,{\b1\fs36}
+Dialogue: 0,0:05:00.35,0:05:05.78,Default,,0,0,0,,{\b1\fs36}Reika did that... the slide / I don't want to do slide again.
+Dialogue: 0,0:05:06.19,0:05:09.26,Default,,0,0,0,,{\b1\fs36}
+Dialogue: 0,0:05:09.26,0:05:13.33,Default,,0,0,0,,{\b1\fs36}
+Dialogue: 0,0:05:13.33,0:05:15.53,Default,,0,0,0,,{\b1\fs36}
+Dialogue: 0,0:05:15.53,0:05:18.53,Default,,0,0,0,,{\b1\fs36}because my hands are small... / I see
+Dialogue: 0,0:05:18.53,0:05:23.57,Default,,0,0,0,,{\b1\fs36}the other person can do it normally and able to hold their position, but I can't hold my position ...
+Dialogue: 0,0:05:23.57,0:05:25.47,Default,,0,0,0,,{\b1\fs36} it's really... / scary? \N
+Dialogue: 0,0:05:25.47,0:05:30.01,Default,,0,0,0,,{\b1\fs36}will I be dead or fell.. What i must do? / Dead or fell?
+Dialogue: 0,0:05:30.81,0:05:33.05,Default,,0,0,0,,{\b1\fs36}that program pushed me to the corner...
+Dialogue: 0,0:05:34.11,0:05:37.92,Default,,0,0,0,,{\b1\fs36}that program pushed me to the corner...
+Dialogue: 0,0:05:37.92,0:05:41.79,Default,,0,0,0,,{\b1\fs36}Sakurai, you are the last person that don't have the luck... there's something like that...
+Dialogue: 0,0:05:43.62,0:05:48.89,Default,,0,0,0,,{\b1\fs36}is Nogizaka46 has it or not? please do it!
+Dialogue: 0,0:05:48.89,0:05:50.30,Default,,0,0,0,,{\b1\fs36}look upside
+Dialogue: 0,0:05:50.30,0:05:52.70,Default,,0,0,0,,{\b1\fs36}look upside.
+Dialogue: 0,0:05:58.84,0:06:04.04,Default,,0,0,0,,{\b1\fs36}wow, what a loud sound! .. the one who has it, all members except Sakurai!
+Dialogue: 0,0:06:04.04,0:06:08.18,Default,,0,0,0,,{\b1\fs36}
+Dialogue: 0,0:06:08.18,0:06:10.68,Default,,0,0,0,,{\b1\fs36}I see, you are the only person that dont showered with powder
+Dialogue: 0,0:06:10.68,0:06:11.65,Default,,0,0,0,,{\b1\fs36}
+Dialogue: 0,0:06:11.65,0:06:15.35,Default,,0,0,0,,{\b1\fs36}how's your feeling that time? / that...
+Dialogue: 0,0:06:16.09,0:06:20.09,Default,,0,0,0,,{\b1\fs36}that is... that is bullying
+Dialogue: 0,0:06:21.16,0:06:24.13,Default,,0,0,0,,{\b1\fs36}that is bullying
+Dialogue: 0,0:06:24.73,0:06:30.47,Default,,0,0,0,,{\b1\fs36}do you have something that you want to do in NOGIBINGO? like doing some reporting
+Dialogue: 0,0:06:35.47,0:06:40.15,Default,,0,0,0,,{\b1\fs36}
+Dialogue: 0,0:06:40.15,0:06:42.58,Default,,0,0,0,,{\b1\fs36}nothing...
+Dialogue: 0,0:06:43.68,0:06:45.68,Default,,0,0,0,,{\b1\fs36}and thats all...
+Dialogue: 0,0:06:45.68,0:06:48.02,Default,,0,0,0,,{\b1\fs36}Sakurai, Wakatsuki
+Dialogue: 0,0:06:48.02,0:06:52.83,Default,,0,0,0,,{\b1\fs36}when you all watch the vtr, eventhough its secret filming its so clear
+Dialogue: 0,0:06:52.83,0:06:55.63,Default,,0,0,0,,{\b1\fs36}like, its not a secret filming, you are not noticing it?
+Dialogue: 0,0:06:55.63,0:06:57.86,Default,,0,0,0,,{\b1\fs36}I didn't notice anything / I didn't notice it
+Dialogue: 0,0:06:57.86,0:06:58.93,Default,,0,0,0,,{\b1\fs36}it's so me... don't like it
+Dialogue: 0,0:06:58.93,0:07:05.40,Default,,0,0,0,,{\b1\fs36}you two have no programs that you want to do.. \Nwe received a very sad words
+Dialogue: 0,0:07:05.40,0:07:06.87,Default,,0,0,0,,{\b1\fs36}I'm sorry...
+Dialogue: 0,0:07:06.87,0:07:08.27,Default,,0,0,0,,{\b1\fs36}it's not only these two
+Dialogue: 0,0:07:08.77,0:07:10.88,Default,,0,0,0,,{\b1\fs36}let us watch the next vtr
+Dialogue: 0,0:07:10.88,0:07:12.31,Default,,0,0,0,,{\b1\fs36}please be prepared
+Dialogue: 0,0:07:12.31,0:07:14.05,Default,,0,0,0,,{\b1\fs36}VTR rolling!
+Dialogue: 0,0:07:15.75,0:07:21.39,Default,,0,0,0,,{\b1\fs36}sorry for keeping you waiting / so you are the one that calling us
+Dialogue: 0,0:07:21.39,0:07:24.56,Default,,0,0,0,,{\b1\fs36}yes, its me
+Dialogue: 0,0:07:24.56,0:07:30.90,Default,,0,0,0,,{\b1\fs36}this questionnaire, as you can see, as written there NOGIBINGO!2 is...
+Dialogue: 0,0:07:30.90,0:07:33.07,Default,,0,0,0,,{\b1\fs36}Hate it! Hate it...
+Dialogue: 0,0:07:33.07,0:07:35.53,Default,,0,0,0,,{\b1\fs36}
+Dialogue: 0,0:07:36.50,0:07:37.47,Default,,0,0,0,,{\b1\fs36}so fast...
+Dialogue: 0,0:07:37.47,0:07:40.47,Default,,0,0,0,,{\b1\fs36}no, no, no / if you hate it, it can't be helped. so you dont want to do it?
+Dialogue: 0,0:07:40.47,0:07:45.64,Default,,0,0,0,,{\b1\fs36}personally I... the first recording about cakes... creams...
+Dialogue: 0,0:07:45.64,0:07:51.28,Default,,0,0,0,,{\b1\fs36}Please do the lips, close your eyes... show your lips... 3, 2, 1
+Dialogue: 0,0:07:53.72,0:07:55.19,Default,,0,0,0,,{\b1\fs36}
+Dialogue: 0,0:07:56.92,0:08:02.13,Default,,0,0,0,,{\b1\fs36}I knew it! Thats why this floor is wrapped in plastic
+Dialogue: 0,0:08:03.06,0:08:05.30,Default,,0,0,0,,{\b1\fs36}nostalgic...
+Dialogue: 0,0:08:05.30,0:08:07.43,Default,,0,0,0,,{\b1\fs36}you are shocked because they fooled you? / yes
+Dialogue: 0,0:08:07.43,0:08:12.77,Default,,0,0,0,,{\b1\fs36}that time, at our first meeting with the staff and know nothing, then they fooling us...
+Dialogue: 0,0:08:12.77,0:08:15.61,Default,,0,0,0,,{\b1\fs36}I became distrusting of others...
+Dialogue: 0,0:08:16.58,0:08:20.05,Default,,0,0,0,,{\b1\fs36}I became distrusting of others...
+Dialogue: 0,0:08:21.51,0:08:24.38,Default,,0,0,0,,{\b1\fs36}at punishment game, there is a punishment by wearing something
+Dialogue: 0,0:08:24.38,0:08:28.62,Default,,0,0,0,,{\b1\fs36}I don't like to wear stocking... / I hate it!\N / me too
+Dialogue: 0,0:08:28.62,0:08:31.66,Default,,0,0,0,,{\b1\fs36}please dont make us wear stocking... / I don't like it...
+Dialogue: 0,0:08:32.96,0:08:36.50,Default,,0,0,0,,{\b1\fs36}
+Dialogue: 0,0:08:36.96,0:08:40.20,Default,,0,0,0,,{\b1\fs36}conversely is there any fun programs?
+Dialogue: 0,0:08:40.57,0:08:43.30,Default,,0,0,0,,{\b1\fs36}last time, what programs that you found it fun?
+Dialogue: 0,0:08:43.30,0:08:46.31,Default,,0,0,0,,{\b1\fs36}for me, the one with hitting others
+Dialogue: 0,0:08:46.31,0:08:49.44,Default,,0,0,0,,{\b1\fs36}hot beat down battle game / it's very fun
+Dialogue: 0,0:08:49.44,0:08:53.41,Default,,0,0,0,,{\b1\fs36}Ikoma and Shiraishi against each other right? do you still remember it? / Ah, yes^^
+Dialogue: 0,0:08:55.01,0:08:59.69,Default,,0,0,0,,{\b1\fs36}
+Dialogue: 0,0:08:59.69,0:09:00.79,Default,,0,0,0,,{\b1\fs36}
+Dialogue: 0,0:09:00.79,0:09:04.12,Default,,0,0,0,,{\b1\fs36}
+Dialogue: 0,0:09:04.12,0:09:07.63,Default,,0,0,0,,{\b1\fs36}Shiraishi looossseeeee
+Dialogue: 0,0:09:08.36,0:09:10.50,Default,,0,0,0,,{\b1\fs36}Oooo, friendship, friendship
+Dialogue: 0,0:09:13.03,0:09:15.57,Default,,0,0,0,,{\b1\fs36}That's cruel!
+Dialogue: 0,0:09:16.60,0:09:18.97,Default,,0,0,0,,{\b1\fs36}the one that we did a walk at shopping street is very fun
+Dialogue: 0,0:09:18.97,0:09:21.74,Default,,0,0,0,,{\b1\fs36}it's fun
+Dialogue: 0,0:09:21.74,0:09:25.84,Default,,0,0,0,,{\b1\fs36}I never walk so abviously like that...
+Dialogue: 0,0:09:25.84,0:09:29.11,Default,,0,0,0,,{\b1\fs36}seems that theres lots of fun programs
+Dialogue: 0,0:09:29.38,0:09:31.28,Default,,0,0,0,,{\b1\fs36}And Here Ikoma is...
+Dialogue: 0,0:09:31.28,0:09:33.99,Default,,0,0,0,,{\b1\fs36}2nd gen also doing NOGIBINGO!2?
+Dialogue: 0,0:09:33.99,0:09:36.62,Default,,0,0,0,,{\b1\fs36}How? if 2nd gen do it, hows your opinion?
+Dialogue: 0,0:09:36.62,0:09:41.23,Default,,0,0,0,,{\b1\fs36}conversely, just let them bathes in creams and powder
+Dialogue: 0,0:09:41.23,0:09:44.43,Default,,0,0,0,,{\b1\fs36}aa, I don't want to give the creams...
+Dialogue: 0,0:09:44.43,0:09:47.77,Default,,0,0,0,,{\b1\fs36} I don't want to give the creams...
+Dialogue: 0,0:09:47.77,0:09:51.14,Default,,0,0,0,,{\b1\fs36}I don't want to give the creams...
+Dialogue: 0,0:09:51.44,0:09:55.67,Default,,0,0,0,,{\b1\fs36}and when they show a little love for Nogibingo, the last question
+Dialogue: 0,0:09:55.67,0:09:59.65,Default,,0,0,0,,{\b1\fs36}do you have any request regarding the staffs?
+Dialogue: 0,0:10:00.88,0:10:04.12,Default,,0,0,0,,{\b1\fs36}there's one person that has a very bad at speaking
+Dialogue: 0,0:10:05.68,0:10:08.19,Default,,0,0,0,,{\b1\fs36}there's one person that has a very bad at speaking
+Dialogue: 0,0:10:08.19,0:10:10.29,Default,,0,0,0,,{\b1\fs36}
+Dialogue: 0,0:10:10.29,0:10:19.83,Default,,0,0,0,,{\b1\fs36}he did give us advise, like doing this is better and on... / you, better do it like this (mimicing)
+Dialogue: 0,0:10:20.77,0:10:22.37,Default,,0,0,0,,{\b1\fs36}I do think he is my comrade
+Dialogue: 0,0:10:22.37,0:10:24.50,Default,,0,0,0,,{\b1\fs36}
+Dialogue: 0,0:10:26.84,0:10:30.44,Default,,0,0,0,,{\b1\fs36}just now, there's a thing regarding staff that bad at speaking
+Dialogue: 0,0:10:30.44,0:10:33.48,Default,,0,0,0,,{\b1\fs36}he always sit here... Now he's not here
+Dialogue: 0,0:10:33.48,0:10:36.38,Default,,0,0,0,,{\b1\fs36}he is not here today
+Dialogue: 0,0:10:36.38,0:10:40.35,Default,,0,0,0,,{\b1\fs36}he is attending school of pronounciation
+Dialogue: 0,0:10:40.35,0:10:42.12,Default,,0,0,0,,{\b1\fs36}
+Dialogue: 0,0:10:42.12,0:10:43.92,Default,,0,0,0,,{\b1\fs36}let us review it again
+Dialogue: 0,0:10:44.19,0:10:48.09,Default,,0,0,0,,{\b1\fs36}as soon as the meeting with your manager started, Shiraishi!!
+Dialogue: 0,0:10:49.43,0:10:51.60,Default,,0,0,0,,{\b1\fs36}you spontenously said HATE
+Dialogue: 0,0:10:52.36,0:10:53.13,Default,,0,0,0,,{\b1\fs36}you don't like it?
+Dialogue: 0,0:10:53.13,0:10:56.20,Default,,0,0,0,,{\b1\fs36}I don't hate it, that time is just a coincidence
+Dialogue: 0,0:10:56.20,0:10:58.90,Default,,0,0,0,,{\b1\fs36}really? / thats why I don't want others to do cream things
+Dialogue: 0,0:10:58.90,0:11:02.84,Default,,0,0,0,,{\b1\fs36}you did say that ... Ikoma, what did you said regarding 2nd gen?
+Dialogue: 0,0:11:03.11,0:11:06.04,Default,,0,0,0,,{\b1\fs36}whether it's cream or powder, just let them bathes in it
+Dialogue: 0,0:11:07.78,0:11:09.62,Default,,0,0,0,,{\b1\fs36}Hori, she talked about you
+Dialogue: 0,0:11:09.92,0:11:12.95,Default,,0,0,0,,{\b1\fs36}ERR, i'll bathe / stop it, I will bathe
+Dialogue: 0,0:11:13.59,0:11:15.12,Default,,0,0,0,,{\b1\fs36}why you don't want to let them do it?
+Dialogue: 0,0:11:15.12,0:11:18.29,Default,,0,0,0,,{\b1\fs36}I like to be shoot by cream / cream shot? / yes
+Dialogue: 0,0:11:18.29,0:11:19.22,Default,,0,0,0,,{\b1\fs36}it's fun
+Dialogue: 0,0:11:19.22,0:11:23.00,Default,,0,0,0,,{\b1\fs36}the first time that you are shot, you said thank you, wasn't you? / yes
+Dialogue: 0,0:11:23.00,0:11:24.56,Default,,0,0,0,,{\b1\fs36} I want more
+Dialogue: 0,0:11:24.56,0:11:25.83,Default,,0,0,0,,{\b1\fs36}you want more?
+Dialogue: 0,0:11:25.83,0:11:26.73,Default,,0,0,0,,{\b1\fs36}Hashimoto,
+Dialogue: 0,0:11:26.73,0:11:28.90,Default,,0,0,0,,{\b1\fs36} you want to wear stocking?
+Dialogue: 0,0:11:28.90,0:11:30.40,Default,,0,0,0,,{\b1\fs36}no I don't
+Dialogue: 0,0:11:30.40,0:11:32.27,Default,,0,0,0,,{\b1\fs36}I hate it, I don't want it
+Dialogue: 0,0:11:32.27,0:11:38.21,Default,,0,0,0,,{\b1\fs36}if there's stocking punishment in the future, its all caused of Hashimoto's line
+Dialogue: 0,0:11:40.85,0:11:44.88,Default,,0,0,0,,{\b1\fs36}I will run away from studio / you will run away from studio? 
+Dialogue: 0,0:11:44.98,0:11:45.75,Default,,0,0,0,,{\b1\fs36}I'll chase you!
+Dialogue: 0,0:11:47.05,0:11:48.62,Default,,0,0,0,,{\b1\fs36}scary...
+Dialogue: 0,0:11:49.72,0:11:51.22,Default,,0,0,0,,{\b1\fs36}we still have some more...
+Dialogue: 0,0:11:51.22,0:11:53.89,Default,,0,0,0,,{\b1\fs36}let us see the next vtr
+Dialogue: 0,0:11:54.96,0:11:57.20,Default,,0,0,0,,{\b1\fs36}sorry for waiting
+Dialogue: 0,0:11:57.20,0:12:01.30,Default,,0,0,0,,{\b1\fs36}sorry for waiting
+Dialogue: 0,0:12:01.30,0:12:03.97,Default,,0,0,0,,{\b1\fs36}sorry for calling you all
+Dialogue: 0,0:12:05.70,0:12:08.81,Default,,0,0,0,,{\b1\fs36}here's some quisionnaire
+Dialogue: 0,0:12:08.81,0:12:11.04,Default,,0,0,0,,{\b1\fs36}ah It came... NOGIBINGO
+Dialogue: 0,0:12:11.04,0:12:14.55,Default,,0,0,0,,{\b1\fs36}
+Dialogue: 0,0:12:14.55,0:12:18.22,Default,,0,0,0,,{\b1\fs36}
+Dialogue: 0,0:12:18.22,0:12:20.59,Default,,0,0,0,,{\b1\fs36}oh no... what i must do!~...
+Dialogue: 0,0:12:22.42,0:12:25.49,Default,,0,0,0,,{\b1\fs36}no, its not like that...
+Dialogue: 0,0:12:25.49,0:12:29.83,Default,,0,0,0,,{\b1\fs36}How was NOGIBINGO?
+Dialogue: 0,0:12:29.83,0:12:36.33,Default,,0,0,0,,{\b1\fs36}its kinda annoying to wash my hair, and lots of things happened \N ... but its fun. and I m on tv
+Dialogue: 0,0:12:37.70,0:12:41.47,Default,,0,0,0,,{\b1\fs36}the last time, MC is Ijiri right?
+Dialogue: 0,0:12:41.47,0:12:43.41,Default,,0,0,0,,{\b1\fs36}right now, 
+Dialogue: 0,0:12:43.41,0:12:49.72,Default,,0,0,0,,{\b1\fs36}its not yet decided but, is Ijiri fine? or do you want other person?
+Dialogue: 0,0:12:49.72,0:12:54.55,Default,,0,0,0,,{\b1\fs36}I don't hate Ijiri, I hate NOGIBINGO
+Dialogue: 0,0:12:54.55,0:12:56.29,Default,,0,0,0,,{\b1\fs36}I dont like NOGIBINGO
+Dialogue: 0,0:12:56.29,0:12:58.72,Default,,0,0,0,,{\b1\fs36}I hate NOGIBINGO
+Dialogue: 0,0:12:58.72,0:13:01.09,Default,,0,0,0,,{\b1\fs36}I dont like NOGIBINGO
+Dialogue: 0,0:13:01.09,0:13:03.83,Default,,0,0,0,,{\b1\fs36}about Ikuchan's ukulele...
+Dialogue: 0,0:13:04.80,0:13:07.13,Default,,0,0,0,,{\b1\fs36}stop it... 
+Dialogue: 0,0:13:07.13,0:13:11.30,Default,,0,0,0,,{\b1\fs36}It doesn't need to be aired. stop it...
+Dialogue: 0,0:13:07.13,0:13:11.30,Default,,0,0,0,,{\b1\fs36\pos(645.333,91.333)\4c&H000000&\3c&H9F2FB4&}I've told by staffs~~
+Dialogue: 0,0:13:11.30,0:13:14.11,Default,,0,0,0,,{\b1\fs36}{\b1\fs36\pos(645.333,91.333)\4c&H000000&\3c&H9F2FB4&}I've told by staffs~~
+Dialogue: 0,0:13:14.87,0:13:20.15,Default,,0,0,0,,{\b1\fs36}{\b1\fs36\pos(645.333,91.333)\4c&H000000&\3c&H9F2FB4&}You don't like this show?~~
+Dialogue: 0,0:13:21.51,0:13:24.75,Default,,0,0,0,,{\b1\fs36}on YOUTUBE...
+Dialogue: 0,0:13:24.75,0:13:28.25,Default,,0,0,0,,{\b1\fs36} it came out on top
+Dialogue: 0,0:13:28.25,0:13:30.09,Default,,0,0,0,,{\b1\fs36}Ikuchan's Ukulele? / yes
+Dialogue: 0,0:13:30.09,0:13:31.89,Default,,0,0,0,,{\b1\fs36}when you search for NOGIBINGO?
+Dialogue: 0,0:13:31.89,0:13:33.36,Default,,0,0,0,,{\b1\fs36}
+Dialogue: 0,0:13:33.36,0:13:37.70,Default,,0,0,0,,{\b1\fs36}that is became my representative works and I don't like it
+Dialogue: 0,0:13:37.70,0:13:42.23,Default,,0,0,0,,{\b1\fs36}that is became my representative works and I don't like it
+Dialogue: 0,0:13:44.30,0:13:46.71,Default,,0,0,0,,{\b1\fs36}the attitude at the meeting, NOUJOU are you a veteran?
+Dialogue: 0,0:13:46.71,0:13:48.77,Default,,0,0,0,,{\b1\fs36}I am sorry
+Dialogue: 0,0:13:48.77,0:13:53.25,Default,,0,0,0,,{\b1\fs36}that kind of meeting... until when you did fix your hair?
+Dialogue: 0,0:13:53.25,0:13:54.51,Default,,0,0,0,,{\b1\fs36}sorry...
+Dialogue: 0,0:13:54.51,0:13:55.68,Default,,0,0,0,,{\b1\fs36}is she like that usually?
+Dialogue: 0,0:13:55.68,0:13:57.18,Default,,0,0,0,,{\b1\fs36}no no no no 
+Dialogue: 0,0:13:57.18,0:13:58.95,Default,,0,0,0,,{\b1\fs36}its just coincidence no no
+Dialogue: 0,0:13:58.95,0:13:59.89,Default,,0,0,0,,{\b1\fs36}no no, its not coincidence
+Dialogue: 0,0:13:59.89,0:14:02.49,Default,,0,0,0,,{\b1\fs36}human wont do "coincidence" I do think you always like that
+Dialogue: 0,0:14:02.49,0:14:03.66,Default,,0,0,0,,{\b1\fs36}I am....
+Dialogue: 0,0:14:03.66,0:14:04.89,Default,,0,0,0,,{\b1\fs36}
+Dialogue: 0,0:14:04.89,0:14:06.79,Default,,0,0,0,,{\b1\fs36} a good person
+Dialogue: 0,0:14:08.03,0:14:09.53,Default,,0,0,0,,{\b1\fs36}Saitou Yuuri / yes
+Dialogue: 0,0:14:09.53,0:14:13.27,Default,,0,0,0,,{\b1\fs36}at very first you said you hate NOGIBINGO
+Dialogue: 0,0:14:14.73,0:14:16.27,Default,,0,0,0,,{\b1\fs36}its different...
+Dialogue: 0,0:14:16.27,0:14:18.10,Default,,0,0,0,,{\b1\fs36}it just... / oh is it more?
+Dialogue: 0,0:14:18.50,0:14:19.91,Default,,0,0,0,,{\b1\fs36}no. errr...
+Dialogue: 0,0:14:20.27,0:14:24.08,Default,,0,0,0,,{\b1\fs36}you can do it
+Dialogue: 0,0:14:24.08,0:14:29.82,Default,,0,0,0,,{\b1\fs36}it's about time that the culprit will surrender herself\N the nuance like that^^ I did it!
+Dialogue: 0,0:14:29.82,0:14:34.49,Default,,0,0,0,,{\b1\fs36}Ikuta, you have any disatisfaction about Nogibingo2? you shown some dissatistied face
+Dialogue: 0,0:14:34.49,0:14:39.36,Default,,0,0,0,,{\b1\fs36}I dont remember it, maybe... it naturally came out^^
+Dialogue: 0,0:14:40.03,0:14:42.43,Default,,0,0,0,,{\b1\fs36}that means, its your real feeling?
+Dialogue: 0,0:14:42.43,0:14:48.73,Default,,0,0,0,,{\b1\fs36}yes, but... that time I think it will be the same with the last one, so i show that kind of face
+Dialogue: 0,0:14:48.73,0:14:53.74,Default,,0,0,0,,{\b1\fs36}and I heard that it will be differ this time, so i am enjoying it
+Dialogue: 0,0:14:53.74,0:14:55.17,Default,,0,0,0,,{\b1\fs36}and the vtr... 
+Dialogue: 0,0:14:55.17,0:14:56.81,Default,,0,0,0,,{\b1\fs36}this is the last one. 
+Dialogue: 0,0:14:57.04,0:15:01.65,Default,,0,0,0,,{\b1\fs36}who is the last one? let us watch it, these people
+Dialogue: 0,0:15:01.65,0:15:03.55,Default,,0,0,0,,{\b1\fs36}
+Dialogue: 0,0:15:05.18,0:15:07.55,Default,,0,0,0,,{\b1\fs36}
+Dialogue: 0,0:15:07.55,0:15:09.29,Default,,0,0,0,,{\b1\fs36}please sit there
+Dialogue: 0,0:15:09.29,0:15:11.52,Default,,0,0,0,,{\b1\fs36}NOGIBINGO!2 is starting
+Dialogue: 0,0:15:11.52,0:15:14.26,Default,,0,0,0,,{\b1\fs36}I heard about it
+Dialogue: 0,0:15:14.86,0:15:20.27,Default,,0,0,0,,{\b1\fs36}so, the last time you all just... do reckless things
+Dialogue: 0,0:15:20.27,0:15:24.34,Default,,0,0,0,,{\b1\fs36}so I would like to make Nogibingo2 a good one
+Dialogue: 0,0:15:24.34,0:15:25.47,Default,,0,0,0,,{\b1\fs36}
+Dialogue: 0,0:15:25.47,0:15:28.17,Default,,0,0,0,,{\b1\fs36}good show? / wont happen. It absolutely wont happen
+Dialogue: 0,0:15:28.31,0:15:31.11,Default,,0,0,0,,{\b1\fs36}won't happen. It absolutely won't happen
+Dialogue: 0,0:15:32.71,0:15:37.05,Default,,0,0,0,,{\b1\fs36}the last time, is there any fun programs or the one that you want to do it once again?
+Dialogue: 0,0:15:37.05,0:15:39.92,Default,,0,0,0,,{\b1\fs36}I want to do some prank show...
+Dialogue: 0,0:15:39.92,0:15:43.96,Default,,0,0,0,,{\b1\fs36}no... its bad for heart / I might like prank
+Dialogue: 0,0:15:43.96,0:15:46.89,Default,,0,0,0,,{\b1\fs36}or errr AK... no no ...
+Dialogue: 0,0:15:46.89,0:15:49.06,Default,,0,0,0,,{\b1\fs36}NOGIBINGO^^
+Dialogue: 0,0:15:50.33,0:15:54.00,Default,,0,0,0,,{\b1\fs36}or errr AK... no no ... Nogibingo
+Dialogue: 0,0:15:54.00,0:15:55.87,Default,,0,0,0,,{\b1\fs36}what about the programs that you dont want to do?
+Dialogue: 0,0:15:55.87,0:15:57.64,Default,,0,0,0,,{\b1\fs36}lots / lots?
+Dialogue: 0,0:15:57.64,0:16:00.97,Default,,0,0,0,,{\b1\fs36}about 80%
+Dialogue: 0,0:16:01.47,0:16:04.24,Default,,0,0,0,,{\b1\fs36}about 80%
+Dialogue: 0,0:16:05.48,0:16:07.35,Default,,0,0,0,,{\b1\fs36}so was it fun?
+Dialogue: 0,0:16:08.15,0:16:15.72,Default,,0,0,0,,{\b1\fs36}the staffs, the one that made that show are very cool\N ...the arrangement is very good
+Dialogue: 0,0:16:15.72,0:16:22.19,Default,,0,0,0,,{\b1\fs36}that's why, I felt their proffesionalism
+Dialogue: 0,0:16:24.30,0:16:25.80,Default,,0,0,0,,{\b1\fs36}I was scared
+Dialogue: 0,0:16:25.80,0:16:29.10,Default,,0,0,0,,{\b1\fs36}I hate the staffs
+Dialogue: 0,0:16:29.10,0:16:32.80,Default,,0,0,0,,{\b1\fs36}I hate the staffs
+Dialogue: 0,0:16:35.11,0:16:39.18,Default,,0,0,0,,{\b1\fs36}ok, it was Nagashima, Nishino, Takayama
+Dialogue: 0,0:16:39.18,0:16:40.38,Default,,0,0,0,,{\b1\fs36}first, Takayama!
+Dialogue: 0,0:16:40.38,0:16:43.32,Default,,0,0,0,,{\b1\fs36}thank you for your great line
+Dialogue: 0,0:16:43.32,0:16:44.18,Default,,0,0,0,,{\b1\fs36}
+Dialogue: 0,0:16:44.18,0:16:45.32,Default,,0,0,0,,{\b1\fs36}staff's arrangement is good
+Dialogue: 0,0:16:45.32,0:16:54.89,Default,,0,0,0,,{\b1\fs36}yes, the recording time is like to be compressed and no extention... within short time, all is stuffed in
+Dialogue: 0,0:16:56.16,0:16:57.26,Default,,0,0,0,,{\b1\fs36}
+Dialogue: 0,0:16:57.26,0:16:59.73,Default,,0,0,0,,{\b1\fs36}within short time, all is stuffed in.
+Dialogue: 0,0:16:59.73,0:17:01.70,Default,,0,0,0,,{\b1\fs36}Nogibingo is starting
+Dialogue: 0,0:17:02.17,0:17:04.27,Default,,0,0,0,,{\b1\fs36}its scary...
+Dialogue: 0,0:17:04.27,0:17:05.94,Default,,0,0,0,,{\b1\fs36}Nishino, lastly...
+Dialogue: 0,0:17:06.60,0:17:08.44,Default,,0,0,0,,{\b1\fs36}you said that you afraid of the staffs?
+Dialogue: 0,0:17:08.94,0:17:11.31,Default,,0,0,0,,{\b1\fs36}its not afraid, I just don't like this show...
+Dialogue: 0,0:17:11.71,0:17:14.71,Default,,0,0,0,,{\b1\fs36}I am really bad at variety...
+Dialogue: 0,0:17:14.71,0:17:16.45,Default,,0,0,0,,{\b1\fs36}That's why... 
+Dialogue: 0,0:17:18.38,0:17:21.35,Default,,0,0,0,,{\b1\fs36}it's okay
+Dialogue: 0,0:17:21.35,0:17:23.36,Default,,0,0,0,,{\b1\fs36}everyone is kind
+Dialogue: 0,0:17:23.36,0:17:27.26,Default,,0,0,0,,{\b1\fs36}it's came out. this show's myth, that someone will be crying in every recording
+Dialogue: 0,0:17:27.69,0:17:30.00,Default,,0,0,0,,{\b1\fs36}today, it should have nothing... 
+Dialogue: 0,0:17:30.36,0:17:31.20,Default,,0,0,0,,{\b1\fs36}are you okay?
+Dialogue: 0,0:17:31.20,0:17:33.33,Default,,0,0,0,,{\b1\fs36}it's okay!
+Dialogue: 0,0:17:33.33,0:17:35.97,Default,,0,0,0,,{\b1\fs36}I already heard about you Nishino, from the 1st one
+Dialogue: 0,0:17:35.97,0:17:39.14,Default,,0,0,0,,{\b1\fs36}Nishino hates to fight with others
+Dialogue: 0,0:17:39.14,0:17:42.74,Default,,0,0,0,,{\b1\fs36}I already heard all about your personality, Nishino, it's okay?
+Dialogue: 0,0:17:42.74,0:17:44.71,Default,,0,0,0,,{\b1\fs36}I'll do my best
+Dialogue: 0,0:17:46.18,0:17:48.08,Default,,0,0,0,,{\b1\fs36}i'm sorry
+Dialogue: 0,0:17:48.35,0:17:53.49,Default,,0,0,0,,{\b1\fs36}i give Nishino a permission to took 2 times off
+Dialogue: 0,0:17:56.39,0:17:58.86,Default,,0,0,0,,{\b1\fs36}in 1 season, you can rest 2 times
+Dialogue: 0,0:17:59.36,0:18:03.33,Default,,0,0,0,,{\b1\fs36}for the replacement, 2nd gen Hori, you better give your best
+Dialogue: 0,0:18:03.33,0:18:04.66,Default,,0,0,0,,{\b1\fs36}yes, I'll do my best
+Dialogue: 0,0:18:04.66,0:18:05.83,Default,,0,0,0,,{\b1\fs36}she answer it normally...
+Dialogue: 0,0:18:07.53,0:18:10.57,Default,,0,0,0,,{\b1\fs36}so, how is it?
+Dialogue: 0,0:18:10.57,0:18:12.57,Default,,0,0,0,,{\b1\fs36}by watching the vtr...
+Dialogue: 0,0:18:12.57,0:18:16.64,Default,,0,0,0,,{\b1\fs36}to tell the truth, which one of you that don't have enough love for this show?
+Dialogue: 0,0:18:16.64,0:18:18.81,Default,,0,0,0,,{\b1\fs36}please raise your hand
+Dialogue: 0,0:18:19.31,0:18:22.35,Default,,0,0,0,,{\b1\fs36}when you watch the vtr, it has plenty...
+Dialogue: 0,0:18:24.85,0:18:27.59,Default,,0,0,0,,{\b1\fs36}wait a sec... Nishino raised her hand!
+Dialogue: 0,0:18:28.75,0:18:29.82,Default,,0,0,0,,{\b1\fs36}IKUTA!!
+Dialogue: 0,0:18:30.16,0:18:34.09,Default,,0,0,0,,{\b1\fs36}and then... Captain.. Sakurai! it's decided!
+Dialogue: 0,0:18:34.09,0:18:37.70,Default,,0,0,0,,{\b1\fs36}wait wait... why everyone not raising your hand?
+Dialogue: 0,0:18:38.23,0:18:39.66,Default,,0,0,0,,{\b1\fs36}after this
+Dialogue: 0,0:18:40.17,0:18:44.07,Default,,0,0,0,,{\b1\fs36}special tonic launching!
+Dialogue: 0,0:18:49.07,0:18:53.98,Default,,0,0,0,,{\b1\fs36}the ones that proved have no love for this show... Nishino, Ikuta and Sakurai surrender themself
+Dialogue: 0,0:18:53.98,0:18:58.85,Default,,0,0,0,,{\b1\fs36}Will be woken up by special stinky tonic prepared by the staffs
+Dialogue: 0,0:18:59.45,0:19:01.89,Default,,0,0,0,,{\b1\fs36}after this, we ask you to smell this but... 
+Dialogue: 0,0:19:01.89,0:19:03.32,Default,,0,0,0,,{\b1\fs36}how is it Nishino?
+Dialogue: 0,0:19:03.66,0:19:04.82,Default,,0,0,0,,{\b1\fs36}i accept it!
+Dialogue: 0,0:19:04.82,0:19:05.59,Default,,0,0,0,,{\b1\fs36}Ikuta!
+Dialogue: 0,0:19:05.59,0:19:08.49,Default,,0,0,0,,{\b1\fs36}me too. with this I will inject myself with spirits
+Dialogue: 0,0:19:09.13,0:19:09.96,Default,,0,0,0,,{\b1\fs36}Sakurai!
+Dialogue: 0,0:19:10.90,0:19:16.17,Default,,0,0,0,,{\b1\fs36}with this special tonic launching!
+Dialogue: 0,0:19:17.40,0:19:19.17,Default,,0,0,0,,{\b1\fs36}scary... scary!
+Dialogue: 0,0:19:22.81,0:19:25.81,Default,,0,0,0,,{\b1\fs36}
+Dialogue: 0,0:19:25.81,0:19:29.98,Default,,0,0,0,,{\b1\fs36}enough..enough
+Dialogue: 0,0:19:30.78,0:19:31.82,Default,,0,0,0,,{\b1\fs36}STINKY!
+Dialogue: 0,0:19:32.75,0:19:33.95,Default,,0,0,0,,{\b1\fs36}
+Dialogue: 0,0:19:33.95,0:19:35.35,Default,,0,0,0,,{\b1\fs36}
+Dialogue: 0,0:19:38.09,0:19:41.99,Default,,0,0,0,,{\b1\fs36}
+Dialogue: 0,0:19:45.53,0:19:47.17,Default,,0,0,0,,{\b1\fs36}this will makes someone crying
+Dialogue: 0,0:19:49.20,0:19:50.60,Default,,0,0,0,,{\b1\fs36}how is it Nishino?
+Dialogue: 0,0:19:50.60,0:19:53.17,Default,,0,0,0,,{\b1\fs36}it's been a while, but I remember this feeling
+Dialogue: 0,0:19:53.17,0:19:53.87,Default,,0,0,0,,{\b1\fs36}
+Dialogue: 0,0:19:53.87,0:19:56.67,Default,,0,0,0,,{\b1\fs36}okay, please give your best little by little from now on
+Dialogue: 0,0:19:56.67,0:19:57.28,Default,,0,0,0,,{\b1\fs36}I'll do my best!
+Dialogue: 0,0:19:57.28,0:20:01.31,Default,,0,0,0,,{\b1\fs36}so, Ikuta how is it? / it's very uncomfortable
+Dialogue: 0,0:20:01.31,0:20:07.02,Default,,0,0,0,,{\b1\fs36}So uncomfortable but i can feel it
+Dialogue: 0,0:20:07.02,0:20:09.29,Default,,0,0,0,,{\b1\fs36}with this... EH!?
+Dialogue: 0,0:20:11.09,0:20:13.12,Default,,0,0,0,,{\b1\fs36}there's one more VTR / what what?
+Dialogue: 0,0:20:13.12,0:20:15.86,Default,,0,0,0,,{\b1\fs36}it seems that there's one more vtr
+Dialogue: 0,0:20:16.43,0:20:19.60,Default,,0,0,0,,{\b1\fs36}this time's program that to prove love for NOGIBINGO
+Dialogue: 0,0:20:19.60,0:20:22.87,Default,,0,0,0,,{\b1\fs36}and we also inspect love for this person
+Dialogue: 0,0:20:23.70,0:20:26.91,Default,,0,0,0,,{\b1\fs36}last time the MC is Ijiri right? 
+Dialogue: 0,0:20:26.91,0:20:29.74,Default,,0,0,0,,{\b1\fs36}I still don't know who will do it for 2
+Dialogue: 0,0:20:29.74,0:20:31.78,Default,,0,0,0,,{\b1\fs36}you know it? / I don't know \N / Really? 
+Dialogue: 0,0:20:32.48,0:20:33.75,Default,,0,0,0,,{\b1\fs36}Ijiri is good?
+Dialogue: 0,0:20:34.11,0:20:36.18,Default,,0,0,0,,{\b1\fs36} After this
+Dialogue: 0,0:20:36.18,0:20:38.92,Default,,0,0,0,,{\b1\fs36}when the camera stop ??????????
+Dialogue: 0,0:20:39.58,0:20:42.55,Default,,0,0,0,,{\b1\fs36}
+Dialogue: 0,0:20:42.69,0:20:46.46,Default,,0,0,0,,{\b1\fs36}this time's program that to prove love for NOGIBINGO
+Dialogue: 0,0:20:46.46,0:20:49.33,Default,,0,0,0,,{\b1\fs36}and we also inspect love for this person
+Dialogue: 0,0:20:49.83,0:20:53.00,Default,,0,0,0,,{\b1\fs36}last time the MC is Ijiri right?
+Dialogue: 0,0:20:53.00,0:20:56.53,Default,,0,0,0,,{\b1\fs36} I still don't know who will do it for 2 / you know it?
+Dialogue: 0,0:20:56.53,0:20:58.70,Default,,0,0,0,,{\b1\fs36}I don't know / really?
+Dialogue: 0,0:20:59.24,0:21:00.41,Default,,0,0,0,,{\b1\fs36}Ijiri is good?
+Dialogue: 0,0:21:00.41,0:21:01.81,Default,,0,0,0,,{\b1\fs36}Ijiri is good!
+Dialogue: 0,0:21:01.81,0:21:05.48,Default,,0,0,0,,{\b1\fs36}he's really a good person / don't say something like that
+Dialogue: 0,0:21:05.48,0:21:06.91,Default,,0,0,0,,{\b1\fs36}he's only wearing brief when he appear right?
+Dialogue: 0,0:21:06.91,0:21:09.25,Default,,0,0,0,,{\b1\fs36}I admire him
+Dialogue: 0,0:21:09.25,0:21:13.59,Default,,0,0,0,,{\b1\fs36}when we said KYAAA, he seems so sorry
+Dialogue: 0,0:21:13.59,0:21:14.99,Default,,0,0,0,,{\b1\fs36}he has some love
+Dialogue: 0,0:21:14.99,0:21:22.89,Default,,0,0,0,,{\b1\fs36}i think, Ijiri has to be like that because of his style.
+Dialogue: 0,0:21:22.89,0:21:26.30,Default,,0,0,0,,{\b1\fs36}he is doing his best for us
+Dialogue: 0,0:21:27.07,0:21:29.03,Default,,0,0,0,,{\b1\fs36}is it Ijiri again?
+Dialogue: 0,0:21:29.03,0:21:30.17,Default,,0,0,0,,{\b1\fs36}so how is it?
+Dialogue: 0,0:21:30.17,0:21:31.94,Default,,0,0,0,,{\b1\fs36}i'm glad^^
+Dialogue: 0,0:21:31.94,0:21:35.51,Default,,0,0,0,,{\b1\fs36}so, its okay for you that he wears your clothes?
+Dialogue: 0,0:21:35.51,0:21:36.61,Default,,0,0,0,,{\b1\fs36}it's okay
+Dialogue: 0,0:21:36.61,0:21:40.68,Default,,0,0,0,,{\b1\fs36}because he has kindness / he has no ill intention
+Dialogue: 0,0:21:41.21,0:21:44.15,Default,,0,0,0,,{\b1\fs36}when the camera stops, he is really a good person
+Dialogue: 0,0:21:44.15,0:21:49.65,Default,,0,0,0,,{\b1\fs36}i would like to do it(NOGIBINGO) when the camera stops
+Dialogue: 0,0:21:49.65,0:21:54.79,Default,,0,0,0,,{\b1\fs36}he is carefully interact with us. maybe if he just do whatever he like, 
+Dialogue: 0,0:21:54.79,0:21:58.40,Default,,0,0,0,,{\b1\fs36}and our friendship is deeper
+Dialogue: 0,0:21:58.40,0:22:03.70,Default,,0,0,0,,{\b1\fs36}I think it will be even more interesting show.
+Dialogue: 0,0:22:05.64,0:22:09.61,Default,,0,0,0,,{\b1\fs36}VTR of members talking about love for Ijiri is finished
+Dialogue: 0,0:22:10.17,0:22:12.14,Default,,0,0,0,,{\b1\fs36}this is NOT ALLOWED!!
+Dialogue: 0,0:22:12.51,0:22:15.55,Default,,0,0,0,,{\b1\fs36}Ijiri Okada is finished!
+Dialogue: 0,0:22:15.55,0:22:17.35,Default,,0,0,0,,{\b1\fs36}Ijiri Okada is finished!
+Dialogue: 0,0:22:17.35,0:22:22.49,Default,,0,0,0,,{\b1\fs36}I really... not thinking about you all
+Dialogue: 0,0:22:22.49,0:22:23.59,Default,,0,0,0,,{\b1\fs36\pos(946.667,568.667)}tsundere?
+Dialogue: 0,0:22:23.59,0:22:26.92,Default,,0,0,0,,{\b1\fs36}please stop doing something like that...
+Dialogue: 0,0:22:26.92,0:22:29.73,Default,,0,0,0,,{\b1\fs36}who like Ijiri just raise your hand!
+Dialogue: 0,0:22:29.73,0:22:33.06,Default,,0,0,0,,{\b1\fs36}stop it. it will be difficult to do this show in the future
+Dialogue: 0,0:22:33.67,0:22:37.24,Default,,0,0,0,,{\b1\fs36}I love Ijiri 
+Dialogue: 0,0:22:37.24,0:22:39.77,Default,,0,0,0,,{\b1\fs36}please stop it. I cant call your name without prefix later... stop
+Dialogue: 0,0:22:41.81,0:22:43.01,Default,,0,0,0,,{\b1\fs36}is this a prank?
+Dialogue: 0,0:22:43.88,0:22:43.91,Default,,0,0,0,,{\b1\fs36}

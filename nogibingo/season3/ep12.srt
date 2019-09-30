@@ -1,0 +1,1825 @@
+1
+00:00:00,360 --> 00:00:03,010
+<font size="46"><b>We're going to conquer your weaknesses!</b></font>
+
+2
+00:00:04,510 --> 00:00:06,430
+<font size="46"><b>Do your b-- Ahh!</b></font>
+
+3
+00:00:06,560 --> 00:00:10,120
+<font size="46"><b>We had them work on their teamwork,</b></font>
+
+4
+00:00:10,990 --> 00:00:12,550
+<font size="46"><b>Please stay with me forever.</b></font>
+
+5
+00:00:13,050 --> 00:00:16,600
+<font size="46"><b>The feminine skills needed to develop as a woman.</b></font>
+
+6
+00:00:19,740 --> 00:00:21,300
+<font size="46"><b>Puffing my cheeks in anger!</b></font>
+
+7
+00:00:21,730 --> 00:00:26,280
+<font size="46"><b>They even worked on their acting abilities 
+ to get used to multiple situations.</b></font>
+
+8
+00:00:29,310 --> 00:00:35,820
+<font size="46"><b>In order to become national-level idols, they have overcome their weaknesses. This is Nogizaka46.</b></font>
+
+9
+00:00:37,120 --> 00:00:40,560
+<font size="46"><b>The theme of tonight, the final episode, is...</b></font>
+
+10
+00:00:41,840 --> 00:00:42,980
+<font size="46"><b>Dreams.</b></font>
+
+11
+00:00:45,140 --> 00:00:47,140
+<font size="30" color="#802f7c"><b>{\an8}Translation: kanjo & AESub  
+ Timing: OM</b></font>
+
+12
+00:00:47,310 --> 00:00:48,810
+<font size="30" color="#802f7c"><b>{\an8}Typeset: AESub & Michael Soares 
+ QC: Curly Udon</b></font>
+
+13
+00:00:48,810 --> 00:00:51,880
+<font size="46"><b>Nogibingo! 3!</b></font>
+
+14
+00:00:55,150 --> 00:01:00,410
+<font size="46"><b>These girls run full speed toward their dreams.</b></font>
+
+15
+00:01:01,150 --> 00:01:06,920
+<font size="46"><b>When they debuted as idols, 
+ they had many troubles and worries.</b></font>
+
+16
+00:01:09,240 --> 00:01:12,520
+<font size="46"><b>They bring together their various treasures filled with these feelings,</b></font>
+
+17
+00:01:12,520 --> 00:01:17,050
+<font size="46"><b>and begin their girls' party.</b></font>
+
+18
+00:01:17,880 --> 00:01:22,740
+<font size="46"><b>To join Nogizaka46, that was your first dream.</b></font>
+
+19
+00:01:23,740 --> 00:01:26,800
+<font size="46"><b>What feelings did the girls hold in their hearts...</b></font>
+
+20
+00:01:26,800 --> 00:01:28,800
+<font size="46"><b>when they began to walk this path?</b></font>
+
+21
+00:01:28,970 --> 00:01:33,750
+<font size="46"><b>Let us return to this time and find out what they felt when they began the journey toward their dreams.</b></font>
+
+22
+00:01:33,750 --> 00:01:37,380
+<font size="46"><b>Let us begin with this treasure...</b></font>
+
+23
+00:01:38,370 --> 00:01:43,240
+<font size="46"><b>I brought a treasure with me.</b></font>
+
+24
+00:01:43,860 --> 00:01:50,750
+<font size="46"><b>A letter that I got from my mom when I moved to Tokyo.</b></font>
+
+25
+00:01:51,960 --> 00:01:56,980
+<font size="46"><b>To Takayama who moved away and began living alone.</b></font>
+
+26
+00:01:56,980 --> 00:02:00,720
+<font size="46"><b>What does this letter from her Mom say?</b></font>
+
+27
+00:02:00,870 --> 00:02:04,620
+<font size="46"><b>It's too embarrassing to read it myself so I'd like Ikuchan to read it.</b></font>
+
+28
+00:02:04,620 --> 00:02:05,580
+<font size="46"><b>- Okay!</b></font>
+
+29
+00:02:05,580 --> 00:02:09,620
+<font size="46"><b>Uwah! Such an important thing...</b></font>
+
+30
+00:02:10,040 --> 00:02:11,330
+<font size="46"><b>Dear Kazumi,</b></font>
+
+31
+00:02:11,330 --> 00:02:15,620
+<font size="46"><b>The hardest work bears fruit, 
+ take advantage of the great opportunities.</b></font>
+
+32
+00:02:15,620 --> 00:02:21,330
+<font size="46"><b>You're working in the entertainment world which everybody admires.</b></font>
+
+33
+00:02:21,330 --> 00:02:25,940
+<font size="46"><b>I'm very proud to have a daughter like you.</b></font>
+
+34
+00:02:25,940 --> 00:02:28,640
+<font size="46"><b>It's finally time for you to become independent...</b></font>
+
+35
+00:02:28,640 --> 00:02:33,110
+<font size="46"><b>To me, your presence is huge.</b></font>
+
+36
+00:02:33,400 --> 00:02:36,750
+<font size="46"><b>Thank you for always being with me.</b></font>
+
+37
+00:02:37,090 --> 00:02:39,170
+<font size="46"><b>I will work hard too.</b></font>
+
+38
+00:02:39,530 --> 00:02:43,200
+<font size="46"><b>I'll always pray for your success and happiness.</b></font>
+
+39
+00:02:43,200 --> 00:02:46,060
+<font size="46"><b>I'll always be watching over you.</b></font>
+
+40
+00:02:46,060 --> 00:02:47,570
+<font size="46"><b>Please rely on me.</b></font>
+
+41
+00:02:47,570 --> 00:02:49,140
+<font size="46"><b>From Mom.</b></font>
+
+42
+00:02:49,870 --> 00:02:51,780
+<font size="46"><b>Chiichan's crying!</b></font>
+
+43
+00:02:51,780 --> 00:02:53,020
+<font size="46"><b>Chiichan, why?</b></font>
+
+44
+00:02:53,020 --> 00:02:53,020
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an5}Saito Chiharu <font color="#000000">is crying before Takayama</font></b></font>
+
+45
+00:02:53,020 --> 00:02:54,940
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an5}<font color="#ff0000">Saito Chiharu <font color="#000000">is crying before Takayama</font></font></b></font>
+
+46
+00:02:54,940 --> 00:02:56,660
+<font size="46"><b>Chiichan, cheer up!</b></font>
+
+47
+00:02:56,690 --> 00:03:00,150
+<font size="46"><b>Why so much?</b></font>
+
+48
+00:03:00,150 --> 00:03:01,860
+<font size="46"><b>Chiichan!</b></font>
+
+49
+00:03:01,860 --> 00:03:03,570
+<font size="46"><b>You live at home, right?</b></font>
+
+50
+00:03:03,570 --> 00:03:06,430
+<font size="46"><b>She isn't separated, but just the topic...</b></font>
+
+51
+00:03:06,430 --> 00:03:08,920
+<font size="46"><b>I would be so happy...</b></font>
+
+52
+00:03:08,920 --> 00:03:13,360
+<font size="46"><b>Y-yeah! When I moved I was really upset but...</b></font>
+
+53
+00:03:13,360 --> 00:03:16,790
+<font size="46"><b>I have this... and I look at it when it gets hard.</b></font>
+
+54
+00:03:16,790 --> 00:03:20,920
+<font size="46"><b>That's something to be happy about.</b></font>
+
+55
+00:03:20,920 --> 00:03:26,150
+<font size="46"><b>But... but, like... how to say it... 
+Well, people who are living with their families</b></font>
+
+56
+00:03:26,150 --> 00:03:30,690
+<font size="46"><b>Can you think of anything your parents told you that made you happy?</b></font>
+
+57
+00:03:30,690 --> 00:03:34,000
+<font size="46"><b>After we had senbatsu announcements, 
+ when I called my parents</b></font>
+
+58
+00:03:34,000 --> 00:03:38,000
+<font size="46"><b>they never said "that's too bad" or "do your best next time,"</b></font>
+
+59
+00:03:38,000 --> 00:03:40,390
+<font size="46"><b>or even "that's good." They always said "have fun."</b></font>
+
+60
+00:03:40,390 --> 00:03:42,390
+<font size="46"><b>Ah!</b></font>
+
+61
+00:03:42,390 --> 00:03:44,000
+<font size="46"><b>She didn't say either.</b></font>
+
+62
+00:03:44,020 --> 00:03:46,020
+<font size="46"><b>Anything is fine, just have fun!</b></font>
+
+63
+00:03:46,020 --> 00:03:48,090
+<font size="46"><b>Ah! That's nice!</b></font>
+
+64
+00:03:48,090 --> 00:03:50,090
+<font size="46"><b>And that has always helped me.</b></font>
+
+65
+00:03:50,220 --> 00:03:52,090
+<font size="46"><b>Wow, that's so nice...</b></font>
+
+66
+00:03:52,190 --> 00:03:55,440
+<font size="46"><b>I'm happy about something they avoid saying...</b></font>
+
+67
+00:03:55,440 --> 00:04:02,200
+<font size="46"><b>When we were doing principal, it was really rough and I often say "I wanna go back to Osaka!"</b></font>
+
+68
+00:04:02,340 --> 00:04:08,280
+<font size="46"><b>My mom came all the way to Tokyo, 
+ she was crying a lot when she saw me cry.</b></font>
+
+69
+00:04:08,280 --> 00:04:11,040
+<font size="46"><b>It was the first time I saw my mom cry</b></font>
+
+70
+00:04:11,040 --> 00:04:14,830
+<font size="46"><b>but she never said "come on back to Osaka."</b></font>
+
+71
+00:04:14,830 --> 00:04:18,190
+<font size="46"><b>She just told me "do you best here" while crying...</b></font>
+
+72
+00:04:18,190 --> 00:04:21,280
+<font size="46"><b>and that was... ah, even now when I think about it...</b></font>
+
+73
+00:04:21,920 --> 00:04:25,210
+<font size="46"><b>Back then, my mom had it rough but...</b></font>
+
+74
+00:04:25,210 --> 00:04:29,170
+<font size="46"><b>she was still supporting me. That made me very happy.</b></font>
+
+75
+00:04:29,840 --> 00:04:32,260
+<font size="46"><b>People who came to Tokyo, how was it?</b></font>
+
+76
+00:04:32,500 --> 00:04:34,260
+<font size="46"><b>Lonely...</b></font>
+
+77
+00:04:34,260 --> 00:04:38,580
+<font size="46"><b>I thought so many times I want to go home, but I have a dream...</b></font>
+
+78
+00:04:38,580 --> 00:04:43,180
+<font size="46"><b>That's why I came here. I feel like I can't go back until it comes true.</b></font>
+
+79
+00:04:43,180 --> 00:04:43,830
+<font size="46"><b>I understand!</b></font>
+
+80
+00:04:43,830 --> 00:04:46,690
+<font size="46"><b>I came to Tokyo before I met everyone</b></font>
+
+81
+00:04:46,690 --> 00:04:50,410
+<font size="46"><b>so I felt less lonely after I met everyone.</b></font>
+
+82
+00:04:51,460 --> 00:04:53,520
+<font size="46"><b>Until then I was always alone...</b></font>
+
+83
+00:04:53,520 --> 00:04:55,520
+<font size="46"><b>I see...</b></font>
+
+84
+00:04:57,160 --> 00:05:04,420
+<font size="46"><b>There's a part of me that's working hard because other members are here. We're all supporting each other. So I understand that.</b></font>
+
+85
+00:05:05,450 --> 00:05:12,210
+<font size="46"><b>The next treasure is a photo Shiraishi took before their debut.</b></font>
+
+86
+00:05:12,820 --> 00:05:17,140
+<font size="46"><b>From the beginning... 
+ Like, just after we passed the auditions</b></font>
+
+87
+00:05:17,570 --> 00:05:21,810
+<font size="46"><b>and we just had our first week of our lessons.</b></font>
+
+88
+00:05:21,810 --> 00:05:26,100
+<font size="46"><b>The "adult members"... around five of us... took a purikura photo together.</b></font>
+
+89
+00:05:26,660 --> 00:05:28,360
+<font size="46"><b>I wanna see it!</b></font>
+
+90
+00:05:33,200 --> 00:05:35,300
+<font size="46"><b>No way! Wait, how old were we here?!</b></font>
+
+91
+00:05:35,300 --> 00:05:38,150
+<font size="46"><b>- You were around 19?
+- Yeah, around 19.</b></font>
+
+92
+00:05:38,150 --> 00:05:40,730
+<font size="46"><b>19 years old? So young!</b></font>
+
+93
+00:05:40,730 --> 00:05:41,870
+<font size="46"><b>We went for yakiniku, right?</b></font>
+
+94
+00:05:41,870 --> 00:05:45,900
+<font size="46"><b>Yeah! We had yakiniku and then took our first purikura together.</b></font>
+
+95
+00:05:45,900 --> 00:05:50,450
+<font size="46"><b>Nanami went in with her lesson clothes.</b></font>
+
+96
+00:05:50,450 --> 00:05:53,240
+<font size="46"><b>It was a hassle to change so I got on the train in my lesson clothes...</b></font>
+
+97
+00:05:53,240 --> 00:05:58,570
+<font size="46"><b>had the lesson and then went home with the same clothes.</b></font>
+
+98
+00:05:59,090 --> 00:06:02,180
+<font size="46"><b>A jersey and t-shirt.</b></font>
+
+99
+00:06:02,350 --> 00:06:03,720
+<font size="46"><b>That's all I had.</b></font>
+
+100
+00:06:03,750 --> 00:06:05,620
+<font size="46"><b>Ah, but that's Kotoko's usual outfit.</b></font>
+
+101
+00:06:05,620 --> 00:06:07,620
+<font size="46"><b>- Your usual?
+- Ah!!</b></font>
+
+102
+00:06:09,000 --> 00:06:10,650
+<font size="46"><b>Yeah, but you're very cute today!</b></font>
+
+103
+00:06:10,650 --> 00:06:13,310
+<font size="46"><b>Today's good!</b></font>
+
+104
+00:06:13,330 --> 00:06:17,390
+<font size="46"><b>Last night, I was talking to Karin-chan on LINE and I had her pick my outfit!</b></font>
+
+105
+00:06:17,560 --> 00:06:19,200
+<font size="46"><b>Ehh?! They're so cute!</b></font>
+
+106
+00:06:19,200 --> 00:06:23,970
+<font size="46"><b>It was so tough! Everything she showed me was so ugly!</b></font>
+
+107
+00:06:23,970 --> 00:06:25,700
+<font size="46"><b>Where do you buy clothes?</b></font>
+
+108
+00:06:25,700 --> 00:06:28,760
+<font size="46"><b>Back home in places I don't really know well...</b></font>
+
+109
+00:06:29,170 --> 00:06:30,040
+<font size="46"><b>Back home?</b></font>
+
+110
+00:06:30,040 --> 00:06:33,500
+<font size="46"><b>Can I show my treasure as well?</b></font>
+
+111
+00:06:33,680 --> 00:06:37,320
+<font size="46"><b>This is my treasure!</b></font>
+
+112
+00:06:37,320 --> 00:06:39,840
+<font size="46"><b>- Ah! Kazumin? 
+- Kazumi-chan!</b></font>
+
+113
+00:06:39,840 --> 00:06:46,520
+<font size="46"><b>When I got promoted to a full member this year, she gave me this photo which says 
+"congratulations on your promotion, let's work hard together!"</b></font>
+
+114
+00:06:46,520 --> 00:06:50,510
+<font size="46"><b>I was so happy. I treasure it.</b></font>
+
+115
+00:06:50,510 --> 00:06:56,240
+<font size="46"><b>Since I have this chance, 
+ there's one thing I wanted to ask...</b></font>
+
+116
+00:06:56,240 --> 00:07:00,880
+<font size="46"><b>Would you like to have dinner together sometime?</b></font>
+
+117
+00:07:00,880 --> 00:07:02,700
+<font size="46"><b>- You're asking now?
+- Let's go, let's go!</b></font>
+
+118
+00:07:02,760 --> 00:07:04,720
+<font size="46"><b>If it's not now, I'd be too nervous I wouldn't be able ask.</b></font>
+
+119
+00:07:04,720 --> 00:07:07,160
+<font size="46"><b>No way.. let's go!</b></font>
+
+120
+00:07:07,160 --> 00:07:09,680
+<font size="46"><b>Awesome! I can't wait!</b></font>
+
+121
+00:07:09,680 --> 00:07:13,080
+<font size="46"><b>Me too! Wow, I should take out some cash!</b></font>
+
+122
+00:07:13,700 --> 00:07:15,450
+<font size="46"><b>Don't say it that way!</b></font>
+
+123
+00:07:16,280 --> 00:07:19,100
+<font size="46"><b>Next, we have Ikuta's treasure.</b></font>
+
+124
+00:07:19,100 --> 00:07:23,030
+<font size="46"><b>What might this object, said to bring back memories of the early days, be?</b></font>
+
+125
+00:07:23,500 --> 00:07:28,200
+<font size="46"><b>It's something I received back at the beginning, a video of the "Nogizaka no Uta" choreography.</b></font>
+
+126
+00:07:28,200 --> 00:07:30,300
+<font size="46"><b>I don't think any of you have seen it before.</b></font>
+
+127
+00:07:30,560 --> 00:07:32,560
+<font size="46"><b>The reason I have it is</b></font>
+
+128
+00:07:32,560 --> 00:07:35,840
+<font size="46"><b>It was the day before my high school entrance exams so I couldn't go.</b></font>
+
+129
+00:07:35,840 --> 00:07:40,970
+<font size="46"><b>So I had a staff member take a rough video and send it to me.</b></font>
+
+130
+00:07:40,970 --> 00:07:42,200
+<font size="46"><b>I wanna see it.</b></font>
+
+131
+00:07:42,200 --> 00:07:42,860
+<font size="46"><b>- You have it?</b></font>
+
+132
+00:07:42,870 --> 00:07:45,580
+<font size="46"><b>I have it.</b></font>
+
+133
+00:07:45,580 --> 00:07:47,580
+<font size="46"><b>Scary!</b></font>
+
+134
+00:07:47,580 --> 00:07:49,390
+<font size="46"><b>That's not a treasure!</b></font>
+
+135
+00:07:49,390 --> 00:07:51,680
+<font size="46"><b>- It is treasure!
+- No, it's trash!</b></font>
+
+136
+00:07:52,090 --> 00:07:53,080
+<font size="46"><b>In our lesson clothes, right?</b></font>
+
+137
+00:07:53,080 --> 00:07:54,200
+<font size="46"><b>- Yup!</b></font>
+
+138
+00:07:54,330 --> 00:07:56,620
+<font size="46"><b>No! You can't! I'm not wearing make-up!</b></font>
+
+139
+00:07:57,400 --> 00:07:59,840
+<font size="46"><b>Let us take a look!</b></font>
+
+140
+00:07:59,840 --> 00:08:07,020
+<font size="46"><b>Here is the 3 year old choreography video from their pre-debut days.</b></font>
+
+141
+00:08:10,200 --> 00:08:13,160
+<font size="46"><b>No way! No!</b></font>
+
+142
+00:08:15,400 --> 00:08:16,690
+<font size="46"><b>Stop it!</b></font>
+
+143
+00:08:18,500 --> 00:08:21,030
+<font size="46"><b>Stop! Stop!</b></font>
+
+144
+00:08:25,120 --> 00:08:26,990
+<font size="46"><b>No way!</b></font>
+
+145
+00:08:28,150 --> 00:08:30,820
+<font size="46"><b>Please... just...</b></font>
+
+146
+00:08:32,340 --> 00:08:34,640
+<font size="46"><b>Wait! Wait!</b></font>
+
+147
+00:08:42,440 --> 00:08:44,300
+<font size="46"><b>What were you thinking showing this?!</b></font>
+
+148
+00:08:44,300 --> 00:08:46,750
+<font size="46"><b>I thought Ikoma-chan was so cute in it!</b></font>
+
+149
+00:08:46,750 --> 00:08:48,640
+<font size="46"><b>I'm hideous!!</b></font>
+
+150
+00:08:48,640 --> 00:08:51,420
+<font size="46"><b>That's too much!</b></font>
+
+151
+00:08:51,930 --> 00:08:54,230
+<font size="46"><b>You're very expressive about that!</b></font>
+
+152
+00:08:54,300 --> 00:08:55,560
+<font size="46"><b>This is terrible!</b></font>
+
+153
+00:08:55,560 --> 00:08:57,860
+<font size="46"><b>What are we all holding?</b></font>
+
+154
+00:08:57,860 --> 00:08:59,170
+<font size="46"><b>Wooden chopsticks!</b></font>
+
+155
+00:08:59,170 --> 00:08:59,170
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an5}Dancing with wooden chopsticks</b></font>
+
+156
+00:08:59,170 --> 00:09:06,140
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an5}Dancing with wooden chopsticks</b></font>
+
+157
+00:09:06,940 --> 00:09:08,280
+<font size="46"><b>You watch this?</b></font>
+
+158
+00:09:08,280 --> 00:09:12,190
+<font size="46"><b>When I was cleaning, I found it and I felt like watching it.</b></font>
+
+159
+00:09:12,930 --> 00:09:15,880
+<font size="46"><b>But you shouldn't have brought it here!</b></font>
+
+160
+00:09:16,210 --> 00:09:21,040
+<font size="46"><b>Ah, but if you look back at the early days, don't you feel like working hard again?</b></font>
+
+161
+00:09:21,720 --> 00:09:25,710
+<font size="46"><b>I mean, back then, weren't we so frantic!?</b></font>
+
+162
+00:09:25,910 --> 00:09:27,780
+<font size="46"><b>We were so unfashionable... what about now?</b></font>
+
+163
+00:09:27,780 --> 00:09:29,270
+<font size="46"><b>Ah.. I wonder...</b></font>
+
+164
+00:09:29,270 --> 00:09:32,760
+<font size="46"><b>You're not unfashionable anymore. Look at this sharp looking necklace!</b></font>
+
+165
+00:09:32,760 --> 00:09:34,980
+<font size="46"><b>Trying harder because you're in AKB?</b></font>
+
+166
+00:09:36,480 --> 00:09:39,620
+<font size="46"><b>Matsui Rena-san joined recently, right?</b></font>
+
+167
+00:09:39,620 --> 00:09:42,410
+<font size="46"><b>What was your first impression of her?</b></font>
+
+168
+00:09:42,880 --> 00:09:45,050
+<font size="46"><b>- Rena-san? 
+- When I first saw her I was like</b></font>
+
+169
+00:09:45,050 --> 00:09:48,690
+<font size="46"><b>"Ah! It's really her!" That memory really stands out.</b></font>
+
+170
+00:09:48,690 --> 00:09:54,050
+<font size="46"><b>But of course, we weren't thinking that Rena-san would join us...</b></font>
+
+171
+00:09:54,050 --> 00:09:57,840
+<font size="46"><b>When her concurrency began, we were all very nervous.</b></font>
+
+172
+00:09:57,840 --> 00:10:01,300
+<font size="46"><b>But she eased our nervousness for us...</b></font>
+
+173
+00:10:01,300 --> 00:10:03,520
+<font size="46"><b>And now we really fit together.</b></font>
+
+174
+00:10:03,520 --> 00:10:07,740
+<font size="46"><b>I'm really grateful that she's so considerate.</b></font>
+
+175
+00:10:08,090 --> 00:10:12,650
+<font size="46"><b>Was there any member you found difficult to talk to?</b></font>
+
+176
+00:10:13,000 --> 00:10:15,140
+<font size="46"><b>Someone that you get along with now.</b></font>
+
+177
+00:10:15,140 --> 00:10:18,040
+<font size="46"><b>During lessons, Ami was always late.</b></font>
+
+178
+00:10:18,040 --> 00:10:20,980
+<font size="46"><b>That happened every time!</b></font>
+
+179
+00:10:21,460 --> 00:10:23,930
+<font size="46"><b>You were late all the time.</b></font>
+
+180
+00:10:23,930 --> 00:10:26,460
+<font size="46"><b>She always took her time eating cold noodles.</b></font>
+
+181
+00:10:26,460 --> 00:10:28,840
+<font size="46"><b>- Cold noodles?
+- Really slowly!</b></font>
+
+182
+00:10:28,840 --> 00:10:31,040
+<font size="46"><b>You were late but you were still eating cold noodles!</b></font>
+
+183
+00:10:31,040 --> 00:10:34,570
+<font size="46"><b>- I remember thinking she must be a real big shot...
+- A big shot?!</b></font>
+
+184
+00:10:34,570 --> 00:10:37,100
+<font size="46"><b>Well then, let's move on to the next event.</b></font>
+
+185
+00:10:37,740 --> 00:10:39,990
+<font size="46"><b>But... before that...</b></font>
+
+186
+00:10:40,870 --> 00:10:42,440
+<font size="46"><b>It's already Christmas, huh?</b></font>
+
+187
+00:10:42,440 --> 00:10:44,440
+<font size="46"><b>Yeah, one year just flew by.</b></font>
+
+188
+00:10:44,440 --> 00:10:46,870
+<font size="46"><b>What is Ikoma-chan wishing for this year?</b></font>
+
+189
+00:10:49,960 --> 00:10:51,180
+<font size="46"><b>It's a secret.</b></font>
+
+190
+00:10:51,180 --> 00:10:54,660
+<font size="46"><b>A secret? Why? Tell me! I want to know!</b></font>
+
+191
+00:10:54,660 --> 00:10:56,100
+<font size="46"><b>What about Ikuchan?</b></font>
+
+192
+00:10:56,420 --> 00:10:59,300
+<font size="46"><b>- Then mine's a secret as well.
+- Eh, why?</b></font>
+
+193
+00:10:59,300 --> 00:11:03,300
+<font size="46"><b>Well then, let's both wish for Santa to come.</b></font>
+
+194
+00:11:03,300 --> 00:11:04,950
+<font size="46"><b>- Alright, let's wish for that!</b></font>
+
+195
+00:11:05,000 --> 00:11:06,130
+<font size="46"><b>Ready, set...</b></font>
+
+196
+00:11:06,130 --> 00:11:10,180
+<font size="46"><b>Santa, please come to our place as well!</b></font>
+
+197
+00:11:10,180 --> 00:11:13,800
+<font size="46"><b>Merry Christmas!</b></font>
+
+198
+00:11:14,650 --> 00:11:18,930
+<font size="46"><b>Ikuta Erika's first dokkiri is a huge success!</b></font>
+
+199
+00:11:18,970 --> 00:11:18,970
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an5}Dokkiri huge success</b></font>
+
+200
+00:11:18,970 --> 00:11:19,360
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an5}<font color="#d72424">Dokkiri huge success</font></b></font>
+
+201
+00:11:19,360 --> 00:11:21,670
+<font size="46"><b>I came over because you called!</b></font>
+
+202
+00:11:21,670 --> 00:11:23,180
+<font size="46"><b>I'm Santa after all!</b></font>
+
+203
+00:11:23,180 --> 00:11:24,940
+<font size="46"><b>Wait... this is my first time!</b></font>
+
+204
+00:11:24,950 --> 00:11:26,000
+<font size="46"><b>Eh? What is?</b></font>
+
+205
+00:11:26,260 --> 00:11:28,280
+<font size="46"><b>I was shocked!</b></font>
+
+206
+00:11:28,280 --> 00:11:30,120
+<font size="46"><b>- I was really surprised. 
+- You were?</b></font>
+
+207
+00:11:30,120 --> 00:11:33,000
+<font size="46"><b>Well, since I came to fulfill everyone's dreams...</b></font>
+
+208
+00:11:33,000 --> 00:11:34,880
+<font size="46"><b>- Really?
+- Let's go together. It's over there.</b></font>
+
+209
+00:11:34,880 --> 00:11:37,340
+<font size="46"><b>I'll fulfill them over there. Let's go!</b></font>
+
+210
+00:11:37,340 --> 00:11:41,480
+<font size="46"><b>The event of fulfilling the members' wishes starts now!</b></font>
+
+211
+00:11:42,100 --> 00:11:43,780
+<font size="46"><b>Merry Christmas!</b></font>
+
+212
+00:11:43,780 --> 00:11:46,000
+<font size="46"><b>- Merry Christmas!</b></font>
+
+213
+00:11:46,000 --> 00:11:50,320
+<font size="46"><b>How nice. Has everyone made wishes to Santa this year as well?</b></font>
+
+214
+00:11:50,320 --> 00:11:51,150
+<font size="46"><b>Yes!</b></font>
+
+215
+00:11:51,150 --> 00:11:53,580
+<font size="46"><b>Those wishes have been received by Ijiri-Santa!</b></font>
+
+216
+00:11:53,640 --> 00:11:53,640
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an5}Rising expectations <font face="Arial">♥</font></b></font>
+
+217
+00:11:53,640 --> 00:11:54,860
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an5}<font color="#ff329b">Rising expectations <font face="Arial">♥</font></font></b></font>
+
+218
+00:11:54,860 --> 00:12:00,120
+<font size="46"><b>From now on, each and everyone's dream presents...</b></font>
+
+219
+00:12:00,120 --> 00:12:02,360
+<font size="46"><b>I'll be giving them to you!</b></font>
+
+220
+00:12:04,040 --> 00:12:10,690
+<font size="46"><b>Ijiri-Santa has prepared Christmas presents which the members honestly wished for.</b></font>
+
+221
+00:12:12,100 --> 00:12:17,840
+<font size="46"><b>However, only the members whose names are written on the balls in the bag will receive it.</b></font>
+
+222
+00:12:19,090 --> 00:12:24,460
+<font size="46"><b>So, what kind of presents did the members wish for?</b></font>
+
+223
+00:12:25,100 --> 00:12:26,170
+<font size="46"><b>Everyone was serious about it?</b></font>
+
+224
+00:12:26,170 --> 00:12:28,450
+<font size="46"><b>Really serious!</b></font>
+
+225
+00:12:28,450 --> 00:12:29,900
+<font size="46"><b>Here I go!</b></font>
+
+226
+00:12:30,470 --> 00:12:33,680
+<font size="46"><b>Starting off... The first Santa present is for...</b></font>
+
+227
+00:12:38,300 --> 00:12:39,140
+<font size="46"><b>Hori-san!</b></font>
+
+228
+00:12:39,660 --> 00:12:40,490
+<font size="46"><b>Eh? How nice...</b></font>
+
+229
+00:12:40,490 --> 00:12:41,500
+<font size="46"><b>- Hori-san, go ahead!</b></font>
+
+230
+00:12:41,500 --> 00:12:42,320
+<font size="46"><b>Alright!</b></font>
+
+231
+00:12:42,320 --> 00:12:44,800
+<font size="46"><b>- Go!
+- So nice...</b></font>
+
+232
+00:12:45,740 --> 00:12:50,440
+<font size="46"><b>The presents will be received in this separate room.</b></font>
+
+233
+00:12:51,540 --> 00:12:56,710
+<font size="46"><b>What did the 2nd gen Hori Miona wish from Santa?</b></font>
+
+234
+00:12:58,790 --> 00:13:01,430
+<font size="46"><b>Without further ado, open the present!</b></font>
+
+235
+00:13:01,430 --> 00:13:03,080
+<font size="46"><b>Here goes!</b></font>
+
+236
+00:13:06,290 --> 00:13:09,460
+<font size="46"><b>Contained in a formidable box, the contents are...?</b></font>
+
+237
+00:13:11,220 --> 00:13:11,960
+<font size="46"><b>What is it?</b></font>
+
+238
+00:13:12,540 --> 00:13:13,960
+<font size="46"><b>Eh, what is that?</b></font>
+
+239
+00:13:14,090 --> 00:13:14,090
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an5}Very happy!!</b></font>
+
+240
+00:13:14,090 --> 00:13:15,920
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an5}<font color="#ff3499">Very happy!!</font></b></font>
+
+241
+00:13:15,920 --> 00:13:17,160
+<font size="46"><b>What is it?</b></font>
+
+242
+00:13:17,720 --> 00:13:19,160
+<font size="46"><b>Yay!</b></font>
+
+243
+00:13:19,160 --> 00:13:22,760
+<font size="46"><b>I haven't heard her with that kind of excitement before.</b></font>
+
+244
+00:13:23,120 --> 00:13:25,500
+<font size="46"><b>Hori-san! Right, what is this?</b></font>
+
+245
+00:13:25,500 --> 00:13:30,640
+<font size="46"><b>This is... I asked for the tastiest meat in Japan.</b></font>
+
+246
+00:13:30,780 --> 00:13:32,150
+<font size="46"><b>How much was it?</b></font>
+
+247
+00:13:32,150 --> 00:13:34,480
+<font size="46"><b>- This is...
+- 10,000 yen!</b></font>
+
+248
+00:13:35,340 --> 00:13:37,760
+<font size="46"><b>That's expensive!</b></font>
+
+249
+00:13:37,980 --> 00:13:39,960
+<font size="46"><b>- 10,000 yen...
+- That looks amazing!</b></font>
+
+250
+00:13:39,960 --> 00:13:41,480
+<font size="46"><b>Please do it with your best smile, it's 10,000 yen after all.</b></font>
+
+251
+00:13:41,480 --> 00:13:43,740
+<font size="46"><b>- Yes, itadakimasu!</b></font>
+
+252
+00:13:47,660 --> 00:13:47,660
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an5}<font face="Arial">Shivering in delight</font></b></font>
+
+253
+00:13:47,660 --> 00:13:48,500
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an5}<font face="Arial"><font color="#fe359c">Shivering in delight</font></font></b></font>
+
+254
+00:13:48,500 --> 00:13:50,340
+<font size="46"><b>So cute!</b></font>
+
+255
+00:13:50,340 --> 00:13:50,690
+<font size="46"><b>- Cute! 
+- It looks delicious!</b></font>
+
+256
+00:13:50,690 --> 00:13:50,690
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an5}Immediately rice</b></font>
+
+257
+00:13:50,690 --> 00:13:53,660
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an5}Immediately rice</b></font>
+
+258
+00:13:53,660 --> 00:13:57,640
+<font size="46"><b>Since you're young, you go to the rice right away.</b></font>
+
+259
+00:13:57,640 --> 00:14:01,130
+<font size="46"><b>Though adults don't go for the rice, 
+ you went for it right away!</b></font>
+
+260
+00:14:01,130 --> 00:14:04,250
+<font size="46"><b>Hori Miona-san, Merry Christmas!</b></font>
+
+261
+00:14:07,370 --> 00:14:10,080
+<font size="46"><b>The next member to receive a present is...?</b></font>
+
+262
+00:14:10,080 --> 00:14:11,820
+<font size="46"><b>This person!</b></font>
+
+263
+00:14:11,820 --> 00:14:14,480
+<font size="46"><b>Merry... ah! Ikoma-chan!</b></font>
+
+264
+00:14:14,980 --> 00:14:16,090
+<font size="46"><b>Really?!</b></font>
+
+265
+00:14:16,090 --> 00:14:17,900
+<font size="46"><b>Please go to the next room.</b></font>
+
+266
+00:14:18,540 --> 00:14:21,820
+<font size="46"><b>What did Ikoma-san wish from Santa?</b></font>
+
+267
+00:14:22,150 --> 00:14:24,890
+<font size="46"><b>Let's open the present!</b></font>
+
+268
+00:14:26,420 --> 00:14:28,530
+<font size="46"><b>I'd hate it if it's a jack-in-the-box.</b></font>
+
+269
+00:14:29,610 --> 00:14:30,230
+<font size="46"><b>Huh? Wait...</b></font>
+
+270
+00:14:30,230 --> 00:14:30,230
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an5}Alarm clock</b></font>
+
+271
+00:14:30,230 --> 00:14:32,280
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an5}<font color="#f02f30">Alarm clock</font></b></font>
+
+272
+00:14:32,280 --> 00:14:34,630
+<font size="46"><b>Really? Really?</b></font>
+
+273
+00:14:34,630 --> 00:14:37,740
+<font size="46"><b>This alarm clock has a certain gimmick...</b></font>
+
+274
+00:14:37,970 --> 00:14:40,200
+<font size="46"><b>Lady Rina...</b></font>
+
+275
+00:14:40,200 --> 00:14:41,810
+<font size="46"><b>It's time to wake up.</b></font>
+
+276
+00:14:42,880 --> 00:14:42,880
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an5}<font face="Arial">Huge scream!!!</font></b></font>
+
+277
+00:14:42,880 --> 00:14:44,460
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an5}<font face="Arial"><font color="#d7221b">Huge scream!!!</font></font></b></font>
+
+278
+00:14:44,460 --> 00:14:45,180
+<font size="46"><b>What?</b></font>
+
+279
+00:14:45,260 --> 00:14:46,410
+<font size="46"><b>Is she happy?</b></font>
+
+280
+00:14:46,410 --> 00:14:47,720
+<font size="46"><b>- Thank you very much!!!</b></font>
+
+281
+00:14:47,880 --> 00:14:49,720
+<font size="46"><b>Her reaction's the best.</b></font>
+
+282
+00:14:49,810 --> 00:14:53,260
+<font size="46"><b>Well then, please report that joy to the other members...</b></font>
+
+283
+00:14:53,500 --> 00:14:55,910
+<font size="46"><b>Did you want a clock that badly?</b></font>
+
+284
+00:14:56,300 --> 00:14:58,560
+<font size="46"><b>It's the inside of the clock ♥</b></font>
+
+285
+00:14:58,560 --> 00:15:00,560
+<font size="46"><b>- The contents. 
+- What's in it?</b></font>
+
+286
+00:15:00,560 --> 00:15:01,790
+<font size="46"><b>A voice ♥</b></font>
+
+287
+00:15:01,800 --> 00:15:01,800
+<font size="30"><b>{\an8}Ono Daisuke, a famous voice actor best known as Sebastian Michaels from the anime Kuroshitsuji</b></font>
+
+288
+00:15:01,800 --> 00:15:02,600
+<font size="46"><b>- Whose voice...?
+- <i>Ono-D!</i></b></font>
+
+289
+00:15:02,600 --> 00:15:02,600
+<font size="20"><b>{\an5}<font face="Arial Rounded MT Bold"><font size="34">Attention</font></font></b></font>
+
+290
+00:15:02,600 --> 00:15:02,600
+<font size="20"><b>{\an5}<font face="Arial Rounded MT Bold"><font size="34">Attention</font></font></b></font>
+
+291
+00:15:02,600 --> 00:15:02,600
+<font size="20"><b>{\an5}<font face="Arial Rounded MT Bold"><font size="34">Attention</font></font></b></font>
+
+292
+00:15:02,600 --> 00:15:04,560
+<font size="20"><b>{\an5}<font face="Arial Rounded MT Bold"><font size="34"><font color="#fbfcfe">Attention</font></font></font></b></font>
+
+293
+00:15:04,560 --> 00:15:06,130
+<font size="46"><b>That's dangerous!</b></font>
+
+294
+00:15:06,130 --> 00:15:08,280
+<font size="46"><b>- Eh? What is it? 
+- Ono-D is dangerous!</b></font>
+
+295
+00:15:08,280 --> 00:15:10,040
+<font size="46"><b>There's a voice actor here!</b></font>
+
+296
+00:15:10,040 --> 00:15:10,040
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an5}Wailing!?</b></font>
+
+297
+00:15:10,040 --> 00:15:10,850
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an5}<font color="#4ec2fa">Wailing!?</font></b></font>
+
+298
+00:15:10,850 --> 00:15:13,100
+<font size="46"><b>Kotoko is crying!</b></font>
+
+299
+00:15:13,100 --> 00:15:14,100
+<font size="46"><b>Ah, I thought you were talking about Ono the director.</b></font>
+
+300
+00:15:14,100 --> 00:15:14,690
+<font size="46"><b>- That's not the one!</b></font>
+
+301
+00:15:14,690 --> 00:15:14,690
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an5}Ono director = <font color="#f12e31">Wrong</font></b></font>
+
+302
+00:15:14,690 --> 00:15:17,800
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an5}Ono director = <font color="#f12e31">Wrong</font></b></font>
+
+303
+00:15:17,800 --> 00:15:19,440
+<font size="46"><b>Did this do it?</b></font>
+
+304
+00:15:19,920 --> 00:15:22,860
+<font size="46"><b>- Ah, I'm sorry...
+- Please let me hear it later...</b></font>
+
+305
+00:15:22,860 --> 00:15:24,860
+<font size="46"><b>What's in it? Let us hear?</b></font>
+
+306
+00:15:25,800 --> 00:15:27,600
+<font size="46"><b>I love you.</b></font>
+
+307
+00:15:28,900 --> 00:15:32,300
+<font size="46"><b>Rina, do your best!</b></font>
+
+308
+00:15:34,670 --> 00:15:36,870
+<font size="46"><b>He said "I love you!"</b></font>
+
+309
+00:15:36,870 --> 00:15:40,500
+<font size="46"><b>Just before he said he loves you, he said your name, right?</b></font>
+
+310
+00:15:40,570 --> 00:15:40,570
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an5}<font face="Arial">Huge scream #2</font></b></font>
+
+311
+00:15:40,570 --> 00:15:43,440
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an5}<font face="Arial"><font color="#d7221b">Huge scream #2</font></font></b></font>
+
+312
+00:15:44,560 --> 00:15:47,260
+<font size="46"><b>Ikoma Rina-san, Merry Christmas!</b></font>
+
+313
+00:15:50,520 --> 00:15:53,740
+<font size="46"><b>After this, the presents continue to be delivered.</b></font>
+
+314
+00:15:54,490 --> 00:15:56,700
+<font size="46"><b>For captain Sakurai...</b></font>
+
+315
+00:15:58,140 --> 00:16:00,770
+<font size="46"><b>It's a Santa Claus cosplay outfit.</b></font>
+
+316
+00:16:01,860 --> 00:16:01,860
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an5}Santa Husband & Wife?</b></font>
+
+317
+00:16:01,860 --> 00:16:02,900
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an5}<font color="#ff3098">Santa Husband & Wife?</font></b></font>
+
+318
+00:16:02,900 --> 00:16:05,050
+<font size="46"><b>It's weird!</b></font>
+
+319
+00:16:05,460 --> 00:16:09,940
+<font size="46"><b>For Hashimoto, facial equipment with a real purpose.</b></font>
+
+320
+00:16:11,350 --> 00:16:12,540
+<font size="46"><b>A steamer...</b></font>
+
+321
+00:16:12,540 --> 00:16:13,840
+<font size="46"><b>Well then, let's continue.</b></font>
+
+322
+00:16:13,840 --> 00:16:16,480
+<font size="46"><b>And the next member elected is...</b></font>
+
+323
+00:16:16,480 --> 00:16:18,560
+<font size="46"><b>Sasaki!</b></font>
+
+324
+00:16:18,760 --> 00:16:20,620
+<font size="46"><b>It's not the time to cry!</b></font>
+
+325
+00:16:20,750 --> 00:16:27,470
+<font size="46"><b>What did 2nd gen Sasaki, who just cried over Ikoma's present, request from Santa?</b></font>
+
+326
+00:16:29,660 --> 00:16:31,160
+<font size="46"><b>Eh? You're kidding me!</b></font>
+
+327
+00:16:33,210 --> 00:16:35,800
+<font size="46"><b>Wait... It can't be!?</b></font>
+
+328
+00:16:36,440 --> 00:16:38,060
+<font size="46"><b>This...</b></font>
+
+329
+00:16:38,430 --> 00:16:40,830
+<font size="30"><b>{\an8}Ticket for a signed autograph from Mashima Hiro-sensei</b></font>
+
+330
+00:16:40,830 --> 00:16:40,830
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an5}Wailing once again</b></font>
+
+331
+00:16:40,830 --> 00:16:41,140
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an5}<font color="#4dc3fc">Wailing once again</font></b></font>
+
+332
+00:16:41,140 --> 00:16:43,270
+<font size="46"><b>What's written on it...</b></font>
+
+333
+00:16:45,100 --> 00:16:47,140
+<font size="46"><b>Thank you very much...</b></font>
+
+334
+00:16:47,880 --> 00:16:50,140
+<font size="46"><b>What's wrong?</b></font>
+
+335
+00:16:50,280 --> 00:16:52,740
+<font size="46"><b>You're in tears!</b></font>
+
+336
+00:16:53,450 --> 00:16:56,900
+<font size="46"><b>You were really wailing when you opened it...</b></font>
+
+337
+00:16:56,900 --> 00:16:58,250
+<font size="46"><b>She smiled.</b></font>
+
+338
+00:16:58,250 --> 00:17:03,080
+<font size="46"><b>With Ikoma-chan's turn, you were so envious that you cried, but now...</b></font>
+
+339
+00:17:03,900 --> 00:17:07,380
+<font size="46"><b>Seeing you cry like this, something better must have come along. What was it?</b></font>
+
+340
+00:17:08,800 --> 00:17:12,630
+<font size="46"><b>A ticket for an autograph from Mashima Hiro-sensei.</b></font>
+
+341
+00:17:15,590 --> 00:17:20,120
+<font size="46"><b>- That's wonderful! 
+ - He's the mangaka of Fairy Tail and Rave Master...</b></font>
+
+342
+00:17:20,130 --> 00:17:23,940
+<font size="46"><b>His drawings are really good, and it's always been my dream to meet him.</b></font>
+
+343
+00:17:23,940 --> 00:17:23,940
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an5}<font face="Times New Roman">Passionate</font></b></font>
+
+344
+00:17:23,940 --> 00:17:26,440
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an5}<font face="Times New Roman"><font color="#f1312e">Passionate</font></font></b></font>
+
+345
+00:17:26,440 --> 00:17:30,160
+<font size="46"><b>Really... I'll save it as an heirloom.</b></font>
+
+346
+00:17:30,520 --> 00:17:31,590
+<font size="46"><b>Right.</b></font>
+
+347
+00:17:31,590 --> 00:17:35,460
+<font size="46"><b>After this, she comes face to face with her admired Mashima-sensei.</b></font>
+
+348
+00:17:36,530 --> 00:17:39,470
+<font size="46"><b>I'm really happy...</b></font>
+
+349
+00:17:40,900 --> 00:17:44,580
+<font size="46"><b>Geinin 3, DVD & Blu-ray sales have been decided!</b></font>
+
+350
+00:17:44,780 --> 00:17:46,090
+<font size="46"><b></b></font>
+
+351
+00:17:46,090 --> 00:17:47,360
+<font size="46"><b>It's impossible!</b></font>
+
+352
+00:17:48,050 --> 00:17:51,210
+<font size="46"><b>Fully packed with making-of footage and bonus content!</b></font>
+
+353
+00:17:51,380 --> 00:17:53,130
+<font size="46"><b>Me too...</b></font>
+
+354
+00:17:53,840 --> 00:17:54,920
+<font size="46"><b>I love you!</b></font>
+
+355
+00:17:55,660 --> 00:18:00,070
+<font size="46"><b>To fulfill Sasaki Kotoko's dream, 
+ we head to where Mashima-sensei is.</b></font>
+
+356
+00:18:03,640 --> 00:18:05,400
+<font size="46"><b>Good day...</b></font>
+
+357
+00:18:05,400 --> 00:18:07,400
+<font size="46"><b>Hello!</b></font>
+
+358
+00:18:07,850 --> 00:18:09,480
+<font size="46"><b>How is it?</b></font>
+
+359
+00:18:09,520 --> 00:18:09,520
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an5}Wailing 5 seconds in</b></font>
+
+360
+00:18:09,520 --> 00:18:10,040
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an5}<font color="#4ac4fe">Wailing <font color="#000000">5 seconds in</font></font></b></font>
+
+361
+00:18:10,040 --> 00:18:12,800
+<font size="46"><b>It's really him...</b></font>
+
+362
+00:18:13,390 --> 00:18:18,340
+<font size="46"><b>To Sasaki who cries within 5 seconds of meeting him, 
+ Mashima-sensei presents his autograph.</b></font>
+
+363
+00:18:18,430 --> 00:18:22,200
+<font size="46"><b>I intended to draw Sasaki Kotoko-chan...</b></font>
+
+364
+00:18:23,380 --> 00:18:27,980
+<font size="46"><b>With this surprise caricature, Sasaki's reaction is..?</b></font>
+
+365
+00:18:29,170 --> 00:18:29,170
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an5}Wailing</b></font>
+
+366
+00:18:29,170 --> 00:18:29,880
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an5}<font color="#4ac4ff">Wailing</font></b></font>
+
+367
+00:18:29,880 --> 00:18:31,660
+<font size="46"><b>I keep crying...</b></font>
+
+368
+00:18:31,660 --> 00:18:35,890
+<font size="46"><b>I heard you were a fan of Gray, so I drew him...</b></font>
+
+369
+00:18:35,890 --> 00:18:38,850
+<font size="46"><b>And this is Musica from one of my previous works...</b></font>
+
+370
+00:18:38,850 --> 00:18:40,280
+<font size="46"><b>I heard you also like him.</b></font>
+
+371
+00:18:40,360 --> 00:18:41,820
+<font size="46"><b>Please accept my gift.</b></font>
+
+372
+00:18:41,820 --> 00:18:44,650
+<font size="46"><b>Thank you very much.</b></font>
+
+373
+00:18:45,190 --> 00:18:48,890
+<font size="46"><b>Mashima-sensei, thank you for your cooperation!</b></font>
+
+374
+00:18:48,890 --> 00:18:52,060
+<font size="46"><b>Sasaki Kotoko-san, Merry Christmas!</b></font>
+
+375
+00:18:52,710 --> 00:18:56,800
+<font size="46"><b>So, this will be the last present. Who will be drawn?</b></font>
+
+376
+00:18:57,270 --> 00:19:04,360
+<font size="46"><b>Akimoto.</b></font>
+
+377
+00:19:04,360 --> 00:19:09,440
+<font size="46"><b>After this, a huge panic because of Akimoto's unthinkable Christmas present?</b></font>
+
+378
+00:19:09,440 --> 00:19:10,100
+<font size="46"><b>Come on!</b></font>
+
+379
+00:19:10,100 --> 00:19:11,300
+<font size="46"><b>Eh? What is it?</b></font>
+
+380
+00:19:13,340 --> 00:19:15,740
+<font size="46"><b>What exactly made an appearance?</b></font>
+
+381
+00:19:15,890 --> 00:19:18,960
+<font size="46"><b>Here's an announcement from the program!</b></font>
+
+382
+00:19:18,960 --> 00:19:27,860
+<font size="46"><b>Nogibingo!3 will be available for streaming on Hulu and NTV after the broadcast!</b></font>
+
+383
+00:19:28,040 --> 00:19:30,920
+<font size="46"><b>For more details, go to the program's homepage!</b></font>
+
+384
+00:19:33,200 --> 00:19:36,760
+<font size="46"><b>The present Akimoto requested from Santa...</b></font>
+
+385
+00:19:36,760 --> 00:19:38,120
+<font size="46"><b>Will be unveiled!</b></font>
+
+386
+00:19:38,120 --> 00:19:40,120
+<font size="46"><b>Present, come on!</b></font>
+
+387
+00:19:40,120 --> 00:19:42,120
+<font size="46"><b>Eh? What is it?</b></font>
+
+388
+00:19:43,410 --> 00:19:43,410
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an5}A snake appears!?</b></font>
+
+389
+00:19:43,410 --> 00:19:48,020
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an5}<font color="#732abc">A snake appears!?</font></b></font>
+
+390
+00:19:48,440 --> 00:19:50,170
+<font size="46"><b>What did you want to do with this?</b></font>
+
+391
+00:19:50,170 --> 00:19:53,540
+<font size="46"><b>I wanted to wear a snake on my neck.</b></font>
+
+392
+00:19:53,540 --> 00:19:56,360
+<font size="46"><b>You wrote something like that?</b></font>
+
+393
+00:19:56,360 --> 00:19:57,640
+<font size="46"><b>Is it okay like that?</b></font>
+
+394
+00:19:57,640 --> 00:20:00,180
+<font size="46"><b>Well then, please.</b></font>
+
+395
+00:20:00,180 --> 00:20:01,560
+<font size="46"><b>Ah, that's nice.</b></font>
+
+396
+00:20:05,790 --> 00:20:06,000
+<font size="46"><b>Staff!</b></font>
+
+397
+00:20:06,000 --> 00:20:06,000
+<font size="20"><b>{\an5}<font face="Arial Rounded MT Bold"><font size="34">Attention</font></font></b></font>
+
+398
+00:20:06,000 --> 00:20:06,000
+<font size="20"><b>{\an5}<font face="Arial Rounded MT Bold"><font size="34">Attention</font></font></b></font>
+
+399
+00:20:06,000 --> 00:20:07,670
+<font size="20"><b>{\an5}<font face="Arial Rounded MT Bold"><font size="34"><font color="#fefaf3">Attention</font></font></font></b></font>
+
+400
+00:20:07,670 --> 00:20:07,670
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an5}A snake's skirt-flip?</b></font>
+
+401
+00:20:07,670 --> 00:20:11,570
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an5}A snake's <font color="#ff329d">skirt-flip?</font></b></font>
+
+402
+00:20:13,510 --> 00:20:15,590
+<font size="46"><b>It's a perverted snake!</b></font>
+
+403
+00:20:16,660 --> 00:20:19,930
+<font size="46"><b>Akimoto Manatsu-san, Merry Christmas!</b></font>
+
+404
+00:20:20,700 --> 00:20:23,330
+<font size="46"><b>By the way, Saito Yuuri-san...</b></font>
+
+405
+00:20:23,330 --> 00:20:24,840
+<font size="46"><b>What did you write?</b></font>
+
+406
+00:20:24,840 --> 00:20:28,640
+<font size="46"><b>I want a Nogibingo! 4!</b></font>
+
+407
+00:20:29,900 --> 00:20:34,360
+<font size="46"><b>I think this is everyone's wish, so pray for another chance like this to come...</b></font>
+
+408
+00:20:34,360 --> 00:20:37,560
+<font size="46"><b>Well then, let's meet again when the time comes!</b></font>
+
+409
+00:20:38,180 --> 00:20:39,620
+<font size="46"><b>Bye bye!</b></font>
+
+410
+00:20:39,620 --> 00:20:42,200
+<font size="46"><b>Thank you!</b></font>
+
+411
+00:20:42,450 --> 00:20:44,770
+<font size="46"><b>Did you come here by yourselft@$%#?</b></font>
+
+412
+00:20:44,770 --> 00:20:49,720
+<font size="46"><b>After this, a sneak peek of the 46 minute special version of Nogiroom.</b></font>
+
+413
+00:20:50,870 --> 00:20:52,990
+<font size="46"><b>A love letter has arrived.</b></font>
+
+414
+00:20:53,560 --> 00:20:56,090
+<font size="46"><b>It's from Ijiri-san!</b></font>
+
+415
+00:20:56,170 --> 00:20:57,900
+<font size="46"><b>Oh my!</b></font>
+
+416
+00:20:59,100 --> 00:21:01,120
+<font size="46"><b>NOGIROOM!</b></font>
+
+417
+00:21:01,900 --> 00:21:05,740
+<font size="46"><b>First off, the backstage talk that wasn't aired.</b></font>
+
+418
+00:21:05,740 --> 00:21:10,460
+<font size="46"><b>Kazumin, you had that thing that wasn't aired, right?</b></font>
+
+419
+00:21:10,490 --> 00:21:12,960
+<font size="46"><b>- What was it again?
+- A mousou request...</b></font>
+
+420
+00:21:12,960 --> 00:21:14,900
+<font size="46"><b>From the 2nd episode...</b></font>
+
+421
+00:21:14,900 --> 00:21:17,140
+<font size="46"><b>Ah, the hostess club one...</b></font>
+
+422
+00:21:17,140 --> 00:21:18,980
+<font size="46"><b>- She did wear...
+- I don't know about this?</b></font>
+
+423
+00:21:18,980 --> 00:21:22,800
+<font size="46"><b>- Your voice was amazing, right?
+- Good evening, I'm Kazumi♥</b></font>
+
+424
+00:21:23,240 --> 00:21:25,340
+<font size="46"><b>Good evening, I'm Kazumi♥</b></font>
+
+425
+00:21:25,340 --> 00:21:27,190
+<font size="46"><b>Did you come here by yourselft@$%#?</b></font>
+
+426
+00:21:27,510 --> 00:21:29,190
+<font size="46"><b>That part!</b></font>
+
+427
+00:21:29,190 --> 00:21:30,800
+<font size="46"><b>I could never say it!</b></font>
+
+428
+00:21:30,800 --> 00:21:32,160
+<font size="46"><b>I understand!</b></font>
+
+429
+00:21:32,160 --> 00:21:33,790
+<font size="46"><b>Uh oh!</b></font>
+
+430
+00:21:33,790 --> 00:21:35,940
+<font size="46"><b>Tissue, tissue!</b></font>
+
+431
+00:21:35,940 --> 00:21:38,330
+<font size="46"><b>Drool! She drooled!</b></font>
+
+432
+00:21:39,560 --> 00:21:42,200
+<font size="46"><b>The photography contest...</b></font>
+
+433
+00:21:43,680 --> 00:21:47,190
+<font size="46"><b>Since Takayama was so particular about taking it, the water got cold.</b></font>
+
+434
+00:21:47,190 --> 00:21:48,940
+<font size="46"><b>Right! Sorry about that!</b></font>
+
+435
+00:21:48,940 --> 00:21:50,940
+<font size="46"><b>You really were in the water?</b></font>
+
+436
+00:21:50,940 --> 00:21:53,200
+<font size="46"><b>Eh? So from this part down?</b></font>
+
+437
+00:21:53,200 --> 00:21:55,780
+<font size="46"><b>From here is... well, it's a secret ♥</b></font>
+
+438
+00:21:58,320 --> 00:22:00,900
+<font size="46"><b>A love letter has arrived.</b></font>
+
+439
+00:22:00,900 --> 00:22:03,300
+<font size="46"><b>It's addressed to Nogizaka46.</b></font>
+
+440
+00:22:03,300 --> 00:22:04,880
+<font size="46"><b>Who would it be?</b></font>
+
+441
+00:22:05,280 --> 00:22:07,880
+<font size="46"><b>It's from Ijiri-san!</b></font>
+
+442
+00:22:07,880 --> 00:22:08,860
+<font size="46"><b>Oh my!</b></font>
+
+443
+00:22:09,830 --> 00:22:16,780
+<font size="46"><b>The continuation of Ijiri's letter with overflowing love will be shown on Hulu after the episode broadcast!</b></font>
+
+444
+00:22:16,780 --> 00:22:18,950
+<font size="46"><b>He's not an Ero-Kappa at all.</b></font>
+
+445
+00:22:18,950 --> 00:22:21,860
+<font size="46"><b>Come see us in our pajama outfits!</b></font>
+
+446
+00:22:21,860 --> 00:22:24,260
+<font size="46"><b>Click here!</b></font>
+
+447
+00:22:25,380 --> 00:22:30,460
+<font size="46"><b>NOGIBINGO! 3! Blu-ray & DVD sales have been decided!</b></font>
+

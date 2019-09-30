@@ -1,0 +1,2557 @@
+1
+00:00:00,000 --> 00:00:00,000
+<font face="Estrangelo Edessa" size="45">==SUB UTAMA MULAI==</font>
+
+2
+00:00:00,000 --> 00:00:00,000
+<font face="Estrangelo Edessa" size="45">==SUB UTAMA SELESAI==</font>
+
+3
+00:00:00,000 --> 00:00:00,000
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}==KOTAK PENJELAS MULAI==</b></font>
+
+4
+00:00:00,000 --> 00:00:00,000
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}==BENTUK KOTAK BIRU===</b></font>
+
+5
+00:00:00,000 --> 00:00:00,000
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}==KOTAK PENJELAS SELESAI==</b></font>
+
+6
+00:00:00,000 --> 00:00:00,000
+<font face="Lucida Sans Unicode" size="40" color="#000000"><b><i>{\an8}==KETERANGAN KUNING MULAI==</i></b></font>
+
+7
+00:00:00,000 --> 00:00:00,000
+<font face="Lucida Sans Unicode" size="40" color="#000000"><b><i>{\an8}Source lirik Ieven Polkka: roykinan.blogspot.co.id</i></b></font>
+
+8
+00:00:00,000 --> 00:00:00,000
+<font face="Arial Rounded MT Bold" size="30"><b>{\an8}.::KETERANGAN KUNING SELESAI::.</b></font>
+
+9
+00:00:00,000 --> 00:00:00,000
+<font face="Arial Rounded MT Bold" size="30"><b>{\an8}==PENJELASAN TAMBAHAN==</b></font>
+
+10
+00:00:00,000 --> 00:00:00,000
+<font face="Lucida Sans Unicode" size="40" color="#000000"><b><i>{\an8}==CREDITS==</i></b></font>
+
+11
+00:00:05,800 --> 00:00:07,850
+<font face="Estrangelo Edessa" size="45">Nogizaka Koujichuu!</font>
+
+12
+00:00:08,120 --> 00:00:08,120
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#fcdd21">BANANAMAN</font></b></font>
+
+13
+00:00:08,120 --> 00:00:08,120
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#000000">Himura Yuuki</font></b></font>
+
+14
+00:00:08,120 --> 00:00:08,420
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#000000">Shitara Osamu</font></b></font>
+
+15
+00:00:08,420 --> 00:00:09,170
+<font face="Estrangelo Edessa" size="45">Don!</font>
+
+16
+00:00:09,220 --> 00:00:12,650
+<font face="Estrangelo Edessa" size="45">Nogizaka Koujichuu has started. We are the MC, Bananaman, <i>Yoroshiku Onegaishimasu</i>.</font>
+
+17
+00:00:12,650 --> 00:00:16,050
+<font face="Estrangelo Edessa" size="45">And here they are, Nogizaka-chan~</font>
+
+18
+00:00:19,950 --> 00:00:21,670
+<font face="Estrangelo Edessa" size="45">Ssssyn!</font>
+
+19
+00:00:21,850 --> 00:00:24,920
+<font face="Estrangelo Edessa" size="45">Well, Himura-san please announce our program today.</font>
+
+20
+00:00:25,050 --> 00:00:25,630
+<font face="Estrangelo Edessa" size="45">Alright~</font>
+
+21
+00:00:25,630 --> 00:00:26,000
+<font face="Estrangelo Edessa" size="45"><font color="#f3f4fa"><font face="Impact">The 3rd</font></font></font>
+
+22
+00:00:26,000 --> 00:00:26,520
+<font face="Estrangelo Edessa" size="45">Do it for me! The 3rd Planning Presentation Competition!</font>
+
+23
+00:00:26,520 --> 00:00:26,890
+<font face="Estrangelo Edessa" size="45"><font color="#fb556d"><b>Do it for me!</b></font></font>
+
+24
+00:00:26,890 --> 00:00:32,190
+<font face="Estrangelo Edessa" size="45"><b><font face="Franklin Gothic Heavy"><font color="#e80c15">PLANNING</font></font></b> <font color="#f2f4f3">PRESENTATION COMPETITION</font></font>
+
+25
+00:00:33,370 --> 00:00:37,600
+<font face="Estrangelo Edessa" size="45"><i>Today's program is to present members' project planning.</i></font>
+
+26
+00:00:37,750 --> 00:00:43,370
+<font face="Estrangelo Edessa" size="45"><i>Those that look interesting will be chosen to be done in the next occasion.</i></font>
+
+27
+00:00:43,820 --> 00:00:44,700
+<font face="Estrangelo Edessa" size="45"><i>First presentation will be delivered by a 2nd Gen member who's too strong, Hori Miona.</i></font>
+
+28
+00:00:44,700 --> 00:00:44,700
+<font face="Estrangelo Edessa" size="45"><b> <font color="#e1e7eb"><font face="Futura Md BT">Presenter</font></font></b></font>
+
+29
+00:00:44,700 --> 00:00:48,720
+<font face="Estrangelo Edessa" size="45"><b><font face="Franklin Gothic Heavy"><font color="#e80c15">HORI</font></font></b> <font color="#f7f8fe">MIONA</font></font>
+
+30
+00:00:48,900 --> 00:00:51,650
+<font face="Estrangelo Edessa" size="45">Well. The plan that I want to do is this.</font>
+
+31
+00:00:52,500 --> 00:00:53,650
+<font face="Estrangelo Edessa" size="45"><i>Jang!</i></font>
+
+32
+00:00:54,870 --> 00:01:00,100
+<font face="Estrangelo Edessa" size="45">Don't forget that 2nd gen members also want birthday festival!
+</font>
+
+33
+00:01:00,100 --> 00:01:02,900
+<font face="Estrangelo Edessa" size="45">Yes. That's right. In Nogidoko time, all 1st Gen members...</font>
+
+34
+00:01:02,900 --> 00:01:02,900
+<font face="Estrangelo Edessa" size="45"><font size="28"><font face="Arial Narrow"><b><font color="#7e7e7e">There was a period in [Nogizakatte, Doko?] where <font color="#ae0919">members' birthmonth <font color="#818080">is celebrated by showing their photos from birth until now,<font color="#b50117"> life flashback VTR project.</font></font></font></font></b></font></font></font>
+
+35
+00:01:02,900 --> 00:01:04,170
+<font face="Estrangelo Edessa" size="45"><font color="#fcfaf9">m 703.375 -262.5 l -707.875 -262.5 l -707.875 28.5 l 703.375 28.5</font></font>
+
+36
+00:01:04,170 --> 00:01:08,700
+<font face="Estrangelo Edessa" size="45">...have done birthday festival. Actually 2nd Gen members have never done it at all.</font>
+
+37
+00:01:08,770 --> 00:01:11,850
+<font face="Estrangelo Edessa" size="45">- I have seen it much on TV... 
+- Yes yes.</font>
+
+38
+00:01:11,970 --> 00:01:14,450
+<font face="Estrangelo Edessa" size="45">... in the birthday festival they had a trip,</font>
+
+39
+00:01:14,570 --> 00:01:16,700
+<font face="Estrangelo Edessa" size="45">... or chosen as fans' oshimen.</font>
+
+40
+00:01:16,720 --> 00:01:18,150
+<font face="Estrangelo Edessa" size="45">We really want it, but...</font>
+
+41
+00:01:18,150 --> 00:01:20,850
+<font face="Estrangelo Edessa" size="45">2nd Gen members are forgotten, just like that.</font>
+
+42
+00:01:20,850 --> 00:01:24,250
+<font face="Estrangelo Edessa" size="45">In fact we had prepared our photos...</font>
+
+43
+00:01:24,250 --> 00:01:26,380
+<font face="Estrangelo Edessa" size="45"><font color="#e6e6e6"><b>
+
+44
+00:01:26,380 --> 00:01:26,380
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}Perfect stand-by</b></font></b></font></font>
+
+45
+00:01:26,380 --> 00:01:28,200
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#2a292c">m 703.375 -262.5 l -707.875 -262.5 l -707.875 28.5 l 703.375 28.5</font></b></font>
+
+46
+00:01:28,200 --> 00:01:29,950
+<font face="Estrangelo Edessa" size="45">Hehe, we want to do it.</font>
+
+47
+00:01:29,950 --> 00:01:31,950
+<font face="Estrangelo Edessa" size="45">- Indeed. 
+- I see, forgive us, okay.</font>
+
+48
+00:01:31,950 --> 00:01:34,870
+<font face="Estrangelo Edessa" size="45">You know, Manatsu-san was once forgotten...</font>
+
+49
+00:01:34,870 --> 00:01:37,800
+<font face="Estrangelo Edessa" size="45">... then she cried, didn't she?
+- Aaa, yes, I cri..cried.</font>
+
+50
+00:01:37,920 --> 00:01:40,910
+<font face="Estrangelo Edessa" size="45">If I was asked to cry, I will cry!</font>
+
+51
+00:01:40,910 --> 00:01:40,910
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}Tears is also stand-by.</b></font>
+
+52
+00:01:40,910 --> 00:01:42,070
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#2a292c">m 703.375 -262.5 l -707.875 -262.5 l -707.875 28.5 l 703.375 28.5</font></b></font>
+
+53
+00:01:42,070 --> 00:01:44,100
+<font face="Estrangelo Edessa" size="45">It's not like that you know!</font>
+
+54
+00:01:44,200 --> 00:01:44,900
+<font face="Estrangelo Edessa" size="45">No no...</font>
+
+55
+00:01:44,900 --> 00:01:47,900
+<font face="Estrangelo Edessa" size="45">It's not like you can make a system of when you can cry.</font>
+
+56
+00:01:47,900 --> 00:01:47,900
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}Universal theory of tears.</b></font>
+
+57
+00:01:47,900 --> 00:01:48,020
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#2a292c">m 703.375 -262.5 l -707.875 -262.5 l -707.875 28.5 l 703.375 28.5</font></b></font>
+
+58
+00:01:48,020 --> 00:01:48,020
+<font face="Estrangelo Edessa" size="45">- It was not like that. 
+- You know, Akimoto entered in the middle...</font>
+
+59
+00:01:48,020 --> 00:01:51,900
+<font face="Arial Rounded MT Bold" size="30"><b>{\an8}[Akimoto went on hiatus from September 2011 to October 2012 for academic reasons.]</b></font>
+
+60
+00:01:52,000 --> 00:01:53,900
+<font face="Estrangelo Edessa" size="45">... then if she was included, the time would have been a bit messy. You missed it, right?</font>
+
+61
+00:01:53,900 --> 00:01:53,900
+<font face="Estrangelo Edessa" size="45"><font size="28"><font face="Arial Narrow"><b><font color="#7e7e7e">Akimoto Birthday Festival Crying Incident</font></b></font></font></font>
+
+62
+00:01:53,900 --> 00:01:53,900
+<font face="Estrangelo Edessa" size="45"><font size="28"><font face="Arial Narrow"><b><font color="#7e7e7e">At that time,<font color="#a8091d"> Akimoto who joined in the middle<font color="#828282"> is the only one whose birthday VTR is not made until the project ended, <font color="#a70819">then she cried after recording.</font></font></font></font></b></font></font></font>
+
+63
+00:01:53,900 --> 00:01:53,900
+<font face="Estrangelo Edessa" size="45"><font color="#fcfaf9">m 703.375 -262.5 l -707.875 -262.5 l -707.875 28.5 l 703.375 28.5</font></font>
+
+64
+00:01:53,900 --> 00:01:55,450
+<font face="Estrangelo Edessa" size="45"><font color="#fcfaf9">m 703.375 -262.5 l -707.875 -262.5 l -707.875 28.5 l 703.375 28.5</font></font>
+
+65
+00:01:55,450 --> 00:01:56,600
+<font face="Estrangelo Edessa" size="45">That's right, surely missed it.</font>
+
+66
+00:01:56,600 --> 00:02:02,020
+<font face="Estrangelo Edessa" size="45">As if forgotten, and then you just burst into tears when we played the recording, like that, right?</font>
+
+67
+00:02:02,020 --> 00:02:02,800
+<font face="Estrangelo Edessa" size="45">Yes, true.</font>
+
+68
+00:02:02,800 --> 00:02:06,470
+<font face="Estrangelo Edessa" size="45"><i>"Eh, why?"</i> Because you felt you didn't get a part in the birthday festival.</font>
+
+69
+00:02:06,470 --> 00:02:10,150
+<font face="Estrangelo Edessa" size="45">- Well, because it looks like it's for 1st Gen members only, right?
+- Yes, like that.</font>
+
+70
+00:02:10,150 --> 00:02:12,220
+<font face="Estrangelo Edessa" size="45">Because anyone else have done it, I thought...</font>
+
+71
+00:02:12,220 --> 00:02:19,550
+<font face="Estrangelo Edessa" size="45"><i>"Ah maybe because I entered in the middle, nothing I can do about it"  </i>Then I just burst into tears.</font>
+
+72
+00:02:19,550 --> 00:02:22,400
+<font face="Estrangelo Edessa" size="45">Hori thinks because she may cry, then she cried, like that?</font>
+
+73
+00:02:22,400 --> 00:02:23,010
+<font face="Estrangelo Edessa" size="45"><font size="72"><font color="#fb5aa7">Yes<b></b></font></font></font>
+
+74
+00:02:23,010 --> 00:02:23,010
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}Specialist in crying gland business?</b></font>
+
+75
+00:02:23,010 --> 00:02:23,200
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#2a292c">m 703.375 -262.5 l -707.875 -262.5 l -707.875 28.5 l 703.375 28.5</font></b></font>
+
+76
+00:02:23,200 --> 00:02:25,200
+<font face="Estrangelo Edessa" size="45">Not <i>"yes"</i> you know!</font>
+
+77
+00:02:25,300 --> 00:02:30,900
+<font face="Estrangelo Edessa" size="45">- Well because you haven't done it, that makes you want to do it.
+- Certainly.</font>
+
+78
+00:02:30,950 --> 00:02:34,020
+<font face="Estrangelo Edessa" size="45">Wouldn't it be better if, instead of birthday festival, we do another thing?</font>
+
+79
+00:02:34,100 --> 00:02:37,200
+<font face="Estrangelo Edessa" size="45">That's it. I think so. If we do it...</font>
+
+80
+00:02:37,200 --> 00:02:40,820
+<font face="Estrangelo Edessa" size="45">... why doing that exact same thing again.</font>
+
+81
+00:02:41,220 --> 00:02:42,750
+<font face="Estrangelo Edessa" size="45">Perhaps we come to their house.</font>
+
+82
+00:02:43,270 --> 00:02:46,650
+<font face="Estrangelo Edessa" size="45">We, the seniors, come to their house.</font>
+
+83
+00:02:47,220 --> 00:02:49,770
+<font face="Estrangelo Edessa" size="45">- So you can also look at old albums, like that?
+- Yes, look around.</font>
+
+84
+00:02:49,770 --> 00:02:49,770
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}Location innovation.</b></font>
+
+85
+00:02:49,770 --> 00:02:50,450
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#2a292c">m 703.375 -262.5 l -707.875 -262.5 l -707.875 28.5 l 703.375 28.5</font></b></font>
+
+86
+00:02:50,450 --> 00:02:53,270
+<font face="Estrangelo Edessa" size="45">And also looking for other things.</font>
+
+87
+00:02:53,320 --> 00:02:55,800
+<font face="Estrangelo Edessa" size="45">- I see.
+- Like, <i>"Eh, what's this? Oh it's a meter..."</i></font>
+
+88
+00:02:56,550 --> 00:02:57,920
+<font face="Estrangelo Edessa" size="45">... body height meter.</font>
+
+89
+00:02:58,300 --> 00:03:00,820
+<font face="Estrangelo Edessa" size="45">There are some lines in the wall, like that?</font>
+
+90
+00:03:00,820 --> 00:03:04,200
+<font face="Estrangelo Edessa" size="45">What if it's NG to come to their house? If there is prohibition.</font>
+
+91
+00:03:04,200 --> 00:03:06,050
+<font face="Estrangelo Edessa" size="45">Some are like that you know.</font>
+
+92
+00:03:07,020 --> 00:03:09,650
+<font face="Estrangelo Edessa" size="45">Well, in that case, we do it using <font size="55">a fake family.</font></font>
+
+93
+00:03:09,650 --> 00:03:09,650
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}Fake house location.</b></font>
+
+94
+00:03:09,650 --> 00:03:12,430
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#2a292c">m 703.375 -262.5 l -707.875 -262.5 l -707.875 28.5 l 703.375 28.5</font></b></font>
+
+95
+00:03:13,150 --> 00:03:14,390
+<font face="Estrangelo Edessa" size="45">Your way of thinking is amazing!</font>
+
+96
+00:03:14,390 --> 00:03:14,390
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}Do not do it. Absolutely</b></font>
+
+97
+00:03:14,390 --> 00:03:14,870
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#2a292c">m 703.375 -262.5 l -707.875 -262.5 l -707.875 28.5 l 703.375 28.5</font></b></font>
+
+98
+00:03:14,870 --> 00:03:17,720
+<font face="Estrangelo Edessa" size="45">As long as it's not revealed that it's a fake family, right?</font>
+
+99
+00:03:17,820 --> 00:03:21,570
+<font face="Estrangelo Edessa" size="45">As if it's her legit home, then she says <i>"This is my home"</i></font>
+
+100
+00:03:21,830 --> 00:03:21,830
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}Fake family audition.</b></font>
+
+101
+00:03:21,830 --> 00:03:23,730
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#2a292c">m 703.375 -262.5 l -707.875 -262.5 l -707.875 28.5 l 703.375 28.5</font></b></font>
+
+102
+00:03:24,150 --> 00:03:28,970
+<font face="Estrangelo Edessa" size="45"><i>Suggestion from 2nd Gen members will be taken into consideration.</i></font>
+
+103
+00:03:29,700 --> 00:03:29,700
+<font face="Estrangelo Edessa" size="45"><b> <font color="#e1e7eb"><font face="Futura Md BT">Presenter</font></font></b></font>
+
+104
+00:03:29,700 --> 00:03:30,250
+<font face="Estrangelo Edessa" size="45"><b><font face="Franklin Gothic Heavy"><font color="#e80c15">FUKA</font></font></b><font color="#f7f8fe">GAWA MAI</font></font>
+
+105
+00:03:30,250 --> 00:03:33,820
+<font face="Estrangelo Edessa" size="45"><i>Next presenter is, who will graduate soon, Fukagawa Mai.</i></font>
+
+106
+00:03:34,350 --> 00:03:35,520
+<font face="Estrangelo Edessa" size="45"><i>Jajang!</i></font>
+
+107
+00:03:35,700 --> 00:03:37,900
+<font face="Estrangelo Edessa" size="45">Haven't known Saito Asuka well yet.</font>
+
+108
+00:03:39,470 --> 00:03:40,870
+<font face="Estrangelo Edessa" size="45">- Saito Asuka?
+- Yes.</font>
+
+109
+00:03:40,900 --> 00:03:44,790
+<font face="Estrangelo Edessa" size="45">While working hard in modelling, she also is really into variety show.</font>
+
+110
+00:03:44,790 --> 00:03:44,790
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}The person herself doesn't want it.</b></font>
+
+111
+00:03:44,790 --> 00:03:45,020
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#2a292c">m 703.375 -262.5 l -707.875 -262.5 l -707.875 28.5 l 703.375 28.5</font></b></font>
+
+112
+00:03:45,020 --> 00:03:46,770
+<font face="Estrangelo Edessa" size="45">Really into variety show?</font>
+
+113
+00:03:46,770 --> 00:03:50,250
+<font face="Estrangelo Edessa" size="45">Asuka-chan the fallen bird, but...</font>
+
+114
+00:03:50,250 --> 00:03:55,570
+<font face="Estrangelo Edessa" size="45">... there's a side of Saito Asuka that's still unknown for this 1 year.</font>
+
+115
+00:03:55,570 --> 00:03:59,320
+<font face="Estrangelo Edessa" size="45">And I found it, let me show you, here it is.</font>
+
+116
+00:03:59,600 --> 00:04:00,600
+<font face="Estrangelo Edessa" size="45"><i>Jajang!</i></font>
+
+117
+00:04:00,770 --> 00:04:02,420
+<font face="Estrangelo Edessa" size="45">Individual drawing skill.</font>
+
+118
+00:04:04,100 --> 00:04:12,000
+<font face="Estrangelo Edessa" size="45">Right? Nogi members whose drawing is unique are Hori and Ikuta. But...</font>
+
+119
+00:04:12,100 --> 00:04:15,520
+<font face="Estrangelo Edessa" size="45">Not only those two, Saito Asuka too has the same talent.</font>
+
+120
+00:04:15,520 --> 00:04:16,290
+<font face="Estrangelo Edessa" size="45">- Oh really?
+- Yes.</font>
+
+121
+00:04:16,290 --> 00:04:16,290
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}Hidden painter.</b></font>
+
+122
+00:04:16,290 --> 00:04:16,470
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#2a292c">m 703.375 -262.5 l -707.875 -262.5 l -707.875 28.5 l 703.375 28.5</font></b></font>
+
+123
+00:04:16,470 --> 00:04:19,600
+<font face="Estrangelo Edessa" size="45">I think... what if...</font>
+
+124
+00:04:19,600 --> 00:04:26,150
+<font face="Estrangelo Edessa" size="45">How about we do a drawing activity with a particular theme, then we see each member's drawing.</font>
+
+125
+00:04:26,150 --> 00:04:28,550
+<font face="Estrangelo Edessa" size="45">Well, if so, let's do it right away!</font>
+
+126
+00:04:29,570 --> 00:04:35,470
+<font face="Estrangelo Edessa" size="45"><i>
+So, Fukagawa plan will be carried out. 
+A drawing ability check, live in the studio.</i></font>
+
+127
+00:04:37,450 --> 00:04:43,350
+<font face="Estrangelo Edessa" size="45"><i>To discover other drawing talents, all members also do the same.</i></font>
+
+128
+00:04:43,700 --> 00:04:45,720
+<font face="Estrangelo Edessa" size="45">Well, here is the first theme.</font>
+
+129
+00:04:46,520 --> 00:04:48,120
+<font face="Estrangelo Edessa" size="45">Ah, I see.</font>
+
+130
+00:04:48,650 --> 00:04:52,100
+<font face="Estrangelo Edessa" size="45">Goroumaru with his Routine move.</font>
+
+131
+00:04:52,270 --> 00:04:54,220
+<font face="Estrangelo Edessa" size="45">Eeee? Difficult.</font>
+
+132
+00:04:54,700 --> 00:04:58,520
+<font face="Estrangelo Edessa" size="45">Well, simply Goroumaru the athlete in your imagination is fine.</font>
+
+133
+00:04:59,100 --> 00:04:59,570
+<font face="Estrangelo Edessa" size="45"><font color="#4e1b06">Artistic taste check</font></font>
+
+134
+00:04:59,570 --> 00:05:06,100
+<font face="Estrangelo Edessa" size="45">First drawing theme is a Rugby athlete with a unique style, Goroumaru.</font>
+
+135
+00:05:06,900 --> 00:05:08,820
+<font face="Estrangelo Edessa" size="45">Everyone knows it, right?</font>
+
+136
+00:05:09,150 --> 00:05:10,640
+<font face="Estrangelo Edessa" size="45">I don't know.</font>
+
+137
+00:05:10,640 --> 00:05:10,640
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}Don't know.</b></font>
+
+138
+00:05:10,640 --> 00:05:10,920
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#2a292c">m 703.375 -262.5 l -707.875 -262.5 l -707.875 28.5 l 703.375 28.5</font></b></font>
+
+139
+00:05:10,920 --> 00:05:12,700
+<font face="Estrangelo Edessa" size="45">Are you serious?</font>
+
+140
+00:05:12,800 --> 00:05:14,070
+<font face="Estrangelo Edessa" size="45">That's Goroumaru, you know!</font>
+
+141
+00:05:14,070 --> 00:05:19,550
+<font face="Estrangelo Edessa" size="45">Well, in handshake I've done Goroumaru pose.</font>
+
+142
+00:05:19,550 --> 00:05:19,550
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}Pose modelling.</b></font>
+
+143
+00:05:19,550 --> 00:05:20,300
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#2a292c">m 703.375 -262.5 l -707.875 -262.5 l -707.875 28.5 l 703.375 28.5</font></b></font>
+
+144
+00:05:20,300 --> 00:05:21,070
+<font face="Estrangelo Edessa" size="45">In handshake?</font>
+
+145
+00:05:21,150 --> 00:05:22,670
+<font face="Estrangelo Edessa" size="45">Yes, but I don't know his face.</font>
+
+146
+00:05:22,800 --> 00:05:24,950
+<font face="Estrangelo Edessa" size="45">If so, for Hori, just try to draw what's in your imagination.</font>
+
+147
+00:05:24,950 --> 00:05:25,090
+<font face="Estrangelo Edessa" size="45">- Alright.</font>
+
+148
+00:05:25,090 --> 00:05:25,090
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}Painter who's handicapped onward.</b></font>
+
+149
+00:05:25,090 --> 00:05:27,200
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#2a292c">m 703.375 -262.5 l -707.875 -262.5 l -707.875 28.5 l 703.375 28.5</font></b></font>
+
+150
+00:05:27,400 --> 00:05:32,800
+<font face="Estrangelo Edessa" size="45">But if you look at them, mostly are drawing in confusion. But Ikuta doesn't look confused at all.</font>
+
+151
+00:05:32,800 --> 00:05:32,800
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}A genius-like drawing style.</b></font>
+
+152
+00:05:32,800 --> 00:05:33,250
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#2a292c">m 703.375 -262.5 l -707.875 -262.5 l -707.875 28.5 l 703.375 28.5</font></b></font>
+
+153
+00:05:33,250 --> 00:05:36,350
+<font face="Estrangelo Edessa" size="45">Already know, <i>"This must be like this!"</i></font>
+
+154
+00:05:36,400 --> 00:05:39,820
+<font face="Estrangelo Edessa" size="45">Ikuta, the folk song you sang that time is quite popular, right?</font>
+
+155
+00:05:39,900 --> 00:05:42,150
+<font face="Estrangelo Edessa" size="45">- Ah, really? 
+- That Finnish folk song.</font>
+
+156
+00:05:42,250 --> 00:05:46,320
+<font face="Estrangelo Edessa" size="45">Ah, there is someone from Embassy of Finland.</font>
+
+157
+00:05:46,320 --> 00:05:48,400
+<font face="Estrangelo Edessa" size="45">He personally asked me to come.</font>
+
+158
+00:05:48,520 --> 00:05:54,100
+<font face="Estrangelo Edessa" size="45">His comment says that he has watched it. <i>"Visit Finland sometime!"</i> he said.</font>
+
+159
+00:05:55,150 --> 00:05:57,400
+<font face="Estrangelo Edessa" size="45">- Visit it! 
+- I want! I want!</font>
+
+160
+00:05:57,400 --> 00:05:59,750
+<font face="Estrangelo Edessa" size="45">That's... from Embassy of Finland?</font>
+
+161
+00:05:59,750 --> 00:06:01,470
+<font face="Estrangelo Edessa" size="45">- Yes, right.
+- Cool.</font>
+
+162
+00:06:01,520 --> 00:06:07,220
+<font face="Estrangelo Edessa" size="45">Well, since Ikuta has finished drawing, how about we listen to her singing that song.</font>
+
+163
+00:06:07,220 --> 00:06:10,120
+<font face="Estrangelo Edessa" size="45">- Is the music ready? Ready?
+- Enough! It's enough!</font>
+
+164
+00:06:10,120 --> 00:06:12,370
+<font face="Estrangelo Edessa" size="45">But, you know, because it is a request from Embassy of Finland.</font>
+
+165
+00:06:12,370 --> 00:06:13,270
+<font face="Estrangelo Edessa" size="45">- That's true.</font>
+
+166
+00:06:13,270 --> 00:06:13,270
+<font face="gill sans mt" size="28"><b><font face="Gill Sans MT"><font color="#999797">Finnish folk song</font></font></b></font>
+
+167
+00:06:13,270 --> 00:06:15,720
+<font face="gill sans mt" size="28"><b><font face="Gill Sans MT"><font color="#999797">Ievan Polkka</font></font></b></font>
+
+168
+00:06:15,720 --> 00:06:19,300
+<font face="Lucida Sans Unicode" size="40" color="#000000"><b><i>{\an8}♪ Nuapurista kuulu se polokan tahti jalakani pohjii kutkutti ♪</i></b></font>
+
+169
+00:06:19,300 --> 00:06:20,310
+<font face="Estrangelo Edessa" size="45">Amazing!</font>
+
+170
+00:06:20,310 --> 00:06:20,310
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}Already has the lyrics memorized.</b></font>
+
+171
+00:06:20,310 --> 00:06:20,400
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#2a292c">m 703.375 -262.5 l -707.875 -262.5 l -707.875 28.5 l 703.375 28.5</font></b></font>
+
+172
+00:06:20,400 --> 00:06:24,350
+<font face="Lucida Sans Unicode" size="40" color="#000000"><b><i>{\an8}♪ Ievan äiti se tyttöösä vahti vaan kyllähän Ieva sen jutkutti ♪</i></b></font>
+
+173
+00:06:24,350 --> 00:06:26,950
+<font face="Lucida Sans Unicode" size="40" color="#000000"><b><i>{\an8}♪ sillä ei meitä silloin kiellot haittaa kun myö tanssimme laiasta laitaan ♪</i></b></font>
+
+174
+00:06:26,950 --> 00:06:28,350
+<font face="Estrangelo Edessa" size="45">Cool!</font>
+
+175
+00:06:28,420 --> 00:06:28,870
+<font face="Estrangelo Edessa" size="45">Everyone else, keep drawing, okay!</font>
+
+176
+00:06:28,870 --> 00:06:29,590
+<font face="Lucida Sans Unicode" size="40" color="#000000"><b><i>{\an8}♪ Salivili hipput tupput täppyt äppyt tipput hilijalleen. ♪</i></b></font>
+
+177
+00:06:29,590 --> 00:06:29,590
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}BGM for drawing.</b></font>
+
+178
+00:06:29,590 --> 00:06:32,170
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#2a292c">m 703.375 -262.5 l -707.875 -262.5 l -707.875 28.5 l 703.375 28.5</font></b></font>
+
+179
+00:06:32,170 --> 00:06:34,020
+<font face="Estrangelo Edessa" size="45">This is...</font>
+
+180
+00:06:34,020 --> 00:06:34,970
+<font face="Estrangelo Edessa" size="45">... great, isn't it!</font>
+
+181
+00:06:35,070 --> 00:06:35,270
+<font face="Estrangelo Edessa" size="45">I want to see the comment personally.</font>
+
+182
+00:06:35,270 --> 00:06:39,300
+<font face="Lucida Sans Unicode" size="40" color="#000000"><b><i>{\an8}♪ Ievan suu oli vehnäsellä ko immeiset onnee toevotti. ♪</i></b></font>
+
+183
+00:06:39,300 --> 00:06:39,800
+<font face="Lucida Sans Unicode" size="40" color="#000000"><b><i>{\an8}♪ Peä oli märkänä jokaisella ja viulu se vinku ja voevotti. ♪</i></b></font>
+
+184
+00:06:39,800 --> 00:06:41,260
+<font face="Estrangelo Edessa" size="45">This is cha... chaos.</font>
+
+185
+00:06:41,260 --> 00:06:41,260
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}Chaotic situation.</b></font>
+
+186
+00:06:41,260 --> 00:06:43,570
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#2a292c">m 703.375 -262.5 l -707.875 -262.5 l -707.875 28.5 l 703.375 28.5</font></b></font>
+
+187
+00:06:43,650 --> 00:06:44,320
+<font face="Lucida Sans Unicode" size="40" color="#000000"><b><i>{\an8}♪ Ei tätä poikoo märkyys haittaa sillon ko laskoo laiasta laitaan. ♪</i></b></font>
+
+188
+00:06:44,320 --> 00:06:47,520
+<font face="Estrangelo Edessa" size="45">It's already like in a dream.</font>
+
+189
+00:06:47,910 --> 00:06:48,300
+<font face="Estrangelo Edessa" size="45">Only 1 person who is singing.</font>
+
+190
+00:06:48,300 --> 00:06:49,570
+<font face="Lucida Sans Unicode" size="40" color="#000000"><b><i>{\an8}♪ Salivili hipput tupput täppyt äppyt tipput hilijalleen. ♪</i></b></font>
+
+191
+00:06:49,570 --> 00:06:49,570
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}New religion?</b></font>
+
+192
+00:06:49,570 --> 00:06:49,890
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#2a292c">m 703.375 -262.5 l -707.875 -262.5 l -707.875 28.5 l 703.375 28.5</font></b></font>
+
+193
+00:06:49,890 --> 00:06:52,000
+<font face="Estrangelo Edessa" size="45">Why is that?</font>
+
+194
+00:06:52,300 --> 00:06:52,320
+<font face="Lucida Sans Unicode" size="40" color="#000000"><b><i>{\an8}♪ Ievan äiti se kammarissa virsiä veisata huijjuutti, ♪</i></b></font>
+
+195
+00:06:52,320 --> 00:06:53,940
+<font face="Estrangelo Edessa" size="45">This is really cool.</font>
+
+196
+00:06:56,450 --> 00:06:57,470
+<font face="Lucida Sans Unicode" size="40" color="#000000"><b><i>{\an8}♪ kun tämä poika naapu... ♪</i></b></font>
+
+197
+00:06:57,470 --> 00:06:58,360
+<font face="Estrangelo Edessa" size="45">Thank you.</font>
+
+198
+00:06:58,360 --> 00:07:00,470
+<font face="Estrangelo Edessa" size="45">- Thank you. 
+- Awesome!</font>
+
+199
+00:07:00,470 --> 00:07:05,550
+<font face="Estrangelo Edessa" size="45">- Got commented by Embassy of Finland. 
+- Definitely go there okay. Then you sing along with folks there.</font>
+
+200
+00:07:05,550 --> 00:07:10,270
+<font face="Estrangelo Edessa" size="45">Ah yes, that back chorus actually is made from real people voice.</font>
+
+201
+00:07:10,340 --> 00:07:13,040
+<font face="Estrangelo Edessa" size="45">- So it doesn't use any music, thus...
+- Tumbab-tumbab.</font>
+
+202
+00:07:13,040 --> 00:07:17,980
+<font face="Estrangelo Edessa" size="45">Yes, one dream of mine is to do that.</font>
+
+203
+00:07:18,440 --> 00:07:23,080
+<font face="Estrangelo Edessa" size="45">♪ Tumbab, Tumbab, Tumbab ♪</font>
+
+204
+00:07:23,080 --> 00:07:24,410
+<font face="Lucida Sans Unicode" size="40" color="#000000"><b><i>{\an8}♪ Nuapurista kuulu se polokan tahti jalakani pohjii kutkutti ♪</i></b></font>
+
+205
+00:07:24,410 --> 00:07:24,410
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}Ikuta is singing along.</b></font>
+
+206
+00:07:24,410 --> 00:07:27,090
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#2a292c">m 703.375 -262.5 l -707.875 -262.5 l -707.875 28.5 l 703.375 28.5</font></b></font>
+
+207
+00:07:27,140 --> 00:07:31,680
+<font face="Lucida Sans Unicode" size="40" color="#000000"><b><i>{\an8}♪ Ievan äiti se tyttöösä vahti vaan kyllähän Ieva sen jutkutti ♪</i></b></font>
+
+208
+00:07:32,540 --> 00:07:32,720
+<font face="Estrangelo Edessa" size="45"><i>Because the drawing activity is finished, we start off from Saito's drawing.</i></font>
+
+209
+00:07:32,720 --> 00:07:37,960
+<font face="Estrangelo Edessa" size="45"><font color="#4e1b06">Artistic taste check</font></font>
+
+210
+00:07:38,320 --> 00:07:39,960
+<font face="Estrangelo Edessa" size="45">Well, let's start.</font>
+
+211
+00:07:40,540 --> 00:07:42,590
+<font face="Estrangelo Edessa" size="45">Scary! Scary!</font>
+
+212
+00:07:42,590 --> 00:07:42,590
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}Like a potato.</b></font>
+
+213
+00:07:42,590 --> 00:07:45,900
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#2a292c">m 703.375 -262.5 l -707.875 -262.5 l -707.875 28.5 l 703.375 28.5</font></b></font>
+
+214
+00:07:47,140 --> 00:07:48,940
+<font face="Estrangelo Edessa" size="45">So this is the drawing.</font>
+
+215
+00:07:50,100 --> 00:07:52,800
+<font face="Estrangelo Edessa" size="45">Funny, eh? Here, the interesting part is the fingers.</font>
+
+216
+00:07:52,800 --> 00:07:52,800
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}Finger tips are in other dimension.</b></font>
+
+217
+00:07:52,800 --> 00:07:55,080
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#2a292c">m 703.375 -262.5 l -707.875 -262.5 l -707.875 28.5 l 703.375 28.5</font></b></font>
+
+218
+00:07:55,080 --> 00:07:58,520
+<font face="Estrangelo Edessa" size="45">- Yes, right, Goroumaru pose.
+- Is this Goroumaru pose?</font>
+
+219
+00:07:59,760 --> 00:08:06,960
+<font face="Estrangelo Edessa" size="45">The pose is not like ninja, so I think it's complicated. Then I asked Ikoma how many fingers are upward.</font>
+
+220
+00:08:06,960 --> 00:08:07,900
+<font face="Estrangelo Edessa" size="45">Oh I see.</font>
+
+221
+00:08:08,200 --> 00:08:12,600
+<font face="Estrangelo Edessa" size="45">This is really drawn based on the athlete's pose, isn't it?</font>
+
+222
+00:08:12,600 --> 00:08:15,140
+<font face="Estrangelo Edessa" size="45">Yes, I think his hairstyle also more or less is like that.</font>
+
+223
+00:08:15,140 --> 00:08:17,190
+<font face="Estrangelo Edessa" size="45">Why do I feel I've seen this person somewhere before?!</font>
+
+224
+00:08:17,190 --> 00:08:17,190
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}A known face.</b></font>
+
+225
+00:08:17,190 --> 00:08:17,880
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#2a292c">m 703.375 -262.5 l -707.875 -262.5 l -707.875 28.5 l 703.375 28.5</font></b></font>
+
+226
+00:08:17,880 --> 00:08:20,240
+<font face="Estrangelo Edessa" size="45">Perhaps it's someone we know.</font>
+
+227
+00:08:21,520 --> 00:08:22,940
+<font face="Estrangelo Edessa" size="45">Well, it's alright.</font>
+
+228
+00:08:23,140 --> 00:08:25,780
+<font face="Estrangelo Edessa" size="45">From the characteristic, it's understandable.</font>
+
+229
+00:08:25,800 --> 00:08:28,320
+<font face="Estrangelo Edessa" size="45">- By the way...
+- There is also something like this.</font>
+
+230
+00:08:28,340 --> 00:08:28,760
+<font face="Estrangelo Edessa" size="45">Ee...</font>
+
+231
+00:08:29,600 --> 00:08:30,980
+<font face="Estrangelo Edessa" size="45">It's from Hori.</font>
+
+232
+00:08:32,060 --> 00:08:32,060
+<font face="Estrangelo Edessa" size="45"><font color="#568700"><font size="72"><font face="Arial Rounded MT Bold">Grandpa!</font></font></font></font>
+
+233
+00:08:32,060 --> 00:08:33,520
+<font face="Estrangelo Edessa" size="45"><font color="#6a4a00"><font size="72"><font face="Arial Rounded MT Bold">Grandpa!</font></font></font></font>
+
+234
+00:08:33,610 --> 00:08:33,610
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}Old Goroumaru.</b></font>
+
+235
+00:08:33,610 --> 00:08:34,100
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#2a292c">m 703.375 -262.5 l -707.875 -262.5 l -707.875 28.5 l 703.375 28.5</font></b></font>
+
+236
+00:08:34,100 --> 00:08:39,440
+<font face="Estrangelo Edessa" size="45">Scary~</font>
+
+237
+00:08:41,560 --> 00:08:44,600
+<font face="Estrangelo Edessa" size="45">Well, this is because she doesn't know Goroumaru.</font>
+
+238
+00:08:44,600 --> 00:08:46,120
+<font face="Estrangelo Edessa" size="45">You don't know, right?</font>
+
+239
+00:08:46,120 --> 00:08:48,660
+<font face="Estrangelo Edessa" size="45">His hand, have you been told about it?</font>
+
+240
+00:08:48,660 --> 00:08:49,700
+<font face="Estrangelo Edessa" size="45">I've been told.</font>
+
+241
+00:08:49,820 --> 00:08:50,960
+<font face="Estrangelo Edessa" size="45">How is it?</font>
+
+242
+00:08:50,960 --> 00:08:52,890
+<font face="Estrangelo Edessa" size="45"><i>♪ Why.. would... why would it be~ ♪</i></font>
+
+243
+00:08:52,890 --> 00:08:53,420
+<font face="Estrangelo Edessa" size="45"><font size="33"><font color="#3e1302">Tetsu and Tomo</font></font></font>
+
+244
+00:08:53,420 --> 00:08:55,520
+<font face="Estrangelo Edessa" size="45">Like this, isn't it?</font>
+
+245
+00:08:55,860 --> 00:09:02,840
+<font face="Estrangelo Edessa" size="45"><i>♪ Why.. would... why would it be~ ♪</i></font>
+
+246
+00:09:02,980 --> 00:09:04,460
+<font face="Estrangelo Edessa" size="45">Ikoma.</font>
+
+247
+00:09:04,460 --> 00:09:06,280
+<font face="Estrangelo Edessa" size="45">Cool!</font>
+
+248
+00:09:06,280 --> 00:09:08,500
+<font face="Estrangelo Edessa" size="45">Hoo~ Skillful!</font>
+
+249
+00:09:08,500 --> 00:09:11,520
+<font face="Estrangelo Edessa" size="45">This is like anime.</font>
+
+250
+00:09:11,520 --> 00:09:14,320
+<font face="Estrangelo Edessa" size="45">Ah, but the buttocks part is nice.</font>
+
+251
+00:09:14,320 --> 00:09:17,260
+<font face="Estrangelo Edessa" size="45">Because I'm bad at it, these drawings amaze me already.</font>
+
+252
+00:09:17,260 --> 00:09:18,640
+<font face="Estrangelo Edessa" size="45">Whose is it?</font>
+
+253
+00:09:18,640 --> 00:09:19,940
+<font face="Estrangelo Edessa" size="45">It's Shiraishi.</font>
+
+254
+00:09:19,940 --> 00:09:21,160
+<font face="Estrangelo Edessa" size="45">Eee~</font>
+
+255
+00:09:21,320 --> 00:09:23,100
+<font face="Estrangelo Edessa" size="45">Shiraishi too is in the bad drawing group.</font>
+
+256
+00:09:23,100 --> 00:09:23,100
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}Like an artist.</b></font>
+
+257
+00:09:23,100 --> 00:09:24,260
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#2a292c">m 703.375 -262.5 l -707.875 -262.5 l -707.875 28.5 l 703.375 28.5</font></b></font>
+
+258
+00:09:24,260 --> 00:09:24,780
+<font face="Estrangelo Edessa" size="45">Right?</font>
+
+259
+00:09:24,780 --> 00:09:27,000
+<font face="Estrangelo Edessa" size="45">I can't draw it.</font>
+
+260
+00:09:29,140 --> 00:09:30,760
+<font face="Estrangelo Edessa" size="45">Ah, this.</font>
+
+261
+00:09:30,760 --> 00:09:33,160
+<font face="Estrangelo Edessa" size="45">Based on his body form...</font>
+
+262
+00:09:33,320 --> 00:09:36,040
+<font face="Estrangelo Edessa" size="45">Body here, facing here, then doing this, right?</font>
+
+263
+00:09:36,040 --> 00:09:36,040
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}Bon odori?</b></font>
+
+264
+00:09:36,040 --> 00:09:36,040
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#2a292c">m 703.375 -262.5 l -707.875 -262.5 l -707.875 28.5 l 703.375 28.5</font></b></font>
+
+265
+00:09:36,040 --> 00:09:37,240
+<font face="Arial Rounded MT Bold" size="30"><b>{\an8}[Bon Odori, meaning simply Bon dance, is a style of dancing performed during Obon, Japanese Buddhist custom to honor the spirits of one's ancestors.]</b></font>
+
+266
+00:09:37,240 --> 00:09:40,880
+<font face="Estrangelo Edessa" size="45">His pose is like that.</font>
+
+267
+00:09:41,100 --> 00:09:41,980
+<font face="Estrangelo Edessa" size="45">Like that, right?</font>
+
+268
+00:09:42,200 --> 00:09:44,100
+<font face="Estrangelo Edessa" size="45">It's Matsumura.</font>
+
+269
+00:09:44,100 --> 00:09:45,900
+<font face="Estrangelo Edessa" size="45">- Gundam. 
+- Preschool kid.</font>
+
+270
+00:09:45,900 --> 00:09:47,500
+<font face="Estrangelo Edessa" size="45">Cute~</font>
+
+271
+00:09:47,500 --> 00:09:48,280
+<font face="Estrangelo Edessa" size="45">Scary.</font>
+
+272
+00:09:48,280 --> 00:09:50,450
+<font face="Estrangelo Edessa" size="45">Ee~, what's that?!</font>
+
+273
+00:09:50,450 --> 00:09:50,450
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}Ghost fingertips.</b></font>
+
+274
+00:09:50,450 --> 00:09:50,520
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#2a292c">m 703.375 -262.5 l -707.875 -262.5 l -707.875 28.5 l 703.375 28.5</font></b></font>
+
+275
+00:09:50,520 --> 00:09:52,440
+<font face="Estrangelo Edessa" size="45">Scary~</font>
+
+276
+00:09:52,440 --> 00:09:54,240
+<font face="Estrangelo Edessa" size="45">How many fingers you drew?</font>
+
+277
+00:09:54,240 --> 00:09:56,380
+<font face="Estrangelo Edessa" size="45">No idea how many she drew.</font>
+
+278
+00:09:56,380 --> 00:10:00,800
+<font face="Estrangelo Edessa" size="45">But at a glance it looks like a lively primary schooler, right?</font>
+
+279
+00:10:01,360 --> 00:10:03,160
+<font face="Estrangelo Edessa" size="45">Here's Eto.</font>
+
+280
+00:10:05,580 --> 00:10:09,380
+<font face="Estrangelo Edessa" size="45">Just like an old man catching a bread.</font>
+
+281
+00:10:09,520 --> 00:10:11,380
+<font face="Estrangelo Edessa" size="45">Why is the pose?</font>
+
+282
+00:10:11,760 --> 00:10:13,520
+<font face="Estrangelo Edessa" size="45">Why is his hand doing banzai?</font>
+
+283
+00:10:13,520 --> 00:10:16,960
+<font face="Estrangelo Edessa" size="45">- Goroumaru is definitely like this.
+- There's no other pose.</font>
+
+284
+00:10:16,960 --> 00:10:19,380
+<font face="Estrangelo Edessa" size="45">If not like this, then he can be doing this.</font>
+
+285
+00:10:19,380 --> 00:10:21,260
+<font face="Estrangelo Edessa" size="45">There's nothing other than that.</font>
+
+286
+00:10:21,260 --> 00:10:23,540
+<font face="Estrangelo Edessa" size="45">Why this pose?</font>
+
+287
+00:10:23,540 --> 00:10:26,900
+<font face="Estrangelo Edessa" size="45">- Doing banzai. 
+- Because I don't know...</font>
+
+288
+00:10:26,900 --> 00:10:28,540
+<font face="Estrangelo Edessa" size="45">And this is too.</font>
+
+289
+00:10:28,540 --> 00:10:30,880
+<font face="Estrangelo Edessa" size="45">Akimoto.</font>
+
+290
+00:10:30,880 --> 00:10:32,860
+<font face="Estrangelo Edessa" size="45">What's this?</font>
+
+291
+00:10:32,860 --> 00:10:33,980
+<font face="Estrangelo Edessa" size="45">This...</font>
+
+292
+00:10:33,980 --> 00:10:34,700
+<font face="Estrangelo Edessa" size="45">Here, part of space and time in his body vanishes.</font>
+
+293
+00:10:34,700 --> 00:10:34,700
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}Half mysterious.</b></font>
+
+294
+00:10:34,700 --> 00:10:37,180
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#2a292c">m 703.375 -262.5 l -707.875 -262.5 l -707.875 28.5 l 703.375 28.5</font></b></font>
+
+295
+00:10:38,260 --> 00:10:39,400
+<font face="Estrangelo Edessa" size="45">That, how is that?</font>
+
+296
+00:10:39,400 --> 00:10:43,200
+<font face="Estrangelo Edessa" size="45"><font color="#4d179c">Space and time distortion.</font></font>
+
+297
+00:10:44,060 --> 00:10:45,600
+<font face="Estrangelo Edessa" size="45">On that side, there's nothing.</font>
+
+298
+00:10:45,880 --> 00:10:49,780
+<font face="Estrangelo Edessa" size="45">- So its part of space and time is eaten.
+- A creature like this doesn't exist.</font>
+
+299
+00:10:49,780 --> 00:10:52,600
+<font face="Estrangelo Edessa" size="45">I was confused about where to put the other hand.</font>
+
+300
+00:10:52,600 --> 00:10:55,680
+<font face="Estrangelo Edessa" size="45">Becoming like this, right? Then this side here vanishes, like that.</font>
+
+301
+00:10:55,680 --> 00:10:55,680
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}This too is a ghost.</b></font>
+
+302
+00:10:55,680 --> 00:10:56,520
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#2a292c">m 703.375 -262.5 l -707.875 -262.5 l -707.875 28.5 l 703.375 28.5</font></b></font>
+
+303
+00:10:56,520 --> 00:11:00,300
+<font face="Estrangelo Edessa" size="45">Part of its space and time is missing.</font>
+
+304
+00:11:00,300 --> 00:11:01,820
+<font face="Estrangelo Edessa" size="45">This is it.</font>
+
+305
+00:11:02,480 --> 00:11:02,760
+<font face="Estrangelo Edessa" size="45">It's Takayama. Takayama.</font>
+
+306
+00:11:02,760 --> 00:11:02,760
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}Praying.</b></font>
+
+307
+00:11:02,760 --> 00:11:04,930
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#2a292c">m 703.375 -262.5 l -707.875 -262.5 l -707.875 28.5 l 703.375 28.5</font></b></font>
+
+308
+00:11:11,060 --> 00:11:13,200
+<font face="Estrangelo Edessa" size="45">If someone who's driving sees this, <i>"Ah, it is human"</i></font>
+
+309
+00:11:13,200 --> 00:11:13,200
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}Like a mountain.</b></font>
+
+310
+00:11:13,200 --> 00:11:14,760
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#2a292c">m 703.375 -262.5 l -707.875 -262.5 l -707.875 28.5 l 703.375 28.5</font></b></font>
+
+311
+00:11:14,760 --> 00:11:17,740
+<font face="Estrangelo Edessa" size="45">Is that a mountain? Eh, it's a human actually.</font>
+
+312
+00:11:17,740 --> 00:11:17,740
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}Goroukyu Mountain.</b></font>
+
+313
+00:11:17,740 --> 00:11:19,040
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#2a292c">m 703.375 -262.5 l -707.875 -262.5 l -707.875 28.5 l 703.375 28.5</font></b></font>
+
+314
+00:11:19,040 --> 00:11:20,720
+<font face="Estrangelo Edessa" size="45">This is monster.</font>
+
+315
+00:11:21,760 --> 00:11:23,400
+<font face="Estrangelo Edessa" size="45">Monster.</font>
+
+316
+00:11:23,560 --> 00:11:25,480
+<font face="Estrangelo Edessa" size="45">What is this actually?</font>
+
+317
+00:11:28,820 --> 00:11:30,640
+<font face="Estrangelo Edessa" size="45">- Looking for peace.
+- What?</font>
+
+318
+00:11:30,640 --> 00:11:32,600
+<font face="Estrangelo Edessa" size="45">Looking for inner peace.</font>
+
+319
+00:11:32,600 --> 00:11:33,700
+<font face="Estrangelo Edessa" size="45">Well, next...</font>
+
+320
+00:11:33,700 --> 00:11:35,020
+<font face="Estrangelo Edessa" size="45">A picture of criminal, isn't it?</font>
+
+321
+00:11:35,020 --> 00:11:35,020
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}Criminal?</b></font>
+
+322
+00:11:35,020 --> 00:11:36,860
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#2a292c">m 703.375 -262.5 l -707.875 -262.5 l -707.875 28.5 l 703.375 28.5</font></b></font>
+
+323
+00:11:36,980 --> 00:11:38,760
+<font face="Estrangelo Edessa" size="45">This is from Hoshino.</font>
+
+324
+00:11:38,820 --> 00:11:41,660
+<font face="Estrangelo Edessa" size="45">- That's why.
+- Why did you draw a criminal?</font>
+
+325
+00:11:41,660 --> 00:11:43,040
+<font face="Estrangelo Edessa" size="45">That's... for swimming.</font>
+
+326
+00:11:43,040 --> 00:11:47,040
+<font face="Estrangelo Edessa" size="45">- It has nothing to do with swimming.
+- I mean swimming cap.</font>
+
+327
+00:11:47,040 --> 00:11:50,360
+<font face="Estrangelo Edessa" size="45">Indeed, some people use headgear.</font>
+
+328
+00:11:50,520 --> 00:11:52,740
+<font face="Estrangelo Edessa" size="45">But, this clearly is a criminal.</font>
+
+329
+00:11:52,740 --> 00:11:52,740
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}Praying in jail.</b></font>
+
+330
+00:11:52,740 --> 00:11:54,500
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#2a292c">m 703.375 -262.5 l -707.875 -262.5 l -707.875 28.5 l 703.375 28.5</font></b></font>
+
+331
+00:11:54,500 --> 00:11:55,900
+<font face="Estrangelo Edessa" size="45">That's a criminal...</font>
+
+332
+00:11:55,920 --> 00:11:57,220
+<font face="Estrangelo Edessa" size="45">Why is he wearing that?</font>
+
+333
+00:11:57,220 --> 00:11:59,270
+<font face="Estrangelo Edessa" size="45">- The facial hair. It should be a goatee in the chin.</font>
+
+334
+00:11:59,270 --> 00:12:00,700
+<font face="Estrangelo Edessa" size="45">- Yes, the facial hair.</font>
+
+335
+00:12:00,700 --> 00:12:02,900
+<font face="Estrangelo Edessa" size="45">Instead it becomes criminal's beard.</font>
+
+336
+00:12:02,900 --> 00:12:05,090
+<font face="Estrangelo Edessa" size="45">And also this criminal's cloths stripes are too thin.</font>
+
+337
+00:12:05,090 --> 00:12:05,090
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}Expression of a prisoner.</b></font>
+
+338
+00:12:05,090 --> 00:12:05,900
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#2a292c">m 703.375 -262.5 l -707.875 -262.5 l -707.875 28.5 l 703.375 28.5</font></b></font>
+
+339
+00:12:05,900 --> 00:12:07,670
+<font face="Estrangelo Edessa" size="45">Wearing a cap.</font>
+
+340
+00:12:11,500 --> 00:12:13,500
+<font face="Estrangelo Edessa" size="45">This person is funny.</font>
+
+341
+00:12:15,020 --> 00:12:16,950
+<font face="Estrangelo Edessa" size="45">This is from captain.</font>
+
+342
+00:12:23,250 --> 00:12:25,270
+<font face="Estrangelo Edessa" size="45">How can he stand like that!</font>
+
+343
+00:12:25,270 --> 00:12:25,270
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}On an air chair.</b></font>
+
+344
+00:12:25,270 --> 00:12:25,800
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#2a292c">m 703.375 -262.5 l -707.875 -262.5 l -707.875 28.5 l 703.375 28.5</font></b></font>
+
+345
+00:12:25,800 --> 00:12:27,070
+<font face="Estrangelo Edessa" size="45">That's bad~</font>
+
+346
+00:12:27,700 --> 00:12:28,600
+<font face="Estrangelo Edessa" size="45">But it's cool.</font>
+
+347
+00:12:28,600 --> 00:12:30,970
+<font face="Estrangelo Edessa" size="45">Sitting on an air chair.</font>
+
+348
+00:12:30,970 --> 00:12:33,400
+<font face="Estrangelo Edessa" size="45">How can he balance himself?</font>
+
+349
+00:12:33,400 --> 00:12:34,800
+<font face="Estrangelo Edessa" size="45">How does he stand?</font>
+
+350
+00:12:34,800 --> 00:12:36,700
+<font face="Estrangelo Edessa" size="45">That pose is actually continuous.</font>
+
+351
+00:12:36,700 --> 00:12:39,320
+<font face="Estrangelo Edessa" size="45">But from here, how can it be like this.</font>
+
+352
+00:12:39,320 --> 00:12:39,320
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}Not anatomical human.</b></font>
+
+353
+00:12:39,320 --> 00:12:39,850
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#2a292c">m 703.375 -262.5 l -707.875 -262.5 l -707.875 28.5 l 703.375 28.5</font></b></font>
+
+354
+00:12:39,850 --> 00:12:42,100
+<font face="Estrangelo Edessa" size="45">The hands come out from the chest.</font>
+
+355
+00:12:42,100 --> 00:12:44,850
+<font face="Estrangelo Edessa" size="45">Quite cool. His face looks like a <font face="Ravie"><font size="72">punk.</font></font></font>
+
+356
+00:12:44,850 --> 00:12:46,550
+<font face="Estrangelo Edessa" size="45">The front part is also missing.</font>
+
+357
+00:12:46,550 --> 00:12:47,820
+<font face="Estrangelo Edessa" size="45">He looks pessimistic, right?</font>
+
+358
+00:12:47,820 --> 00:12:49,820
+<font face="Estrangelo Edessa" size="45">I usually draw things from the side view.</font>
+
+359
+00:12:49,820 --> 00:12:55,700
+<font face="Estrangelo Edessa" size="45">But, if Sakurai's drawing is colored, it can be cool like American comics.</font>
+
+360
+00:12:55,700 --> 00:12:59,170
+<font face="Estrangelo Edessa" size="45">For example, it is drawn on snack packaging.</font>
+
+361
+00:12:59,700 --> 00:12:59,700
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#ffff00">m 252.125 63 l 0 63 l 0 0 l 252.125 0</font></b></font>
+
+362
+00:12:59,700 --> 00:13:00,270
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font size="30"><font color="#000000">Comment of Embassy of Finland on Twitter: @nogizaka46 Ikuta-san is so Finland-like. (I am) Surprised to see her folk song singing. Go to Finland sometimes!</font></font></b></font>
+
+363
+00:13:00,270 --> 00:13:00,820
+<font face="Estrangelo Edessa" size="45">This show is brought to you by this sponsor.</font>
+
+364
+00:13:00,820 --> 00:13:11,200
+<font face="Estrangelo Edessa" size="45"><font color="#ffffff"><font size="36">XL (Xan & Lupit) x Qelopin
+<font size="30"><font color="#ffffff">qelopin.blogspot.com</font></font></font></font></font>
+
+365
+00:13:11,270 --> 00:13:14,900
+<font face="Estrangelo Edessa" size="45">Wait, this is also quite good.</font>
+
+366
+00:13:15,470 --> 00:13:18,170
+<font face="Estrangelo Edessa" size="45">Let's see Skillful Team, shall we?</font>
+
+367
+00:13:18,170 --> 00:13:19,620
+<font face="Estrangelo Edessa" size="45">Nishino.</font>
+
+368
+00:13:20,450 --> 00:13:22,300
+<font face="Estrangelo Edessa" size="45">Of course, it's awesome.</font>
+
+369
+00:13:22,300 --> 00:13:23,650
+<font face="Estrangelo Edessa" size="45">Awesome!</font>
+
+370
+00:13:24,550 --> 00:13:27,370
+<font face="Estrangelo Edessa" size="45">What's this feeling? Caaalm feeling.</font>
+
+371
+00:13:27,370 --> 00:13:29,250
+<font face="Estrangelo Edessa" size="45">But definitely this goes into skillful team.</font>
+
+372
+00:13:29,250 --> 00:13:32,000
+<font face="Estrangelo Edessa" size="45">Huaa~ So good!</font>
+
+373
+00:13:33,200 --> 00:13:34,620
+<font face="Estrangelo Edessa" size="45">Hah?</font>
+
+374
+00:13:34,620 --> 00:13:35,950
+<font face="Estrangelo Edessa" size="45">Ah, obviously.</font>
+
+375
+00:13:35,950 --> 00:13:37,950
+<font face="Estrangelo Edessa" size="45">Ito Marika</font>
+
+376
+00:13:39,920 --> 00:13:41,400
+<font face="Estrangelo Edessa" size="45">This...</font>
+
+377
+00:13:41,400 --> 00:13:43,620
+<font face="Estrangelo Edessa" size="45">This has a good atmosphere.</font>
+
+378
+00:13:45,620 --> 00:13:48,070
+<font face="Estrangelo Edessa" size="45">Awesome!</font>
+
+379
+00:13:48,070 --> 00:13:50,670
+<font face="Estrangelo Edessa" size="45">Wah this one is also good. Ah, it is from Fukagawa.</font>
+
+380
+00:13:51,100 --> 00:13:54,770
+<font face="Estrangelo Edessa" size="45">So good!</font>
+
+381
+00:13:54,770 --> 00:14:02,320
+<font face="Estrangelo Edessa" size="45">The anatomy, the pose, and also his back proportion are telling <i>"I will do it"</i></font>
+
+382
+00:14:02,320 --> 00:14:03,620
+<font face="Estrangelo Edessa" size="45">Great!</font>
+
+383
+00:14:06,050 --> 00:14:07,020
+<font face="Estrangelo Edessa" size="45">Wakatsuki</font>
+
+384
+00:14:07,020 --> 00:14:09,920
+<font face="Estrangelo Edessa" size="45">- Skillful, skillful.
+- There's no face.</font>
+
+385
+00:14:09,920 --> 00:14:12,200
+<font face="Estrangelo Edessa" size="45">Well, Wakatsuki is also...</font>
+
+386
+00:14:12,200 --> 00:14:14,070
+<font face="Estrangelo Edessa" size="45">...definitely in the skillful team.</font>
+
+387
+00:14:14,070 --> 00:14:16,500
+<font face="Estrangelo Edessa" size="45">Although it's barefoot.</font>
+
+388
+00:14:16,500 --> 00:14:21,350
+<font face="Estrangelo Edessa" size="45">Here, the body anatomy is drawn seriously.</font>
+
+389
+00:14:21,350 --> 00:14:24,700
+<font face="Estrangelo Edessa" size="45">Next. Lastly, the drawing that was finished first.</font>
+
+390
+00:14:25,120 --> 00:14:27,270
+<font face="Estrangelo Edessa" size="45">The artist's work hasn't been shown.</font>
+
+391
+00:14:27,700 --> 00:14:28,920
+<font face="Estrangelo Edessa" size="45">The most wanted to be seen.</font>
+
+392
+00:14:30,300 --> 00:14:32,670
+<font face="Estrangelo Edessa" size="45">Huuuu!</font>
+
+393
+00:14:32,670 --> 00:14:32,670
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}Someone in another dimension.</b></font>
+
+394
+00:14:32,670 --> 00:14:36,850
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#2a292c">m 703.375 -262.5 l -707.875 -262.5 l -707.875 28.5 l 703.375 28.5</font></b></font>
+
+395
+00:14:36,850 --> 00:14:37,970
+<font face="Estrangelo Edessa" size="45">Of course.</font>
+
+396
+00:14:37,970 --> 00:14:41,040
+<font face="Estrangelo Edessa" size="45">- What is that?
+- This kind of creature very often comes up.</font>
+
+397
+00:14:41,040 --> 00:14:42,100
+<font face="Estrangelo Edessa" size="45"><font size="42"><font color="#4a1a07">Gorilla</font></font></font>
+
+398
+00:14:42,100 --> 00:14:44,170
+<font face="Estrangelo Edessa" size="45">This eye, of the creature.</font>
+
+399
+00:14:44,600 --> 00:14:48,400
+<font face="Estrangelo Edessa" size="45">This creature can transform into many forms.</font>
+
+400
+00:14:48,620 --> 00:14:51,200
+<font face="Estrangelo Edessa" size="45">Showing innocence and oddity at once.</font>
+
+401
+00:14:51,200 --> 00:14:54,590
+<font face="Estrangelo Edessa" size="45">Based on the drawing, it first faces here, then becomes like this.</font>
+
+402
+00:14:54,590 --> 00:14:54,590
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}At a glance it's like baseball.</b></font>
+
+403
+00:14:54,590 --> 00:14:54,770
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#2a292c">m 703.375 -262.5 l -707.875 -262.5 l -707.875 28.5 l 703.375 28.5</font></b></font>
+
+404
+00:14:54,770 --> 00:14:56,350
+<font face="Estrangelo Edessa" size="45">A scary creature.</font>
+
+405
+00:14:56,350 --> 00:14:58,750
+<font face="Estrangelo Edessa" size="45">Why does it face here?!</font>
+
+406
+00:14:58,750 --> 00:15:01,320
+<font face="Estrangelo Edessa" size="45">This is a really a calm creature.</font>
+
+407
+00:15:01,320 --> 00:15:04,200
+<font face="Estrangelo Edessa" size="45">As if despite being teased in any way, it will remain <font size="72">calm.</font></font>
+
+408
+00:15:04,200 --> 00:15:06,370
+<font face="Estrangelo Edessa" size="45">This is wrong.</font>
+
+409
+00:15:06,370 --> 00:15:10,970
+<font face="Estrangelo Edessa" size="45">The works of Ikuta should be put into a studio.</font>
+
+410
+00:15:10,970 --> 00:15:14,970
+<font face="Estrangelo Edessa" size="45">Then we all try to make an exhibition.</font>
+
+411
+00:15:15,400 --> 00:15:18,620
+<font face="Estrangelo Edessa" size="45">Let's have a Nogizaka46 Art Exhibition!</font>
+
+412
+00:15:18,620 --> 00:15:22,650
+<font face="Estrangelo Edessa" size="45">Especially Ikuta's drawing.</font>
+
+413
+00:15:22,650 --> 00:15:25,990
+<font face="Estrangelo Edessa" size="45">Someone who sees it might price it 5 million yen.</font>
+
+414
+00:15:25,990 --> 00:15:25,990
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}Picaso Erika.</b></font>
+
+415
+00:15:25,990 --> 00:15:27,250
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#2a292c">m 703.375 -262.5 l -707.875 -262.5 l -707.875 28.5 l 703.375 28.5</font></b></font>
+
+416
+00:15:27,250 --> 00:15:31,860
+<font face="Estrangelo Edessa" size="45">Awesome. This is an artwork that was drawn while singing Finnish folk song.</font>
+
+417
+00:15:31,860 --> 00:15:31,860
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}Chaos Queen.</b></font>
+
+418
+00:15:31,860 --> 00:15:33,800
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#2a292c">m 703.375 -262.5 l -707.875 -262.5 l -707.875 28.5 l 703.375 28.5</font></b></font>
+
+419
+00:15:33,800 --> 00:15:36,100
+<font face="Estrangelo Edessa" size="45">You seem often singing this Finnish song.</font>
+
+420
+00:15:36,100 --> 00:15:38,800
+<font face="Estrangelo Edessa" size="45">Well...</font>
+
+421
+00:15:38,800 --> 00:15:43,520
+<font face="Estrangelo Edessa" size="45">If we look at the drawing of Saito Asuka, surely...</font>
+
+422
+00:15:44,450 --> 00:15:46,210
+<font face="Estrangelo Edessa" size="45"><font size="55"><font color="#f0f0f0">But this kind of drawing ability does exist!</font></font></font>
+
+423
+00:15:46,210 --> 00:15:46,210
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}Art moster.</b></font>
+
+424
+00:15:46,210 --> 00:15:47,000
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#2a292c">m 703.375 -262.5 l -707.875 -262.5 l -707.875 28.5 l 703.375 28.5</font></b></font>
+
+425
+00:15:47,000 --> 00:15:48,120
+<font face="Estrangelo Edessa" size="45">Seems so.</font>
+
+426
+00:15:48,120 --> 00:15:51,970
+<font face="Estrangelo Edessa" size="45">Wait, we still have one more sheet. Why don't we do it again?</font>
+
+427
+00:15:51,970 --> 00:15:55,420
+<font face="Estrangelo Edessa" size="45">- Is drawing Goroumaru a bit difficult?
+- Difficult!</font>
+
+428
+00:15:55,420 --> 00:15:59,170
+<font face="Estrangelo Edessa" size="45">Well, something that you all know. Not <i>"who"</i> anymore.</font>
+
+429
+00:15:59,170 --> 00:16:02,620
+<font face="Estrangelo Edessa" size="45">A primary schooler who is jumping a block.</font>
+
+430
+00:16:02,620 --> 00:16:05,270
+<font face="Estrangelo Edessa" size="45">- Difficult!
+- What should I do?</font>
+
+431
+00:16:05,270 --> 00:16:05,270
+<font face="Estrangelo Edessa" size="45"><font color="#4e1b06">Artistic taste check</font></font>
+
+432
+00:16:05,270 --> 00:16:09,220
+<font face="Estrangelo Edessa" size="45"><i>Next is a primary schooler who is jumping a block.</i></font>
+
+433
+00:16:09,220 --> 00:16:13,170
+<font face="Estrangelo Edessa" size="45"><i>The depiction of the jumping moment is the main point.</i></font>
+
+434
+00:16:13,420 --> 00:16:14,220
+<font face="Estrangelo Edessa" size="45">If...</font>
+
+435
+00:16:14,220 --> 00:16:19,000
+<font face="Estrangelo Edessa" size="45">- If needed, Himura will give an example.
+- An example, right?</font>
+
+436
+00:16:19,320 --> 00:16:22,700
+<font face="Estrangelo Edessa" size="45">Everyone, can you please look at Himura's move?</font>
+
+437
+00:16:27,550 --> 00:16:31,350
+<font face="Estrangelo Edessa" size="45">Unexpectedly, I couldn't jump at all.</font>
+
+438
+00:16:32,620 --> 00:16:32,620
+<font face="Estrangelo Edessa" size="45"><i>Next, Saito Asuka's artwork will be checked.</i></font>
+
+439
+00:16:32,620 --> 00:16:36,270
+<font face="Estrangelo Edessa" size="45"><font color="#4e1b06">Artistic taste check</font></font>
+
+440
+00:16:37,650 --> 00:16:39,600
+<font face="Estrangelo Edessa" size="45">It's Asuka-chan. Let's see.</font>
+
+441
+00:16:40,150 --> 00:16:40,770
+<font face="Estrangelo Edessa" size="45"><i>Dan!</i></font>
+
+442
+00:16:42,620 --> 00:16:44,130
+<font face="Estrangelo Edessa" size="45">Falling?</font>
+
+443
+00:16:44,130 --> 00:16:44,130
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}What is it doing?</b></font>
+
+444
+00:16:44,130 --> 00:16:46,120
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#2a292c">m 703.375 -262.5 l -707.875 -262.5 l -707.875 28.5 l 703.375 28.5</font></b></font>
+
+445
+00:16:46,120 --> 00:16:50,600
+<font face="Estrangelo Edessa" size="45">- Is this before or after jumping?
+- Before, when in the air.</font>
+
+446
+00:16:50,600 --> 00:16:51,550
+<font face="Estrangelo Edessa" size="45">The chin!</font>
+
+447
+00:16:51,550 --> 00:16:52,710
+<font face="Estrangelo Edessa" size="45">The chin! The chin!!</font>
+
+448
+00:16:52,710 --> 00:16:52,710
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}Boy without chin.</b></font>
+
+449
+00:16:52,710 --> 00:16:54,070
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#2a292c">m 703.375 -262.5 l -707.875 -262.5 l -707.875 28.5 l 703.375 28.5</font></b></font>
+
+450
+00:16:54,070 --> 00:16:56,070
+<font face="Estrangelo Edessa" size="45">This.</font>
+
+451
+00:16:56,070 --> 00:16:58,020
+<font face="Estrangelo Edessa" size="45">This is quite exceptional.</font>
+
+452
+00:16:58,620 --> 00:17:00,880
+<font face="Estrangelo Edessa" size="45">- What's wrong with the hand?
+- How is this?</font>
+
+453
+00:17:00,880 --> 00:17:00,880
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}A very thin arm.</b></font>
+
+454
+00:17:00,880 --> 00:17:02,420
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#2a292c">m 703.375 -262.5 l -707.875 -262.5 l -707.875 28.5 l 703.375 28.5</font></b></font>
+
+455
+00:17:02,420 --> 00:17:04,970
+<font face="Estrangelo Edessa" size="45">Huua! Scary!</font>
+
+456
+00:17:05,870 --> 00:17:07,420
+<font face="Estrangelo Edessa" size="45">This, this is like...</font>
+
+457
+00:17:07,420 --> 00:17:11,920
+<font face="Estrangelo Edessa" size="45">...the drawing in American comic and such.</font>
+
+458
+00:17:11,920 --> 00:17:13,670
+<font face="Estrangelo Edessa" size="45">Is this before jumping?</font>
+
+459
+00:17:13,670 --> 00:17:15,520
+<font face="Estrangelo Edessa" size="45">That is in the middle of jumping.</font>
+
+460
+00:17:16,130 --> 00:17:16,130
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}The logical explanation...</b></font>
+
+461
+00:17:16,130 --> 00:17:16,600
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#2a292c">m 703.375 -262.5 l -707.875 -262.5 l -707.875 28.5 l 703.375 28.5</font></b></font>
+
+462
+00:17:16,600 --> 00:17:19,950
+<font face="Estrangelo Edessa" size="45">- This... what's this?
+- Jumping block.</font>
+
+463
+00:17:19,950 --> 00:17:21,320
+<font face="Estrangelo Edessa" size="45">- Jumping block, right?
+- Yes!</font>
+
+464
+00:17:21,320 --> 00:17:24,120
+<font face="Estrangelo Edessa" size="45">- Not jumping then!
+- From here, he looks like he hasn't jumped.</font>
+
+465
+00:17:24,120 --> 00:17:28,320
+<font face="Estrangelo Edessa" size="45">- No, that pose is in the middle of jumping.
+- But, he is still on that side, right?</font>
+
+466
+00:17:28,320 --> 00:17:32,410
+<font face="Estrangelo Edessa" size="45">So, it's like this, then, immediately JUMP~ like that.</font>
+
+467
+00:17:32,410 --> 00:17:32,410
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}Backward style.</b></font>
+
+468
+00:17:32,410 --> 00:17:35,100
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#2a292c">m 703.375 -262.5 l -707.875 -262.5 l -707.875 28.5 l 703.375 28.5</font></b></font>
+
+469
+00:17:35,100 --> 00:17:38,950
+<font face="Estrangelo Edessa" size="45">Jump backward.</font>
+
+470
+00:17:38,950 --> 00:17:44,300
+<font face="Estrangelo Edessa" size="45">He has a good expression.</font>
+
+471
+00:17:44,300 --> 00:17:46,070
+<font face="Estrangelo Edessa" size="45">And this is too.</font>
+
+472
+00:17:46,500 --> 00:17:49,550
+<font face="Estrangelo Edessa" size="45">Quite good, right?</font>
+
+473
+00:17:49,550 --> 00:17:52,450
+<font face="Estrangelo Edessa" size="45">This face can be put on T-shirt.</font>
+
+474
+00:17:54,020 --> 00:17:55,870
+<font face="Estrangelo Edessa" size="45"><i>Lastly...</i></font>
+
+475
+00:17:55,870 --> 00:17:58,870
+<font face="Estrangelo Edessa" size="45"><i>... the hidden artist will appear.</i></font>
+
+476
+00:17:59,600 --> 00:18:03,600
+<font face="Estrangelo Edessa" size="45">Well, here are the skillful zone.</font>
+
+477
+00:18:03,600 --> 00:18:05,600
+<font face="Estrangelo Edessa" size="45">Clearly good.</font>
+
+478
+00:18:05,600 --> 00:18:06,600
+<font face="Estrangelo Edessa" size="45">It's Wakatsuki.</font>
+
+479
+00:18:06,600 --> 00:18:08,800
+<font face="Estrangelo Edessa" size="45">- Skillful!
+- Cool!</font>
+
+480
+00:18:08,800 --> 00:18:10,720
+<font face="Estrangelo Edessa" size="45">Cool.</font>
+
+481
+00:18:10,720 --> 00:18:13,720
+<font face="Estrangelo Edessa" size="45">- This is quite good.
+- What's this?</font>
+
+482
+00:18:17,670 --> 00:18:19,220
+<font face="Estrangelo Edessa" size="45">Marika-chan.</font>
+
+483
+00:18:19,220 --> 00:18:20,250
+<font face="Estrangelo Edessa" size="45">Yaa, skillful, right?</font>
+
+484
+00:18:20,250 --> 00:18:24,320
+<font face="Estrangelo Edessa" size="45">- So cute!
+- Awesome!</font>
+
+485
+00:18:26,220 --> 00:18:31,100
+<font face="Estrangelo Edessa" size="45">- This is like it has been drawn 50 times.
+- Splendid.</font>
+
+486
+00:18:31,100 --> 00:18:33,450
+<font face="Estrangelo Edessa" size="45">From which part did you start drawing this?</font>
+
+487
+00:18:33,450 --> 00:18:36,400
+<font face="Estrangelo Edessa" size="45">From the block.
+- So, it's from the block.</font>
+
+488
+00:18:36,400 --> 00:18:38,750
+<font face="Estrangelo Edessa" size="45">Just like an illustration in school books.</font>
+
+489
+00:18:40,470 --> 00:18:42,450
+<font face="Estrangelo Edessa" size="45">It's Nishino.</font>
+
+490
+00:18:42,450 --> 00:18:46,800
+<font face="Estrangelo Edessa" size="45">- So cute!
+- Awesome!</font>
+
+491
+00:18:47,820 --> 00:18:50,770
+<font face="Estrangelo Edessa" size="45">How can you draw so well?</font>
+
+492
+00:18:51,700 --> 00:18:55,150
+<font face="Estrangelo Edessa" size="45">This already looks like a picture from real world.</font>
+
+493
+00:18:55,150 --> 00:18:56,500
+<font face="Estrangelo Edessa" size="45">Absolutely.</font>
+
+494
+00:18:56,500 --> 00:19:00,350
+<font face="Estrangelo Edessa" size="45">- And also the point of view.
+- That's right.</font>
+
+495
+00:19:01,200 --> 00:19:03,270
+<font face="Estrangelo Edessa" size="45">Fukagawa also.</font>
+
+496
+00:19:03,270 --> 00:19:07,720
+<font face="Estrangelo Edessa" size="45">So cute!</font>
+
+497
+00:19:07,900 --> 00:19:10,050
+<font face="Estrangelo Edessa" size="45">The boy is cute.</font>
+
+498
+00:19:10,050 --> 00:19:12,070
+<font face="Estrangelo Edessa" size="45">Cute, isn't it?</font>
+
+499
+00:19:12,070 --> 00:19:14,320
+<font face="Estrangelo Edessa" size="45">How can someone draw like this?</font>
+
+500
+00:19:14,750 --> 00:19:16,720
+<font face="Estrangelo Edessa" size="45">- Cool!
+- So cute!</font>
+
+501
+00:19:16,720 --> 00:19:21,670
+<font face="Estrangelo Edessa" size="45">For those whose drawing is splendid, do you think this theme is difficult?</font>
+
+502
+00:19:21,670 --> 00:19:28,170
+<font face="Estrangelo Edessa" size="45">- It tends to be easy.
+- Because we just need to make one side even to another, so I think it's easy.</font>
+
+503
+00:19:28,170 --> 00:19:29,050
+<font face="Estrangelo Edessa" size="45">Oh I see.</font>
+
+504
+00:19:29,050 --> 00:19:35,400
+<font face="Estrangelo Edessa" size="45"><i>Because those who see it can identify it's a jumping primary schooler, Ikoma and Etou succeed.</i></font>
+
+505
+00:19:37,100 --> 00:19:42,020
+<font face="Estrangelo Edessa" size="45"><i>Because the pose is identifiable, Takayama and Shiraishi barely succeed. </i></font>
+
+506
+00:19:43,970 --> 00:19:49,900
+<font face="Estrangelo Edessa" size="45"><i>Akimoto's human with leg only and Sakurai's alien are stilll passed.</i></font>
+
+507
+00:19:50,350 --> 00:19:53,920
+<font face="Estrangelo Edessa" size="45">From here, the drawings are already <i>"Ah, this is it"</i></font>
+
+508
+00:19:53,920 --> 00:19:55,450
+<font face="Estrangelo Edessa" size="45">Surely it's Hoshino.</font>
+
+509
+00:19:57,620 --> 00:19:58,400
+<font face="Estrangelo Edessa" size="45">A bit tilted.</font>
+
+510
+00:19:58,430 --> 00:19:58,430
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}Flying tilted.</b></font>
+
+511
+00:19:58,430 --> 00:20:00,910
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#2a292c">m 703.375 -262.5 l -707.875 -262.5 l -707.875 28.5 l 703.375 28.5</font></b></font>
+
+512
+00:20:04,200 --> 00:20:06,800
+<font face="Estrangelo Edessa" size="45">This is definitely a picture of Himura, isn't it?</font>
+
+513
+00:20:06,800 --> 00:20:06,800
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}Himura's hairstyle.</b></font>
+
+514
+00:20:06,800 --> 00:20:06,850
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#2a292c">m 703.375 -262.5 l -707.875 -262.5 l -707.875 28.5 l 703.375 28.5</font></b></font>
+
+515
+00:20:06,850 --> 00:20:10,320
+<font face="Estrangelo Edessa" size="45">- What's this?
+- The head...</font>
+
+516
+00:20:10,320 --> 00:20:11,650
+<font face="Estrangelo Edessa" size="45">Why tilted?</font>
+
+517
+00:20:11,750 --> 00:20:13,720
+<font face="Estrangelo Edessa" size="45">How can it be tilted?</font>
+
+518
+00:20:13,720 --> 00:20:13,720
+<font face="Estrangelo Edessa" size="45">Is this a <b><font size="72"><font color="#8fb317">frog</font></font></b><font size="72"> <font size="45"><font color="#ffffff">human?</font></font></font></font>
+
+519
+00:20:13,720 --> 00:20:17,620
+<font face="Estrangelo Edessa" size="45">Is this a <b><font size="72"><font color="#eecc33">frog</font></font></b><font size="72"> <font size="45"><font color="#ffffff">human?</font></font></font></font>
+
+520
+00:20:19,100 --> 00:20:20,100
+<font face="Estrangelo Edessa" size="45">Well...</font>
+
+521
+00:20:20,100 --> 00:20:26,400
+<font face="Estrangelo Edessa" size="45">...the intent was to draw a trouser or western cloth...</font>
+
+522
+00:20:26,400 --> 00:20:26,400
+<font face="Estrangelo Edessa" size="45"><b><font size="72"><font color="#e44215">He's wearing heattech pant</font></font></b></font>
+
+523
+00:20:26,400 --> 00:20:27,790
+<font face="Estrangelo Edessa" size="45"><b><font size="72"><font color="#e44215">He's wearing heattech pant</font></font></b></font>
+
+524
+00:20:27,790 --> 00:20:27,790
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}Underwear and barefeet.</b></font>
+
+525
+00:20:27,790 --> 00:20:29,150
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#2a292c">m 703.375 -262.5 l -707.875 -262.5 l -707.875 28.5 l 703.375 28.5</font></b></font>
+
+526
+00:20:29,150 --> 00:20:31,750
+<font face="Estrangelo Edessa" size="45">Why wearing heattech?</font>
+
+527
+00:20:33,050 --> 00:20:34,670
+<font face="Estrangelo Edessa" size="45">His body is so visible.</font>
+
+528
+00:20:34,670 --> 00:20:35,570
+<font face="Estrangelo Edessa" size="45">This one too...</font>
+
+529
+00:20:36,870 --> 00:20:37,970
+<font face="Estrangelo Edessa" size="45">... Matsumura.</font>
+
+530
+00:20:39,170 --> 00:20:40,670
+<font face="Estrangelo Edessa" size="45">Well, well.</font>
+
+531
+00:20:41,900 --> 00:20:45,220
+<font face="Estrangelo Edessa" size="45">She is already in a particular zone.</font>
+
+532
+00:20:45,220 --> 00:20:47,920
+<font face="Estrangelo Edessa" size="45">What's this? One of the monsters from Monster Inc.?</font>
+
+533
+00:20:47,920 --> 00:20:49,950
+<font face="Estrangelo Edessa" size="45">Jet engine.</font>
+
+534
+00:20:50,650 --> 00:20:50,650
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}It is taking off?</b></font>
+
+535
+00:20:50,650 --> 00:20:51,700
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#2a292c">m 703.375 -262.5 l -707.875 -262.5 l -707.875 28.5 l 703.375 28.5</font></b></font>
+
+536
+00:20:51,700 --> 00:20:53,470
+<font face="Estrangelo Edessa" size="45">"Jet engine"</font>
+
+537
+00:20:55,350 --> 00:20:56,870
+<font face="Estrangelo Edessa" size="45">"Jet engine"</font>
+
+538
+00:20:56,870 --> 00:20:59,120
+<font face="Estrangelo Edessa" size="45">From here, it immediately takes off, jeet!</font>
+
+539
+00:20:59,120 --> 00:21:01,120
+<font face="Estrangelo Edessa" size="45">Jeet!</font>
+
+540
+00:21:02,050 --> 00:21:03,820
+<font face="Estrangelo Edessa" size="45">From here...</font>
+
+541
+00:21:03,820 --> 00:21:05,900
+<font face="Estrangelo Edessa" size="45">... is the climax. Hori.</font>
+
+542
+00:21:06,970 --> 00:21:09,920
+<font face="Estrangelo Edessa" size="45">Here it is!</font>
+
+543
+00:21:10,000 --> 00:21:10,000
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}Original personal drawing style.</b></font>
+
+544
+00:21:10,000 --> 00:21:14,100
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#2a292c">m 703.375 -262.5 l -707.875 -262.5 l -707.875 28.5 l 703.375 28.5</font></b></font>
+
+545
+00:21:14,150 --> 00:21:15,520
+<font face="Estrangelo Edessa" size="45">Why is this, Hori?</font>
+
+546
+00:21:15,520 --> 00:21:17,770
+<font face="Estrangelo Edessa" size="45">What pose is this?</font>
+
+547
+00:21:18,370 --> 00:21:22,800
+<font face="Estrangelo Edessa" size="45">This, why is the leg also following?</font>
+
+548
+00:21:22,800 --> 00:21:25,400
+<font face="Estrangelo Edessa" size="45">Spreading legs.</font>
+
+549
+00:21:25,620 --> 00:21:25,620
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}Human without knee.</b></font>
+
+550
+00:21:25,620 --> 00:21:26,150
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#2a292c">m 703.375 -262.5 l -707.875 -262.5 l -707.875 28.5 l 703.375 28.5</font></b></font>
+
+551
+00:21:26,150 --> 00:21:27,700
+<font face="Estrangelo Edessa" size="45">- Do you mean like this?
+- Yes.</font>
+
+552
+00:21:30,670 --> 00:21:35,570
+<font face="Estrangelo Edessa" size="45">This means both hands and one leg go forward at once.</font>
+
+553
+00:21:35,570 --> 00:21:39,820
+<font face="Estrangelo Edessa" size="45">So it jumps forward with one leg goes forward, like that?</font>
+
+554
+00:21:42,700 --> 00:21:46,650
+<font face="Estrangelo Edessa" size="45"><i>Next is the drawing from Ikuta, the unmatched artist.</i></font>
+
+555
+00:21:48,420 --> 00:21:51,350
+<font face="Estrangelo Edessa" size="45">This is quite terrifying. Well, here's the last one.</font>
+
+556
+00:21:52,900 --> 00:21:55,100
+<font face="Estrangelo Edessa" size="45">Sensei. Pardon us, sensei.</font>
+
+557
+00:21:55,270 --> 00:22:02,330
+<font face="Estrangelo Edessa" size="45">Thank you for your artwork.</font>
+
+558
+00:22:02,330 --> 00:22:02,350
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}Ikuta World.</b></font>
+
+559
+00:22:02,350 --> 00:22:02,350
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}Ikuta World.</b></font>
+
+560
+00:22:02,350 --> 00:22:03,450
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#2a292c">m 703.375 -262.5 l -707.875 -262.5 l -707.875 28.5 l 703.375 28.5</font></b></font>
+
+561
+00:22:03,450 --> 00:22:06,300
+<font face="Estrangelo Edessa" size="45">Wah, this is quite exceptional.</font>
+
+562
+00:22:06,300 --> 00:22:10,020
+<font face="Estrangelo Edessa" size="45">Ikuta's drawing is once again like this.</font>
+
+563
+00:22:10,020 --> 00:22:13,070
+<font face="Estrangelo Edessa" size="45">This, can you give explanation?</font>
+
+564
+00:22:13,070 --> 00:22:17,370
+<font face="Estrangelo Edessa" size="45">I took different perspective than the others.</font>
+
+565
+00:22:17,370 --> 00:22:18,100
+<font face="Estrangelo Edessa" size="45">Different perspective?</font>
+
+566
+00:22:18,100 --> 00:22:23,720
+<font face="Estrangelo Edessa" size="45">Everyone else draw from the front view. I draw it from the side view.</font>
+
+567
+00:22:23,720 --> 00:22:25,720
+<font face="Estrangelo Edessa" size="45">That's why it's kinda different from the others.</font>
+
+568
+00:22:25,720 --> 00:22:28,100
+<font face="Estrangelo Edessa" size="45">Those are the middle parts.</font>
+
+569
+00:22:28,100 --> 00:22:29,000
+<font face="Estrangelo Edessa" size="45">- These?
+- Yes.</font>
+
+570
+00:22:29,000 --> 00:22:32,620
+<font face="Estrangelo Edessa" size="45">Then, the back parts are legs.</font>
+
+571
+00:22:32,620 --> 00:22:35,500
+<font face="Estrangelo Edessa" size="45">So the legs are from here?</font>
+
+572
+00:22:35,500 --> 00:22:42,100
+<font face="Estrangelo Edessa" size="45">Eh, how is it, those legs are branched like this.</font>
+
+573
+00:22:42,130 --> 00:22:42,130
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}Branch point of leg?</b></font>
+
+574
+00:22:42,130 --> 00:22:43,420
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#2a292c">m 703.375 -262.5 l -707.875 -262.5 l -707.875 28.5 l 703.375 28.5</font></b></font>
+
+575
+00:22:43,420 --> 00:22:45,120
+<font face="Estrangelo Edessa" size="45">Branching in the back part.</font>
+
+576
+00:22:45,120 --> 00:22:47,600
+<font face="Estrangelo Edessa" size="45">If I had a classmate like that, I would be so disgusted that I throw up.</font>
+
+577
+00:22:47,600 --> 00:22:47,600
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}Don't wanna befriend with.</b></font>
+
+578
+00:22:47,600 --> 00:22:49,310
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#2a292c">m 703.375 -262.5 l -707.875 -262.5 l -707.875 28.5 l 703.375 28.5</font></b></font>
+
+579
+00:22:50,570 --> 00:22:54,500
+<font face="Estrangelo Edessa" size="45">Instead of landing from above, it will be... Huaaa!</font>
+
+580
+00:22:54,500 --> 00:22:54,500
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}Landing on the block.</b></font>
+
+581
+00:22:54,500 --> 00:22:55,070
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#2a292c">m 703.375 -262.5 l -707.875 -262.5 l -707.875 28.5 l 703.375 28.5</font></b></font>
+
+582
+00:22:55,070 --> 00:22:59,150
+<font face="Estrangelo Edessa" size="45">From above, it's like that. Fuaaa~</font>
+
+583
+00:22:59,150 --> 00:23:01,770
+<font face="Estrangelo Edessa" size="45">Is this drone?   - Yes it is.</font>
+
+584
+00:23:01,770 --> 00:23:03,070
+<font face="Estrangelo Edessa" size="45">This must be drone.</font>
+
+585
+00:23:03,070 --> 00:23:05,550
+<font face="Estrangelo Edessa" size="45">Just add some propellers and it will become a drone.</font>
+
+586
+00:23:05,550 --> 00:23:07,620
+<font face="Estrangelo Edessa" size="45">Hmm... This time...</font>
+
+587
+00:23:07,620 --> 00:23:11,750
+<font face="Estrangelo Edessa" size="45">Actually the plan of Fukagawa is to see the Saito Asuka's drawing skill.</font>
+
+588
+00:23:11,750 --> 00:23:13,050
+<font face="Estrangelo Edessa" size="45">Ah, that's right.</font>
+
+589
+00:23:13,050 --> 00:23:17,370
+<font face="Estrangelo Edessa" size="45">Well, it's good. But in fact, those with better drawing skill are many.</font>
+
+590
+00:23:17,970 --> 00:23:19,070
+<font face="Estrangelo Edessa" size="45">Haa, interesting.</font>
+
+591
+00:23:19,070 --> 00:23:19,700
+<font face="Estrangelo Edessa" size="45">This...</font>
+
+592
+00:23:19,700 --> 00:23:21,870
+<font face="Estrangelo Edessa" size="45">This is also an artwork of an artist.</font>
+
+593
+00:23:21,870 --> 00:23:23,870
+<font face="Estrangelo Edessa" size="45">This is enough.</font>
+
+594
+00:23:24,970 --> 00:23:25,950
+<font face="Estrangelo Edessa" size="45">Well.</font>
+
+595
+00:23:25,950 --> 00:23:28,070
+<font face="Estrangelo Edessa" size="45">But, somewhat similiar.</font>
+
+596
+00:23:28,600 --> 00:23:28,600
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}Similarity between geniuses?</b></font>
+
+597
+00:23:28,600 --> 00:23:30,020
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#2a292c">m 703.375 -262.5 l -707.875 -262.5 l -707.875 28.5 l 703.375 28.5</font></b></font>
+
+598
+00:23:30,020 --> 00:23:32,850
+<font face="Estrangelo Edessa" size="45">- Similiar, aren't they?
+- Don't they resemble each other?</font>
+
+599
+00:23:36,320 --> 00:23:41,320
+<font face="Estrangelo Edessa" size="45">- They resembles each other.
+- If they are put together, a strange creature will appear. Interesting.</font>
+
+600
+00:23:41,320 --> 00:23:41,320
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}The real appearance?</b></font>
+
+601
+00:23:41,320 --> 00:23:41,770
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#2a292c">m 703.375 -262.5 l -707.875 -262.5 l -707.875 28.5 l 703.375 28.5</font></b></font>
+
+602
+00:23:41,770 --> 00:23:44,270
+<font face="Estrangelo Edessa" size="45">The closest one is Saito Asuka's.</font>
+
+603
+00:23:46,370 --> 00:23:48,250
+<font face="Estrangelo Edessa" size="45">Let's hold an exhibition.</font>
+
+604
+00:23:48,250 --> 00:23:49,770
+<font face="Estrangelo Edessa" size="45">Yes, let's hold it.</font>
+
+605
+00:23:51,320 --> 00:23:56,220
+<font face="Estrangelo Edessa" size="45"><i>The activity is postponed and will be continued with its planning.</i></font>
+
+606
+00:23:58,350 --> 00:24:01,670
+<font face="Estrangelo Edessa" size="45"><i>Next, although the drawing session took too much time,</i></font>
+
+607
+00:24:01,670 --> 00:24:07,400
+<font face="Estrangelo Edessa" size="45"><i>Akimoto wants to hold a new staff recruit competition.</i></font>
+
+608
+00:24:09,450 --> 00:24:12,570
+<font face="Estrangelo Edessa" size="45"><i>This plan is accepted and will be done.</i></font>
+
+609
+00:24:12,570 --> 00:24:14,570
+<font face="Estrangelo Edessa" size="45"><i>Please wait for it!</i></font>
+
+610
+00:24:15,650 --> 00:24:18,500
+<font face="Estrangelo Edessa" size="45">Yeah, the writting is determined though.</font>
+
+611
+00:24:18,870 --> 00:24:20,650
+<font face="Estrangelo Edessa" size="45">The first is this...</font>
+
+612
+00:24:20,920 --> 00:24:23,870
+<font face="Estrangelo Edessa" size="45">- Especially if he's like Choi Hong-man.
+- That's too big.</font>
+
+613
+00:24:23,870 --> 00:24:26,100
+<font face="Estrangelo Edessa" size="45">Isn't mucle so shiny?</font>
+
+614
+00:24:26,100 --> 00:24:28,700
+<font face="Estrangelo Edessa" size="45">Appearance-wise, it's okay.</font>
+
+615
+00:24:29,170 --> 00:24:31,220
+<font face="Estrangelo Edessa" size="45">- It's okay?
+- Why you keep talking about appearance!</font>
+
+616
+00:24:32,570 --> 00:24:36,900
+<font face="Estrangelo Edessa" size="45"><i>Nogizaka46 2016 Mid Summer National Tour</i></font>
+
+617
+00:24:36,900 --> 00:24:41,070
+<font face="Estrangelo Edessa" size="45"><i>Its ticket can be ordered via mobile.</i></font>
+
+618
+00:24:41,070 --> 00:24:43,070
+<font face="Estrangelo Edessa" size="45"><i>Pay attention to the deadline!</i></font>
+
+619
+00:24:44,370 --> 00:24:50,300
+<font face="Estrangelo Edessa" size="45"><i>Next, ticket of second girl stage play from 2nd Gen members can also be ordered.</i></font>
+
+620
+00:24:50,300 --> 00:24:52,820
+<font face="Estrangelo Edessa" size="45"><i>Pay attention to the deadline too!</i></font>
+
+621
+00:24:53,300 --> 00:24:53,350
+<font face="Estrangelo Edessa" size="45">So cute~</font>
+
+622
+00:24:53,350 --> 00:24:53,350
+<font face="Estrangelo Edessa" size="45"><font color="#ffdf03">The member is blushing...</font></font>
+
+623
+00:24:53,350 --> 00:24:55,020
+<font face="Estrangelo Edessa" size="45"><font color="#2a292c">m 703.375 -262.5 l -707.875 -262.5 l -707.875 28.5 l 703.375 28.5</font></font>
+
+624
+00:24:55,020 --> 00:24:56,350
+<font face="Estrangelo Edessa" size="45">No, this is embarrassing.</font>
+
+625
+00:24:56,350 --> 00:24:59,220
+<font face="Estrangelo Edessa" size="45"><i>Find out members' ideal type!</i></font>
+

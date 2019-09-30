@@ -1,0 +1,2357 @@
+1
+00:00:07,950 --> 00:00:09,020
+<font size="46"><b>DON!</b></font>
+
+2
+00:00:09,020 --> 00:00:12,250
+<font size="46"><b>And we're on! We're the hosts of Nogizaka Under Construction, Bananaman, and...</b></font>
+
+3
+00:00:12,250 --> 00:00:13,210
+<font size="46"><b>I'm Fukagawa Mai!</b></font>
+
+4
+00:00:13,210 --> 00:00:15,790
+<font size="46"><b>And here are Nogizaka-chan!</b></font>
+
+5
+00:00:24,770 --> 00:00:28,130
+<font size="46"><b>Alright, there are a lot of them today. Our activity for today is...</b></font>
+
+6
+00:00:28,130 --> 00:00:30,880
+<font size="46"><b>Please announce it for us, Himura-san.</b></font>
+
+7
+00:00:30,880 --> 00:00:36,610
+<font size="46"><b>Congratulations! Fukagawa Mai's Graduation Activity: Audition for the Second Holy Mother!</b></font>
+
+8
+00:00:36,610 --> 00:00:37,300
+<font size="46"><b>Yay!</b></font>
+
+9
+00:00:37,950 --> 00:00:39,580
+<font size="46"><b>Alright.</b></font>
+
+10
+00:00:39,580 --> 00:00:42,160
+<font size="46"><b>So you're doing a concert in Shizuoka?</b></font>
+
+11
+00:00:42,160 --> 00:00:43,880
+<font size="46"><b>Yes. On the 15th and 16th.</b></font>
+
+12
+00:00:43,880 --> 00:00:45,490
+<font size="46"><b>And that's your last appearance for Nogizaka?</b></font>
+
+13
+00:00:45,490 --> 00:00:46,700
+<font size="46"><b>Yes, it will all end with that.</b></font>
+
+14
+00:00:46,700 --> 00:00:47,590
+<font size="46"><b>The end.</b></font>
+
+15
+00:00:47,590 --> 00:00:48,970
+<font size="46"><b>So you only have a few days left.</b></font>
+
+16
+00:00:48,970 --> 00:00:49,720
+<font size="46"><b>Yes.</b></font>
+
+17
+00:00:49,720 --> 00:00:53,870
+<font size="46"><b>So today is also the last time you're appearing here as a member of Nogizaka, right?</b></font>
+
+18
+00:00:53,870 --> 00:00:53,900
+<font size="46"><b>Yes, it's the last.</b></font>
+
+19
+00:00:53,900 --> 00:00:54,740
+<font face="Arial Rounded MT Bold" size="44">Last Under Construction</font>
+
+20
+00:00:54,740 --> 00:00:56,400
+<font size="46"><b>I see.</b></font>
+
+21
+00:00:56,400 --> 00:00:56,760
+<font size="46"><b>Right?</b></font>
+
+22
+00:00:56,760 --> 00:00:57,500
+<font size="46"><b>The last, huh.</b></font>
+
+23
+00:00:57,500 --> 00:01:00,820
+<font size="46"><b>We've been doing this together for a long time, so it'll be lonely without you.</b></font>
+
+24
+00:01:00,820 --> 00:01:02,120
+<font size="46"><b>Ve-Yes, it's sad.</b></font>
+
+25
+00:01:02,120 --> 00:01:02,980
+<font size="46"><b>What's with the Ve?</b></font>
+
+26
+00:01:02,980 --> 00:01:04,440
+<font size="46"><b>Was gonna say very sad.</b></font>
+
+27
+00:01:04,440 --> 00:01:05,410
+<font size="46"><b>So it was Ve from very.</b></font>
+
+28
+00:01:05,410 --> 00:01:06,510
+<font size="46"><b>Yes, a Ve from very.</b></font>
+
+29
+00:01:06,510 --> 00:01:06,920
+<font size="46"><b>I see.</b></font>
+
+30
+00:01:06,920 --> 00:01:09,480
+<font size="46"><b>Even the inside of my mouth is fat so I stumble over my words.</b></font>
+
+31
+00:01:10,400 --> 00:01:14,080
+<font size="46"><b>Fukagawa has been accompanied by her endearing title of "Holy Mother."</b></font>
+
+32
+00:01:14,080 --> 00:01:17,380
+<font size="46"><b>With her graduation, the seat for Nogizaka's "Holy Mother" character will be vacated.</b></font>
+
+33
+00:01:18,230 --> 00:01:23,130
+<font size="46"><b>To fill in that hole, an audition for the second Holy Mother will be held tonight.</b></font>
+
+34
+00:01:24,440 --> 00:01:26,400
+<font size="46"><b>The ones who have put forth themselves as the ones who deserve the title are:</b></font>
+
+35
+00:01:26,400 --> 00:01:29,280
+<font size="46"><b>Akimoto, Ikuta, and Hori.</b></font>
+
+36
+00:01:29,280 --> 00:01:33,510
+<font size="46"><b>Tonight, the second Holy Mother shall be chosen from these three.</b></font>
+
+37
+00:01:33,510 --> 00:01:38,340
+<font size="46"><b>All of you. A Holy Mother will be picked from these three. A new one.</b></font>
+
+38
+00:01:38,340 --> 00:01:41,050
+<font size="46"><b>It looks to me like everyone has objections about the choices.</b></font>
+
+39
+00:01:41,050 --> 00:01:42,000
+<font face="Arial Rounded MT Bold" size="44">Why these 3?</font>
+
+40
+00:01:42,000 --> 00:01:44,930
+<font size="46"><b>The air is filled with the question "Why these three?"</b></font>
+
+41
+00:01:44,930 --> 00:01:46,290
+<font size="46"><b>Please leave it to me.</b></font>
+
+42
+00:01:46,290 --> 00:01:46,490
+<font size="46"><b>Wow.</b></font>
+
+43
+00:01:46,490 --> 00:01:47,500
+<font face="Arial Rounded MT Bold" size="44">Full of confidence.</font>
+
+44
+00:01:47,500 --> 00:01:49,250
+<font size="46"><b>Is this girl being serious? Is she alright?</b></font>
+
+45
+00:01:49,250 --> 00:01:50,250
+<font size="46"><b>Well...</b></font>
+
+46
+00:01:50,250 --> 00:01:51,000
+<font size="46"><b>She's not fooling around, is she?</b></font>
+
+47
+00:01:51,000 --> 00:01:52,300
+<font size="46"><b>No, I think it's fine.</b></font>
+
+48
+00:01:52,880 --> 00:01:58,440
+<font size="46"><b>First, these three will state how they deserve to become Nogizaka's Holy Mother.</b></font>
+
+49
+00:01:59,910 --> 00:02:02,440
+<font size="46"><b>Our top batter is Akimoto Manatsu.</b></font>
+
+50
+00:02:02,440 --> 00:02:05,940
+<font size="46"><b>Let us hear her reason for running for the position of Nogizaka's Holy Mother.</b></font>
+
+51
+00:02:05,940 --> 00:02:08,340
+<font size="46"><b>During Nogizaka Under Construction...</b></font>
+
+52
+00:02:08,340 --> 00:02:11,110
+<font size="46"><b>For Halloween, we all did cosplay, didn't we?</b></font>
+
+53
+00:02:11,110 --> 00:02:15,810
+<font size="46"><b>At that time, I unknowingly did something...</b></font>
+
+54
+00:02:15,810 --> 00:02:18,450
+<font size="46"><b>I'd like everyone to please take a look at what I mean. Jan!</b></font>
+
+55
+00:02:20,390 --> 00:02:22,620
+<font size="46"><b>I did a cosplay of a Sister.</b></font>
+
+56
+00:02:22,950 --> 00:02:23,870
+<font size="46"><b>Oh.</b></font>
+
+57
+00:02:23,870 --> 00:02:23,880
+<font size="46"><b>When I did this, I had no idea this would happen.</b></font>
+
+58
+00:02:23,880 --> 00:02:25,160
+<font size="46"><b>Sister.</b></font>
+
+59
+00:02:25,160 --> 00:02:26,770
+<font face="Arial Rounded MT Bold" size="44"><font face="Segoe UI Semilight"><font size="36">Reasons for becoming the 2nd Holy Mother 
+<font size="44">Around 2 years ago, she somehow did a cosplay of a Sister!</font></font></font></font>
+
+60
+00:02:26,770 --> 00:02:30,080
+<font size="46"><b>I had absolutely no idea that we would be holding an audition for the second Holy Mother.</b></font>
+
+61
+00:02:30,080 --> 00:02:30,960
+<font size="46"><b>But somehow!</b></font>
+
+62
+00:02:30,960 --> 00:02:31,860
+<font size="46"><b>You were already there.</b></font>
+
+63
+00:02:31,860 --> 00:02:36,310
+<font size="46"><b>Unknowingly, I chose this costume out of the many choices available.</b></font>
+
+64
+00:02:36,310 --> 00:02:38,800
+<font size="46"><b>I became a Holy Mother.</b></font>
+
+65
+00:02:39,590 --> 00:02:41,220
+<font size="46"><b>And so, with that...</b></font>
+
+66
+00:02:41,220 --> 00:02:45,110
+<font size="46"><b>I was guided by the Holy Mother, and wore that costume.</b></font>
+
+67
+00:02:45,110 --> 00:02:48,110
+<font size="46"><b>And now, I'm here taking this audition.</b></font>
+
+68
+00:02:48,110 --> 00:02:50,020
+<font size="46"><b>It's like you were guided by some natural power.</b></font>
+
+69
+00:02:50,020 --> 00:02:54,460
+<font size="46"><b>Yes. Even years ago, I felt a pull, like a calling.</b></font>
+
+70
+00:02:54,460 --> 00:02:56,990
+<font size="46"><b>And so I ended up wearing this then.</b></font>
+
+71
+00:02:57,830 --> 00:03:01,990
+<font size="46"><b>And Akimoto has one more reason...</b></font>
+
+72
+00:03:01,990 --> 00:03:03,600
+<font size="46"><b>The Holy Mother Approaching</b></font>
+
+73
+00:03:04,200 --> 00:03:07,510
+<font size="46"><b>I think everyone here is wondering what this is about.</b></font>
+
+74
+00:03:07,510 --> 00:03:13,210
+<font size="46"><b>There's a part of the current Holy Mother, Maimai, that's coming closer and approaching me.</b></font>
+
+75
+00:03:13,610 --> 00:03:13,920
+<font face="Arial Rounded MT Bold" size="44">The person herself is shocked!</font>
+
+76
+00:03:13,920 --> 00:03:14,510
+<font size="46"><b>Yes.</b></font>
+
+77
+00:03:14,510 --> 00:03:15,800
+<font size="46"><b>Maimai's shocked.</b></font>
+
+78
+00:03:15,800 --> 00:03:17,110
+<font size="46"><b>No, no, no.</b></font>
+
+79
+00:03:17,110 --> 00:03:18,510
+<font size="46"><b>She's surprised.</b></font>
+
+80
+00:03:19,230 --> 00:03:23,520
+<font size="46"><b>What is this approach that Akimoto felt from Fukagawa?</b></font>
+
+81
+00:03:23,520 --> 00:03:28,720
+<font size="46"><b>Normally, when we're waiting, I usually go tsuntsun and chu like this.</b></font>
+
+82
+00:03:28,720 --> 00:03:31,550
+<font size="46"><b>And somehow, this has infected Maimai as well!</b></font>
+
+83
+00:03:31,550 --> 00:03:35,320
+<font size="46"><b>She has come to regularly go tsuntsun and chu as well.</b></font>
+
+84
+00:03:35,320 --> 00:03:35,390
+<font size="46"><b>I'm not just naming myself Holy Mother, the Holy Mother herself is approaching me.</b></font>
+
+85
+00:03:35,390 --> 00:03:39,050
+<font face="Arial Rounded MT Bold" size="44"><font face="Segoe UI Semilight"><font size="36">Reasons for becoming the 2nd Holy Mother 
+<font size="44">The Holy Mother has come to imitate her!</font></font></font></font>
+
+86
+00:03:39,050 --> 00:03:42,000
+<font size="46"><b>I believe this means I'm already a Holy Mother at this point.</b></font>
+
+87
+00:03:42,000 --> 00:03:43,160
+<font size="46"><b>Like you're meant to be the Holy Mother.</b></font>
+
+88
+00:03:43,160 --> 00:03:43,780
+<font size="46"><b>Yes.</b></font>
+
+89
+00:03:43,780 --> 00:03:45,640
+<font size="46"><b>Did you notice this yourself?</b></font>
+
+90
+00:03:45,640 --> 00:03:48,800
+<font size="46"><b>Well, now that it's mentioned, I guess I've noticed this myself too.</b></font>
+
+91
+00:03:48,800 --> 00:03:53,910
+<font size="46"><b>Like when I go to tease Manatsu I go tsun! and I think, "Oh, I just said that."</b></font>
+
+92
+00:03:53,910 --> 00:03:54,290
+<font size="46"><b>I guess... When it's put that way, I may actually be kind of approaching her...</b></font>
+
+93
+00:03:54,290 --> 00:03:55,660
+<font size="46"><b>Cute!</b></font>
+
+94
+00:03:59,100 --> 00:04:03,420
+<font size="46"><b>The second Holy Mother audition. The next candidate is Ikuta Erika.</b></font>
+
+95
+00:04:03,420 --> 00:04:08,140
+<font size="46"><b>I suppose that people don't really see me as a Holy Mother character.</b></font>
+
+96
+00:04:08,140 --> 00:04:12,460
+<font size="46"><b>But I believe I do actually have the what it takes to be one.</b></font>
+
+97
+00:04:12,460 --> 00:04:16,750
+<font size="46"><b>I would like to talk more about what this is from here on.</b></font>
+
+98
+00:04:16,750 --> 00:04:17,260
+<font size="46"><b>I see.</b></font>
+
+99
+00:04:17,260 --> 00:04:20,960
+<font size="46"><b>Now, can you tell me what it is that Maimai always has with her?</b></font>
+
+100
+00:04:20,960 --> 00:04:22,170
+<font size="46"><b>Then, Shinuchi-san!</b></font>
+
+101
+00:04:22,470 --> 00:04:24,610
+<font size="46"><b>So we're in class now.</b></font>
+
+102
+00:04:24,610 --> 00:04:26,020
+<font size="46"><b>Alright, Shinuchi-san.</b></font>
+
+103
+00:04:26,020 --> 00:04:30,240
+<font size="46"><b>Perfume... She always smells really good, so I think she always brings her perfume with her.</b></font>
+
+104
+00:04:30,240 --> 00:04:33,890
+<font size="46"><b>Also, I don't know if it's for giving it out to everyone, but she always has some chocolate with her.</b></font>
+
+105
+00:04:33,890 --> 00:04:34,760
+<font size="46"><b>Ah! Yes!</b></font>
+
+106
+00:04:34,760 --> 00:04:35,840
+<font size="46"><b>She gives it out.</b></font>
+
+107
+00:04:35,840 --> 00:04:36,570
+<font size="46"><b>So she gives you chocolate?</b></font>
+
+108
+00:04:36,570 --> 00:04:38,300
+<font size="46"><b>That's correct. Yes.</b></font>
+
+109
+00:04:38,300 --> 00:04:39,260
+<font size="46"><b>Chocolate.</b></font>
+
+110
+00:04:39,260 --> 00:04:41,570
+<font size="46"><b>She always has chocolate with her, right?</b></font>
+
+111
+00:04:42,060 --> 00:04:43,790
+<font size="46"><b>So you always have chocolate with you?</b></font>
+
+112
+00:04:43,790 --> 00:04:46,340
+<font size="46"><b>I like chocolate so I usually have quite a bit of it in my bag.</b></font>
+
+113
+00:04:46,340 --> 00:04:46,900
+<font size="46"><b>Is that so?</b></font>
+
+114
+00:04:46,900 --> 00:04:48,400
+<font size="46"><b>And you give it out to everyone?</b></font>
+
+115
+00:04:48,400 --> 00:04:51,450
+<font size="46"><b>When the members say they're hungry, I give it out to them.</b></font>
+
+116
+00:04:51,450 --> 00:04:53,050
+<font size="46"><b>Is that so?</b></font>
+
+117
+00:04:53,670 --> 00:04:56,670
+<font size="46"><b>That really gives off that Holy Mother vibe, doesn't it?</b></font>
+
+118
+00:04:56,670 --> 00:04:57,340
+<font size="46"><b>Yes.</b></font>
+
+119
+00:04:57,340 --> 00:05:00,770
+<font size="46"><b>So, then. What is it that I usually have in my bag?</b></font>
+
+120
+00:05:00,770 --> 00:05:01,600
+<font size="46"><b>This.</b></font>
+
+121
+00:05:01,600 --> 00:05:02,400
+<font size="46"><b>What is it?</b></font>
+
+122
+00:05:02,400 --> 00:05:03,540
+<font size="46"><b>Snacks.</b></font>
+
+123
+00:05:04,130 --> 00:05:07,180
+<font size="46"><b>I always carry around snacks in my bag.</b></font>
+
+124
+00:05:07,180 --> 00:05:12,590
+<font size="46"><b>However, thus far, I haven't actually had the chance to share them with anyone...</b></font>
+
+125
+00:05:12,590 --> 00:05:12,590
+<font face="Arial Rounded MT Bold" size="44">Zero sharing experience.</font>
+
+126
+00:05:12,590 --> 00:05:13,940
+<font size="46"><b>But, well...</b></font>
+
+127
+00:05:13,940 --> 00:05:15,240
+<font size="46"><b>Aren't those for your own consumption?</b></font>
+
+128
+00:05:15,240 --> 00:05:19,600
+<font size="46"><b>No, no. It's so that I can deliver when the need arises.</b></font>
+
+129
+00:05:19,600 --> 00:05:23,560
+<font size="46"><b>So I habitually save up our snack provisions in my bag.</b></font>
+
+130
+00:05:23,560 --> 00:05:25,040
+<font size="46"><b>Snack provisions?</b></font>
+
+131
+00:05:25,040 --> 00:05:26,740
+<font size="46"><b>So you don't buy them yourself.</b></font>
+
+132
+00:05:26,740 --> 00:05:27,640
+<font size="46"><b>Ah. Yes.</b></font>
+
+133
+00:05:27,640 --> 00:05:28,930
+<font size="46"><b>So you steal from the catering service?</b></font>
+
+134
+00:05:28,930 --> 00:05:32,280
+<font size="46"><b>Ah, yes. Well, steal- Ah, no, it's not like that! It's not!</b></font>
+
+135
+00:05:32,280 --> 00:05:35,750
+<font size="46"><b>No, I don't <i>steal</i>
+
+136
+00:05:35,750 --> 00:05:38,990
+<font size="46"><b>When we think of Maimai, this is the image we first think of.</b></font></b></font>
+
+137
+00:05:38,990 --> 00:05:39,710
+<font size="46"><b>Yes.</b></font>
+
+138
+00:05:39,710 --> 00:05:40,720
+<font size="46"><b>Loves tricks.</b></font>
+
+139
+00:05:40,720 --> 00:05:41,470
+<font size="46"><b>Eh? Really?</b></font>
+
+140
+00:05:41,470 --> 00:05:42,190
+<font size="46"><b>Is that true?</b></font>
+
+141
+00:05:42,190 --> 00:05:43,180
+<font size="46"><b>She plays tricks quite often.</b></font>
+
+142
+00:05:43,180 --> 00:05:44,020
+<font size="46"><b>So you like tricks?</b></font>
+
+143
+00:05:44,020 --> 00:05:46,220
+<font size="46"><b>Yes. I do tease people quite often.</b></font>
+
+144
+00:05:47,090 --> 00:05:48,290
+<font size="46"><b>What kind of tricks?</b></font>
+
+145
+00:05:48,290 --> 00:05:50,090
+<font size="46"><b>Like knee buckling...</b></font>
+
+146
+00:05:50,090 --> 00:05:52,740
+<font size="46"><b>Hm, what else? Well, I think I just like useless tricks like that.</b></font>
+
+147
+00:05:52,740 --> 00:05:53,630
+<font size="46"><b>Ah, I see.</b></font>
+
+148
+00:05:53,630 --> 00:05:54,170
+<font size="46"><b>Well, I also happen to like small tricks.</b></font>
+
+149
+00:05:54,170 --> 00:05:56,700
+<font face="Arial Rounded MT Bold" size="44"><font face="Segoe UI Semilight"><font size="36">Reason for becoming the second Holy Mother 
+<font size="44">Just like the Holy Mother Fukagawa, she likes tricks</font></font></font></font>
+
+150
+00:05:56,700 --> 00:06:00,580
+<font size="46"><b>I play tricks on members hoping to make them smile.</b></font>
+
+151
+00:06:00,580 --> 00:06:01,680
+<font size="46"><b>So you're already doing that?</b></font>
+
+152
+00:06:01,680 --> 00:06:02,530
+<font size="46"><b>Yes, indeed.</b></font>
+
+153
+00:06:02,530 --> 00:06:06,010
+<font size="46"><b>That's why I thought we were quite similar in that sense.</b></font>
+
+154
+00:06:06,010 --> 00:06:07,330
+<font size="46"><b>True, that does make you quite similar.</b></font>
+
+155
+00:06:07,330 --> 00:06:10,030
+<font size="46"><b>Yes, exactly. We're similar, the two of us.</b></font>
+
+156
+00:06:10,030 --> 00:06:13,780
+<font size="46"><b>But I think Iku-chan's tricks are a bit too much, though.</b></font>
+
+157
+00:06:13,780 --> 00:06:14,490
+<font size="46"><b>What's this?</b></font>
+
+158
+00:06:14,490 --> 00:06:19,080
+<font size="46"><b>Like when she's sitting beside you, she would pin your legs so you can't move...</b></font>
+
+159
+00:06:19,080 --> 00:06:23,870
+<font size="46"><b>And during interviews, she would sometimes hold your hand like she was going to crush it.</b></font>
+
+160
+00:06:23,930 --> 00:06:24,360
+<font face="Arial Rounded MT Bold" size="44">High-level punishment game</font>
+
+161
+00:06:24,360 --> 00:06:25,670
+<font size="46"><b>Why would you do that?</b></font>
+
+162
+00:06:25,670 --> 00:06:28,530
+<font size="46"><b>Why would you hold someone's hand hard enough to crush it?</b></font>
+
+163
+00:06:28,530 --> 00:06:30,200
+<font size="46"><b>Why would you do that during an interview?</b></font>
+
+164
+00:06:30,200 --> 00:06:32,930
+<font size="46"><b>That's so that she won't fall asleep during the interview.</b></font>
+
+165
+00:06:32,930 --> 00:06:34,940
+<font size="46"><b>I provide the excitement needed to keep her awake.</b></font>
+
+166
+00:06:34,940 --> 00:06:34,960
+<font face="Arial Rounded MT Bold" size="44">Lashings of Love?</font>
+
+167
+00:06:34,960 --> 00:06:36,900
+<font size="46"><b>So she looked sleepy?</b></font>
+
+168
+00:06:36,900 --> 00:06:38,440
+<font size="46"><b>She did look drowsy.</b></font>
+
+169
+00:06:38,440 --> 00:06:41,680
+<font size="46"><b>No, I was totally energetic but she still held my hand super strongly.</b></font>
+
+170
+00:06:42,540 --> 00:06:43,660
+<font size="46"><b>That's funny.</b></font>
+
+171
+00:06:43,660 --> 00:06:44,800
+<font size="46"><b>Wow.</b></font>
+
+172
+00:06:44,800 --> 00:06:46,380
+<font size="46"><b>That's just funny. So you clasped her hand.</b></font>
+
+173
+00:06:46,380 --> 00:06:47,520
+<font size="46"><b>Like you were going to crush it.</b></font>
+
+174
+00:06:48,510 --> 00:06:52,520
+<font size="46"><b>The second Holy Mother audition. The third entry is Hori Miona.</b></font>
+
+175
+00:06:52,520 --> 00:06:56,520
+<font size="46"><b>First, I tried thinking about the qualifications of a Holy Mother.</b></font>
+
+176
+00:06:56,520 --> 00:06:57,960
+<font size="46"><b>The first is...</b></font>
+
+177
+00:06:58,450 --> 00:07:00,500
+<font size="46"><b>Hardly ever getting angry.</b></font>
+
+178
+00:07:01,160 --> 00:07:03,640
+<font size="46"><b>If I do say so myself, in my entire life up until now...</b></font>
+
+179
+00:07:03,640 --> 00:07:05,120
+<font face="Arial Rounded MT Bold" size="44"><font face="Segoe UI Semilight"><font size="36">Reasons for becoming the 2nd Holy Mother 
+<font size="44">Has almost never gotten angry</font></font></font></font>
+
+180
+00:07:05,120 --> 00:07:05,640
+<font size="46"><b>H: I haven't really...
+S: No way</b></font>
+
+181
+00:07:05,640 --> 00:07:07,200
+<font size="46"><b>Yes, I've hardly gotten angry.</b></font>
+
+182
+00:07:07,200 --> 00:07:07,770
+<font size="46"><b>For real?</b></font>
+
+183
+00:07:07,770 --> 00:07:10,280
+<font size="46"><b>Yes. Has anyone here ever seen me angry?</b></font>
+
+184
+00:07:10,280 --> 00:07:12,180
+<font size="46"><b>Is there anyone here who has seen Hori lose her temper?</b></font>
+
+185
+00:07:12,180 --> 00:07:13,020
+<font size="46"><b>There is?</b></font>
+
+186
+00:07:13,020 --> 00:07:15,310
+<font size="46"><b>Eh? Well, when her older sister got her mentaiko...</b></font>
+
+187
+00:07:15,310 --> 00:07:15,960
+<font size="46"><b>Ah!</b></font>
+
+188
+00:07:15,960 --> 00:07:17,150
+<font size="46"><b>She cried in anger.</b></font>
+
+189
+00:07:17,150 --> 00:07:21,010
+<font size="46"><b>Well, that was really more of sadness than anger, though.</b></font>
+
+190
+00:07:21,010 --> 00:07:21,980
+<font size="46"><b>Hi: So you weren't angry?
+H: Yes.</b></font>
+
+191
+00:07:21,980 --> 00:07:22,870
+<font size="46"><b>So you weren't angry then.</b></font>
+
+192
+00:07:22,870 --> 00:07:25,970
+<font size="46"><b>I didn't really go on a rampage because of that.</b></font>
+
+193
+00:07:25,970 --> 00:07:26,120
+<font size="46"><b>I see.</b></font>
+
+194
+00:07:26,120 --> 00:07:26,570
+<font face="Arial Rounded MT Bold" size="44">Anger = Rampage?</font>
+
+195
+00:07:26,570 --> 00:07:27,810
+<font size="46"><b>Yes. It wasn't anger.</b></font>
+
+196
+00:07:27,810 --> 00:07:29,490
+<font size="46"><b>So that's the level of anger we're talking here.</b></font>
+
+197
+00:07:29,490 --> 00:07:32,180
+<font size="46"><b>So then, why don't I get angry? This is the answer.</b></font>
+
+198
+00:07:32,180 --> 00:07:33,800
+<font size="46"><b>It's a waste of one's life.</b></font>
+
+199
+00:07:33,800 --> 00:07:35,010
+<font size="46"><b>Wow, that's big.</b></font>
+
+200
+00:07:35,010 --> 00:07:35,900
+<font size="46"><b>The message is big huh.</b></font>
+
+201
+00:07:35,900 --> 00:07:36,270
+<font face="Arial Rounded MT Bold" size="44"><font face="Segoe UI Semilight"><font size="36">Reasons for becoming the 2nd Holy Mother 
+<font size="44">Time spent in anger is a waste!</font></font></font></font>
+
+202
+00:07:36,270 --> 00:07:40,360
+<font size="46"><b>When you get irritated over little things, you cause trouble for the people around you as well.</b></font>
+
+203
+00:07:40,360 --> 00:07:42,770
+<font size="46"><b>And you yourself will also feel awful.</b></font>
+
+204
+00:07:42,770 --> 00:07:45,760
+<font size="46"><b>I think time spent on that would be such a waste.</b></font>
+
+205
+00:07:45,760 --> 00:07:49,010
+<font size="46"><b>You see, I have a very short life line on my palm.</b></font>
+
+206
+00:07:49,010 --> 00:07:49,810
+<font size="46"><b>So you're going to die?</b></font>
+
+207
+00:07:49,810 --> 00:07:50,610
+<font size="46"><b>Probably...</b></font>
+
+208
+00:07:50,610 --> 00:07:51,410
+<font size="46"><b>Probably?</b></font>
+
+209
+00:07:51,410 --> 00:07:52,220
+<font size="46"><b>That's...</b></font>
+
+210
+00:07:52,220 --> 00:07:53,260
+<font size="46"><b>Were you told this?</b></font>
+
+211
+00:07:53,260 --> 00:07:55,120
+<font size="46"><b>Ah, no, I judged it myself.</b></font>
+
+212
+00:07:55,120 --> 00:07:56,560
+<font size="46"><b>Oh, so this was just from your own judgment.</b></font>
+
+213
+00:07:56,560 --> 00:07:56,960
+<font size="46"><b>Yes.</b></font>
+
+214
+00:07:56,960 --> 00:07:59,170
+<font size="46"><b>So since yours is short, you thought you'd be wasting your life if you got angry.</b></font>
+
+215
+00:07:59,170 --> 00:08:00,670
+<font size="46"><b>I'm treating life valuably.</b></font>
+
+216
+00:08:00,670 --> 00:08:04,530
+<font size="46"><b>Since I've been given this life, after all. I thought I'd properly... Yes.</b></font>
+
+217
+00:08:05,470 --> 00:08:12,020
+<font size="46"><b>And now, a question from Hori whose other reason is her desire for doing things for other people.</b></font>
+
+218
+00:08:12,540 --> 00:08:18,270
+<font size="46"><b>And now I have a question for everyone. When you hear "Holy Mother," what color do you think of?</b></font>
+
+219
+00:08:18,270 --> 00:08:21,510
+<font size="46"><b>Yes, Itou Junna-san. What color do you think of?</b></font>
+
+220
+00:08:21,510 --> 00:08:23,450
+<font size="46"><b>Green, I guess.</b></font>
+
+221
+00:08:23,450 --> 00:08:24,270
+<font size="46"><b>That's wrong.</b></font>
+
+222
+00:08:24,270 --> 00:08:24,450
+<font size="46"><b>Wrong?!</b></font>
+
+223
+00:08:24,450 --> 00:08:25,560
+<font face="Arial Rounded MT Bold" size="44">Rejected!</font>
+
+224
+00:08:25,560 --> 00:08:26,980
+<font size="46"><b>So that's wrong?</b></font>
+
+225
+00:08:26,980 --> 00:08:28,220
+<font size="46"><b>What about others?</b></font>
+
+226
+00:08:28,220 --> 00:08:29,100
+<font size="46"><b>How about asking others?</b></font>
+
+227
+00:08:29,100 --> 00:08:30,420
+<font size="46"><b>Alright then. Itou Karin-san.</b></font>
+
+228
+00:08:30,420 --> 00:08:31,720
+<font size="46"><b>Yellow?</b></font>
+
+229
+00:08:31,720 --> 00:08:33,070
+<font size="46"><b>That's wrong.</b></font>
+
+230
+00:08:34,760 --> 00:08:36,320
+<font size="46"><b>She says you're all wrong.</b></font>
+
+231
+00:08:36,320 --> 00:08:38,100
+<font size="46"><b>Well, let's keep on asking until someone gets it right.</b></font>
+
+232
+00:08:38,100 --> 00:08:39,220
+<font size="46"><b>Then, Wakatsuki Yumi-san.</b></font>
+
+233
+00:08:39,220 --> 00:08:40,120
+<font size="46"><b>White?</b></font>
+
+234
+00:08:40,120 --> 00:08:41,910
+<font size="46"><b>Yes. That's correct.</b></font>
+
+235
+00:08:41,910 --> 00:08:42,570
+<font size="46"><b>White.</b></font>
+
+236
+00:08:42,570 --> 00:08:43,720
+<font size="46"><b>Yes.</b></font>
+
+237
+00:08:43,720 --> 00:08:46,450
+<font size="46"><b>Hori insists that the color of the Holy Mother is white.</b></font>
+
+238
+00:08:46,450 --> 00:08:49,140
+<font size="46"><b>Her reason for that is...</b></font>
+
+239
+00:08:49,140 --> 00:08:55,490
+<font size="46"><b>This is the picture we took after skydiving when we went to Guam.</b></font>
+
+240
+00:08:55,490 --> 00:08:56,910
+<font size="46"><b>Please take a look.</b></font>
+
+241
+00:08:56,910 --> 00:08:59,570
+<font size="46"><b>I'm the only one wearing all white.</b></font>
+
+242
+00:08:59,570 --> 00:08:59,750
+<font size="46"><b>This is, well... I guess because I'm like a Holy Mother...</b></font>
+
+243
+00:08:59,750 --> 00:09:02,090
+<font face="Arial Rounded MT Bold" size="44"><font size="36">Holy Mother color from head to toe</font></font>
+
+244
+00:09:03,800 --> 00:09:09,160
+<font size="46"><b>I wore white. Unconsciously, I ended up wearing white.</b></font>
+
+245
+00:09:09,160 --> 00:09:10,740
+<font size="46"><b>Eh. I suppose...</b></font>
+
+246
+00:09:10,740 --> 00:09:11,440
+<font size="46"><b>Yes.</b></font>
+
+247
+00:09:11,440 --> 00:09:13,930
+<font size="46"><b>But... I think I'm also wearing whit-ish there.</b></font>
+
+248
+00:09:13,930 --> 00:09:17,410
+<font face="Arial Rounded MT Bold" size="44">Holy Mother?</font>
+
+249
+00:09:17,410 --> 00:09:20,080
+<font size="46"><b>Ah... Well, I think Shitara-san is wearing gray...</b></font>
+
+250
+00:09:20,080 --> 00:09:21,540
+<font size="46"><b>Well, well. That is gray...</b></font>
+
+251
+00:09:22,360 --> 00:09:27,550
+<font size="46"><b>And now, an opinion from Kawago who named Fukagawa the "Holy Mother."</b></font>
+
+252
+00:09:27,550 --> 00:09:30,990
+<font size="46"><b>This is... I'm actually quite angry in my heart right now.</b></font>
+
+253
+00:09:30,990 --> 00:09:34,750
+<font size="46"><b>I'm thinking "Why a second one?!"</b></font>
+
+254
+00:09:34,750 --> 00:09:35,320
+<font size="46"><b>What's that about?</b></font>
+
+255
+00:09:35,320 --> 00:09:36,480
+<font size="46"><b>Right? You get it, right?</b></font>
+
+256
+00:09:36,480 --> 00:09:37,650
+<font size="46"><b>What is it? I don't get it.</b></font>
+
+257
+00:09:37,650 --> 00:09:41,760
+<font size="46"><b>I don't think anyone else can be qualified to become a "Holy Mother" other than Maimai.</b></font>
+
+258
+00:09:41,760 --> 00:09:43,820
+<font size="46"><b>That's exactly why it's the <i>second</i>, right?</b></font>
+
+259
+00:09:43,820 --> 00:09:45,740
+<font size="46"><b>Covering it up like that isn't good.</b></font>
+
+260
+00:09:46,530 --> 00:09:48,150
+<font size="46"><b>I get that.</b></font>
+
+261
+00:09:48,150 --> 00:09:51,570
+<font size="46"><b>I get how you feel like this isn't right.</b></font>
+
+262
+00:09:51,570 --> 00:09:54,340
+<font size="46"><b>But if we don't do this, we can't move forward!</b></font>
+
+263
+00:09:57,960 --> 00:10:00,260
+<font size="46"><b>Then... I have something to say.</b></font>
+
+264
+00:10:01,200 --> 00:10:05,730
+<font size="46"><b>My image of the Holy Mother is red. Not white.</b></font>
+
+265
+00:10:05,730 --> 00:10:10,580
+<font size="46"><b>Like a red filled with warmth, passion... Like, kindness without love, it just won't do.</b></font>
+
+266
+00:10:10,580 --> 00:10:12,120
+<font size="46"><b>So, then...</b></font>
+
+267
+00:10:12,120 --> 00:10:12,780
+<font size="46"><b>So not white?</b></font>
+
+268
+00:10:12,780 --> 00:10:13,530
+<font size="46"><b>Not white.</b></font>
+
+269
+00:10:13,530 --> 00:10:14,170
+<font size="46"><b>Hori, what do you think?</b></font>
+
+270
+00:10:14,170 --> 00:10:14,580
+<font size="46"><b>Maimai...</b></font>
+
+271
+00:10:14,580 --> 00:10:16,340
+<font size="46"><b>Hori? Ah, Hori also has something to say.</b></font>
+
+272
+00:10:16,340 --> 00:10:17,480
+<font size="46"><b>What?</b></font>
+
+273
+00:10:17,480 --> 00:10:19,210
+<font size="46"><b>I absolutely love red!</b></font>
+
+274
+00:10:19,210 --> 00:10:21,870
+<font size="46"><b>She loves red. She says she loves red too.</b></font>
+
+275
+00:10:21,870 --> 00:10:22,660
+<font size="46"><b>No, no!</b></font>
+
+276
+00:10:22,660 --> 00:10:26,260
+<font size="46"><b>Well, I'm wearing red right now, and...</b></font>
+
+277
+00:10:26,260 --> 00:10:27,170
+<font size="46"><b>Yeah, you're wearing red.</b></font>
+
+278
+00:10:27,170 --> 00:10:28,220
+<font size="46"><b>I don't care about that!</b></font>
+
+279
+00:10:28,220 --> 00:10:33,610
+<font size="46"><b>Um... You know those glow sticks fans use to cheer during our concerts? My color's red.</b></font>
+
+280
+00:10:33,610 --> 00:10:35,940
+<font size="46"><b>Well, I'm red and red plus heart!</b></font>
+
+281
+00:10:35,940 --> 00:10:36,760
+<font size="46"><b>Eh?</b></font>
+
+282
+00:10:38,300 --> 00:10:39,230
+<font size="46"><b>Wait, wait.</b></font>
+
+283
+00:10:39,230 --> 00:10:41,550
+<font size="46"><b>Wait. Kawago, you're not running for Holy Mother, so that doesn't matter.</b></font>
+
+284
+00:10:41,550 --> 00:10:44,370
+<font size="46"><b>Wait a moment. Heart? What do you mean by heart?</b></font>
+
+285
+00:10:44,370 --> 00:10:46,490
+<font size="46"><b>Also, I have something to say about Manatsu.</b></font>
+
+286
+00:10:46,490 --> 00:10:49,300
+<font size="46"><b>In her official profile, she cheated by 3cm.</b></font>
+
+287
+00:10:49,300 --> 00:10:49,300
+<font face="Arial Rounded MT Bold" size="44"><font size="42">Suspected falsification of height.</font></font>
+
+288
+00:10:49,300 --> 00:10:52,490
+<font size="46"><b>She's only 153cm but she wrote 156cm.</b></font>
+
+289
+00:10:52,490 --> 00:10:53,480
+<font size="46"><b>She's made herself taller?</b></font>
+
+290
+00:10:53,480 --> 00:10:55,640
+<font size="46"><b>Probably. Yes, what do you have to say?</b></font>
+
+291
+00:10:59,810 --> 00:11:02,740
+<font size="46"><b>That's... Well, a liar definitely cannot become a Holy Mother.</b></font>
+
+292
+00:11:02,740 --> 00:11:03,470
+<font size="46"><b>Yes. I think so.</b></font>
+
+293
+00:11:03,470 --> 00:11:05,160
+<font size="46"><b>But we don't know yet whether this is a lie or not...</b></font>
+
+294
+00:11:05,160 --> 00:11:06,510
+<font size="46"><b>For the record, let's ask her.</b></font>
+
+295
+00:11:06,510 --> 00:11:08,010
+<font size="46"><b>So, did you really?</b></font>
+
+296
+00:11:08,010 --> 00:11:09,480
+<font size="46"><b>Yes...</b></font>
+
+297
+00:11:10,680 --> 00:11:11,980
+<font size="46"><b>Why would you change your height by a little like that?</b></font>
+
+298
+00:11:11,980 --> 00:11:12,620
+<font size="46"><b>This isn't good.</b></font>
+
+299
+00:11:12,620 --> 00:11:17,840
+<font size="46"><b>No, it's not like that. It's because I was still in high school when I joined the group, so I thought I would still grow taller.</b></font>
+
+300
+00:11:17,840 --> 00:11:20,260
+<font size="46"><b>I put my hopes into those extra 3cm.</b></font>
+
+301
+00:11:21,360 --> 00:11:23,390
+<font size="46"><b>Next is the second test.</b></font>
+
+302
+00:11:23,390 --> 00:11:27,500
+<font size="46"><b>It's time to announce what points of similarity they think they have with Fukagawa.</b></font>
+
+303
+00:11:27,500 --> 00:11:30,320
+<font size="46"><b>Yes. When I entered Nogizaka...</b></font>
+
+304
+00:11:30,320 --> 00:11:35,250
+<font size="46"><b>After looking at various pictures, there was something fans always told me at handshakes.</b></font>
+
+305
+00:11:35,250 --> 00:11:37,580
+<font size="46"><b>They said I looked really similar to Maimai.</b></font>
+
+306
+00:11:37,840 --> 00:11:37,970
+<font face="Arial Rounded MT Bold" size="44"><font face="Segoe UI Semilight"><font size="36">Similarities with Fukagawa <font size="44">When she joined the group, she was told they looked similar.</font></font></font></font>
+
+307
+00:11:37,970 --> 00:11:38,990
+<font size="46"><b>They said that!</b></font>
+
+308
+00:11:38,990 --> 00:11:39,450
+<font size="46"><b>Yes.</b></font>
+
+309
+00:11:39,450 --> 00:11:40,290
+<font size="46"><b>What? You mean you look alike?</b></font>
+
+310
+00:11:40,290 --> 00:11:40,970
+<font size="46"><b>Yes.</b></font>
+
+311
+00:11:40,970 --> 00:11:42,190
+<font size="46"><b>At the beginning? Your faces?</b></font>
+
+312
+00:11:42,190 --> 00:11:44,250
+<font size="46"><b>I was told our faces looked really similar.</b></font>
+
+313
+00:11:44,250 --> 00:11:46,830
+<font size="46"><b>Oh, is that so? Well, now, I don't really think that's true...</b></font>
+
+314
+00:11:46,830 --> 00:11:48,520
+<font size="46"><b>But you may have looked alike in the beginning.</b></font>
+
+315
+00:11:48,520 --> 00:11:49,760
+<font size="46"><b>It seems we looked alike back then.</b></font>
+
+316
+00:11:49,760 --> 00:11:54,560
+<font size="46"><b>When I entered middle school, there was this girl who looked so much like Oginome Youko.</b></font>
+
+317
+00:11:55,140 --> 00:12:00,750
+<font size="46"><b>Everyone agreed that they looked alike, but when graduation came, everyone said that they didn't look alike at all.</b></font>
+
+318
+00:12:01,070 --> 00:12:02,770
+<font size="46"><b>What's the point of this story?!</b></font>
+
+319
+00:12:04,770 --> 00:12:06,940
+<font size="46"><b>Hori, do you have any common points?</b></font>
+
+320
+00:12:06,940 --> 00:12:08,750
+<font size="46"><b>We both like food.</b></font>
+
+321
+00:12:09,190 --> 00:12:10,250
+<font size="46"><b>Everyone does.</b></font>
+
+322
+00:12:10,250 --> 00:12:10,640
+<font size="46"><b>When you put it that way, that's true. Everyone does.</b></font>
+
+323
+00:12:10,640 --> 00:12:12,380
+<font face="Arial Rounded MT Bold" size="44"><font size="42">Common point with 
+the whole world.</font></font>
+
+324
+00:12:12,380 --> 00:12:13,530
+<font size="46"><b>Like do you have the same favorite?</b></font>
+
+325
+00:12:13,530 --> 00:12:14,880
+<font size="46"><b>I think that's an important point.</b></font>
+
+326
+00:12:14,880 --> 00:12:15,530
+<font size="46"><b>Gyoza.</b></font>
+
+327
+00:12:15,530 --> 00:12:16,750
+<font size="46"><b>Ah, gyoza, gyoza.</b></font>
+
+328
+00:12:16,750 --> 00:12:18,080
+<font size="46"><b>- Me too!
+- Me too!</b></font>
+
+329
+00:12:18,620 --> 00:12:18,620
+<font face="Arial Rounded MT Bold" size="44">{Dachou Club state.</font>
+
+330
+00:12:18,620 --> 00:12:19,600
+<font size="46"><b>Right, everyone.</b></font>
+
+331
+00:12:19,600 --> 00:12:20,560
+<font size="46"><b>Gyoza is kinda...</b></font>
+
+332
+00:12:20,560 --> 00:12:22,050
+<font size="46"><b>Everyone kinda likes gyoza.</b></font>
+
+333
+00:12:22,050 --> 00:12:22,660
+<font size="46"><b>Gyoza.</b></font>
+
+334
+00:12:22,660 --> 00:12:23,720
+<font size="46"><b>Everyone likes gyoza.</b></font>
+
+335
+00:12:23,720 --> 00:12:24,700
+<font size="46"><b>I like Ghibli.</b></font>
+
+336
+00:12:24,700 --> 00:12:26,080
+<font size="46"><b>Me too.</b></font>
+
+337
+00:12:27,230 --> 00:12:28,530
+<font size="46"><b>Everyone also likes that.</b></font>
+
+338
+00:12:28,530 --> 00:12:30,230
+<font size="46"><b>But do you watch them frequently?</b></font>
+
+339
+00:12:30,230 --> 00:12:31,180
+<font size="46"><b>Yes.</b></font>
+
+340
+00:12:33,270 --> 00:12:35,170
+<font size="46"><b>I watch them while eating gyoza.</b></font>
+
+341
+00:12:36,500 --> 00:12:38,090
+<font size="46"><b>Ikuta, do you have any common points?</b></font>
+
+342
+00:12:38,090 --> 00:12:42,770
+<font size="46"><b>I have the same troubles as Maimai when it comes to hair length.</b></font>
+
+343
+00:12:43,300 --> 00:12:46,510
+<font size="46"><b>Isn't that just 'cause your hair lengths are around the same?</b></font>
+
+344
+00:12:46,510 --> 00:12:51,150
+<font size="46"><b>But do you have any other member you consult about this?</b></font>
+
+345
+00:12:51,150 --> 00:12:53,890
+<font size="46"><b>I had a conversation about that with Iku-chan the other day.</b></font>
+
+346
+00:12:53,890 --> 00:12:55,050
+<font size="46"><b>Did we?</b></font>
+
+347
+00:12:55,050 --> 00:12:56,120
+<font size="46"><b>Since our hair lengths are similar.</b></font>
+
+348
+00:12:56,120 --> 00:12:56,850
+<font size="46"><b>Ah, yes around the same.</b></font>
+
+349
+00:12:56,850 --> 00:12:57,660
+<font size="46"><b>Yes.</b></font>
+
+350
+00:12:57,660 --> 00:13:00,570
+<font size="46"><b>I don't have any memory of having talked with Karin-chan.</b></font>
+
+351
+00:13:02,430 --> 00:13:04,090
+<font size="46"><b>This kind of Holy Mother won't do!</b></font>
+
+352
+00:13:04,090 --> 00:13:05,010
+<font size="46"><b>Where's the holy in this one?</b></font>
+
+353
+00:13:05,010 --> 00:13:05,980
+<font size="46"><b>This Holy Mother won't do.</b></font>
+
+354
+00:13:05,980 --> 00:13:08,500
+<font size="46"><b>Well, she's so much of a Holy Mother, she's like a god.</b></font>
+
+355
+00:13:08,500 --> 00:13:09,170
+<font size="46"><b>Oh, I see.</b></font>
+
+356
+00:13:09,170 --> 00:13:12,900
+<font size="46"><b>She sees everyone so equally, it's not even about <i>who</i> she talked with anymore.</b></font>
+
+357
+00:13:12,900 --> 00:13:15,070
+<font size="46"><b>That's true. That's actually quite impudent on Karin's part.</b></font>
+
+358
+00:13:15,070 --> 00:13:15,150
+<font face="Arial Rounded MT Bold" size="44"><font size="42">Disrespect towards
+the Holy Mother.</font></font>
+
+359
+00:13:15,150 --> 00:13:16,830
+<font size="46"><b>I'm sorry. It was rude of me to talk to her.</b></font>
+
+360
+00:13:16,830 --> 00:13:18,080
+<font size="46"><b>She has no memory of that, you know.</b></font>
+
+361
+00:13:19,060 --> 00:13:24,140
+<font size="46"><b>Next. Among these three, who do the other members think unfit to become the Holy Mother?</b></font>
+
+362
+00:13:24,980 --> 00:13:28,590
+<font size="46"><b>Hashimoto. Among these three, is there anyone you think unfit?</b></font>
+
+363
+00:13:28,590 --> 00:13:30,380
+<font size="46"><b>If I had to pick...</b></font>
+
+364
+00:13:30,380 --> 00:13:35,950
+<font size="46"><b>Miona likes zombies and horror which are pretty much the total opposite of a Holy Mother...</b></font>
+
+365
+00:13:35,950 --> 00:13:36,090
+<font size="46"><b>I see.</b></font>
+
+366
+00:13:36,090 --> 00:13:36,940
+<font face="Arial Rounded MT Bold" size="44"><font face="Segoe UI Semilight"><font size="36">Reasons for being unfit | Hori   <font size="44">How can a Holy Mother like horror?</font></font></font></font>
+
+367
+00:13:36,940 --> 00:13:40,610
+<font size="46"><b>I think a Holy Mother normally wouldn't have such interests.</b></font>
+
+368
+00:13:41,020 --> 00:13:43,300
+<font size="46"><b>What do you have to say about this?</b></font>
+
+369
+00:13:43,300 --> 00:13:45,150
+<font size="46"><b>I think that's prejudice.</b></font>
+
+370
+00:13:45,240 --> 00:13:45,590
+<font face="Arial Rounded MT Bold" size="44"><font size="41">Cleaved with one stroke.</font></font>
+
+371
+00:13:45,590 --> 00:13:47,020
+<font size="46"><b>As expected!</b></font>
+
+372
+00:13:47,020 --> 00:13:48,540
+<font size="46"><b>As expected, really.</b></font>
+
+373
+00:13:48,540 --> 00:13:49,470
+<font size="46"><b>Isn't that so?</b></font>
+
+374
+00:13:49,470 --> 00:13:51,570
+<font size="46"><b>Cleaved with one stroke. What about Inoue?</b></font>
+
+375
+00:13:51,570 --> 00:13:53,470
+<font size="46"><b>I think it's Manatsu.</b></font>
+
+376
+00:13:53,470 --> 00:13:56,480
+<font size="46"><b>I have two objections.</b></font>
+
+377
+00:13:56,480 --> 00:13:59,630
+<font size="46"><b>Well, the first is that she's a big lying bitch.</b></font>
+
+378
+00:13:59,630 --> 00:13:59,980
+<font size="46"><b>That's scary! That's not true! It's not!</b></font>
+
+379
+00:13:59,980 --> 00:14:02,570
+<font face="Arial Rounded MT Bold" size="44">Plainly insulting her?</font>
+
+380
+00:14:02,570 --> 00:14:02,740
+<font size="46"><b>You know, when you say it with that tone...</b></font>
+
+381
+00:14:02,740 --> 00:14:04,200
+<font size="46"><b>Mean! So mean!!!</b></font>
+
+382
+00:14:04,800 --> 00:14:07,170
+<font size="46"><b>When you say it in that tone, that's a bit too much...</b></font>
+
+383
+00:14:07,170 --> 00:14:08,510
+<font size="46"><b>A big lying bitch.</b></font>
+
+384
+00:14:08,510 --> 00:14:09,860
+<font size="46"><b>That's not true!</b></font>
+
+385
+00:14:09,860 --> 00:14:11,830
+<font size="46"><b>Is she a lying bitch?</b></font>
+
+386
+00:14:11,830 --> 00:14:16,500
+<font size="46"><b>She always says on her blog and all that she's really good at cooking.</b></font>
+
+387
+00:14:16,500 --> 00:14:19,300
+<font size="46"><b>And she's always telling us members that she'll cook something for us.</b></font>
+
+388
+00:14:19,300 --> 00:14:21,970
+<font size="46"><b>But she hasn't made me anything, not even once.</b></font>
+
+389
+00:14:21,970 --> 00:14:21,980
+<font size="46"><b>So it's that I'll cook for you fraud. So she says that to almost everyone and doesn't make you anything?</b></font>
+
+390
+00:14:21,980 --> 00:14:22,070
+<font size="46"><b>Ah... I see.</b></font>
+
+391
+00:14:22,070 --> 00:14:25,700
+<font face="Arial Rounded MT Bold" size="44"><font face="Segoe UI Semilight"><font size="36">Reasons for being unfit | Akimoto   <font size="44">Suspicion of "I'll cook for you" fraud</font></font></font></font>
+
+392
+00:14:25,700 --> 00:14:30,030
+<font size="46"><b>It's not like that. I am cooking for them, but there's an order, right?</b></font>
+
+393
+00:14:30,030 --> 00:14:33,400
+<font size="46"><b>Then when I think about who I should cook for first...</b></font>
+
+394
+00:14:33,400 --> 00:14:36,550
+<font size="46"><b>There are people who end up being much later on the list.</b></font>
+
+395
+00:14:37,480 --> 00:14:43,460
+<font size="46"><b>Finally, these three members will announce which member they think is unfit to become the Holy Mother.</b></font>
+
+396
+00:14:43,460 --> 00:14:44,960
+<font size="46"><b>I think it's Iku-chan.</b></font>
+
+397
+00:14:44,960 --> 00:14:50,050
+<font size="46"><b>I think she's unfit. The first reason is because I can't find even a single healing quality in her at all.</b></font>
+
+398
+00:14:50,050 --> 00:14:50,400
+<font size="46"><b>Ikuta... not even a single healing quality.</b></font>
+
+399
+00:14:50,400 --> 00:14:52,480
+<font face="Arial Rounded MT Bold" size="44"><font face="Segoe UI Semilight"><font size="36">Reasons for being unfit | Ikuta   <font size="44">Can't find even a single healing quality in her!</font></font></font></font>
+
+400
+00:14:52,480 --> 00:14:53,740
+<font size="46"><b>Yes. And there's one more reason.</b></font>
+
+401
+00:14:53,740 --> 00:14:55,540
+<font size="46"><b>What's more is that she actually causes harm.</b></font>
+
+402
+00:14:55,540 --> 00:14:56,170
+<font size="46"><b>Harm?</b></font>
+
+403
+00:14:56,170 --> 00:14:57,010
+<font size="46"><b>Yes.</b></font>
+
+404
+00:14:57,010 --> 00:15:00,850
+<font size="46"><b>She would keep on talking to you in the bus even when you're tired.</b></font>
+
+405
+00:15:00,850 --> 00:15:05,330
+<font size="46"><b>And she would endlessly keep throwing questions without answers at you in the plane for a full one and a half hour.</b></font>
+
+406
+00:15:05,330 --> 00:15:05,520
+<font size="46"><b>I really wanted to sleep.</b></font>
+
+407
+00:15:05,520 --> 00:15:06,690
+<font face="Arial Rounded MT Bold" size="44"><font face="Segoe UI Semilight"><font size="36">Reasons for being unfit | Ikuta    <font size="44">Endlessly asks questions without answers!</font></font></font></font>
+
+408
+00:15:06,690 --> 00:15:08,620
+<font size="46"><b>Questions without answers?</b></font>
+
+409
+00:15:08,620 --> 00:15:10,290
+<font size="46"><b>Like "When do people die?"</b></font>
+
+410
+00:15:10,290 --> 00:15:10,520
+<font face="Arial Rounded MT Bold" size="44">The annoying type.</font>
+
+411
+00:15:10,520 --> 00:15:10,590
+<font size="46"><b>So it's those philosophical types of questions...</b></font>
+
+412
+00:15:10,590 --> 00:15:12,620
+<font size="46"><b>It's that level.</b></font>
+
+413
+00:15:13,590 --> 00:15:15,630
+<font size="46"><b>Ikuta, who do you think is unfit?</b></font>
+
+414
+00:15:15,630 --> 00:15:17,510
+<font size="46"><b>I think it's Hori-chan.</b></font>
+
+415
+00:15:17,510 --> 00:15:19,700
+<font size="46"><b>Oh? Hori is unfit? Why?</b></font>
+
+416
+00:15:19,700 --> 00:15:21,610
+<font size="46"><b>Her life line is really short, right?</b></font>
+
+417
+00:15:21,610 --> 00:15:22,410
+<font size="46"><b>Yes, she said that earlier.</b></font>
+
+418
+00:15:22,410 --> 00:15:24,090
+<font size="46"><b>Mine reaches up to the back.</b></font>
+
+419
+00:15:24,660 --> 00:15:25,570
+<font size="46"><b>Woah.</b></font>
+
+420
+00:15:25,570 --> 00:15:27,840
+<font size="46"><b>If you trace it, it reaches up to here.</b></font>
+
+421
+00:15:27,840 --> 00:15:29,240
+<font size="46"><b>You could totally reach 130 years with that.</b></font>
+
+422
+00:15:29,240 --> 00:15:30,650
+<font size="46"><b>Yes. It reaches up to here.</b></font>
+
+423
+00:15:30,650 --> 00:15:31,160
+<font size="46"><b>Seriously?</b></font>
+
+424
+00:15:31,160 --> 00:15:31,790
+<font size="46"><b>Yes.</b></font>
+
+425
+00:15:31,790 --> 00:15:32,480
+<font size="46"><b>No way!</b></font>
+
+426
+00:15:32,480 --> 00:15:33,660
+<font size="46"><b>Really? Is it connected?</b></font>
+
+427
+00:15:33,660 --> 00:15:34,700
+<font size="46"><b>Yeah, yeah, it's connected.</b></font>
+
+428
+00:15:34,700 --> 00:15:37,720
+<font size="46"><b>No, you say that, but is it even possible for the line to reach up to the back of your palm?</b></font>
+
+429
+00:15:37,720 --> 00:15:38,980
+<font size="46"><b>Are you sure that's connected?</b></font>
+
+430
+00:15:38,980 --> 00:15:40,350
+<font size="46"><b>Yeah, it is.</b></font>
+
+431
+00:15:40,350 --> 00:15:41,410
+<font face="Arial Rounded MT Bold" size="44"><font size="42">Holy Mother of crude speech.</font></font>
+
+432
+00:15:41,410 --> 00:15:44,190
+<font size="46"><b>No, no, it's impossible for the line to reach up to the back of one's palm!</b></font>
+
+433
+00:15:44,190 --> 00:15:45,710
+<font size="46"><b>Isn't there a break somewhere in the middle of the line? Is it really connected?</b></font>
+
+434
+00:15:45,710 --> 00:15:46,940
+<font size="46"><b>I'm telling you it does!</b></font>
+
+435
+00:15:48,310 --> 00:15:51,100
+<font size="46"><b>No, no way it does, it should stop at the edge of your palm!</b></font>
+
+436
+00:15:51,100 --> 00:15:51,740
+<font size="46"><b>Really?</b></font>
+
+437
+00:15:51,740 --> 00:15:52,380
+<font size="46"><b>Really!!!</b></font>
+
+438
+00:15:52,380 --> 00:15:53,220
+<font size="46"><b>No way.</b></font>
+
+439
+00:15:53,220 --> 00:15:54,570
+<font size="46"><b>It's connected.</b></font>
+
+440
+00:15:55,740 --> 00:15:57,380
+<font size="46"><b>What's with this sudden talk?</b></font>
+
+441
+00:15:57,380 --> 00:15:59,900
+<font size="46"><b>I don't get it. I don't get it either.</b></font>
+
+442
+00:15:59,900 --> 00:16:01,890
+<font size="46"><b>Kawago, do you have any last words?</b></font>
+
+443
+00:16:01,890 --> 00:16:04,680
+<font size="46"><b>I do really have something I want to say.</b></font>
+
+444
+00:16:04,680 --> 00:16:08,180
+<font size="46"><b>If Maimai wasn't the current Holy Mother...</b></font>
+
+445
+00:16:08,180 --> 00:16:11,360
+<font size="46"><b>Then she would definitely be one of the candidates here.</b></font>
+
+446
+00:16:11,360 --> 00:16:15,350
+<font size="46"><b>If so, she wouldn't talk badly about any of her fellow candidates.</b></font>
+
+447
+00:16:15,350 --> 00:16:15,450
+<font size="46"><b>"I think it's Iku-chan."</b></font>
+
+448
+00:16:15,450 --> 00:16:17,470
+<font face="Arial Rounded MT Bold" size="44"><font face="Segoe UI Semilight"><font size="36">Reasons for being unfit | All Three <font size="44">If it were Fukagawa, she wouldn't badmouth anyone!</font></font></font></font>
+
+449
+00:16:17,470 --> 00:16:21,650
+<font size="46"><b>"I think it's Manatsu." First of all, it wouldn't turn into that kind of conversation.</b></font>
+
+450
+00:16:21,650 --> 00:16:24,450
+<font size="46"><b>She would probably say something like "But I think everyone here is kind..."</b></font>
+
+451
+00:16:24,450 --> 00:16:26,320
+<font size="46"><b>She would definitely say that.</b></font>
+
+452
+00:16:26,320 --> 00:16:27,640
+<font size="46"><b>Your love for Fukagawa is too strong!</b></font>
+
+453
+00:16:27,640 --> 00:16:28,470
+<font size="46"><b>It is.</b></font>
+
+454
+00:16:28,470 --> 00:16:30,270
+<font size="46"><b>She would never kick down anyone.</b></font>
+
+455
+00:16:30,270 --> 00:16:31,200
+<font size="46"><b>I do get that.</b></font>
+
+456
+00:16:31,200 --> 00:16:35,240
+<font size="46"><b>I get it. I do get that, but her love for Fukagawa is really too strong.</b></font>
+
+457
+00:16:35,240 --> 00:16:36,780
+<font size="46"><b>She's fanatic.</b></font>
+
+458
+00:16:36,780 --> 00:16:38,080
+<font size="46"><b>I see.</b></font>
+
+459
+00:16:38,080 --> 00:16:39,780
+<font size="46"><b>You're scary, Kawago!</b></font>
+
+460
+00:16:39,780 --> 00:16:41,400
+<font size="46"><b>Wouldn't it be better to change it?</b></font>
+
+461
+00:16:41,400 --> 00:16:47,180
+<font size="46"><b>If you say Holy Mother, the truth is... Probably not one member is satisfied with calling any of them that.</b></font>
+
+462
+00:16:47,180 --> 00:16:47,180
+<font face="Arial Rounded MT Bold" size="44">Why these 3?</font>
+
+463
+00:16:47,180 --> 00:16:49,340
+<font size="46"><b>Please wait, Matsumura-san.</b></font>
+
+464
+00:16:49,340 --> 00:16:52,020
+<font size="46"><b>We've gone through this whole process, and now you're saying we should change the Holy Mother audition?</b></font>
+
+465
+00:16:52,020 --> 00:16:52,780
+<font size="46"><b>Yes, let's change it.</b></font>
+
+466
+00:16:52,780 --> 00:16:54,670
+<font size="46"><b>So what should it be instead?</b></font>
+
+467
+00:16:54,670 --> 00:16:55,650
+<font size="46"><b>Greed.</b></font>
+
+468
+00:16:55,650 --> 00:16:56,730
+<font size="46"><b>Greed Queen?</b></font>
+
+469
+00:16:56,730 --> 00:16:56,730
+<font face="Arial Rounded MT Bold" size="44">Greed Queen Competition?</font>
+
+470
+00:16:56,730 --> 00:16:57,640
+<font size="46"><b>Greed Queen...</b></font>
+
+471
+00:16:57,640 --> 00:17:01,310
+<font size="46"><b>Becoming a Greed Queen... You guys had absolutely no desire to become that, right?</b></font>
+
+472
+00:17:01,310 --> 00:17:02,740
+<font size="46"><b>We're here for the Holy Mother audition!</b></font>
+
+473
+00:17:02,740 --> 00:17:05,270
+<font size="46"><b>Why would these three come for the Greed Queen audition?</b></font>
+
+474
+00:17:05,270 --> 00:17:09,010
+<font size="46"><b>I'm sorry, but since we've come this far, I don't think we can decide the Greed Queen just like that.</b></font>
+
+475
+00:17:09,010 --> 00:17:09,880
+<font size="46"><b>Greed Queen.</b></font>
+
+476
+00:17:09,880 --> 00:17:15,010
+<font size="46"><b>For the Greed Queen, we should just hold a different audition some other time with the title of Greed Queen on the line.</b></font>
+
+477
+00:17:15,010 --> 00:17:16,280
+<font size="46"><b>Sorry about that.</b></font>
+
+478
+00:17:16,950 --> 00:17:18,940
+<font size="46"><b>And the examination ends here.</b></font>
+
+479
+00:17:18,940 --> 00:17:22,690
+<font size="46"><b>Who will be chosen as the second Holy Mother?</b></font>
+
+480
+00:17:23,030 --> 00:17:26,630
+<font size="46"><b>Nogizaka46 second Holy Mother audition.</b></font>
+
+481
+00:17:26,630 --> 00:17:27,930
+<font size="46"><b>The successful candidate is...</b></font>
+
+482
+00:17:30,720 --> 00:17:32,530
+<font size="46"><b>There is no one qualified!</b></font>
+
+483
+00:17:33,750 --> 00:17:36,170
+<font size="46"><b>No one is qualified? What do you mean by that?</b></font>
+
+484
+00:17:37,680 --> 00:17:39,730
+<font size="46"><b>Well, this is the answer.</b></font>
+
+485
+00:17:39,730 --> 00:17:41,400
+<font size="46"><b>This is the answer.</b></font>
+
+486
+00:17:41,400 --> 00:17:42,570
+<font size="46"><b>Why?</b></font>
+
+487
+00:17:42,570 --> 00:17:45,980
+<font size="46"><b>It's because your un-Holy mother-like qualities stand out too much.</b></font>
+
+488
+00:17:46,660 --> 00:17:51,320
+<font size="46"><b>Well, if I had to put it plainly, for Akimoto, for example, this came up: A lying... bitch.</b></font>
+
+489
+00:17:51,320 --> 00:17:52,100
+<font face="Arial Rounded MT Bold" size="44">Lying Holy Mother.</font>
+
+490
+00:17:52,100 --> 00:17:56,420
+<font size="46"><b>That's right. There was that shocking... that shocking insult was hurled at her.</b></font>
+
+491
+00:17:56,420 --> 00:18:00,190
+<font size="46"><b>If someone says this about you, you just can't be a Holy Mother.</b></font>
+
+492
+00:18:00,190 --> 00:18:03,950
+<font size="46"><b>And for Hori, when she asked what the color of a Holy Mother was...</b></font>
+
+493
+00:18:03,950 --> 00:18:07,970
+<font size="46"><b>When people said colors other than white, it was the way you said "That's wrong."</b></font>
+
+494
+00:18:07,970 --> 00:18:12,620
+<font size="46"><b>That was... Well, it was cold... and it felt rather condescending...</b></font>
+
+495
+00:18:12,620 --> 00:18:13,180
+<font size="46"><b>Scary, right?</b></font>
+
+496
+00:18:13,180 --> 00:18:14,450
+<font size="46"><b>It was scary!</b></font>
+
+497
+00:18:14,450 --> 00:18:17,530
+<font size="46"><b>That's right. Well, Fukagawa, we have this result today.</b></font>
+
+498
+00:18:17,530 --> 00:18:18,340
+<font size="46"><b>Yes.</b></font>
+
+499
+00:18:18,340 --> 00:18:21,830
+<font size="46"><b>Well, I feel sorry since they went through the trouble of running for the position.</b></font>
+
+500
+00:18:21,830 --> 00:18:25,390
+<font size="46"><b>But since this is a nickname Hina gave me...</b></font>
+
+501
+00:18:25,390 --> 00:18:28,120
+<font size="46"><b>I want to keep treasuring it as I live on.</b></font>
+
+502
+00:18:28,120 --> 00:18:31,420
+<font size="46"><b>Ah, I see. So you'll keep treasuring it then.</b></font>
+
+503
+00:18:31,420 --> 00:18:32,340
+<font size="46"><b>This is it.</b></font>
+
+504
+00:18:32,340 --> 00:18:34,760
+<font size="46"><b>So, is it not possible for Kawago to inherit this nickname?</b></font>
+
+505
+00:18:34,760 --> 00:18:39,460
+<font size="46"><b>Ah, well, I think that a Holy Mother is a Holy Mother for life, so I'm just a human being.</b></font>
+
+506
+00:18:39,460 --> 00:18:40,350
+<font size="46"><b>Devil?</b></font>
+
+507
+00:18:40,350 --> 00:18:41,660
+<font size="46"><b>I'm fine with devil.</b></font>
+
+508
+00:18:41,660 --> 00:18:42,820
+<font size="46"><b>Devil Kawago then?</b></font>
+
+509
+00:18:43,380 --> 00:18:45,200
+<font size="46"><b>Devil Masami-san?</b></font>
+
+
+513
+00:19:01,160 --> 00:19:03,670
+<font size="46"><b>A letter to Fukagawa.</b></font>
+
+514
+00:19:03,670 --> 00:19:06,220
+<font size="46"><b>Maimai, do you remember?</b></font>
+
+515
+00:19:08,950 --> 00:19:12,940
+<font size="46"><b>Yes. Well, this time, this was a secret from Fukagawa.</b></font>
+
+516
+00:19:12,940 --> 00:19:18,600
+<font size="46"><b>All of the members wrote letters addressed to Fukagawa.</b></font>
+
+517
+00:19:18,600 --> 00:19:19,520
+<font size="46"><b>Yes.</b></font>
+
+518
+00:19:20,940 --> 00:19:24,330
+<font size="46"><b>And, well, we can't have everyone read each of their letters here...</b></font>
+
+519
+00:19:24,330 --> 00:19:26,090
+<font size="46"><b>So, as the captain, Sakurai will be their representative.</b></font>
+
+520
+00:19:26,090 --> 00:19:26,650
+<font size="46"><b>Yes.</b></font>
+
+521
+00:19:26,650 --> 00:19:27,040
+<font size="46"><b>Alright.</b></font>
+
+522
+00:19:27,040 --> 00:19:30,450
+<font size="46"><b>So we'll have Sakurai read the letter she wrote.</b></font>
+
+523
+00:19:30,450 --> 00:19:31,610
+<font size="46"><b>Alright.</b></font>
+
+524
+00:19:32,900 --> 00:19:35,160
+<font size="46"><b>Maimai! Congratulations on your graduation!</b></font>
+
+525
+00:19:35,160 --> 00:19:36,250
+<font size="46"><b>Thanks!</b></font>
+
+526
+00:19:36,250 --> 00:19:39,400
+<font size="46"><b>Ever since you announced your graduation,</b></font>
+
+527
+00:19:39,400 --> 00:19:45,290
+<font size="46"><b>I've been secretly wondering how you're feeling from time to time.</b></font>
+
+528
+00:19:45,290 --> 00:19:51,090
+<font size="46"><b>You have a fluffy image and you give off a strong naive impression...</b></font>
+
+529
+00:19:51,090 --> 00:19:56,240
+<font size="46"><b>but you actually have a very strong sense of responsibility and you think about a lot of things.</b></font>
+
+530
+00:19:56,240 --> 00:20:00,940
+<font size="46"><b>So I feel like you're a girl who carries various burdens.</b></font>
+
+531
+00:20:01,270 --> 00:20:08,260
+<font size="46"><b>You're going to be alone from now on, and I think you'll then have even more burdens to carry...</b></font>
+
+532
+00:20:08,260 --> 00:20:15,380
+<font size="46"><b>but to us members, Maimai is always going to be a very important person we'd like to protect...</b></font>
+
+533
+00:20:15,380 --> 00:20:20,200
+<font size="46"><b>so when something happens, we'll definitely come and protect you. We'll come and help you.</b></font>
+
+534
+00:20:20,540 --> 00:20:25,560
+<font size="46"><b>That's why you should step into this new beginning without any worries.</b></font>
+
+535
+00:20:25,560 --> 00:20:28,010
+<font size="46"><b>Maimai, everyday, my pace~</b></font>
+
+536
+00:20:28,010 --> 00:20:30,220
+<font size="46"><b>Super congratulatiooooons! <333</b></font>
+
+537
+00:20:30,220 --> 00:20:32,300
+<font size="46"><b>Thanks!</b></font>
+
+538
+00:20:36,600 --> 00:20:40,430
+<font size="46"><b>Here are all of the members' letters.</b></font>
+
+539
+00:20:40,430 --> 00:20:43,890
+<font size="46"><b>Everyone, really, even though you're so busy, thank you so much for this.</b></font>
+
+540
+00:20:43,890 --> 00:20:44,940
+<font size="46"><b>They're all here.</b></font>
+
+541
+00:20:44,940 --> 00:20:50,190
+<font size="46"><b>This time, we have one more letter.</b></font>
+
+542
+00:20:52,440 --> 00:20:53,400
+<font size="46"><b>Mom?</b></font>
+
+543
+00:20:53,400 --> 00:20:54,460
+<font size="46"><b>It's from your mother.</b></font>
+
+544
+00:20:54,460 --> 00:20:55,720
+<font size="46"><b>Oh, her mother!</b></font>
+
+545
+00:20:55,720 --> 00:21:00,450
+<font size="46"><b>We received a letter from her and I will be reading it for her.</b></font>
+
+546
+00:21:04,240 --> 00:21:06,770
+<font size="46"><b>Mai, congratulations on your graduation.</b></font>
+
+547
+00:21:06,770 --> 00:21:12,060
+<font size="46"><b>It has been 4 years and 10 months since you passed the audition for Nogizaka 46.</b></font>
+
+548
+00:21:12,060 --> 00:21:16,820
+<font size="46"><b>Now that I look back on it, it feels long, yet it also feels short.</b></font>
+
+549
+00:21:16,820 --> 00:21:24,260
+<font size="46"><b>Even though I live in Shizuoka, I always looked forward to seeing your smile on TV, in magazines, and on the internet.</b></font>
+
+550
+00:21:24,260 --> 00:21:28,180
+<font size="46"><b>So those days were also very fulfilling for me.</b></font>
+
+551
+00:21:28,180 --> 00:21:33,490
+<font size="46"><b>In that time, there were happy times, fun times, and there were times you called me on the phone while crying...</b></font>
+
+552
+00:21:33,490 --> 00:21:37,640
+<font size="46"><b>Whenever you were down, I got worried and wanted so much to just rush to your side...</b></font>
+
+553
+00:21:37,640 --> 00:21:46,850
+<font size="46"><b>but instead I told you on the other side of the phone line how I wished that tomorrow you could do your best again with a smile, that you could believe in yourself and keep working.</b></font>
+
+554
+00:21:46,850 --> 00:21:52,790
+<font size="46"><b>I see all the members of Nogizaka as if they were my children and they are very dear to me.</b></font>
+
+555
+00:21:52,790 --> 00:22:01,400
+<font size="46"><b>I believe it's also because you always had the best, most wonderful friends by your side that you were able to overcome a lot of hardships.</b></font>
+
+556
+00:22:01,400 --> 00:22:08,420
+<font size="46"><b>It would be great if you could still keep in touch from time to time even10 or 20 years from now and keep on being friends, wouldn't it?</b></font>
+
+557
+00:22:08,420 --> 00:22:13,340
+<font size="46"><b>I'm looking forward to the path I'll be walking with you from here on as well.</b></font>
+
+558
+00:22:13,340 --> 00:22:17,320
+<font size="46"><b>Let's go on a trip together again, okay? Love, Mom.</b></font>
+
+559
+00:22:23,200 --> 00:22:25,940
+<font size="46"><b>So there were times you cried while talking to her on the phone?</b></font>
+
+560
+00:22:25,940 --> 00:22:27,250
+<font size="46"><b>Yes.</b></font>
+
+561
+00:22:27,250 --> 00:22:32,240
+<font size="46"><b>Well, I believe all of the members have it tough when it comes to worries about work...</b></font>
+
+562
+00:22:32,240 --> 00:22:36,140
+<font size="46"><b>So, it's like, there are things I can't bother other members with...</b></font>
+
+563
+00:22:36,140 --> 00:22:41,160
+<font size="46"><b>So, I... When I reach my limit, I would often call my mother then and ask her to listen to me.</b></font>
+
+564
+00:22:41,580 --> 00:22:46,920
+<font size="46"><b>It seems your mother also wanted to rush to your side, but she endured it and talked to you on the phone instead.</b></font>
+
+565
+00:22:48,340 --> 00:22:54,010
+<font size="46"><b>Finally, we have some words of gratitude from Fukagawa for the other members and for the fans.</b></font>
+
+566
+00:22:54,790 --> 00:22:57,660
+<font size="46"><b>Um, first, to all the members...</b></font>
+
+567
+00:22:57,660 --> 00:23:02,050
+<font size="46"><b>Well, it's not that we won't see each other anymore after this recording...</b></font>
+
+568
+00:23:02,050 --> 00:23:05,250
+<font size="46"><b>But when I graduate... well...</b></font>
+
+569
+00:23:07,660 --> 00:23:12,360
+<font size="46"><b>Then those fun times we spend while we're in the waiting room...</b></font>
+
+570
+00:23:12,800 --> 00:23:15,720
+<font size="46"><b>Like... Even outside work...</b></font>
+
+571
+00:23:15,720 --> 00:23:19,930
+<font size="46"><b>Those times we spent outside work were really a lot of fun for me...</b></font>
+
+572
+00:23:21,750 --> 00:23:27,160
+<font size="46"><b>So when I think about how I won't be able to experience those fun and lively times anymore when I become alone...</b></font>
+
+573
+00:23:27,160 --> 00:23:30,720
+<font size="46"><b>I feel really sad... But... Well...</b></font>
+
+574
+00:23:30,720 --> 00:23:38,430
+<font size="46"><b>It's not like we'll never see each other again, so... I hope I could keep on being friends with everyone for a very long time from here on as well.</b></font>
+
+575
+00:23:38,430 --> 00:23:49,200
+<font size="46"><b>And... For the all the fans watching the show who have supported me... Um... Starting from "Where is Nogizaka?"</b></font>
+
+576
+00:23:49,200 --> 00:23:56,270
+<font size="46"><b>At the beginning, I felt like I wasn't very good with variety shows, but with our very warm staff...</b></font>
+
+577
+00:23:56,270 --> 00:23:59,120
+<font size="46"><b>and Bananaman-san, and with all of the members...</b></font>
+
+578
+00:23:59,120 --> 00:24:06,260
+<font size="46"><b>I was able to be at ease in our recordings for around 4 and a half years, and I always looked forward to our recording sessions.</b></font>
+
+579
+00:24:06,260 --> 00:24:11,570
+<font size="46"><b>From here on, I would like to support this show as a viewer...</b></font>
+
+580
+00:24:11,570 --> 00:24:16,610
+<font size="46"><b>So, everyone, please keep on supporting Nogizaka46 from here on as well. Thank you very much.</b></font>
+
+581
+00:24:38,110 --> 00:24:38,960
+<font size="46"><b>Congratulations!</b></font>
+
+
+
+585
+00:24:42,630 --> 00:24:44,060
+<font size="46"><b>And that's that...</b></font>
+
+586
+00:24:44,060 --> 00:24:47,130
+<font size="46"><b>So for the last time, let's have Fukagawa end the show for us.</b></font>
+
+587
+00:24:47,130 --> 00:24:48,860
+<font size="46"><b>Everyone, thank you very much!</b></font>
+
+588
+00:24:48,860 --> 00:24:51,690
+<font size="46"><b>And please watch Nogizaka Under Construction next week as well!</b></font>
+
+589
+00:24:51,690 --> 00:24:52,760
+<font size="46"><b>Until next time!</b></font>
+
+590
+00:24:52,760 --> 00:24:54,860
+<font size="46"><b>Thank you very much!</b></font>
+
+591
+00:24:54,860 --> 00:24:57,410
+<font size="46"><b>Thank you! Goodbye!</b></font>
+
+592
+00:24:57,410 --> 00:24:59,580
+<font size="46"><b>Thank you very much!</b></font>
+

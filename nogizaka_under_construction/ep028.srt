@@ -1,0 +1,3162 @@
+1
+00:00:00,000 --> 00:00:06,020
+<font face="Calibri" size="27">{\an7}m 0 0 l 0 40.5 l 3 40.5 l 3 0 l 0 0 m 3 0 l -6 0 l -6 9 l 24.125 9 l 24.125 6 l -3 6 l -3 3 l 0 3 m 3 3 m 24.125 0 l 24.125 40.5 l 27.125 40.5 l 27.125 -1.5 l 24.125 -1.5 m 33.25 0 l 33.25 0 l 36.25 0 l 36.25 16.5 l 28.625 16.5 l 28.625 13.5 l 33.25 13.5 l 33.25 3 l 22.625 3 l 22.625 0 m 9 27 l 9 18 l 18.125 18 l 18.125 21 l 12.125 21 l 12.125 27 l 9 27 m 18.125 27 l 18.125 30 l 9 30 l 9 27 l 15.125 27 l 15.125 21 l 18.125 21 l 18.125 27 m 7.5 10.5 l 12.125 13.5 l 10.625 15 l 6 12 l 7.5 10.5 m 15.125 13.5 l 15.125 13.5 l 19.625 10.5 l 21.125 12 l 16.625 15 l 15.125 13.5 m 4.5 36 b 4.5 36 4.5 34.5 4.5 34.5 b 10.625 31.5 16.625 31.5 22.625 34.5 b 22.625 34.5 22.625 37.5 22.625 37.5 b 16.625 34.5 10.625 34.5 4.5 37.5
+<font size="15"><b>MasToppu.blogspot.co.id</b></font></font>
+
+2
+00:00:06,020 --> 00:00:07,920
+<font face="Courier" size="42"><b>Nogizaka Koujichuu!</b></font>
+
+3
+00:00:08,120 --> 00:00:08,120
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#fcdd21">BANANAMAN</font></b></font>
+
+4
+00:00:08,120 --> 00:00:08,120
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#000000">Himura Yuuki</font></b></font>
+
+5
+00:00:08,120 --> 00:00:08,440
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#000000">Shitara Osamu</font></b></font>
+
+6
+00:00:08,440 --> 00:00:12,890
+<font face="Courier" size="42"><b>DON! Well, Nogizaka Koujichuu has started, we are the MC, Bananaman, <i>Yoroshiku Onegaishimasu</i>.</b></font>
+
+7
+00:00:12,890 --> 00:00:16,990
+<font face="Courier" size="42"><b>With them, Nogizaka-chan.</b></font>
+
+8
+00:00:16,990 --> 00:00:18,230
+<font face="Courier" size="42"><b><i>Onegaishimasu</i>!</b></font>
+
+9
+00:00:18,230 --> 00:00:21,830
+<font face="Courier" size="42"><b>Today, we discuss the new song's campaign.
+Who was involved?</b></font>
+
+10
+00:00:21,830 --> 00:00:24,240
+<font face="Courier" size="42"><b>-Who went?
+-Who?</b></font>
+
+11
+00:00:24,240 --> 00:00:26,240
+<font face="Courier" size="42"><b>-Us, The Fishing Team
+-Fishing Team?   -Yes!</b></font>
+
+12
+00:00:26,240 --> 00:00:28,770
+<font face="Courier" size="42"><b>Who said that she couldn't ride a boat...</b></font>
+
+13
+00:00:28,770 --> 00:00:29,940
+<font face="Courier" size="42"><b>Me.</b></font>
+
+14
+00:00:29,940 --> 00:00:33,110
+<font face="Courier" size="42"><b>- No way I could go fishing
+- Couldn't go fishing?</b></font>
+
+15
+00:00:33,110 --> 00:00:36,990
+<font face="Courier" size="42"><b>But, after I listened to Shitara-san's advice to overcome seasickness...</b></font>
+
+16
+00:00:36,990 --> 00:00:36,990
+<font face="Courier" size="42"><b>- That advice to drink <i>Brandy</i>, right.
+- No, no. Not that.</b></font>
+
+17
+00:00:36,990 --> 00:00:39,890
+<font face="Arial Rounded MT Bold" size="30"><b>{\an8}[Yujiro = Yujiro Ishihara, an actor and singer with 
+his famous song, Brandy Glass]</b></font>
+
+18
+00:00:39,890 --> 00:00:42,320
+<font face="Courier" size="42"><b>That's great. That's like Yujiro!</b></font>
+
+19
+00:00:43,610 --> 00:00:48,100
+<font face="Courier" size="42"><b><i>For the latest single release, they did some recordings to wish for success.</i></b></font>
+
+20
+00:00:48,500 --> 00:00:52,860
+<font face="Courier" size="42"><b><i>This time, we use three types of campaigns from the members' presentation.</i></b></font>
+
+21
+00:00:54,480 --> 00:00:57,920
+<font face="Courier" size="42"><b><i>Previously, Hoshino and Saitou Asuka 
+have run through Sakamichi.</i></b></font>
+
+22
+00:00:57,920 --> 00:01:00,570
+<font face="Courier" size="42"><b>We wish for great success!</b></font>
+
+23
+00:01:00,570 --> 00:01:05,510
+<font face="Courier" size="42"><b><i>Nishino, Fukagawa, Ikuta and Akimoto successfully wished for the single's success....</i></b></font>
+
+24
+00:01:05,510 --> 00:01:08,210
+<font face="Courier" size="42"><b><i>...at the most extreme temple in Japan.</i></b></font>
+
+25
+00:01:09,420 --> 00:01:13,290
+<font face="Courier" size="42"><b><i>Then, this time, Shiraishi, Etou, Hashimoto and Takayama,...</i></b></font>
+
+26
+00:01:13,290 --> 00:01:17,070
+<font face="Courier" size="42"><b><i>...following the plan from Fukagawa, wished for success by gathering food...</i></b></font>
+
+27
+00:01:17,070 --> 00:01:20,590
+<font face="Courier" size="42"><b><i>...to seek better luck, by attempting
+Shusse-uo challenge, but...</i></b></font>
+
+28
+00:01:20,590 --> 00:01:22,030
+<font face="Courier" size="42"><b>So, you girls went to take that.</b></font>
+
+29
+00:01:22,090 --> 00:01:22,720
+<font face="Arial Rounded MT Bold" size="30"><b>{\an8}Color Code
+Maiyan Kazumin Misa Nanamin</b></font>
+
+30
+00:01:22,720 --> 00:01:23,630
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an9}- Are you serious!?
+- Why this condition?!</b></font>
+
+31
+00:01:23,630 --> 00:01:25,660
+<font face="Arial Rounded MT Bold" size="42"><b>Campaign for the 13th single success!</b></font>
+
+32
+00:01:25,660 --> 00:01:29,070
+<font face="Arial Rounded MT Bold" size="42"><b>Following the plan of Fukagawa Mai,
+Let's gather food that brings good luck!</b></font>
+
+33
+00:01:29,070 --> 00:01:29,070
+<font face="Arial Rounded MT Bold" size="42"><b><font size="60">YAY!!!</font></b></font>
+
+34
+00:01:29,070 --> 00:01:29,070
+<font face="Arial Rounded MT Bold" size="42"><b><font size="60">YAY!!!</font></b></font>
+
+35
+00:01:29,070 --> 00:01:29,070
+<font face="Arial Rounded MT Bold" size="42"><b><font size="60">YAY!!!</font></b></font>
+
+36
+00:01:29,070 --> 00:01:33,140
+<font face="Arial Rounded MT Bold" size="42"><b><font size="60">YAY!!!</font></b></font>
+
+37
+00:01:33,450 --> 00:01:33,870
+<font face="Arial Rounded MT Bold" size="42"><b>Right now, it's five minutes to six o'clock in the morning.</b></font>
+
+38
+00:01:33,870 --> 00:01:33,870
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#b4e4f5">m 703.375 -262.5 l -707.875 -262.5 l -707.875 28.5 l 703.375 28.5</font></b></font>
+
+39
+00:01:33,870 --> 00:01:38,430
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#000000"><font size="24">Area in front of Miura City port.</font></font></b></font>
+
+40
+00:01:38,430 --> 00:01:40,360
+<font face="Arial Rounded MT Bold" size="42"><b>- Good morning!
+- Good morning!</b></font>
+
+41
+00:01:40,360 --> 00:01:43,480
+<font face="Arial Rounded MT Bold" size="42"><b>- Unfortunately, it's raining now.
+- It's really...</b></font>
+
+42
+00:01:43,480 --> 00:01:46,620
+<font face="Arial Rounded MT Bold" size="42"><b>- It's hard to open our eyes...
+- Right, need much effort for that.</b></font>
+
+43
+00:01:47,020 --> 00:01:48,010
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}Wind and heavy rain, <font color="#e91d1b">a weather that's almost impossible <font color="#ffffff">to set sail in</font></font></b></font>
+
+44
+00:01:48,010 --> 00:01:49,440
+<font face="Courier" size="42"><b><i>That day, the weather was very poor. A condition that made it almost impossible to sail.</i></b></font>
+
+45
+00:01:49,440 --> 00:01:53,330
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an9}- The weather is clearly bad!
+- This is terrible!</b></font>
+
+46
+00:01:54,360 --> 00:01:54,760
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font size="57"><font color="#000000"><font face="Arial Black">INADA</font></font></font></b></font>
+
+47
+00:01:54,760 --> 00:01:54,760
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#cdf1fe">m 252.125 63 l 0 63 l 0 0 l 252.125 0</font></b></font>
+
+48
+00:01:54,760 --> 00:01:54,960
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font size="24"><font color="#f31218">Shusse-uo type fish, <font color="#000000">according to its size, the name of this fish changes from 
+<font color="#f31218">"INADA" <font color="#000000">- <font color="#f31218">"WARASA"<font color="#000000"> - <font color="#f31218">"BURI"<font color="#000000">, analogical to <font color="#f31218">change of fate into a better one</font></font></font></font></font></font></font></font></font></font></b></font>
+
+49
+00:01:54,960 --> 00:01:54,960
+<font face="Courier" size="42"><b><i>This time, the fish targeted by these four people are INADA.</i></b></font>
+
+50
+00:01:54,960 --> 00:01:57,680
+<font face="Arial Rounded MT Bold" size="30"><b>{\an8}[Shusse-uo : Fish whose name changes when it grows bigger]</b></font>
+
+51
+00:01:57,680 --> 00:02:00,830
+<font face="Courier" size="42"><b><i>Shusse-uo type fish, whose name changes
+according to its size, is said to bring good luck</i></b></font>
+
+52
+00:02:00,830 --> 00:02:01,370
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an9}I see!</b></font>
+
+53
+00:02:01,370 --> 00:02:01,370
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#cdf1fe">m 252.125 63 l 0 63 l 0 0 l 252.125 0</font></b></font>
+
+54
+00:02:01,370 --> 00:02:02,100
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font size="24"><font color="#000000">However, a young BURI fish type can reach
+<font color="#f31218">a length of 50 cm and weighing up to 1 kg!</font></font></font></b></font>
+
+55
+00:02:02,100 --> 00:02:07,560
+<font face="Courier" size="42"><b><i>But, even its small fish can reach 
+a length of 50 cm and weight 1 kg</i></b></font>
+
+56
+00:02:07,660 --> 00:02:08,040
+<font face="Arial Rounded MT Bold" size="42"><b>By fishing, we will try to get some fishes...</b></font>
+
+57
+00:02:08,040 --> 00:02:08,040
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#4dd1fd">m 252.125 63 l 0 63 l 0 0 l 252.125 0</font></b></font>
+
+58
+00:02:08,040 --> 00:02:08,040
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font size="36"><font color="#000000">Must successfully catch fishes later</font></font></b></font>
+
+59
+00:02:08,040 --> 00:02:09,790
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font size="27">Fishing Note</font></b></font>
+
+60
+00:02:09,790 --> 00:02:13,550
+<font face="Arial Rounded MT Bold" size="42"><b>...for the success of this single. 
+We will try to get a lot of fishes...</b></font>
+
+61
+00:02:13,550 --> 00:02:15,550
+<font face="Arial Rounded MT Bold" size="42"><b>And because this is the 13th single...</b></font>
+
+62
+00:02:15,550 --> 00:02:15,550
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#4dd1fd">m 252.125 63 l 0 63 l 0 0 l 252.125 0</font></b></font>
+
+63
+00:02:15,550 --> 00:02:15,550
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font size="36"><font color="#000000">Everyone must be able to catch 13 fishes in total!</font></font></b></font>
+
+64
+00:02:15,550 --> 00:02:15,850
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font size="27">Success Prayer</font></b></font>
+
+65
+00:02:15,850 --> 00:02:15,880
+<font face="Arial Rounded MT Bold" size="42"><b>...if possible, we have to get 13 fishes.
+So, let's do our best.</b></font>
+
+66
+00:02:15,880 --> 00:02:19,980
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font size="27"><font color="#ffcd09">TARGET</font></font></b></font>
+
+67
+00:02:19,980 --> 00:02:20,820
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an9}Can they fish it?</b></font>
+
+68
+00:02:20,820 --> 00:02:21,770
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}Leaving with a target of Shusse-uo <font color="#f31218">"INADA" <font color="#ffffff">fishes</font></font></b></font>
+
+69
+00:02:21,770 --> 00:02:25,610
+<font face="Courier" size="42"><b><i>With the target of Shusse-uo fish
+that brings good luck, they set sail!</i></b></font>
+
+70
+00:02:25,610 --> 00:02:26,850
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an9}Condition like this, really bad, isn't it?</b></font>
+
+71
+00:02:26,850 --> 00:02:29,260
+<font face="Arial Rounded MT Bold" size="42"><b>While in the recording that time, Shitara-san...</b></font>
+
+72
+00:02:29,260 --> 00:02:32,330
+<font face="Arial Rounded MT Bold" size="42"><b>...recommended sunglasses, to overcome seasickness...</b></font>
+
+73
+00:02:32,330 --> 00:02:34,730
+<font face="Arial Rounded MT Bold" size="42"><b>...so that's why, I bought it yesterday.</b></font>
+
+74
+00:02:35,200 --> 00:02:35,840
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#f31218">Big wave made the boat shook violently!</font></b></font>
+
+75
+00:02:35,840 --> 00:02:39,960
+<font face="Courier" size="42"><b><i>However, as soon as they left, due to 
+big wave, the boat shook violently.</i></b></font>
+
+76
+00:02:39,960 --> 00:02:41,270
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an9}So like this...</b></font>
+
+77
+00:02:41,290 --> 00:02:44,560
+<font face="Arial Rounded MT Bold" size="42"><b>We gradually feel the rain more.</b></font>
+
+78
+00:02:44,560 --> 00:02:45,540
+<font face="Arial Rounded MT Bold" size="42"><b>This side, really heavy!</b></font>
+
+79
+00:02:45,540 --> 00:02:46,180
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font size="60">UWAAAA~</font></b></font>
+
+80
+00:02:46,180 --> 00:02:46,180
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font size="60">UWAAAA~</font></b></font>
+
+81
+00:02:46,180 --> 00:02:46,880
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font size="60">UWAAAA~</font></b></font>
+
+82
+00:02:46,880 --> 00:02:47,680
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font size="60">UWAAAA~</font></b></font>
+
+83
+00:02:47,680 --> 00:02:49,660
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an9}That bad?</b></font>
+
+84
+00:02:49,660 --> 00:02:50,730
+<font face="Arial Rounded MT Bold" size="42"><b>Amazing!</b></font>
+
+85
+00:02:50,730 --> 00:02:51,050
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an9}This is really heavy!</b></font>
+
+86
+00:02:51,050 --> 00:02:52,480
+<font face="Arial Rounded MT Bold" size="42"><b>This is scary!</b></font>
+
+87
+00:02:52,480 --> 00:02:53,920
+<font face="Arial Rounded MT Bold" size="42"><b>- Are you alright?
+- It's alright.</b></font>
+
+88
+00:02:53,920 --> 00:02:55,990
+<font face="Arial Rounded MT Bold" size="42"><b>Kazumin! Are you still alive?</b></font>
+
+89
+00:02:56,190 --> 00:02:57,310
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}Fishing Shusse-uo "INADA" fish,<font color="#f31218"> START!</font></b></font>
+
+90
+00:02:57,310 --> 00:02:59,830
+<font face="Courier" size="42"><b><i>After 20 minutes, finally they reached the fishing spot</i>.</b></font>
+
+91
+00:02:59,830 --> 00:03:02,460
+<font face="Courier" size="42"><b><i>The fishing of Shusse-uo INADA, starts!</i></b></font>
+
+92
+00:03:05,130 --> 00:03:05,130
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#cdf1fe">m 252.125 63 l 0 63 l 0 0 l 252.125 0</font></b></font>
+
+93
+00:03:05,130 --> 00:03:05,130
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font size="27"><font color="#000000">Fishing rod is shaken to spread bait from the tube that is underwater</font></font></b></font>
+
+94
+00:03:05,130 --> 00:03:06,130
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font size="33"><font color="#f31218">How To Fish INADA</font></font></b></font>
+
+95
+00:03:06,130 --> 00:03:10,000
+<font face="Arial Rounded MT Bold" size="30"><b>{\an8}[INADA : Japanese Amberjack that's still young
+(Seriola quinqueradiata)]</b></font>
+
+96
+00:03:11,120 --> 00:03:12,380
+<font face="Arial Rounded MT Bold" size="42"><b>I have no idea...</b></font>
+
+97
+00:03:12,380 --> 00:03:14,140
+<font face="Arial Rounded MT Bold" size="42"><b>...is it eaten already?</b></font>
+
+98
+00:03:14,140 --> 00:03:14,910
+<font face="Arial Rounded MT Bold" size="42"><b>Maybe it is!</b></font>
+
+99
+00:03:14,910 --> 00:03:16,330
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an9}There's something, right?</b></font>
+
+100
+00:03:16,330 --> 00:03:16,340
+<font face="Arial Rounded MT Bold" size="42"><b>Is that so?</b></font>
+
+101
+00:03:16,340 --> 00:03:17,500
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an9}What?</b></font>
+
+102
+00:03:17,500 --> 00:03:17,740
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an9}Really? Seriously!</b></font>
+
+103
+00:03:17,740 --> 00:03:19,740
+<font face="Arial Rounded MT Bold" size="42"><b>Failed, it seems...</b></font>
+
+104
+00:03:22,080 --> 00:03:23,620
+<font face="Arial Rounded MT Bold" size="42"><b>Nothing!</b></font>
+
+105
+00:03:24,130 --> 00:03:24,920
+<font face="Arial Rounded MT Bold" size="42"><b>Damn!</b></font>
+
+106
+00:03:26,200 --> 00:03:28,920
+<font face="Courier" size="42"><b><i>Here, something happened to Hashimoto's rod!</i></b></font>
+
+107
+00:03:29,420 --> 00:03:31,720
+<font face="Arial Rounded MT Bold" size="42"><b>There's something...What's this?</b></font>
+
+108
+00:03:32,730 --> 00:03:34,760
+<font face="Arial Rounded MT Bold" size="42"><b>Does this mean I've fished something?</b></font>
+
+109
+00:03:34,760 --> 00:03:37,410
+<font face="Arial Rounded MT Bold" size="42"><b>But this doesn't feel heavy.</b></font>
+
+110
+00:03:37,410 --> 00:03:39,620
+<font face="Arial Rounded MT Bold" size="42"><b>Do I only have to keep doing this way?</b></font>
+
+111
+00:03:39,620 --> 00:03:43,600
+<font face="Courier" size="42"><b><i>Clearly something was caught by Hashimoto.
+Did she get INADA?</i></b></font>
+
+112
+00:03:43,760 --> 00:03:45,600
+<font face="Arial Rounded MT Bold" size="42"><b>I roll it up!</b></font>
+
+113
+00:03:45,970 --> 00:03:47,360
+<font face="Arial Rounded MT Bold" size="42"><b>What is it?</b></font>
+
+114
+00:03:47,360 --> 00:03:48,710
+<font face="Arial Rounded MT Bold" size="42"><b>What's this?</b></font>
+
+115
+00:03:48,710 --> 00:03:51,710
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#b4e4f5">Ordinary seaweed</font></b></font>
+
+116
+00:03:51,710 --> 00:03:52,990
+<font face="Arial Rounded MT Bold" size="42"><b>What is it?</b></font>
+
+117
+00:03:53,400 --> 00:03:54,210
+<font face="Arial Rounded MT Bold" size="42"><b>Seaweed?</b></font>
+
+118
+00:03:54,210 --> 00:03:56,950
+<font face="Arial Rounded MT Bold" size="42"><b>I get nothing at all.</b></font>
+
+119
+00:03:57,860 --> 00:03:58,540
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an9}How will this turn out...</b></font>
+
+120
+00:03:58,540 --> 00:04:00,850
+<font face="Arial Rounded MT Bold" size="42"><b>Ah, nothing at all!</b></font>
+
+121
+00:04:01,220 --> 00:04:01,250
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an9}In a storm like this, can it
+be fished?</b></font>
+
+122
+00:04:01,250 --> 00:04:02,190
+<font face="Arial Rounded MT Bold" size="42"><b>Difficult.</b></font>
+
+123
+00:04:02,350 --> 00:04:03,360
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#f31218">The Fisher "Etou" has her own plan!</font></b></font>
+
+124
+00:04:03,360 --> 00:04:06,160
+<font face="Courier" size="42"><b><i>Here, Etou the "Fisher", got an idea.</i></b></font>
+
+125
+00:04:06,160 --> 00:04:07,160
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an9}As expected from her!</b></font>
+
+126
+00:04:07,680 --> 00:04:09,890
+<font face="Arial Rounded MT Bold" size="42"><b>Perhaps, fish also...</b></font>
+
+127
+00:04:09,890 --> 00:04:14,050
+<font face="Arial Rounded MT Bold" size="42"><b>...perhaps in the "Fishing Interaction", I didn't lure it well enough!</b></font>
+
+128
+00:04:14,050 --> 00:04:15,570
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an9}"<i>Fishing Interaction</i>".</b></font>
+
+129
+00:04:16,090 --> 00:04:17,240
+<font face="Arial Rounded MT Bold" size="42"><b>So, I got nothing.
+Maybe that's why.</b></font>
+
+130
+00:04:17,240 --> 00:04:18,850
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#b4e4f5">She also "Seduced" fish</font></b></font>
+
+131
+00:04:18,850 --> 00:04:20,140
+<font face="Arial Rounded MT Bold" size="42"><b>I just realized it.</b></font>
+
+132
+00:04:20,140 --> 00:04:22,320
+<font face="Arial Rounded MT Bold" size="42"><b>Hey, fish...</b></font>
+
+133
+00:04:22,320 --> 00:04:24,320
+<font face="Arial Rounded MT Bold" size="42"><b>...hey, fish. Come here!</b></font>
+
+134
+00:04:28,880 --> 00:04:29,290
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#f31218">Etou tried to "Seduce" <font color="#ffffff"> fishes under the sea</font></font></b></font>
+
+135
+00:04:29,290 --> 00:04:33,150
+<font face="Courier" size="42"><b><i>Etou showed how to lure fish underwater. Then...</i></b></font>
+
+136
+00:04:33,700 --> 00:04:35,150
+<font face="Arial Rounded MT Bold" size="42"><b>Feels like something is exciting!</b></font>
+
+137
+00:04:35,150 --> 00:04:36,020
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an9}This, serious?</b></font>
+
+138
+00:04:36,020 --> 00:04:39,520
+<font face="Arial Rounded MT Bold" size="42"><b>Ah, there is! Feels like something is there!
+What should I do? Should I roll it?</b></font>
+
+139
+00:04:39,520 --> 00:04:42,160
+<font face="Arial Rounded MT Bold" size="42"><b>
+- Ah, good! Good! Good! 
+- Gotcha!</b></font>
+
+140
+00:04:42,160 --> 00:04:44,160
+<font face="Arial Rounded MT Bold" size="42"><b>Big! Certainly big!</b></font>
+
+141
+00:04:45,920 --> 00:04:47,500
+<font face="Arial Rounded MT Bold" size="42"><b>Good! Good! Good!</b></font>
+
+142
+00:04:47,770 --> 00:04:49,700
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an9}Really? Fished already?</b></font>
+
+143
+00:04:51,560 --> 00:04:54,240
+<font face="Arial Rounded MT Bold" size="42"><b><font color="#000000">- Pull up the rod! Can you?
+<font color="#ffffff">- Yes!</font></font></b></font>
+
+144
+00:04:55,090 --> 00:04:58,480
+<font face="Courier" size="42"><b><i>With her better "Fishing Interaction", can 
+she successfully get Shusse-uo fish?</i></b></font>
+
+145
+00:04:58,480 --> 00:05:00,120
+<font face="Arial Rounded MT Bold" size="42"><b>What is it?</b></font>
+
+146
+00:05:00,120 --> 00:05:01,910
+<font face="Arial Rounded MT Bold" size="42"><b>Already fished?</b></font>
+
+147
+00:05:03,380 --> 00:05:04,580
+<font face="Arial Rounded MT Bold" size="42"><b>Maybe it is fished.</b></font>
+
+148
+00:05:04,580 --> 00:05:06,910
+<font face="Arial Rounded MT Bold" size="42"><b>Ah, it got away!</b></font>
+
+149
+00:05:06,910 --> 00:05:09,050
+<font face="Arial Rounded MT Bold" size="42"><b>Ah! Hooray!</b></font>
+
+150
+00:05:09,050 --> 00:05:11,150
+<font face="Arial Rounded MT Bold" size="42"><b>I did it! Ouch, ouch, ouch!</b></font>
+
+151
+00:05:11,150 --> 00:05:12,660
+<font face="Arial Rounded MT Bold" size="42"><b>Something is caught.</b></font>
+
+152
+00:05:12,660 --> 00:05:14,860
+<font face="Arial Rounded MT Bold" size="42"><b>I got it!</b></font>
+
+153
+00:05:14,860 --> 00:05:16,760
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an9}- Wah, she got it!
+- Great!</b></font>
+
+154
+00:05:16,760 --> 00:05:17,060
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font size="66"><font color="#000000"><font face="Arial Black">ISAKI</font></font></font></b></font>
+
+155
+00:05:17,060 --> 00:05:17,680
+<font face="Arial Rounded MT Bold" size="30"><b>{\an8}[ISAKI : Chicken Grunt fish
+(Parapristipoma trilineatum)]</b></font>
+
+156
+00:05:17,680 --> 00:05:20,300
+<font face="Courier" size="42"><b><i>First caught fish is ISAKI.</i></b></font>
+
+157
+00:05:20,300 --> 00:05:23,600
+<font face="Courier" size="42"><b><i>Shiromi type fish, delicious to be cooked 
+as Sashimi or grilled.</i></b></font>
+
+158
+00:05:24,430 --> 00:05:26,740
+<font face="Courier" size="42"><b><i>Then, Hashimoto also successfully caught something.</i></b></font>
+
+159
+00:05:26,740 --> 00:05:29,670
+<font face="Arial Rounded MT Bold" size="42"><b>Ah, gotcha! What should I do?</b></font>
+
+160
+00:05:29,670 --> 00:05:29,940
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an9}Right, this is like
+fishing recording.</b></font>
+
+161
+00:05:29,940 --> 00:05:31,670
+<font face="Arial Rounded MT Bold" size="42"><b>Roll it?</b></font>
+
+162
+00:05:31,670 --> 00:05:33,670
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an9}We don't know what is caught.</b></font>
+
+163
+00:05:36,260 --> 00:05:38,820
+<font face="Arial Rounded MT Bold" size="42"><b><font color="#000000">Keep rolling! Pull it up!</font></b></font>
+
+164
+00:05:38,820 --> 00:05:40,620
+<font face="Arial Rounded MT Bold" size="42"><b>I have rolled it.</b></font>
+
+165
+00:05:40,620 --> 00:05:42,620
+<font face="Arial Rounded MT Bold" size="42"><b>Can it be pulled up already?</b></font>
+
+166
+00:05:43,230 --> 00:05:44,120
+<font face="Arial Rounded MT Bold" size="42"><b>What is it?</b></font>
+
+167
+00:05:44,120 --> 00:05:46,120
+<font face="Arial Rounded MT Bold" size="42"><b>Ah here it is! I got it!</b></font>
+
+168
+00:05:46,350 --> 00:05:47,610
+<font face="Arial Rounded MT Bold" size="42"><b>Fished!</b></font>
+
+169
+00:05:47,610 --> 00:05:47,620
+<font face="Arial Rounded MT Bold" size="42"><b>What's this?</b></font>
+
+170
+00:05:47,620 --> 00:05:48,750
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an9}That's perhaps the target.</b></font>
+
+171
+00:05:48,750 --> 00:05:50,750
+<font face="Arial Rounded MT Bold" size="42"><b>Fished! Ah, no! Scary!</b></font>
+
+172
+00:05:50,750 --> 00:05:52,750
+<font face="Arial Rounded MT Bold" size="42"><b>What? What type of fish is this?</b></font>
+
+173
+00:05:52,750 --> 00:05:55,300
+<font face="Arial Rounded MT Bold" size="42"><b><font color="#000000">- That's ISAKI. 
+<font color="#ffffff">- ISAKI?</font></font></b></font>
+
+174
+00:05:55,300 --> 00:05:57,300
+<font face="Arial Rounded MT Bold" size="42"><b>This is the first time I managed to catch a fish.</b></font>
+
+175
+00:05:57,300 --> 00:05:58,740
+<font face="Arial Rounded MT Bold" size="42"><b>Eh, but of course I'm happy.</b></font>
+
+176
+00:05:58,840 --> 00:05:59,860
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}A group of ISAKI started to be lured and <font color="#f31218"> struck the bait!</font></b></font>
+
+177
+00:05:59,860 --> 00:06:02,070
+<font face="Courier" size="42"><b><i>Suddenly, they found a group of ISAKI</i></b></font>
+
+178
+00:06:02,070 --> 00:06:05,070
+<font face="Courier" size="42"><b><i>Then, these fishes immediately eat the distributed baits.</i></b></font>
+
+179
+00:06:05,070 --> 00:06:06,130
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an9}But, that's pretty good.</b></font>
+
+180
+00:06:06,130 --> 00:06:09,580
+<font face="Courier" size="42"><b><i>Next, slowly they feel disappointed 
+about the fishes they caught.</i></b></font>
+
+181
+00:06:09,610 --> 00:06:11,120
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an9}Everyone got it?</b></font>
+
+182
+00:06:11,120 --> 00:06:11,840
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an9}Takayama also got it, right?</b></font>
+
+183
+00:06:11,840 --> 00:06:13,790
+<font face="Arial Rounded MT Bold" size="42"><b>ISAKI again!</b></font>
+
+184
+00:06:15,790 --> 00:06:17,790
+<font face="Arial Rounded MT Bold" size="42"><b>Ah, so you again...</b></font>
+
+185
+00:06:18,190 --> 00:06:18,190
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font size="66"><font color="#000000"><font face="Arial Black">INADA</font></font></font></b></font>
+
+186
+00:06:18,190 --> 00:06:19,240
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font size="81"><font color="#000000"><font face="Arial Black">Shusse-uo</font></font></font></b></font>
+
+187
+00:06:19,240 --> 00:06:21,840
+<font face="Courier" size="42"><b><i>Then, actually where is INADA 
+the Shusse-uo fish?</i></b></font>
+
+188
+00:06:21,840 --> 00:06:23,800
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an9}You really wanted INADA,
+right?</b></font>
+
+189
+00:06:24,850 --> 00:06:28,890
+<font face="Courier" size="42"><b><i>Then, Takayama's rod, right now 
+feels like catching a big fish!</i></b></font>
+
+190
+00:06:28,890 --> 00:06:29,770
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an9}What?</b></font>
+
+191
+00:06:29,770 --> 00:06:30,820
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an9}Is it INADA?</b></font>
+
+192
+00:06:30,820 --> 00:06:32,870
+<font face="Arial Rounded MT Bold" size="42"><b>Even Kazumin's rod is bent that much!</b></font>
+
+193
+00:06:32,870 --> 00:06:34,470
+<font face="Arial Rounded MT Bold" size="42"><b>For sure, she gets it for sure!</b></font>
+
+194
+00:06:34,470 --> 00:06:34,570
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#b4e4f5">Seems like a big catch.</font></b></font>
+
+195
+00:06:34,570 --> 00:06:37,780
+<font face="Arial Rounded MT Bold" size="42"><b>She gets something! For sure!
+She gets INABA. That's its name right?</b></font>
+
+196
+00:06:37,780 --> 00:06:40,350
+<font face="Arial Rounded MT Bold" size="42"><b>Kazumin, you must have caught the target!</b></font>
+
+197
+00:06:40,350 --> 00:06:42,760
+<font face="Arial Rounded MT Bold" size="42"><b>That must be our target! I'm so sure!</b></font>
+
+198
+00:06:42,760 --> 00:06:42,880
+<font face="Arial Rounded MT Bold" size="42"><b>Pull it up! Pull it up!</b></font>
+
+199
+00:06:42,880 --> 00:06:44,550
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an9}This must be INADA!</b></font>
+
+200
+00:06:44,550 --> 00:06:47,320
+<font face="Arial Rounded MT Bold" size="42"><b>- Pull it up! Good, good!
+- Kazumin, you can do it!</b></font>
+
+201
+00:06:48,270 --> 00:06:49,820
+<font face="Arial Rounded MT Bold" size="42"><b>Why is she so calm?</b></font>
+
+202
+00:06:49,820 --> 00:06:50,000
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#b4e4f5">Silent.</font></b></font>
+
+203
+00:06:50,000 --> 00:06:51,450
+<font face="Arial Rounded MT Bold" size="42"><b>Why don't you move?
+Kazumin, you certainly get it, you know!</b></font>
+
+204
+00:06:51,450 --> 00:06:52,990
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an9}Why not rolled it?</b></font>
+
+205
+00:06:53,630 --> 00:06:55,460
+<font face="Arial Rounded MT Bold" size="42"><b>Kazumin, try to show some spirit too!</b></font>
+
+206
+00:06:55,460 --> 00:06:57,140
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#b4e4f5">No reaction.</font></b></font>
+
+207
+00:06:57,140 --> 00:06:58,960
+<font face="Arial Rounded MT Bold" size="42"><b>Try to roll it! roll!</b></font>
+
+208
+00:06:59,440 --> 00:07:01,020
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an9}You didn't get any trouble, right?</b></font>
+
+209
+00:07:01,020 --> 00:07:02,800
+<font face="Arial Rounded MT Bold" size="42"><b>It's a bit difficult...</b></font>
+
+210
+00:07:02,800 --> 00:07:04,800
+<font face="Arial Rounded MT Bold" size="42"><b>Really? But, that was great, you know!</b></font>
+
+211
+00:07:06,220 --> 00:07:06,700
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an9}Go! Go!</b></font>
+
+212
+00:07:06,700 --> 00:07:08,800
+<font face="Arial Rounded MT Bold" size="42"><b><font color="#000000">Try to pull it up.</font></b></font>
+
+213
+00:07:09,840 --> 00:07:11,680
+<font face="Arial Rounded MT Bold" size="42"><b>What do I get?</b></font>
+
+214
+00:07:14,580 --> 00:07:17,220
+<font face="Courier" size="42"><b><i>Clearly this is heavier, not like ISAKI.</i></b></font>
+
+215
+00:07:17,220 --> 00:07:19,650
+<font face="Courier" size="42"><b><i>In the end, will she successfully catch it?</i></b></font>
+
+216
+00:07:19,760 --> 00:07:20,790
+<font face="Arial Rounded MT Bold" size="42"><b>Ah, here it comes!</b></font>
+
+217
+00:07:20,790 --> 00:07:20,810
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#b4e4f5">Not ISAKI.</font></b></font>
+
+218
+00:07:20,810 --> 00:07:21,650
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an9}Ah, different, right?</b></font>
+
+219
+00:07:21,650 --> 00:07:23,150
+<font face="Arial Rounded MT Bold" size="42"><b>What is this?</b></font>
+
+220
+00:07:23,150 --> 00:07:23,950
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an9}It's blue!</b></font>
+
+221
+00:07:23,950 --> 00:07:25,460
+<font face="Arial Rounded MT Bold" size="42"><b>Great!</b></font>
+
+222
+00:07:25,460 --> 00:07:27,220
+<font face="Arial Rounded MT Bold" size="42"><b><font color="#000000">It's SOUDAGATSUO.</font></b></font>
+
+223
+00:07:27,220 --> 00:07:28,630
+<font face="Arial Rounded MT Bold" size="42"><b>Bonito?</b></font>
+
+224
+00:07:28,630 --> 00:07:30,630
+<font face="Arial Rounded MT Bold" size="42"><b>- I got Bonito fish!
+- Bonito?</b></font>
+
+225
+00:07:30,630 --> 00:07:30,640
+<font face="Arial Rounded MT Bold" size="42"><b>- Right!
+- Great!</b></font>
+
+226
+00:07:30,640 --> 00:07:31,460
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an9}Great!</b></font>
+
+227
+00:07:31,460 --> 00:07:32,460
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an9}- Big!
+- Really big!</b></font>
+
+228
+00:07:32,460 --> 00:07:34,930
+<font face="Arial Rounded MT Bold" size="42"><b>She managed to catch Bonito fish!</b></font>
+
+229
+00:07:35,680 --> 00:07:36,490
+<font face="Arial Rounded MT Bold" size="42"><b>I got Bonito fish~</b></font>
+
+230
+00:07:36,490 --> 00:07:38,000
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an9}- Wah, you got Bonito?
+- Yes.</b></font>
+
+231
+00:07:38,400 --> 00:07:38,600
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font size="57"><font color="#000000"><font face="Arial Black">SOUDAGATSUO</font></font></font></b></font>
+
+232
+00:07:38,600 --> 00:07:39,180
+<font face="Arial Rounded MT Bold" size="30"><b>{\an8}[SOUDAGATSUO : One kind of Bonito/Tuna fish]</b></font>
+
+233
+00:07:39,180 --> 00:07:40,520
+<font face="Courier" size="42"><b><i>What she just caught is SOUDAGATSUO.</i></b></font>
+
+234
+00:07:40,520 --> 00:07:41,410
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an9}Big!</b></font>
+
+235
+00:07:41,410 --> 00:07:44,140
+<font face="Courier" size="42"><b><i>Small Bonito fish, which is included in Tuna family.</i></b></font>
+
+236
+00:07:45,040 --> 00:07:48,180
+<font face="Courier" size="42"><b><i>Later, Shiraishi also seemed to catch a big fish.</i></b></font>
+
+237
+00:07:48,850 --> 00:07:50,730
+<font face="Courier" size="42"><b><i>Is it certain that she catches INADA?</i></b></font>
+
+238
+00:07:50,730 --> 00:07:52,280
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an9}Maybe INADA!</b></font>
+
+239
+00:07:52,850 --> 00:07:55,220
+<font face="Arial Rounded MT Bold" size="42"><b>- Caught already?
+<font color="#000000">- Perhaps this is your good luck.</font></b></font>
+
+240
+00:07:55,220 --> 00:07:58,020
+<font face="Arial Rounded MT Bold" size="42"><b>- Really?
+<font color="#000000">- It can be, you know!</font></b></font>
+
+241
+00:07:58,530 --> 00:08:04,000
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an9}INADA! INADA!</b></font>
+
+242
+00:08:04,000 --> 00:08:06,160
+<font face="Arial Rounded MT Bold" size="42"><b>I have no idea about what this is.</b></font>
+
+243
+00:08:07,770 --> 00:08:10,340
+<font face="Courier" size="42"><b><i>Seen from its pull to the rod,
+this is a big fish!</i></b></font>
+
+244
+00:08:10,340 --> 00:08:12,430
+<font face="Courier" size="42"><b><i>So, what fish has she caught?!</i></b></font>
+
+245
+00:08:12,430 --> 00:08:14,430
+<font face="Arial Rounded MT Bold" size="42"><b>Big!</b></font>
+
+246
+00:08:16,410 --> 00:08:17,740
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an9}INADA! INADA!</b></font>
+
+247
+00:08:17,740 --> 00:08:19,180
+<font face="Arial Rounded MT Bold" size="42"><b><font color="#000000">Try to move it that way.</font></b></font>
+
+248
+00:08:19,180 --> 00:08:21,470
+<font face="Arial Rounded MT Bold" size="42"><b>AH! Big! Big! Big!</b></font>
+
+249
+00:08:21,470 --> 00:08:22,860
+<font face="Arial Rounded MT Bold" size="42"><b>Wah, that's so big!</b></font>
+
+250
+00:08:22,860 --> 00:08:22,960
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an9}- Wah, awesome!
+- What's that?</b></font>
+
+251
+00:08:22,960 --> 00:08:24,700
+<font face="Arial Rounded MT Bold" size="42"><b>This is obviously big!</b></font>
+
+252
+00:08:24,700 --> 00:08:26,210
+<font face="Arial Rounded MT Bold" size="42"><b>Ah, I got it!</b></font>
+
+253
+00:08:26,210 --> 00:08:28,060
+<font face="Arial Rounded MT Bold" size="42"><b>- Eh, cool!
+- What is this?</b></font>
+
+254
+00:08:28,060 --> 00:08:28,500
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an9}What's this?</b></font>
+
+255
+00:08:28,500 --> 00:08:30,020
+<font face="Arial Rounded MT Bold" size="42"><b>Ah, I got INADA!</b></font>
+
+256
+00:08:30,020 --> 00:08:30,100
+<font face="Arial Rounded MT Bold" size="42"><b>- Great!
+- INADA is successfully caught!!!</b></font>
+
+257
+00:08:30,100 --> 00:08:31,490
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an9}INADA!</b></font>
+
+258
+00:08:31,490 --> 00:08:32,690
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an9}Awesome!</b></font>
+
+259
+00:08:33,620 --> 00:08:35,660
+<font face="Arial Rounded MT Bold" size="42"><b>I got INADA!</b></font>
+
+260
+00:08:35,660 --> 00:08:36,960
+<font face="Arial Rounded MT Bold" size="42"><b>- Success!
+- Yey!</b></font>
+
+261
+00:08:36,960 --> 00:08:37,900
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an9}As expected from her!</b></font>
+
+262
+00:08:37,900 --> 00:08:38,530
+<font face="Arial Rounded MT Bold" size="42"><b>It's flapping its mouth.</b></font>
+
+263
+00:08:38,530 --> 00:08:40,350
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an9}This one is as expected!</b></font>
+
+264
+00:08:40,350 --> 00:08:41,620
+<font face="Arial Rounded MT Bold" size="42"><b>Target done!</b></font>
+
+265
+00:08:41,930 --> 00:08:42,890
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font size="66"><font color="#000000"><font face="Arial Black">INADA</font></font></font></b></font>
+
+266
+00:08:42,890 --> 00:08:45,340
+<font face="Courier" size="42"><b><i>Successfully reaching the target 
+in Nogizaka is Shiraishi.</i></b></font>
+
+267
+00:08:45,340 --> 00:08:49,640
+<font face="Courier" size="42"><b><i>Shusse-uo INADA with a length of about 50 cm, 
+has been caught!</i></b></font>
+
+268
+00:08:50,600 --> 00:08:54,280
+<font face="Courier" size="42"><b><i>A short time later, this time Etou
+also seemed to catch a big fish!</i></b></font>
+
+269
+00:08:54,410 --> 00:09:00,690
+<font face="Arial Rounded MT Bold" size="42"><b>I got it! I got it, you know!</b></font>
+
+270
+00:09:00,690 --> 00:09:01,920
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an9}INADA! INADA!</b></font>
+
+271
+00:09:04,120 --> 00:09:06,570
+<font face="Arial Rounded MT Bold" size="42"><b>Heavy! This feels heavy!</b></font>
+
+272
+00:09:06,570 --> 00:09:08,300
+<font face="Arial Rounded MT Bold" size="42"><b>Eh, it's heavy!</b></font>
+
+273
+00:09:08,300 --> 00:09:09,730
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an9}The feeling when you get fish, 
+unique, right?</b></font>
+
+274
+00:09:09,730 --> 00:09:11,460
+<font face="Arial Rounded MT Bold" size="42"><b>Okay, I pull up the rod.</b></font>
+
+275
+00:09:11,680 --> 00:09:13,410
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an9}Seems like INADA!</b></font>
+
+276
+00:09:15,230 --> 00:09:16,140
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an9}Wah, awesome!</b></font>
+
+277
+00:09:16,140 --> 00:09:16,860
+<font face="Arial Rounded MT Bold" size="42"><b>Awesome!</b></font>
+
+278
+00:09:16,860 --> 00:09:17,740
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an9}This is INADA.</b></font>
+
+279
+00:09:17,740 --> 00:09:19,640
+<font face="Arial Rounded MT Bold" size="42"><b>- I made it!
+- What's that?</b></font>
+
+280
+00:09:19,640 --> 00:09:21,720
+<font face="Arial Rounded MT Bold" size="42"><b>- Wow, it is trying to run away!
+- I made it!</b></font>
+
+281
+00:09:21,720 --> 00:09:22,320
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an9}Is it INADA?</b></font>
+
+282
+00:09:22,320 --> 00:09:23,360
+<font face="Arial Rounded MT Bold" size="42"><b>Is that INADA?</b></font>
+
+283
+00:09:23,360 --> 00:09:23,860
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an9}How's that?</b></font>
+
+284
+00:09:23,860 --> 00:09:25,180
+<font face="Arial Rounded MT Bold" size="42"><b>There it is! There it is!</b></font>
+
+285
+00:09:25,180 --> 00:09:27,180
+<font face="Arial Rounded MT Bold" size="42"><b>INADA!</b></font>
+
+286
+00:09:27,900 --> 00:09:30,380
+<font face="Arial Rounded MT Bold" size="42"><b>INADA...INADAWA~</b></font>
+
+287
+00:09:30,380 --> 00:09:30,520
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an9}"<i>INADAWA</i>"!</b></font>
+
+288
+00:09:30,520 --> 00:09:31,180
+<font face="Arial Rounded MT Bold" size="42"><b>Finally appears.</b></font>
+
+289
+00:09:31,180 --> 00:09:32,880
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an9}INADAWA appears!</b></font>
+
+290
+00:09:32,880 --> 00:09:33,880
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font size="66"><font color="#000000"><font face="Arial Black">INADA</font></font></font></b></font>
+
+291
+00:09:33,880 --> 00:09:35,920
+<font face="Courier" size="42"><b><i>Clearly it's Shusse-uo fish, she has caught INADA!</i></b></font>
+
+292
+00:09:35,920 --> 00:09:37,040
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an9}Wah, big!</b></font>
+
+293
+00:09:37,340 --> 00:09:40,080
+<font face="Courier" size="42"><b><i>Its length reached 51 cm, weighing about 1 kg.</i></b></font>
+
+294
+00:09:40,080 --> 00:09:41,460
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an9}It will be BURI soon.</b></font>
+
+295
+00:09:42,020 --> 00:09:44,930
+<font face="Arial Rounded MT Bold" size="42"><b>I get no signs at all of going to catch INADA!</b></font>
+
+296
+00:09:46,200 --> 00:09:48,370
+<font face="Courier" size="42"><b><i>However, eventually Hashimoto also caught one.</i></b></font>
+
+297
+00:09:48,370 --> 00:09:50,240
+<font face="Arial Rounded MT Bold" size="42"><b>It's coming! It's coming! It's coming!</b></font>
+
+298
+00:09:50,240 --> 00:09:51,420
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an9}She's fishing well!</b></font>
+
+299
+00:09:51,420 --> 00:09:54,810
+<font face="Courier" size="42"><b><i>Will they get INADA 3 times in a row?</i></b></font>
+
+300
+00:09:58,760 --> 00:10:01,000
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an9}Go! Go!</b></font>
+
+301
+00:10:01,000 --> 00:10:02,020
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an9}Must be INADA!</b></font>
+
+302
+00:10:02,400 --> 00:10:04,020
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an9}What did she get?</b></font>
+
+303
+00:10:04,500 --> 00:10:05,820
+<font face="Arial Rounded MT Bold" size="42"><b>Eh, it is already caught, isn't it?</b></font>
+
+304
+00:10:05,820 --> 00:10:07,870
+<font face="Arial Rounded MT Bold" size="42"><b>Ah, ISAKI again! This is ISAKI again.</b></font>
+
+305
+00:10:07,870 --> 00:10:09,260
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an9}Ah, ISAKI, right?</b></font>
+
+306
+00:10:09,780 --> 00:10:12,000
+<font face="Arial Rounded MT Bold" size="42"><b>How come, seems like I become <font color="#ff0000">ISAKI Master <font color="#ffffff">here.</font></font></b></font>
+
+307
+00:10:12,000 --> 00:10:13,100
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an9}ISAKI Master.</b></font>
+
+308
+00:10:14,040 --> 00:10:17,230
+<font face="Courier" size="42"><b><i>Until now, she has caught only ISAKI.</i></b></font>
+
+309
+00:10:17,230 --> 00:10:19,550
+<font face="Courier" size="42"><b><i>However, Hashimoto kept fishing.</i></b></font>
+
+310
+00:10:19,550 --> 00:10:20,970
+<font face="Arial Rounded MT Bold" size="42"><b>How many already?</b></font>
+
+311
+00:10:20,970 --> 00:10:22,970
+<font face="Arial Rounded MT Bold" size="42"><b>Caught already? Ah, got it!</b></font>
+
+312
+00:10:22,970 --> 00:10:24,170
+<font face="Arial Rounded MT Bold" size="42"><b>Always the same fish.</b></font>
+
+313
+00:10:24,170 --> 00:10:24,740
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}Hashimoto who keeps on catching ISAKI</b></font>
+
+314
+00:10:24,740 --> 00:10:25,300
+<font face="Courier" size="42"><b><i>She kept fishing until she got 17 of them.</i></b></font>
+
+315
+00:10:25,300 --> 00:10:25,300
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font size="36"><font color="#f31218"><font face="Arial Black">17 fishes in a row</font></font></font></b></font>
+
+316
+00:10:25,300 --> 00:10:27,740
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font size="66"><font color="#000000"><font face="Arial Black">ISAKI</font></font></font></b></font>
+
+317
+00:10:28,440 --> 00:10:28,440
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#d41416"> Isaki Girl</font></b></font>
+
+318
+00:10:28,440 --> 00:10:28,620
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#000000">Miura Peninsula</font></b></font>
+
+319
+00:10:28,620 --> 00:10:32,170
+<font face="Courier" size="42"><b><i>Already going this way, she has become 
+like the ISAKI Girl from Miura Peninsula</i></b></font>
+
+320
+00:10:32,170 --> 00:10:33,850
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an9}It's an interesting nickname!</b></font>
+
+321
+00:10:33,850 --> 00:10:36,750
+<font face="Arial Rounded MT Bold" size="42"><b>Why do I only get the small ones?</b></font>
+
+322
+00:10:36,750 --> 00:10:38,750
+<font face="Arial Rounded MT Bold" size="42"><b>Ah, really small.</b></font>
+
+323
+00:10:38,750 --> 00:10:40,750
+<font face="Arial Rounded MT Bold" size="42"><b>Ah, look at it! So cute.</b></font>
+
+324
+00:10:40,750 --> 00:10:42,480
+<font face="Arial Rounded MT Bold" size="42"><b>- So cute!
+- Look, cute.</b></font>
+
+325
+00:10:42,480 --> 00:10:44,480
+<font face="Arial Rounded MT Bold" size="42"><b>It looks pitiful though.</b></font>
+
+326
+00:10:45,540 --> 00:10:47,890
+<font face="Arial Rounded MT Bold" size="42"><b>So cute, this thing...</b></font>
+
+327
+00:10:48,430 --> 00:10:48,430
+<font face="Arial Rounded MT Bold" size="42"><b>Is this SUZUMEDAI?</b></font>
+
+328
+00:10:48,430 --> 00:10:50,910
+<font face="Arial Rounded MT Bold" size="30"><b>{\an8}[SUZUMEDAI: A kind of Damselfish fish (Chromis notata)]</b></font>
+
+329
+00:10:50,910 --> 00:10:52,730
+<font face="Arial Rounded MT Bold" size="42"><b>Kazumin, look!</b></font>
+
+330
+00:10:53,000 --> 00:10:55,900
+<font face="Arial Rounded MT Bold" size="42"><b>- Ah, what's that?
+- This is SUZUMEDAI.</b></font>
+
+331
+00:10:55,900 --> 00:10:57,900
+<font face="Arial Rounded MT Bold" size="42"><b>So cute!</b></font>
+
+332
+00:10:58,820 --> 00:11:00,780
+<font face="Arial Rounded MT Bold" size="42"><b>It looks pitiful...</b></font>
+
+333
+00:11:01,470 --> 00:11:02,240
+<font face="Arial Rounded MT Bold" size="42"><b><i>Bye Bye...</i></b></font>
+
+334
+00:11:02,240 --> 00:11:03,710
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an9}Ah, she released it, right.</b></font>
+
+335
+00:11:03,710 --> 00:11:04,700
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}"SUZUMEDAI" <font color="#d41416">is released back to the sea</font></b></font>
+
+336
+00:11:04,700 --> 00:11:09,330
+<font face="Courier" size="42"><b><i>Shiraishi was kind enough to release the small fish back into the sea, but... </i></b></font>
+
+337
+00:11:09,560 --> 00:11:11,330
+<font face="Arial Rounded MT Bold" size="42"><b>It is so small, so I...</b></font>
+
+338
+00:11:11,460 --> 00:11:12,150
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an9}Are you kidding me!!!</b></font>
+
+339
+00:11:12,150 --> 00:11:12,160
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#b4e4f5">Law of nature.</font></b></font>
+
+340
+00:11:12,160 --> 00:11:12,970
+<font face="Arial Rounded MT Bold" size="42"><b>Eh! What a pity!</b></font>
+
+341
+00:11:12,970 --> 00:11:14,380
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an9}Are you kidding me?!</b></font>
+
+342
+00:11:14,380 --> 00:11:16,380
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an9}Suddenly just now!</b></font>
+
+343
+00:11:16,910 --> 00:11:19,500
+<font face="Arial Rounded MT Bold" size="42"><b>- Unbelievable!
+- Eh, this is miserable!</b></font>
+
+344
+00:11:19,500 --> 00:11:21,500
+<font face="Arial Rounded MT Bold" size="42"><b>The small fish got bitten!</b></font>
+
+345
+00:11:21,500 --> 00:11:22,960
+<font face="Arial Rounded MT Bold" size="42"><b>That fish...</b></font>
+
+346
+00:11:22,960 --> 00:11:24,960
+<font face="Arial Rounded MT Bold" size="42"><b>Even though I released it out of pity...</b></font>
+
+347
+00:11:24,960 --> 00:11:25,290
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#b4e4f5">A sad ending.</font></b></font>
+
+348
+00:11:25,290 --> 00:11:27,100
+<font face="Arial Rounded MT Bold" size="42"><b>It was unlucky, I guess?</b></font>
+
+349
+00:11:27,100 --> 00:11:31,140
+<font face="Arial Rounded MT Bold" size="42"><b>- It's such a mess.
+- Looks like Maiyan is upset from catching only small fish.</b></font>
+
+350
+00:11:31,140 --> 00:11:32,740
+<font face="Arial Rounded MT Bold" size="42"><b>That's not true!</b></font>
+
+351
+00:11:33,130 --> 00:11:37,040
+<font face="Courier" size="42"><b><i>Alongside Shiraishi who is upset, 
+Takayama seems to catch a big fish!</i></b></font>
+
+352
+00:11:37,610 --> 00:11:38,660
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an9}INADA, come!</b></font>
+
+353
+00:11:38,660 --> 00:11:40,610
+<font face="Arial Rounded MT Bold" size="42"><b>Heavy! This feels heavy! Heavy!</b></font>
+
+354
+00:11:40,610 --> 00:11:42,610
+<font face="Arial Rounded MT Bold" size="42"><b>Go! Go! Go!</b></font>
+
+355
+00:11:43,240 --> 00:11:46,280
+<font face="Arial Rounded MT Bold" size="42"><b>- Looks like a big catch!
+- Kazumin, looks like you get a big one!</b></font>
+
+356
+00:11:46,280 --> 00:11:48,280
+<font face="Arial Rounded MT Bold" size="42"><b>Big! Big! This must be big!</b></font>
+
+357
+00:11:48,280 --> 00:11:48,330
+<font face="Arial Rounded MT Bold" size="42"><b>- Isn't this big?
+- Is that Tuna?</b></font>
+
+358
+00:11:48,330 --> 00:11:50,280
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an9}Wah, wah, this seems big!</b></font>
+
+359
+00:11:50,280 --> 00:11:52,280
+<font face="Arial Rounded MT Bold" size="42"><b>Kazumin, it's Tuna, isn't it?</b></font>
+
+360
+00:11:52,390 --> 00:11:52,820
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an9}Was that really Tuna?</b></font>
+
+361
+00:11:52,820 --> 00:11:53,960
+<font face="Arial Rounded MT Bold" size="42"><b>Looks like it is, Tuna!</b></font>
+
+362
+00:11:53,960 --> 00:11:55,960
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an9}Maybe, Tuna?</b></font>
+
+363
+00:11:55,960 --> 00:11:57,330
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an9}- Big!
+- Great!</b></font>
+
+364
+00:11:57,330 --> 00:11:58,860
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an9}What did she got?</b></font>
+
+365
+00:11:58,860 --> 00:12:00,860
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an9}Awesome!</b></font>
+
+366
+00:12:01,200 --> 00:12:02,450
+<font face="Arial Rounded MT Bold" size="42"><b>That's it! Wow, you just caught a big one!</b></font>
+
+367
+00:12:02,450 --> 00:12:04,270
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an9}- Wah, INADA!
+- Finally!</b></font>
+
+368
+00:12:04,270 --> 00:12:05,400
+<font face="Arial Rounded MT Bold" size="42"><b>Big! Wah, I like this!</b></font>
+
+369
+00:12:05,400 --> 00:12:07,080
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an9}Isn't it INADAWA, right, Etou!</b></font>
+
+370
+00:12:07,080 --> 00:12:10,010
+<font face="Arial Rounded MT Bold" size="42"><b>- INADA!
+ - Great!    - What? What?</b></font>
+
+371
+00:12:11,080 --> 00:12:11,550
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an9}She fished until like that.</b></font>
+
+372
+00:12:11,550 --> 00:12:13,180
+<font face="Arial Rounded MT Bold" size="42"><b>Eh, that's so big!</b></font>
+
+373
+00:12:13,180 --> 00:12:15,730
+<font face="Arial Rounded MT Bold" size="42"><b>
+Great! Kazumin, you made it!</b></font>
+
+374
+00:12:15,730 --> 00:12:18,400
+<font face="Arial Rounded MT Bold" size="42"><b>
+INADA, finally caught~!</b></font>
+
+375
+00:12:18,400 --> 00:12:19,790
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an9}Awesome!</b></font>
+
+376
+00:12:19,950 --> 00:12:20,100
+<font face="Arial Rounded MT Bold" size="42"><b>
+Wah~ How big!</b></font>
+
+377
+00:12:20,100 --> 00:12:22,100
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an9}If you get that, you must 
+be happy, right?</b></font>
+
+378
+00:12:22,100 --> 00:12:22,390
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an9}Isn't that big?</b></font>
+
+379
+00:12:22,390 --> 00:12:23,470
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font size="66"><font color="#000000"><font face="Arial Black">INADA</font></font></font></b></font>
+
+380
+00:12:23,470 --> 00:12:28,700
+<font face="Courier" size="42"><b><i>Finally, Takayama also got Shusse-uo INADA. 
+This is the heaviest today.</i></b></font>
+
+381
+00:12:29,660 --> 00:12:30,370
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font size="60"><font color="#eb1b1f">Fishing Time Over</font></font></b></font>
+
+382
+00:12:30,370 --> 00:12:34,030
+<font face="Courier" size="42"><b><i>Fishing time is over here. 
+Everyone went back ashore then.</i></b></font>
+
+383
+00:12:34,590 --> 00:12:36,800
+<font face="Arial Rounded MT Bold" size="42"><b>We're back from fishing!</b></font>
+
+384
+00:12:36,800 --> 00:12:38,660
+<font face="Arial Rounded MT Bold" size="42"><b>Good job, all of you~</b></font>
+
+385
+00:12:38,660 --> 00:12:41,730
+<font face="Arial Rounded MT Bold" size="42"><b>Good job, all of you!</b></font>
+
+386
+00:12:41,730 --> 00:12:44,310
+<font face="Arial Rounded MT Bold" size="42"><b>And these are the fish that we've caught.</b></font>
+
+387
+00:12:45,370 --> 00:12:45,380
+<font face="Arial Rounded MT Bold" size="42"><b>-Great!
+- Big!</b></font>
+
+388
+00:12:45,380 --> 00:12:47,340
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#b4e4f5">Got a lot.</font></b></font>
+
+389
+00:12:47,340 --> 00:12:49,160
+<font face="Arial Rounded MT Bold" size="42"><b>We caught these earlier.</b></font>
+
+390
+00:12:49,160 --> 00:12:49,380
+<font face="Arial Rounded MT Bold" size="42"><b>We got 3 INADAs...</b></font>
+
+391
+00:12:49,380 --> 00:12:49,380
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#cdf1fe">m 252.125 63 l 0 63 l 0 0 l 252.125 0</font></b></font>
+
+392
+00:12:49,380 --> 00:12:49,380
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font size="33"><font color="#000000">INADA <font color="#f31218">3 Fishes <font color="#000000">- SOUDAGATSUO <font color="#f31218">2 Fishes<font color="#000000"> - ISAKI <font color="#f31218">40 Fishes</font></font></font></font></font></font></font></b></font>
+
+393
+00:12:49,380 --> 00:12:51,420
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font size="33"><font color="#f31218">Today's Fishing Result</font></font></b></font>
+
+394
+00:12:51,420 --> 00:12:57,090
+<font face="Arial Rounded MT Bold" size="42"><b>...2 SOUDAGATSUOs, and
+40 ISAKIs.</b></font>
+
+395
+00:12:57,090 --> 00:12:59,090
+<font face="Arial Rounded MT Bold" size="42"><b>That means, in total, 45 fishes.</b></font>
+
+396
+00:12:59,090 --> 00:12:59,320
+<font face="Arial Rounded MT Bold" size="42"><b>- Ah, almost, need one more fish.
+- Ah, that's true!</b></font>
+
+397
+00:12:59,320 --> 00:12:59,900
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#b4e4f5">Didn't reach 46.</font></b></font>
+
+398
+00:12:59,900 --> 00:13:01,760
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an9}Wah, awesome!</b></font>
+
+399
+00:13:01,880 --> 00:13:03,260
+<font face="Arial Rounded MT Bold" size="42"><b>Only if there was one more...</b></font>
+
+400
+00:13:03,260 --> 00:13:07,300
+<font face="Arial Rounded MT Bold" size="42"><b>Earlier I got one fish, that small one.
+What fish was it...</b></font>
+
+401
+00:13:07,300 --> 00:13:07,300
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#b4e4f5">m 703.375 -262.5 l -707.875 -262.5 l -707.875 28.5 l 703.375 28.5</font></b></font>
+
+402
+00:13:07,300 --> 00:13:07,320
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font size="24"><font color="#000000">Suzumedai which was eaten 
+by a seagull</font></font></b></font>
+
+403
+00:13:07,320 --> 00:13:10,970
+<font face="Arial Rounded MT Bold" size="42"><b>- Which immediately struck by a sea gull
+- That's right!</b></font>
+
+404
+00:13:10,970 --> 00:13:12,730
+<font face="Arial Rounded MT Bold" size="42"><b>If we put that in here, it becomes 46 fishes.</b></font>
+
+405
+00:13:12,730 --> 00:13:15,020
+<font face="Arial Rounded MT Bold" size="42"><b>- That's right, you got that earlier.</b></font>
+
+406
+00:13:15,020 --> 00:13:18,180
+<font face="Arial Rounded MT Bold" size="42"><b>So then, we get 46 fishes.</b></font>
+
+407
+00:13:18,180 --> 00:13:20,030
+<font face="Arial Rounded MT Bold" size="42"><b>Awesome!</b></font>
+
+408
+00:13:20,030 --> 00:13:20,080
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an9}Amazing! This is a miracle!</b></font>
+
+409
+00:13:20,080 --> 00:13:23,040
+<font face="Arial Rounded MT Bold" size="42"><b>- Awesome!
+- It becomes "<i>Fourty Six</i>".</b></font>
+
+410
+00:13:23,350 --> 00:13:24,430
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}The fishes from fishing that we got!</b></font>
+
+411
+00:13:24,430 --> 00:13:28,220
+<font face="Courier" size="42"><b><i>Then, the fishes they caught this time,
+will be given to...</i></b></font>
+
+412
+00:13:28,220 --> 00:13:30,030
+<font face="Courier" size="42"><b><i>...Kyouka-san, a traditional Japanese restaurant, to be cooked.</i></b></font>
+
+413
+00:13:30,030 --> 00:13:32,900
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an9}This is good! Perfect!</b></font>
+
+414
+00:13:33,360 --> 00:13:34,350
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font size="30">Grilled ISAKI With Salt</font></b></font>
+
+415
+00:13:34,350 --> 00:13:39,330
+<font face="Courier" size="42"><b><i>First, ISAKI which were fished a lot, 
+is ordinarily grilled, with some salt.</i></b></font>
+
+416
+00:13:40,090 --> 00:13:42,010
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an9}Isn't it good.</b></font>
+
+417
+00:13:45,780 --> 00:13:47,740
+<font face="Arial Rounded MT Bold" size="42"><b>Yummy.</b></font>
+
+418
+00:13:48,010 --> 00:13:50,680
+<font face="Arial Rounded MT Bold" size="42"><b>This has the proper seasoning, right?</b></font>
+
+419
+00:13:50,680 --> 00:13:53,080
+<font face="Arial Rounded MT Bold" size="42"><b>- So yummy!
+- Its flesh is crunchy.</b></font>
+
+420
+00:13:53,180 --> 00:13:53,180
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font size="57"><font color="#000000"><font face="Arial Black">INADA</font></font></font></b></font>
+
+421
+00:13:53,180 --> 00:13:53,610
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font size="57"><font color="#000000"><font face="Arial Black">SOUDAGATSUO</font></font></font></b></font>
+
+422
+00:13:53,610 --> 00:13:54,380
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#d41416">We will serve it as Sashimi!</font></b></font>
+
+423
+00:13:54,380 --> 00:13:57,520
+<font face="Courier" size="42"><b><i>Next, INADA and SOUDAGATSUO.</i></b></font>
+
+424
+00:13:58,210 --> 00:14:00,590
+<font face="Arial Rounded MT Bold" size="42"><b><font color="#000000">Please enjoy.</font></b></font>
+
+425
+00:14:00,590 --> 00:14:01,550
+<font face="Arial Rounded MT Bold" size="42"><b>- Awesome!
+<font color="#000000">- Here, INADA...</font></b></font>
+
+426
+00:14:01,550 --> 00:14:02,850
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font size="57"><font color="#ffffff"><font face="Arial Black">INADA</font></font></font></b></font>
+
+427
+00:14:02,850 --> 00:14:03,420
+<font face="Arial Rounded MT Bold" size="42"><b><font color="#000000">Then here, thinly sliced, SOUDAGATSUO.</font></b></font>
+
+428
+00:14:03,420 --> 00:14:05,210
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font size="45"><font color="#ffffff"><font face="Arial Black">SOUDA GATSUO</font></font></font></b></font>
+
+429
+00:14:05,210 --> 00:14:08,330
+<font face="Arial Rounded MT Bold" size="42"><b><font color="#000000">Then, this one in the middle,
+the pride of this restaurant, CHUTORO.</font></b></font>
+
+430
+00:14:08,330 --> 00:14:10,060
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#ffffff"><font face="Arial Black">CHUTORO</font></font></b></font>
+
+431
+00:14:10,130 --> 00:14:10,850
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#b4e4f5">That's bonus for you.</font></b></font>
+
+432
+00:14:10,850 --> 00:14:12,200
+<font face="Arial Rounded MT Bold" size="42"><b><font color="#000000">And its kind...</font></b></font>
+
+433
+00:14:12,450 --> 00:14:14,200
+<font face="Arial Rounded MT Bold" size="42"><b><font color="#000000">- This is included...
+<font color="#ffffff">- Wait, wait a sec!</font></font></b></font>
+
+434
+00:14:14,350 --> 00:14:14,930
+<font face="Arial Rounded MT Bold" size="42"><b><font color="#000000">Its kind, Premium class Tuna.</font></b></font>
+
+435
+00:14:14,930 --> 00:14:17,770
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font size="30">Premium class Tuna Sashimi</font></b></font>
+
+436
+00:14:17,770 --> 00:14:19,300
+<font face="Arial Rounded MT Bold" size="42"><b><font color="#000000">Well, please enjoy!</font></b></font>
+
+437
+00:14:19,300 --> 00:14:20,670
+<font face="Arial Rounded MT Bold" size="42"><b>How about we also enjoy the other ones?</b></font>
+
+438
+00:14:20,670 --> 00:14:21,300
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#b4e4f5">The main menu is still the fishes that were caught.</font></b></font>
+
+439
+00:14:21,300 --> 00:14:22,570
+<font face="Arial Rounded MT Bold" size="42"><b><font color="#000000">Right, there is also on this side.</font></b></font>
+
+440
+00:14:23,080 --> 00:14:23,960
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font size="30">INADA Sashimi</font></b></font>
+
+441
+00:14:23,960 --> 00:14:27,710
+<font face="Courier" size="42"><b><i>First, let's enjoy INADA, Shusse-uo fish.</i></b></font>
+
+442
+00:14:28,280 --> 00:14:30,220
+<font face="Arial Rounded MT Bold" size="42"><b>- Let's eat.
+- Let's eat.</b></font>
+
+443
+00:14:30,220 --> 00:14:31,550
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an9}They look like relaxing, right?</b></font>
+
+444
+00:14:31,550 --> 00:14:33,550
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an9}They look like enjoying it, right?</b></font>
+
+445
+00:14:35,900 --> 00:14:37,300
+<font face="Arial Rounded MT Bold" size="42"><b>Yummy!</b></font>
+
+446
+00:14:37,300 --> 00:14:39,090
+<font face="Arial Rounded MT Bold" size="42"><b>Really tasted when bitten.</b></font>
+
+447
+00:14:39,090 --> 00:14:41,090
+<font face="Arial Rounded MT Bold" size="42"><b>Its oil and crunchy texture.</b></font>
+
+448
+00:14:41,090 --> 00:14:43,400
+<font face="Arial Rounded MT Bold" size="42"><b>- So delicious~!
+- Really delicious!</b></font>
+
+449
+00:14:43,400 --> 00:14:44,860
+<font face="Arial Rounded MT Bold" size="42"><b>Not disappointing, this is delicious!</b></font>
+
+450
+00:14:44,900 --> 00:14:45,630
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font size="30">Standard class and Premium Class Tuna Bonus</font></b></font>
+
+451
+00:14:45,630 --> 00:14:50,300
+<font face="Courier" size="42"><b><i>Then, they enjoy the bonus, 
+Premium class Tuna, and...</i></b></font>
+
+452
+00:14:51,270 --> 00:14:52,940
+<font face="Arial Rounded MT Bold" size="42"><b>Fish from different class.</b></font>
+
+453
+00:14:53,720 --> 00:14:54,800
+<font face="Arial Rounded MT Bold" size="42"><b>- Ehm~!!
+- Delicious?</b></font>
+
+454
+00:14:54,800 --> 00:14:56,800
+<font face="Arial Rounded MT Bold" size="42"><b>Ehm~!!</b></font>
+
+455
+00:14:58,050 --> 00:14:58,530
+<font face="Arial Rounded MT Bold" size="42"><b>Ehmmm~!!!</b></font>
+
+456
+00:14:58,530 --> 00:15:00,310
+<font face="Arial Rounded MT Bold" size="30" color="#000000"><b>{\an9}That delicious?</b></font>
+
+457
+00:15:00,310 --> 00:15:01,730
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#b4e4f5">Showing a different reaction.</font></b></font>
+
+458
+00:15:01,730 --> 00:15:03,530
+<font face="Arial Rounded MT Bold" size="42"><b>- Melts! Melts in the mouth!
+- It's gone...</b></font>
+
+459
+00:15:03,530 --> 00:15:05,020
+<font face="Arial Rounded MT Bold" size="42"><b>What's this?</b></font>
+
+460
+00:15:05,560 --> 00:15:08,120
+<font face="Arial Rounded MT Bold" size="42"><b>The meaning of fishes that we caught today,
+we win against rival, in the Katsuo fish (Katsu = win).</b></font>
+
+461
+00:15:08,120 --> 00:15:08,120
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#b4e4f5">m 703.375 -262.5 l -707.875 -262.5 l -707.875 28.5 l 703.375 28.5</font></b></font>
+
+462
+00:15:08,120 --> 00:15:11,210
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font size="27"><font color="#f1161e">Win against rival <font color="#000000">(Souda Gatsuo)</font></font></font></b></font>
+
+463
+00:15:11,210 --> 00:15:11,290
+<font face="Arial Rounded MT Bold" size="42"><b>Then also success, (Shusse = success)
+in the INADA fish.</b></font>
+
+464
+00:15:11,290 --> 00:15:11,290
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#b4e4f5">m 703.375 -262.5 l -707.875 -262.5 l -707.875 28.5 l 703.375 28.5</font></b></font>
+
+465
+00:15:11,290 --> 00:15:14,230
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font size="27"><font color="#f1161e">Success <font color="#000000">
+(Shusse-uo INADA)</font></font></font></b></font>
+
+466
+00:15:14,230 --> 00:15:14,530
+<font face="Arial Rounded MT Bold" size="42"><b>Then, beginning the rise of good luck, (Saisaki = good luck)
+from ISAKI fish, that we have caught earlier.</b></font>
+
+467
+00:15:14,530 --> 00:15:14,530
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#b4e4f5">m 703.375 -262.5 l -707.875 -262.5 l -707.875 28.5 l 703.375 28.5</font></b></font>
+
+468
+00:15:14,530 --> 00:15:19,660
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font size="27"><font color="#f1161e">Beginning the rise of better luck<font color="#000000"> (ISAKI)</font></font></font></b></font>
+
+469
+00:15:19,660 --> 00:15:23,730
+<font face="Arial Rounded MT Bold" size="42"><b>I think we have done this awesome 
+success wishing successfully...</b></font>
+
+470
+00:15:23,730 --> 00:15:27,050
+<font face="Arial Rounded MT Bold" size="42"><b>...so, let's keep struggling from now on.</b></font>
+
+471
+00:15:27,050 --> 00:15:28,440
+<font face="Arial Rounded MT Bold" size="42"><b>Campaign for 13th Single's Success...</b></font>
+
+472
+00:15:28,440 --> 00:15:31,780
+<font face="Arial Rounded MT Bold" size="42"><b>...Following the plan from Fukagawa Mai
+Let's gather food that brings luck...</b></font>
+
+473
+00:15:31,780 --> 00:15:31,780
+<font face="Arial Rounded MT Bold" size="42"><b><font size="60">BIG SUCCESS!</font></b></font>
+
+474
+00:15:31,780 --> 00:15:31,780
+<font face="Arial Rounded MT Bold" size="42"><b><font size="60">BIG SUCCESS!</font></b></font>
+
+475
+00:15:31,780 --> 00:15:31,780
+<font face="Arial Rounded MT Bold" size="42"><b><font size="60">BIG SUCCESS!</font></b></font>
+
+476
+00:15:31,780 --> 00:15:36,310
+<font face="Arial Rounded MT Bold" size="42"><b><font size="60">BIG SUCCESS!</font></b></font>
+
+477
+00:15:36,310 --> 00:15:38,570
+<font face="Arial Rounded MT Bold" size="42"><b>INADA! INADA! INADA!</b></font>
+
+478
+00:15:38,570 --> 00:15:40,060
+<font face="Arial Rounded MT Bold" size="42"><b>So delicious!</b></font>
+
+479
+00:15:40,060 --> 00:15:43,620
+<font face="Courier" size="42"><b>So, although they looked for INADA,...</b></font>
+
+480
+00:15:43,620 --> 00:15:46,690
+<font face="Courier" size="42"><b>- ...eventually they got a lot of ISAKI.
+- That's right.</b></font>
+
+481
+00:15:46,690 --> 00:15:49,860
+<font face="Courier" size="42"><b>- Then, the condition there was pretty bad.
+- Right, right.</b></font>
+
+482
+00:15:49,860 --> 00:15:53,390
+<font face="Courier" size="42"><b>Because this is the 13th single, they 
+wanted to catch 13 fishes, but...</b></font>
+
+483
+00:15:53,390 --> 00:15:57,440
+<font face="Courier" size="42"><b>- ...unexpectedly, they got 46 fishes.
+- Wasn't that amazing?</b></font>
+
+484
+00:15:57,440 --> 00:15:59,570
+<font face="Courier" size="42"><b>- Amazing!
+- This is "<i>Fourty Six</i>", right?</b></font>
+
+485
+00:15:59,570 --> 00:16:01,360
+<font face="Courier" size="42"><b>Awesome, there's something here!</b></font>
+
+486
+00:16:01,360 --> 00:16:04,210
+<font face="Courier" size="42"><b>- At least, 46 copies of this single will be sold for sure.
+- Oh!</b></font>
+
+487
+00:16:04,210 --> 00:16:06,210
+<font face="Courier" size="42"><b>Wait, Himura-san! You too
+don't say "Oh!"</b></font>
+
+488
+00:16:06,210 --> 00:16:09,510
+<font face="Courier" size="42"><b>If 46 copies only, that's horrible, 
+freakin' horrible!</b></font>
+
+489
+00:16:09,510 --> 00:16:09,510
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#2a292c">m 703.375 -262.5 l -707.875 -262.5 l -707.875 28.5 l 703.375 28.5</font></b></font>
+
+490
+00:16:09,510 --> 00:16:10,830
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}Smells like group will disband.</b></font>
+
+491
+00:16:10,830 --> 00:16:13,290
+<font face="Courier" size="42"><b>However, it can be said that 
+it's quite awesome.</b></font>
+
+492
+00:16:13,290 --> 00:16:14,590
+<font face="Courier" size="42"><b>Has your seasickness gone?</b></font>
+
+493
+00:16:14,590 --> 00:16:16,890
+<font face="Courier" size="42"><b>- Can be said that it's pretty gone.
+- So no problem?</b></font>
+
+494
+00:16:16,890 --> 00:16:19,960
+<font face="Courier" size="42"><b>- But, you didn't feel it, did you?
+- Your sunglasses, was there any effect?</b></font>
+
+495
+00:16:19,960 --> 00:16:19,990
+<font face="Courier" size="42"><b>Indeed, it had an effect.</b></font>
+
+496
+00:16:19,990 --> 00:16:21,760
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font size="27"><font color="#000000">Wearing sunglasses</font></font></b></font>
+
+497
+00:16:21,760 --> 00:16:23,570
+<font face="Courier" size="42"><b>Even though you didn't always wear it...</b></font>
+
+498
+00:16:23,570 --> 00:16:25,930
+<font face="Courier" size="42"><b>Because I couldn't see the fish, so...</b></font>
+
+499
+00:16:25,930 --> 00:16:25,930
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#2a292c">m 703.375 -262.5 l -707.875 -262.5 l -707.875 28.5 l 703.375 28.5</font></b></font>
+
+500
+00:16:25,930 --> 00:16:26,100
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}Couldn't see her own hands.</b></font>
+
+501
+00:16:26,100 --> 00:16:28,290
+<font face="Courier" size="42"><b>- Couldn't see clearly.
+- Was what you did unclear?</b></font>
+
+502
+00:16:28,290 --> 00:16:29,770
+<font face="Courier" size="42"><b>I couldn't put the bait on the hook.</b></font>
+
+503
+00:16:29,860 --> 00:16:31,070
+<font face="Courier" size="42"><b>I pour the white wine.</b></font>
+
+504
+00:16:31,070 --> 00:16:31,070
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#ffff00">m 252.125 63 l 0 63 l 0 0 l 252.125 0</font></b></font>
+
+505
+00:16:31,070 --> 00:16:31,290
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font size="30"><font color="#000000">Shiraishi, Etou, Takayama will make a unique cuisine from Shusse-uo!
+Then, there's also a bizarre food report from Saito Asuka?</font></font></b></font>
+
+506
+00:16:31,290 --> 00:16:33,000
+<font face="Courier" size="42"><b><i>This show is brought to you by the following sponsors:</i></b></font>
+
+507
+00:16:33,000 --> 00:16:34,570
+<font face="Courier" size="42"><b>Eh! Awesome!</b></font>
+
+508
+00:16:35,850 --> 00:16:36,970
+<font face="Courier" size="42"><b>I made this.</b></font>
+
+509
+00:16:36,970 --> 00:16:39,850
+<font face="Courier" size="42"><b>It doesn't taste strange at all, right?</b></font>
+
+510
+00:16:40,110 --> 00:16:42,950
+<font face="Courier" size="42"><b>Although only fried, this tastes so good, right?</b></font>
+
+511
+00:16:46,720 --> 00:16:49,920
+<font face="Courier" size="42"><b>Did you eat all fish you caught there?</b></font>
+
+512
+00:16:49,920 --> 00:16:51,860
+<font face="Courier" size="42"><b>We ate it, but...</b></font>
+
+513
+00:16:51,860 --> 00:16:54,540
+<font face="Courier" size="42"><b>- ...because we got a lot...
+- You got a lot, right?</b></font>
+
+514
+00:16:54,540 --> 00:16:57,130
+<font face="Courier" size="42"><b>We brought them back, then...</b></font>
+
+515
+00:16:57,130 --> 00:17:02,630
+<font face="Courier" size="42"><b>Today, before we started recording in the studio,
+we tried to cook them.</b></font>
+
+516
+00:17:02,630 --> 00:17:05,300
+<font face="Courier" size="42"><b>We want Bananaman-san to eat them...</b></font>
+
+517
+00:17:06,730 --> 00:17:06,740
+<font face="Courier" size="42"><b><i>These three people tried to cook the fish
+they've caught before recording.</i></b></font>
+
+518
+00:17:06,740 --> 00:17:12,580
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font size="42"><font color="#ffe4b0">While looking at their cooking recipe, let's see them
+cooking frozen fish before the recording!</font></font></b></font>
+
+519
+00:17:12,840 --> 00:17:12,840
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#ffe4b0">Takayama Kazumi</font></b></font>
+
+520
+00:17:12,840 --> 00:17:13,660
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#ffe4b0">"Crispy Fried ISAKI"</font></b></font>
+
+521
+00:17:13,660 --> 00:17:16,250
+<font face="Courier" size="42"><b><i>Takayama, cooked ISAKI by frying it crispy.</i></b></font>
+
+522
+00:17:17,010 --> 00:17:18,280
+<font face="Courier" size="42"><b>Basically, my ISAKI cooking won't 
+change its taste too much.</b></font>
+
+523
+00:17:18,280 --> 00:17:20,420
+<font face="Courier" size="42"><b><i>Although Takayama doesn't usually cook...</i></b></font>
+
+524
+00:17:20,420 --> 00:17:23,180
+<font face="Courier" size="42"><b><i>...she tried to cook the ISAKI that she caught 
+with her own recipe.</i></b></font>
+
+525
+00:17:23,180 --> 00:17:24,890
+<font face="Courier" size="42"><b>I cover it with flour.</b></font>
+
+526
+00:17:24,890 --> 00:17:25,520
+<font face="Courier" size="42"><b>This is the first fried fish in my life.</b></font>
+
+527
+00:17:25,520 --> 00:17:28,630
+<font face="Courier" size="42"><b><i>The fish was covered in flour, then fried until dry.</i></b></font>
+
+528
+00:17:30,300 --> 00:17:34,970
+<font face="Courier" size="42"><b><i>With the scent of ginger, fried ISAKI is finished!
+</i></b></font>
+
+529
+00:17:35,170 --> 00:17:35,170
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#ffe4b0"><font size="24">Takayama Kazumi Cooking</font></font></b></font>
+
+530
+00:17:35,170 --> 00:17:36,360
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#ffe4b0">Crispy Fried ISAKI</font></b></font>
+
+531
+00:17:36,360 --> 00:17:37,320
+<font face="Courier" size="42"><b>Isn't it good!</b></font>
+
+532
+00:17:37,320 --> 00:17:38,870
+<font face="Courier" size="42"><b>- You made this?
+- Yes, three of us cooked it.</b></font>
+
+533
+00:17:38,870 --> 00:17:38,870
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#ffe4b0"><font size="24">Takayama Kazumi Cooking</font></font></b></font>
+
+534
+00:17:38,870 --> 00:17:40,690
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#ffe4b0">Crispy Fried ISAKI</font></b></font>
+
+535
+00:17:40,690 --> 00:17:42,690
+<font face="Courier" size="42"><b>Let's eat.</b></font>
+
+536
+00:17:44,510 --> 00:17:46,270
+<font face="Courier" size="42"><b>Yummy!</b></font>
+
+537
+00:17:46,270 --> 00:17:47,850
+<font face="Courier" size="42"><b>Thank goodness, it's yummy.</b></font>
+
+538
+00:17:47,850 --> 00:17:49,950
+<font face="Courier" size="42"><b>So yummy!</b></font>
+
+539
+00:17:49,950 --> 00:17:51,320
+<font face="Courier" size="42"><b>It works.</b></font>
+
+540
+00:17:52,430 --> 00:17:53,120
+<font face="Courier" size="42"><b>He hides it!</b></font>
+
+541
+00:17:53,120 --> 00:17:53,120
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#2a292c">m 703.375 -262.5 l -707.875 -262.5 l -707.875 28.5 l 703.375 28.5</font></b></font>
+
+542
+00:17:53,120 --> 00:17:54,450
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font size="30">To be shown when eating is NG.</font></b></font>
+
+543
+00:17:54,450 --> 00:17:55,150
+<font face="Courier" size="42"><b>Himura-san!</b></font>
+
+544
+00:17:55,150 --> 00:17:55,150
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#ffe4b0"><font size="24">Takayama Kazumi Cooking</font></font></b></font>
+
+545
+00:17:55,150 --> 00:17:55,420
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#ffe4b0">Crispy Fried ISAKI</font></b></font>
+
+546
+00:17:55,420 --> 00:17:58,790
+<font face="Courier" size="42"><b>Ah, so delicious! Very smooth!</b></font>
+
+547
+00:17:58,790 --> 00:18:00,790
+<font face="Courier" size="42"><b>- Which fish is this?
+- It's ISAKI, isn't it?</b></font>
+
+548
+00:18:00,790 --> 00:18:04,730
+<font face="Courier" size="42"><b>- Here, ISAKI. Here INADA.
+- Which Hashimoto caught a lot, right?</b></font>
+
+549
+00:18:04,730 --> 00:18:04,730
+<font face="Courier" size="42"><b>So, this one is Shusse-uo.</b></font>
+
+550
+00:18:04,730 --> 00:18:06,260
+<font face="Arial Rounded MT Bold" size="30"><b>{\an8}[Shusse (success) uo (fish) : Success fish
+Shusse shinai (Failure) uo (fish) : Failure fish]</b></font>
+
+551
+00:18:06,260 --> 00:18:08,870
+<font face="Courier" size="42"><b>No, this one is failure fish.</b></font>
+
+552
+00:18:08,870 --> 00:18:08,870
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#2a292c">m 703.375 -262.5 l -707.875 -262.5 l -707.875 28.5 l 703.375 28.5</font></b></font>
+
+553
+00:18:08,870 --> 00:18:08,980
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}ISAKI is discriminated.</b></font>
+
+554
+00:18:08,980 --> 00:18:12,140
+<font face="Courier" size="42"><b>- This one is a failure?
+- This is the one which brings good luck.</b></font>
+
+555
+00:18:12,140 --> 00:18:15,170
+<font face="Courier" size="42"><b>- This is ISAKI.
+- Good luck, right? Good luck.</b></font>
+
+556
+00:18:15,540 --> 00:18:15,540
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#ffe4b0">Etou Misa</font></b></font>
+
+557
+00:18:15,540 --> 00:18:16,320
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#ffe4b0">"INADA Teriyaki"</font></b></font>
+
+558
+00:18:16,320 --> 00:18:19,480
+<font face="Courier" size="42"><b><i>Next, Etou will try the challenge 
+to cook INADA Teriyaki.</i></b></font>
+
+559
+00:18:19,700 --> 00:18:21,260
+<font face="Courier" size="42"><b>I will reduce the fire.</b></font>
+
+560
+00:18:21,260 --> 00:18:23,770
+<font face="Courier" size="42"><b><i>Etou who is used to making snacks
+for Sake drinking companion...</i></b></font>
+
+561
+00:18:23,770 --> 00:18:25,770
+<font face="Courier" size="42"><b><i>...continued cooking smoothly.</i></b></font>
+
+562
+00:18:26,050 --> 00:18:29,960
+<font face="Courier" size="42"><b><i>Carefully she grilled both sides of 
+INADA that she caught.</i></b></font>
+
+563
+00:18:32,820 --> 00:18:38,560
+<font face="Courier" size="42"><b><i>Then, Sake, Shoyu and Mirin, is put in and cooked until the gravy thickens.</i></b></font>
+
+564
+00:18:39,890 --> 00:18:44,540
+<font face="Courier" size="42"><b><i>INADA Teriyaki that's also yummy 
+to eat with rice, finally done!</i></b></font>
+
+565
+00:18:44,540 --> 00:18:44,600
+<font face="Courier" size="42"><b>- Eh, this is awesome.
+- Looks delicious!</b></font>
+
+566
+00:18:44,600 --> 00:18:44,600
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#ffe4b0"><font size="27">Etou Misa Cooking</font></font></b></font>
+
+567
+00:18:44,600 --> 00:18:44,600
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#773201">m 252.125 63 l 0 63 l 0 0 l 252.125</font></b></font>
+
+568
+00:18:44,600 --> 00:18:46,300
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#ffe4b0">INADA Teriyaki</font></b></font>
+
+569
+00:18:47,050 --> 00:18:48,440
+<font face="Courier" size="42"><b>- It's like a dish from restaurant, right? 
+Looks tasty   - Right, right!</b></font>
+
+570
+00:18:48,440 --> 00:18:48,440
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#ffe4b0"><font size="27">Etou Misa Cooking</font></font></b></font>
+
+571
+00:18:48,440 --> 00:18:48,440
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#773201">m 252.125 63 l 0 63 l 0 0 l 252.125</font></b></font>
+
+572
+00:18:48,440 --> 00:18:51,180
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#ffe4b0">INADA Teriyaki</font></b></font>
+
+573
+00:18:51,180 --> 00:18:53,180
+<font face="Courier" size="42"><b>Well, I will taste it.</b></font>
+
+574
+00:18:53,410 --> 00:18:53,410
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#ffe4b0"><font size="27">Etou Misa Cooking</font></font></b></font>
+
+575
+00:18:53,410 --> 00:18:53,410
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#773201">m 252.125 63 l 0 63 l 0 0 l 252.125</font></b></font>
+
+576
+00:18:53,410 --> 00:18:55,760
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#ffe4b0">INADA Teriyaki</font></b></font>
+
+577
+00:18:55,760 --> 00:18:55,780
+<font face="Courier" size="42"><b>- Sorry, he is annoying.
+- Tasty, so tasty!</b></font>
+
+578
+00:18:55,780 --> 00:18:55,780
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#2a292c">m 703.375 -262.5 l -707.875 -262.5 l -707.875 28.5 l 703.375 28.5</font></b></font>
+
+579
+00:18:55,780 --> 00:18:58,180
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}Totally concealed.</b></font>
+
+580
+00:18:58,520 --> 00:19:00,330
+<font face="Courier" size="42"><b>- It is, right?
+- Tasty!</b></font>
+
+581
+00:19:00,330 --> 00:19:02,330
+<font face="Courier" size="42"><b>Eh, isn't this really tasty?</b></font>
+
+582
+00:19:02,330 --> 00:19:05,820
+<font face="Courier" size="42"><b>- Eh, thank goodness.
+- Really tasty, I want to eat it with rice.</b></font>
+
+583
+00:19:05,820 --> 00:19:07,740
+<font face="Courier" size="42"><b>That's right, this is yummy
+to eat with rice.</b></font>
+
+584
+00:19:07,740 --> 00:19:09,360
+<font face="Courier" size="42"><b>- This is your INADAWA fish earlier.
+- Right, INADAWA.</b></font>
+
+585
+00:19:09,360 --> 00:19:10,030
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font size="42"><font color="#ffffff">INADAWA~</font></font></b></font>
+
+586
+00:19:10,030 --> 00:19:12,030
+<font face="Courier" size="42"><b>Maybe because I was too excited that time....</b></font>
+
+587
+00:19:12,030 --> 00:19:14,030
+<font face="Courier" size="42"><b>No, no, that can be a popular word!</b></font>
+
+588
+00:19:14,030 --> 00:19:16,130
+<font face="Courier" size="42"><b>- INADAWA, right?
+- INADAWA.</b></font>
+
+589
+00:19:16,130 --> 00:19:18,000
+<font face="Courier" size="42"><b>But, obviously it is not said 
+when fishing INADA!</b></font>
+
+590
+00:19:18,000 --> 00:19:18,000
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#2a292c">m 703.375 -262.5 l -707.875 -262.5 l -707.875 28.5 l 703.375 28.5</font></b></font>
+
+591
+00:19:18,000 --> 00:19:20,040
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}A word which has no clear meaning.</b></font>
+
+592
+00:19:20,470 --> 00:19:20,470
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#ffe4b0">Shiraishi Mai</font></b></font>
+
+593
+00:19:20,470 --> 00:19:21,310
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#ffe4b0">"INADA Acqua Pazza"</font></b></font>
+
+594
+00:19:21,310 --> 00:19:22,010
+<font face="Courier" size="42"><b><i>Next, Shiraishi, will try to make 
+INADA Acqua Pazza.</i></b></font>
+
+595
+00:19:22,010 --> 00:19:24,540
+<font face="Arial Rounded MT Bold" size="30"><b>{\an8}[Acqua Pazza : Boiled fish dishes from Italy]</b></font>
+
+596
+00:19:24,760 --> 00:19:26,040
+<font face="Courier" size="42"><b>I will put this INADA in.</b></font>
+
+597
+00:19:26,040 --> 00:19:27,610
+<font face="Courier" size="42"><b><i>Shiraishi who's good at cooking,...</i></b></font>
+
+598
+00:19:27,610 --> 00:19:28,020
+<font face="Courier" size="42"><b><i>...follows the cooking recipe properly.</i></b></font>
+
+599
+00:19:28,020 --> 00:19:31,550
+<font face="Courier" size="42"><b>I also put in some garlic.</b></font>
+
+600
+00:19:31,700 --> 00:19:34,850
+<font face="Courier" size="42"><b>I also put in the scallops around the fish.</b></font>
+
+601
+00:19:36,360 --> 00:19:40,230
+<font face="Courier" size="42"><b><i>Scallops are placed around INADA,
+then she also put in some white wine.</i></b></font>
+
+602
+00:19:41,450 --> 00:19:42,170
+<font face="Courier" size="42"><b>Mini tomato.</b></font>
+
+603
+00:19:42,170 --> 00:19:43,430
+<font face="Courier" size="42"><b><i>Tomato and Anchovy are added...</i></b></font>
+
+604
+00:19:43,430 --> 00:19:44,760
+<font face="Courier" size="42"><b>Then, we just need to boil it for 6 to 7 minutes.</b></font>
+
+605
+00:19:44,760 --> 00:19:46,760
+<font face="Courier" size="42"><b><i>...then covered and cooked together.</i></b></font>
+
+606
+00:19:48,180 --> 00:19:52,910
+<font face="Courier" size="42"><b><i>Western style stew cooking, 
+INADA Acqua Pazza, finished!
+</i></b></font>
+
+607
+00:19:53,610 --> 00:19:55,510
+<font face="Courier" size="42"><b>Eh! So luxurious!</b></font>
+
+608
+00:19:55,510 --> 00:19:57,410
+<font face="Courier" size="42"><b>Wah, this looks so luxurious!</b></font>
+
+609
+00:19:57,410 --> 00:19:57,410
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#ffe4b0"><font size="27">Shiraishi Mai Cooking</font></font></b></font>
+
+610
+00:19:57,410 --> 00:19:57,410
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#773201">m 252.125 63 l 0 63 l 0 0 l 252.125</font></b></font>
+
+611
+00:19:57,410 --> 00:19:57,510
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#ffe4b0">INADA Acqua Pazza</font></b></font>
+
+612
+00:19:57,510 --> 00:19:59,510
+<font face="Courier" size="42"><b>What's this? Looks delicious!</b></font>
+
+613
+00:19:59,510 --> 00:20:02,190
+<font face="Courier" size="42"><b>- What's this?
+- Is this a foreign cooking?</b></font>
+
+614
+00:20:02,190 --> 00:20:02,210
+<font face="Courier" size="42"><b>This is a food from Akita, Japan.</b></font>
+
+615
+00:20:02,210 --> 00:20:02,210
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#ffe4b0"><font size="27">Shiraishi Mai Cooking</font></font></b></font>
+
+616
+00:20:02,210 --> 00:20:02,210
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#773201">m 252.125 63 l 0 63 l 0 0 l 252.125</font></b></font>
+
+617
+00:20:02,210 --> 00:20:04,320
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#ffe4b0">INADA Acqua Pazza</font></b></font>
+
+618
+00:20:04,320 --> 00:20:04,320
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#2a292c">m 703.375 -262.5 l -707.875 -262.5 l -707.875 28.5 l 703.375 28.5</font></b></font>
+
+619
+00:20:04,320 --> 00:20:05,460
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}Instantly become like a grandma?</b></font>
+
+620
+00:20:05,460 --> 00:20:07,460
+<font face="Courier" size="42"><b>Acqua Pazza? It's Acqua Pazza, right?</b></font>
+
+621
+00:20:07,460 --> 00:20:10,020
+<font face="Courier" size="42"><b>- He looks down at Akita.
+- It's Acqua Pazza.</b></font>
+
+622
+00:20:10,020 --> 00:20:12,020
+<font face="Courier" size="42"><b>Thank you.</b></font>
+
+623
+00:20:12,020 --> 00:20:14,020
+<font face="Courier" size="42"><b>Obviously tasty!</b></font>
+
+624
+00:20:14,020 --> 00:20:16,020
+<font face="Courier" size="42"><b>Well, I will eat it, okay?</b></font>
+
+625
+00:20:16,020 --> 00:20:16,130
+<font face="Courier" size="42"><b>- What a sec!
+- You are annoying!</b></font>
+
+626
+00:20:16,130 --> 00:20:16,130
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#2a292c">m 703.375 -262.5 l -707.875 -262.5 l -707.875 28.5 l 703.375 28.5</font></b></font>
+
+627
+00:20:16,130 --> 00:20:17,840
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}Don't want to be seen at all.</b></font>
+
+628
+00:20:17,840 --> 00:20:20,130
+<font face="Courier" size="42"><b>Pathetic! You look pathetic.
+</b></font>
+
+629
+00:20:20,130 --> 00:20:22,130
+<font face="Courier" size="42"><b>Let's eat.</b></font>
+
+630
+00:20:24,300 --> 00:20:24,370
+<font face="Courier" size="42"><b>He clearly doesn't wanna be seen.</b></font>
+
+631
+00:20:24,370 --> 00:20:24,370
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#2a292c">m 703.375 -262.5 l -707.875 -262.5 l -707.875 28.5 l 703.375 28.5</font></b></font>
+
+632
+00:20:24,370 --> 00:20:27,210
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font size="30">Eating in secret becomes popular.</font></b></font>
+
+633
+00:20:27,410 --> 00:20:29,040
+<font face="Courier" size="42"><b>Wah, this is tasty!</b></font>
+
+634
+00:20:29,040 --> 00:20:31,040
+<font face="Courier" size="42"><b>Himura-san, hide!</b></font>
+
+635
+00:20:31,040 --> 00:20:31,180
+<font face="Courier" size="42"><b>- Isn't this really tasty?
+- Don't suddenly appear like that!</b></font>
+
+636
+00:20:31,180 --> 00:20:31,180
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#2a292c">m 703.375 -262.5 l -707.875 -262.5 l -707.875 28.5 l 703.375 28.5</font></b></font>
+
+637
+00:20:31,180 --> 00:20:34,450
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font size="26">Man who doesn't want his eating way to be seen.</font></b></font>
+
+638
+00:20:34,510 --> 00:20:36,380
+<font face="Courier" size="42"><b>You use garlic.</b></font>
+
+639
+00:20:36,380 --> 00:20:38,820
+<font face="Courier" size="42"><b>This one is very very tasty, you know!</b></font>
+
+640
+00:20:38,990 --> 00:20:41,090
+<font face="Courier" size="42"><b>- However, all of them is tasty!
+- Ah, thank goodness.</b></font>
+
+641
+00:20:41,090 --> 00:20:43,550
+<font face="Courier" size="42"><b>- Everyone also let's eat.
+- Let's eat.</b></font>
+
+642
+00:20:43,550 --> 00:20:47,630
+<font face="Courier" size="42"><b><i>That means they wished for success by
+eating fishes that brings good luck.</i></b></font>
+
+643
+00:20:47,630 --> 00:20:47,630
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#ffe4b0"><font size="27">Shiraishi Mai Cooking</font></font></b></font>
+
+644
+00:20:47,630 --> 00:20:47,630
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#773201">m 252.125 63 l 0 63 l 0 0 l 252.125</font></b></font>
+
+645
+00:20:47,630 --> 00:20:47,890
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#ffe4b0">INADA Acqua Pazza</font></b></font>
+
+646
+00:20:47,890 --> 00:20:50,860
+<font face="Courier" size="42"><b>- Even though only fried, this tastes good, right?
+- So tasty!</b></font>
+
+647
+00:20:50,860 --> 00:20:54,830
+<font face="Courier" size="42"><b>- Tasty, right?
+-  It doesn't taste strange at all, right?</b></font>
+
+648
+00:20:55,580 --> 00:20:56,760
+<font face="Courier" size="42"><b>Hoshino, is this tasty?</b></font>
+
+649
+00:20:56,860 --> 00:21:01,290
+<font face="Courier" size="42"><b>- Yes, they are all good at cooking.
+- Eh, thank goodness!</b></font>
+
+650
+00:21:01,540 --> 00:21:02,670
+<font face="Courier" size="42"><b>- The one that's fried is so tasty.
+- Have you tried Acqua Pazza?</b></font>
+
+651
+00:21:02,670 --> 00:21:02,670
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#ffe4b0"><font size="27">Shiraishi Mai Cooking</font></font></b></font>
+
+652
+00:21:02,670 --> 00:21:02,670
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#773201">m 252.125 63 l 0 63 l 0 0 l 252.125</font></b></font>
+
+653
+00:21:02,670 --> 00:21:04,930
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#ffe4b0">INADA Acqua Pazza</font></b></font>
+
+654
+00:21:04,930 --> 00:21:08,030
+<font face="Courier" size="42"><b>- Acqua Pazza is so tasty!
+- Really tasty, right?</b></font>
+
+655
+00:21:08,030 --> 00:21:11,120
+<font face="Courier" size="42"><b>It's like a cuisine from a restaurant.</b></font>
+
+656
+00:21:11,120 --> 00:21:16,220
+<font face="Courier" size="42"><b>Akimoto, if you go out of here, on the side of 
+the road, there is a liquor store, isn't it?</b></font>
+
+657
+00:21:16,220 --> 00:21:17,020
+<font face="Courier" size="42"><b>Can you buy some wine now?</b></font>
+
+658
+00:21:17,020 --> 00:21:17,020
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#2a292c">m 703.375 -262.5 l -707.875 -262.5 l -707.875 28.5 l 703.375 28.5</font></b></font>
+
+659
+00:21:17,020 --> 00:21:18,560
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font size="30">White wine for fish-eating companion</font></b></font>
+
+660
+00:21:18,560 --> 00:21:20,090
+<font face="Courier" size="42"><b>I don't wanna!</b></font>
+
+661
+00:21:20,090 --> 00:21:22,090
+<font face="Courier" size="42"><b>I wanna eat with everyone.</b></font>
+
+662
+00:21:22,090 --> 00:21:23,300
+<font face="Courier" size="42"><b>Saitou Asuka, very good.
+Yummy! It's yummy!</b></font>
+
+663
+00:21:23,300 --> 00:21:23,300
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#2a292c">m 703.375 -262.5 l -707.875 -262.5 l -707.875 28.5 l 703.375 28.5</font></b></font>
+
+664
+00:21:23,300 --> 00:21:24,690
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}Addicted to food.</b></font>
+
+665
+00:21:24,690 --> 00:21:27,500
+<font face="Courier" size="42"><b>- Asuka-chan, you in fact like to eat, right.
+- That's right.</b></font>
+
+666
+00:21:27,500 --> 00:21:29,500
+<font face="Courier" size="42"><b>- Have you tried this?
+- Not yet.</b></font>
+
+667
+00:21:29,500 --> 00:21:31,970
+<font face="Courier" size="42"><b>- So then we want to hear your opinion.
+- Try to eat.</b></font>
+
+668
+00:21:31,970 --> 00:21:35,340
+<font face="Courier" size="42"><b>Great! This is brand new! 
+She only shows her back.</b></font>
+
+669
+00:21:35,340 --> 00:21:35,340
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#2a292c">m 703.375 -262.5 l -707.875 -262.5 l -707.875 28.5 l 703.375 28.5</font></b></font>
+
+670
+00:21:35,340 --> 00:21:36,820
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}A revolution in TV broadcasting world.</b></font>
+
+671
+00:21:36,820 --> 00:21:39,180
+<font face="Courier" size="42"><b>Try to say your opinion.</b></font>
+
+672
+00:21:39,180 --> 00:21:41,400
+<font face="Courier" size="42"><b>Sakamichi Team.</b></font>
+
+673
+00:21:41,400 --> 00:21:44,060
+<font face="Courier" size="42"><b>- Well, she will eat it.
+- Try to eat.</b></font>
+
+674
+00:21:44,060 --> 00:21:47,850
+<font face="Courier" size="42"><b>She keeps eating while facing behind.</b></font>
+
+675
+00:21:48,020 --> 00:21:49,610
+<font face="Courier" size="42"><b>How does it taste?</b></font>
+
+676
+00:21:49,610 --> 00:21:50,960
+<font face="Courier" size="42"><b>Ah, so smooth!</b></font>
+
+677
+00:21:50,960 --> 00:21:50,960
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#2a292c">m 703.375 -262.5 l -707.875 -262.5 l -707.875 28.5 l 703.375 28.5</font></b></font>
+
+678
+00:21:50,960 --> 00:21:51,610
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font size="27">Facing-behind food report.</font></b></font>
+
+679
+00:21:51,610 --> 00:21:55,690
+<font face="Courier" size="42"><b>- Awesome, your reaction is not seen at all!
+- Your face looks enjoying it!</b></font>
+
+680
+00:21:55,690 --> 00:21:58,160
+<font face="Courier" size="42"><b>The seasoning is right, no, although just a little...</b></font>
+
+681
+00:21:58,160 --> 00:21:58,180
+<font face="Arial Rounded MT Bold" size="30"><b>{\an8}[Carpaccio : Cuisine of thinly sliced raw fish, 
+like Sashimi, from Italy]</b></font>
+
+682
+00:21:58,180 --> 00:22:00,510
+<font face="Courier" size="42"><b>Carpaccio? This is the first time I eat it...</b></font>
+
+683
+00:22:00,510 --> 00:22:02,100
+<font face="Courier" size="42"><b>- Carpaccio? Right, this is Carpaccio!
+- No! This is Acqua Pazza!</b></font>
+
+684
+00:22:02,100 --> 00:22:02,100
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#2a292c">m 703.375 -262.5 l -707.875 -262.5 l -707.875 28.5 l 703.375 28.5</font></b></font>
+
+685
+00:22:02,100 --> 00:22:03,570
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font size="24">Guessing incorrectly while still facing behind.</font></b></font>
+
+686
+00:22:03,570 --> 00:22:06,610
+<font face="Courier" size="42"><b>- This is the first time I eat this.
+- Its name is Acqua Pazza.</b></font>
+
+687
+00:22:06,610 --> 00:22:09,660
+<font face="Courier" size="42"><b>I have only eaten fried fish...</b></font>
+
+688
+00:22:09,660 --> 00:22:11,660
+<font face="Courier" size="42"><b>So, other fish cooking, never?</b></font>
+
+689
+00:22:11,660 --> 00:22:15,200
+<font face="Courier" size="42"><b>Because I don't like raw food, 
+I like the cooked ones.</b></font>
+
+690
+00:22:15,200 --> 00:22:15,520
+<font face="Courier" size="42"><b>But, this one is tasty...</b></font>
+
+691
+00:22:15,520 --> 00:22:15,520
+<font face="Courier" size="42"><b><font color="#fad200"><font size="47">HOW LONG WILL YOU KEEP TALKING LIKE THAT!</font></font></b></font>
+
+692
+00:22:15,520 --> 00:22:16,970
+<font face="Courier" size="42"><b><font color="#fad200"><font size="47">HOW LONG WILL YOU KEEP TALKING LIKE THAT!</font></font></b></font>
+
+693
+00:22:16,970 --> 00:22:17,050
+<font face="Courier" size="42"><b>While keep facing behind, right?</b></font>
+
+694
+00:22:17,050 --> 00:22:17,050
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#2a292c">m 703.375 -262.5 l -707.875 -262.5 l -707.875 28.5 l 703.375 28.5</font></b></font>
+
+695
+00:22:17,050 --> 00:22:19,750
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}Food report revolution, Asuka style.</b></font>
+
+696
+00:22:20,210 --> 00:22:23,620
+<font face="Courier" size="42"><b>Alright, everyone, let's us thank for the food. Start!</b></font>
+
+697
+00:22:23,620 --> 00:22:27,190
+<font face="Courier" size="42"><b>Thank you for the food!</b></font>
+
+698
+00:22:27,190 --> 00:22:28,430
+<font face="Courier" size="42"><b>Really tasty!</b></font>
+
+699
+00:22:29,810 --> 00:22:34,230
+<font face="Courier" size="42"><b><i>Next, new unit Cinq Etoiles will 
+perform LIVE in the studio.</i></b></font>
+
+700
+00:22:35,430 --> 00:22:35,430
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#ffcd09">Romaji : Stage48</font></b></font>
+
+701
+00:22:35,430 --> 00:22:35,430
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#0445d2">Romaji : Stage48</font></b></font>
+
+702
+00:22:35,430 --> 00:22:35,430
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font size="45"></font></b><font color="#000000">Otona e no Chikamichi
+<font size="27">Lyrics : Akimoto Yasushi
+Music & Song : Furukawa Takahiro</font></font></font>
+
+703
+00:22:35,430 --> 00:22:46,410
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font size="45"></font></b><font color="#000000">Otona e no Chikamichi
+<font size="27">Lyrics : Akimoto Yasushi
+Music & Song : Furukawa Takahiro</font></font></font>
+
+704
+00:22:49,380 --> 00:22:49,380
+<font size="39"><b>tsuugaku no BASU de yoku au ki ni naru hito</b></font>
+
+705
+00:22:49,380 --> 00:22:56,720
+<font size="33" color="#69343a"><b>That boy I’m interested in whom I often see on the bus to school</b></font>
+
+706
+00:22:56,720 --> 00:22:56,720
+<font size="39"><b>me ga au dake de utsumukitaku natta</b></font>
+
+707
+00:22:56,720 --> 00:23:03,540
+<font size="33" color="#69343a"><b>When our eyes meet, I just want to look away</b></font>
+
+708
+00:23:03,540 --> 00:23:03,540
+<font size="39"><b>joshikou dakara sonna meneki nasasugite</b></font>
+
+709
+00:23:03,540 --> 00:23:10,990
+<font size="33" color="#69343a"><b>Going to an all-girls school, I’m totally affected by this</b></font>
+
+710
+00:23:10,990 --> 00:23:10,990
+<font size="39"><b>koi wo suru ni mo PUROSESU ga wakaranai</b></font>
+
+711
+00:23:10,990 --> 00:23:17,880
+<font size="33" color="#69343a"><b>Not even knowing the process of falling in love</b></font>
+
+712
+00:23:17,880 --> 00:23:17,880
+<font size="39"><b>tomodachi wa minna kare ga iru no ni</b></font>
+
+713
+00:23:17,880 --> 00:23:25,050
+<font size="33" color="#69343a"><b>All my friends have their own boyfriends</b></font>
+
+714
+00:23:25,050 --> 00:23:25,050
+<font size="39"><b>watashi wa doushite okubyou nan darou</b></font>
+
+715
+00:23:25,050 --> 00:23:32,160
+<font size="33" color="#69343a"><b>But why am I so afraid?</b></font>
+
+716
+00:23:32,160 --> 00:23:32,160
+<font size="39"><b>itsuka shizen ni tsukiaeru no ka na</b></font>
+
+717
+00:23:32,160 --> 00:23:39,770
+<font size="33" color="#69343a"><b>Will I naturally find someone someday?</b></font>
+
+718
+00:23:39,770 --> 00:23:39,770
+<font size="39"><b>otona e no chikamichi     oshiete kudasai</b></font>
+
+719
+00:23:39,770 --> 00:23:47,410
+<font size="33" color="#69343a"><b>The shortcut to becoming an adult              Please tell me</b></font>
+
+720
+00:23:47,410 --> 00:23:47,410
+<font size="39"><b>junjou nante iranai   futsuu ni naritai</b></font>
+
+721
+00:23:47,410 --> 00:23:54,980
+<font size="33" color="#69343a"><b>I don’t need innocence               I want to be normal</b></font>
+
+722
+00:23:54,980 --> 00:23:54,980
+<font size="39"><b>kiyoraka na seifuku   itsu made mo kiteru wake ja nai</b></font>
+
+723
+00:23:54,980 --> 00:24:03,790
+<font size="33" color="#69343a"><b>This chaste school uniform                             I won’t be wearing it forever</b></font>
+
+724
+00:24:03,790 --> 00:24:03,790
+<font size="39"><b>onna no ko kara hayaku</b></font>
+
+725
+00:24:03,790 --> 00:24:08,230
+<font size="33" color="#69343a"><b>Because I’m a girl, hurry</b></font>
+
+726
+00:24:08,230 --> 00:24:08,260
+<font size="33" color="#69343a"><b>I want to become a woman</b></font>
+
+727
+00:24:08,260 --> 00:24:14,630
+<font size="39"><b>josei ni naritai no</b></font>
+
+728
+00:24:15,620 --> 00:24:21,570
+<font face="Courier" size="42"><b>The campaign has finished, and both of them,
+Double Center, please conclude the show today.</b></font>
+
+729
+00:24:21,570 --> 00:24:26,380
+<font face="Courier" size="42"><b>- 13th single will be released on October 28th
+- Ima Hanashitai Dareka ga Iru...</b></font>
+
+730
+00:24:26,380 --> 00:24:29,880
+<font face="Courier" size="42"><b>Please Support Us!!!</b></font>
+
+731
+00:24:30,880 --> 00:24:33,520
+<font face="Courier" size="42"><b>See you next time.</b></font>
+
+732
+00:24:35,020 --> 00:24:35,020
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font color="#ffff00">m 252.125 63 l 0 63 l 0 0 l 252.125 0</font></b></font>
+
+733
+00:24:35,020 --> 00:24:35,440
+<font face="Arial Rounded MT Bold" size="33"><b>{\an5}<font size="30"><font color="#000000">In the next episode, presentation of new segment by all members!
+A surprising segment from Nakamoto is instantly made!?</font></font></b></font>
+
+734
+00:24:35,440 --> 00:24:35,760
+<font face="Courier" size="42"><b>Wake up! Wake up!</b></font>
+
+735
+00:24:35,760 --> 00:24:38,170
+<font face="Courier" size="42"><b><i>This show is brought to you by the following sponsors:</i></b></font>
+
+736
+00:24:38,170 --> 00:24:40,170
+<font face="Courier" size="42"><b>If you do it, it becomes surprising.</b></font>
+
+737
+00:24:41,250 --> 00:24:43,300
+<font face="Courier" size="42"><b>Anyone...anyone please help me!</b></font>
+
+738
+00:24:43,300 --> 00:24:45,710
+<font face="Courier" size="42"><b>- Double Date?
+- You want to have a double date?</b></font>
+
+739
+00:24:46,350 --> 00:24:48,430
+<font face="Courier" size="42"><b>Don't be like this again, please!</b></font>
+
+740
+00:24:48,430 --> 00:24:49,800
+<font face="Courier" size="42"><b>So embarrassing...</b></font>
+
+741
+00:24:50,590 --> 00:24:51,560
+<font face="Courier" size="42"><b>Hori, your segment this time, 
+seems worrisome!</b></font>
+
+742
+00:24:51,560 --> 00:24:54,410
+<font face="Courier" size="42"><b><i>Next week, the first show segment presentation!</i></b></font>
+
+743
+00:24:54,410 --> 00:24:55,840
+<font face="Courier" size="42"><b>Crying? You are crying, aren't you?</b></font>
+
+744
+00:24:55,840 --> 00:24:56,820
+<font face="Courier" size="42"><b>Wait, Himetan, your face...</b></font>
+
+745
+00:24:56,820 --> 00:24:59,540
+<font face="Courier" size="42"><b><i>What is the suprising thing that happened to Nakamoto?</i></b></font>
+

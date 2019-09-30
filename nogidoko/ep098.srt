@@ -1,0 +1,3232 @@
+1
+00:00:00,000 --> 00:00:01,440
+<font face="Calibri" size="18">{\an7}m 0 0 l 0 27 l 2 27 l 2 0 l 0 0 m 2 0 l -4 0 l -4 6 l 16 6 l 16 4 l -2 4 l -2 2 l 0 2 m 2 2 m 16 0 l 16 27 l 18 27 l 18 -1 l 16 -1 m 22 0 l 22 0 l 24 0 l 24 11 l 19 11 l 19 9 l 22 9 l 22 2 l 15 2 l 15 0 m 6 18 l 6 12 l 12 12 l 12 14 l 8 14 l 8 18 l 6 18 m 12 18 l 12 20 l 6 20 l 6 18 l 10 18 l 10 14 l 12 14 l 12 18 m 5 7 l 8 9 l 7 10 l 4 8 l 5 7 m 10 9 l 10 9 l 13 7 l 14 8 l 11 10 l 10 9 m 3 24 b 3 24 3 23 3 23 b 7 21 11 21 15 23 b 15 23 15 25 15 25 b 11 23 7 23 3 25 
+<b>MasToppu.blogspot.co.id</b></font>
+
+2
+00:00:01,440 --> 00:00:04,650
+<font size="28"><b><i>Tonight on Nogidoko, 
+hometowns of the members special!</i></b></font>
+
+3
+00:00:04,650 --> 00:00:08,750
+<font size="28"><b><i>Let's continue "Amachan"!
+Show your love for your hometown!</i></b></font>
+
+4
+00:00:09,450 --> 00:00:12,970
+<font size="28"><b><i>A surprising event that only happens in member's hometown
+ will be revealed!</i></b></font>
+
+5
+00:00:12,970 --> 00:00:16,050
+<font size="28"><b>How could she get there?</b></font>
+
+6
+00:00:17,720 --> 00:00:21,980
+<font size="28"><b><i>Moreover, they get flabbergasted 
+by local ad that doesn't make sense!?</i></b></font>
+
+7
+00:00:21,980 --> 00:00:23,650
+<font size="28"><b>So the songs were overlapping?</b></font>
+
+8
+00:00:26,570 --> 00:00:26,570
+<font size="28"><b><font color="#f184f2">No<font color="#52ee51">gi<font color="#44c0e9">zaka<font color="#ef3031">t<font color="#ecad39">te<font color="#f184f2">, <font color="#52ee51">Do<font color="#44c0e9">ko<font color="#f184f2">?</font></font></font></font></font></font></font></font></font></b></font>
+
+9
+00:00:26,570 --> 00:00:28,610
+<font size="28"><b><font color="#f184f2">No<font color="#52ee51">gi<font color="#44c0e9">zaka<font color="#ef3031">t<font color="#ecad39">te<font color="#f184f2">, <font color="#52ee51">Do<font color="#44c0e9">ko<font color="#f184f2">?</font></font></font></font></font></font></font></font></font></b></font>
+
+10
+00:00:28,610 --> 00:00:29,050
+<font size="28"><b>They walk for about 20 kilometers...</b></font>
+
+11
+00:00:29,050 --> 00:00:29,050
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#af7cf1">m 167 42 l 0 42 l 0 0 l 167 0</font></b></font>
+
+12
+00:00:29,050 --> 00:00:29,370
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font size="18"><font color="#f15115">Members will talk more about their love for their hometowns!
+A miraculous revealing of the mysterious [Gourd Quiz] ?</font></font></b></font>
+
+13
+00:00:29,370 --> 00:00:32,980
+<font size="28"><b><i><i>MANUALLY TRANSLATED FROM INDO SUBTITLE
+ORIGINAL SUB BY MasToppu.blogspot.co.id
+USE IT AT YOUR OWN RISK</i></i></b></font>
+
+14
+00:00:32,980 --> 00:00:35,680
+<font size="28"><b>- That's harsh.
+- Elementary students too...</b></font>
+
+15
+00:00:35,680 --> 00:00:38,480
+<font size="28"><b>He really said something about gourds.</b></font>
+
+16
+00:00:38,480 --> 00:00:41,130
+<font size="28"><b>Since there was no big gourd in Osaka...</b></font>
+
+17
+00:00:41,130 --> 00:00:44,580
+<font size="28"><b>Wasn't that Takayama's teacher?</b></font>
+
+18
+00:00:45,580 --> 00:00:45,580
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#df0e1c">Bananaman</font></b></font>
+
+19
+00:00:45,580 --> 00:00:45,580
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#000000">Himura Yuuki</font></b></font>
+
+20
+00:00:45,580 --> 00:00:45,630
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#000000">Shitara Osamu</font></b></font>
+
+21
+00:00:45,630 --> 00:00:50,480
+<font size="28"><b>DON! Alright Nogizakatte, Doko is starting,
+we're the MC Bananaman, <i>Yoroshiku Onegaishimasu</i>.</b></font>
+
+22
+00:00:50,480 --> 00:00:54,480
+<font size="28"><b>And here's Nogizaka-chan!</b></font>
+
+23
+00:00:55,080 --> 00:00:56,480
+<font size="28"><b>Huh? Huh?</b></font>
+
+24
+00:00:56,480 --> 00:00:57,950
+<font size="28"><b>Here, here, here!</b></font>
+
+25
+00:00:57,950 --> 00:01:00,270
+<font size="28"><b>Lots of them!</b></font>
+
+26
+00:01:00,270 --> 00:01:02,310
+<font size="28"><b>Ayaya Gayayoyo!</b></font>
+
+27
+00:01:02,310 --> 00:01:04,060
+<font size="28"><b>What was that? What?</b></font>
+
+28
+00:01:04,060 --> 00:01:05,790
+<font size="28"><b>- What was that?
+- What did you say?</b></font>
+
+29
+00:01:05,790 --> 00:01:09,180
+<font size="28"><b>- Let's do the best until tomorrow!
+- I see.</b></font>
+
+30
+00:01:09,180 --> 00:01:12,550
+<font size="28"><b>- Almost all members are here today, there's a lot of them.
+- That's right.</b></font>
+
+31
+00:01:12,550 --> 00:01:16,280
+<font size="28"><b>- What are we doing to do today, Himura-san?
+- Okay! Today...</b></font>
+
+32
+00:01:16,280 --> 00:01:22,080
+<font size="28"><b><font color="#443fe1">Let's continue <font color="#29e9db">"Amachan"<font color="#443fe1">!
+<font color="#f184f2">Show your love for your hometown!</font></font></font></font></b></font>
+
+33
+00:01:23,130 --> 00:01:26,050
+<font size="28"><b>It means, like an effect made by Amachan...</b></font>
+
+34
+00:01:26,050 --> 00:01:26,050
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#ffffff">m 167 42 l 0 42 l 0 0 l 167 0</font></b></font>
+
+35
+00:01:26,050 --> 00:01:26,050
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#7622bc">m 167 42 l 0 42 l 0 0 l 167 0</font></b></font>
+
+36
+00:01:26,050 --> 00:01:26,050
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#000000">Looking at Amachan's popularity, we will explain many things
+from <font color="#df2014">[Dialects] <font color="#000000">to <font color="#df2014">[Local Products] <font color="#000000">of members' hometowns!</font></font></font></font></font></b></font>
+
+37
+00:01:26,050 --> 00:01:26,550
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font size="16">Show your love for your hometown!</font></b></font>
+
+38
+00:01:26,550 --> 00:01:32,700
+<font size="28"><b>... like local dialects, delicacies,
+ and places which have become very popular.</b></font>
+
+39
+00:01:32,700 --> 00:01:34,480
+<font size="28"><b>Based on that, since we have many members
+ coming from many different areas in Nogizaka...</b></font>
+
+40
+00:01:34,480 --> 00:01:34,480
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#ffffff">m 167 42 l 0 42 l 0 0 l 167 0</font></b></font>
+
+41
+00:01:34,480 --> 00:01:34,480
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#7622bc">m 167 42 l 0 42 l 0 0 l 167 0</font></b></font>
+
+42
+00:01:34,480 --> 00:01:34,480
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#000000">Nogizaka members hail from various places, so show<font color="#df2014"> new amazing things from your hometown and talk about your love for your hometown!</font></font></b></font>
+
+43
+00:01:34,480 --> 00:01:38,080
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font size="16">Show your love for your hometown!</font></b></font>
+
+44
+00:01:38,080 --> 00:01:42,410
+<font size="28"><b>... we will give them a chance to show their love
+ for their hometowns to their heart's content.</b></font>
+
+45
+00:01:42,410 --> 00:01:44,210
+<font size="28"><b>And that's our theme.</b></font>
+
+46
+00:01:45,640 --> 00:01:45,640
+<font size="28"><b><i>This time, we have chosen members who aren't from Kanto area.</i></b></font>
+
+47
+00:01:45,640 --> 00:01:49,780
+<font face="Arial Rounded MT Bold" size="20"><b>{\an8}[ Kanto = Tokyo and its surrounding areas ]</b></font>
+
+48
+00:01:49,780 --> 00:01:51,710
+<font size="28"><b><i>They will try to...</i></b></font>
+
+49
+00:01:51,710 --> 00:01:58,610
+<font size="28"><b><i>... tell about events exist only in their hometowns,
+ which isn't Tokyo, as much as they want.</i></b></font>
+
+50
+00:01:59,340 --> 00:02:02,220
+<font size="28"><b>Let's start with the first theme. 
+Here it is.</b></font>
+
+51
+00:02:02,220 --> 00:02:02,280
+<font size="28"><b>- Does it only exist in my hometown?
+Local event category.  - There must be a lot!</b></font>
+
+52
+00:02:02,280 --> 00:02:02,280
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#943ae6">Does It Only Exist In My Hometown?</font></b></font>
+
+53
+00:02:02,280 --> 00:02:05,950
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#df2014">[ Local Event Category ]</font></b></font>
+
+54
+00:02:06,220 --> 00:02:09,710
+<font size="28"><b>Like festivals that only exist in your hometowns, right?</b></font>
+
+55
+00:02:09,710 --> 00:02:12,580
+<font size="28"><b>Alright, let's start with this one.</b></font>
+
+56
+00:02:12,680 --> 00:02:12,680
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#943ae6">Does It Only Exist In My Hometown? <font color="#df2014">[ Local Event Category ]</font></font></b></font>
+
+57
+00:02:12,680 --> 00:02:14,410
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#618cf3">Elementary School Trip Was A Physical Trip</font></b></font>
+
+58
+00:02:14,410 --> 00:02:17,150
+<font size="28"><b>Elementary school trip was a physical trip.</b></font>
+
+59
+00:02:17,150 --> 00:02:17,150
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#bb78e6">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+60
+00:02:17,150 --> 00:02:17,210
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font size="16">Elementary school trip was a
+[Harsh Trip]</font></b></font>
+
+61
+00:02:17,210 --> 00:02:23,550
+<font size="28"><b>- What?   - Physical trip?
+- This time, we already knew the summary of the theme but we don't know the details at all!</b></font>
+
+62
+00:02:23,550 --> 00:02:25,050
+<font size="28"><b>Whose hometown is this?</b></font>
+
+63
+00:02:25,050 --> 00:02:25,050
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#7e0d86">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+64
+00:02:25,050 --> 00:02:25,050
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#ffffff">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+65
+00:02:25,050 --> 00:02:25,050
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}Etou Misa</b></font>
+
+66
+00:02:25,050 --> 00:02:25,080
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#000000"> from Oita Prefecture</font></b></font>
+
+67
+00:02:25,080 --> 00:02:27,710
+<font size="28"><b>- Me!
+- Oh, Etou!   - What's this?</b></font>
+
+68
+00:02:27,710 --> 00:02:30,980
+<font size="28"><b>- It's from Oita, and in Oita, everyone knew this.
+- Yeah, everyone.</b></font>
+
+69
+00:02:30,980 --> 00:02:30,980
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#bb78e6">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+70
+00:02:30,980 --> 00:02:32,910
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font size="16">The regular event of Oita prefecture
+[Harsh Trip]</font></b></font>
+
+71
+00:02:32,910 --> 00:02:32,910
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#7e0d86">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+72
+00:02:32,910 --> 00:02:32,910
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#ffffff">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+73
+00:02:32,910 --> 00:02:32,910
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font size="20">Hatanaka Seira</font></b></font>
+
+74
+00:02:32,910 --> 00:02:33,250
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#000000"><font size="16"><font face="Arial">from Oita Prefecture</font></font></font></b></font>
+
+75
+00:02:33,250 --> 00:02:36,780
+<font size="28"><b>Really? Did Hatanaka actually know this!?</b></font>
+
+76
+00:02:36,780 --> 00:02:38,780
+<font size="28"><b>- You knew it, right?
+- She obviously didn't!</b></font>
+
+77
+00:02:38,780 --> 00:02:41,980
+<font size="28"><b>- So everyone in Oita knew this?
+- It's really famous.</b></font>
+
+78
+00:02:41,980 --> 00:02:41,980
+<font size="28"><b>- This physical trip is...
+- Hold on!</b></font>
+
+79
+00:02:41,980 --> 00:02:45,880
+<font face="Arial Rounded MT Bold" size="20"><b>{\an8}[ Etou is talking with Oita dialect here, using "-cchuu" suffix ]</b></font>
+
+80
+00:02:45,880 --> 00:02:47,880
+<font size="28"><b>Don't use your dialect so suddenly.</b></font>
+
+81
+00:02:47,880 --> 00:02:48,680
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}Enjoying the theme too much?</b></font>
+
+82
+00:02:48,680 --> 00:02:53,880
+<font size="28"><b>In this physical trip, we walk as much as we can,
+ the distance is about 20 kilometers.</b></font>
+
+83
+00:02:53,880 --> 00:02:53,880
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#ffffff">m 167 42 l 0 42 l 0 0 l 167 0</font></b></font>
+
+84
+00:02:53,880 --> 00:02:53,880
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font size="20"><font color="#000000">Trip usually done in a special event where 
+ the participants <font color="#df2014">walk through a quite long distance</font></font></font></b></font>
+
+85
+00:02:53,880 --> 00:02:54,320
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#ffffff">Oita's Physical Trip</font></b></font>
+
+86
+00:02:54,320 --> 00:02:59,950
+<font size="28"><b>Students aren't treated in a special way.
+They also aren't allowed to bring snacks.</b></font>
+
+87
+00:02:59,950 --> 00:03:01,450
+<font size="28"><b>They just have to keep walking.</b></font>
+
+88
+00:03:01,450 --> 00:03:01,450
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#bb78e6">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+89
+00:03:01,450 --> 00:03:01,560
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font size="16">The regular event of Oita prefecture
+[Harsh Trip]</font></b></font>
+
+90
+00:03:01,560 --> 00:03:01,580
+<font size="28"><b>Where's the end?
+ Like, where are you heading?</b></font>
+
+91
+00:03:01,580 --> 00:03:04,650
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font size="16">The regular event of Oita prefecture
+Walk as far as you can in [Harsh Trip]</font></b></font>
+
+92
+00:03:04,650 --> 00:03:06,550
+<font size="28"><b>Deep into the mountains.</b></font>
+
+93
+00:03:06,550 --> 00:03:07,880
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}Unclear destination.</b></font>
+
+94
+00:03:07,880 --> 00:03:09,880
+<font size="28"><b>Deep into the mountains?</b></font>
+
+95
+00:03:09,880 --> 00:03:14,850
+<font size="28"><b>The distance from home to that place 
+is about 20 kilometers.</b></font>
+
+96
+00:03:14,850 --> 00:03:17,120
+<font size="28"><b>So the round-trip is 20 kilometers?</b></font>
+
+97
+00:03:17,120 --> 00:03:19,610
+<font size="28"><b>When did it start?
+ Is it just for elementary students?</b></font>
+
+98
+00:03:19,610 --> 00:03:21,800
+<font size="28"><b>Up to sixth graders...</b></font>
+
+99
+00:03:21,800 --> 00:03:24,310
+<font size="28"><b>Eh? The first graders take part too?</b></font>
+
+100
+00:03:24,310 --> 00:03:29,350
+<font size="28"><b>Yes but the distance is closer. 
+ The 20 kilometers one is just for sixth graders.</b></font>
+
+101
+00:03:29,350 --> 00:03:29,980
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}Very difficult.</b></font>
+
+102
+00:03:29,980 --> 00:03:31,980
+<font size="28"><b>How marvelous!</b></font>
+
+103
+00:03:31,980 --> 00:03:33,610
+<font size="28"><b>And snacks are not allowed too?</b></font>
+
+104
+00:03:33,610 --> 00:03:38,330
+<font size="28"><b>- I think we're not allowed to bring some. Not even a banana.
+- But maybe we're allowed to only buy the 300 Yen ones.</b></font>
+
+105
+00:03:38,330 --> 00:03:39,750
+<font size="28"><b>There are snacks after all!</b></font>
+
+106
+00:03:39,750 --> 00:03:40,330
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}Snack issue arises.</b></font>
+
+107
+00:03:40,330 --> 00:03:44,150
+<font size="28"><b>- So you're allowed to bring some.
+- Etou didn't bring it?</b></font>
+
+108
+00:03:44,150 --> 00:03:46,080
+<font size="28"><b>Did Hatanaka just bring it as she liked?</b></font>
+
+109
+00:03:46,080 --> 00:03:48,280
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}Soul of Yankee.</b></font>
+
+110
+00:03:48,280 --> 00:03:51,350
+<font size="28"><b>- That's Hatanaka for you.
+- Which is why we need to adapt.</b></font>
+
+111
+00:03:51,480 --> 00:03:51,480
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#ffffff">m 167 42 l 0 42 l 0 0 l 167 0</font></b></font>
+
+112
+00:03:51,480 --> 00:03:51,480
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font size="20"><font color="#ffffff">Additional Information Regarding Oita's Physical Trip</font></font></b></font>
+
+113
+00:03:51,480 --> 00:03:51,640
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font size="18"><font color="#df2014">An event <font color="#000000">to train students' physical strength, especally 
+their legs and waists, <font color="#df2014">everyone in Oita has experienced this</font></font></font></font></b></font>
+
+114
+00:03:51,640 --> 00:03:53,550
+<font size="28"><b>So this is the detail about that event in Oita.</b></font>
+
+115
+00:03:53,550 --> 00:03:59,550
+<font size="28"><b>It's to train their physical strength.
+ Ah, this is an event to train their legs and waists, and...</b></font>
+
+116
+00:03:59,930 --> 00:04:00,210
+<font size="28"><b>... the local government called this "Physical Trip"...</b></font>
+
+117
+00:04:00,210 --> 00:04:03,550
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font size="18"><font color="#df2014">The shocking thing is,<font color="#000000"> the government also <font color="#df2014">supports<font color="#000000"> this event
+called [Physical Trip] to be<font color="#df2014"> held in Oita Prefecture</font></font></font></font></font></font></b></font>
+
+118
+00:04:03,550 --> 00:04:07,010
+<font size="28"><b>... and they were surprised because people in Tokyo don't do this.</b></font>
+
+119
+00:04:07,370 --> 00:04:10,200
+<font size="28"><b>- Unbelievable.
+- This is very Oita.</b></font>
+
+120
+00:04:10,200 --> 00:04:13,280
+<font size="28"><b>You can say, the government people there are awesome!</b></font>
+
+121
+00:04:13,280 --> 00:04:15,610
+<font size="28"><b>Because although they're adults,
+ they said "<i>You don't know</i>?!"</b></font>
+
+122
+00:04:15,610 --> 00:04:15,610
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}"JeJe" in Oita.</b></font>
+
+123
+00:04:15,610 --> 00:04:17,040
+<font face="Arial Rounded MT Bold" size="20"><b>{\an8}[ JeJe = shocked expression of finding something, 
+said by the main character from the drama "Amachan" ]</b></font>
+
+124
+00:04:17,040 --> 00:04:19,550
+<font size="28"><b>Alright, moving on. 
+ Here's next.</b></font>
+
+125
+00:04:19,610 --> 00:04:19,610
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#943ae6">Does It Only Exist In My Hometown? <font color="#df2014">[ Local Event Category ]</font></font></b></font>
+
+126
+00:04:19,610 --> 00:04:20,040
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#ea7436">Getting A Lot of Snacks With Rousoku Dase!
+ (Get The Candle Out!)</font></b></font>
+
+127
+00:04:20,040 --> 00:04:21,840
+<font size="28"><b>Getting a lot of snacks...</b></font>
+
+128
+00:04:21,840 --> 00:04:23,840
+<font size="28"><b>... with "Rousoku Dase?"</b></font>
+
+129
+00:04:23,840 --> 00:04:23,950
+<font size="28"><b>- What is this?
+- I have no idea!</b></font>
+
+130
+00:04:23,950 --> 00:04:23,950
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#bb78e6">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+131
+00:04:23,950 --> 00:04:25,930
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font size="16">With "Rousoku Dase!
+Getting a lot of snacks</font></b></font>
+
+132
+00:04:25,930 --> 00:04:29,500
+<font size="28"><b>This sounds like a folktale!</b></font>
+
+133
+00:04:29,500 --> 00:04:31,310
+<font size="28"><b>Get the CANDLE out!</b></font>
+
+134
+00:04:31,310 --> 00:04:33,310
+<font size="28"><b>GET THE CANDLE OUT!!</b></font>
+
+135
+00:04:33,310 --> 00:04:36,280
+<font size="28"><b>- Then you receive snacks.
+- Whose hometown is this?</b></font>
+
+136
+00:04:36,280 --> 00:04:36,280
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#7e0d86">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+137
+00:04:36,280 --> 00:04:36,280
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#ffffff">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+138
+00:04:36,280 --> 00:04:36,280
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font size="20">Hashimoto Nanami</font></b></font>
+
+139
+00:04:36,280 --> 00:04:36,680
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#000000"><font size="22">from Hokkaido</font></font></b></font>
+
+140
+00:04:36,680 --> 00:04:38,780
+<font size="28"><b>- Hokkaido?
+- Yes.</b></font>
+
+141
+00:04:38,780 --> 00:04:38,780
+<font size="28"><b>- What is this?
+- This is a <i>Tanabata</i> Festival in Hokkaido.</b></font>
+
+142
+00:04:38,780 --> 00:04:42,210
+<font face="Arial Rounded MT Bold" size="20"><b>{\an8}[ Tanabata = a traditional festival on July and August ]</b></font>
+
+143
+00:04:42,210 --> 00:04:42,210
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#bb78e6">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+144
+00:04:42,210 --> 00:04:42,620
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font size="16">Tanabata event in Hokkaido 
+Getting snacks with Rousoku Dase!</font></b></font>
+
+145
+00:04:42,620 --> 00:04:46,750
+<font size="28"><b>- <i>Tanabata</i>?
+- Yes, the festival takes place on the 7th of August in Hokkaido.</b></font>
+
+146
+00:04:46,750 --> 00:04:50,560
+<font size="28"><b>I guess it's similar with Halloween.
+So it starts on the 7th of August?</b></font>
+
+147
+00:04:50,560 --> 00:04:53,310
+<font size="28"><b>We do it only on August 7th.</b></font>
+
+148
+00:04:53,310 --> 00:04:58,380
+<font size="28"><b>It can be said that this is only done by elementary students, 
+ in a place where they live, they will...</b></font>
+
+149
+00:04:58,380 --> 00:05:01,480
+<font size="28"><b>Get it out~ Get the candle out~
+otherwise we will "<i>Kacchakuzo</i>"...</b></font>
+
+150
+00:05:01,480 --> 00:05:03,050
+<font size="28"><b>... plus, we will bite you.</b></font>
+
+151
+00:05:03,050 --> 00:05:05,210
+<font size="28"><b>Wait, what's "<i>Kacchakuzo</i>"?</b></font>
+
+152
+00:05:05,500 --> 00:05:07,050
+<font size="28"><b>What's a "<i>Kacchakuzo</i>"?</b></font>
+
+153
+00:05:07,050 --> 00:05:10,510
+<font size="28"><b>- Clawing?
+- Ah, so clawing is called "<i>Kacchakuzo</i>"?</b></font>
+
+154
+00:05:10,510 --> 00:05:10,510
+<font size="28"><b>- Yes.
+- Surely we don't want to get clawed.</b></font>
+
+155
+00:05:10,510 --> 00:05:10,510
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#bb78e6">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+156
+00:05:10,510 --> 00:05:13,240
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font size="16">According to Hokkaido's dialect
+Kacchaku = Clawing</font></b></font>
+
+157
+00:05:13,240 --> 00:05:14,510
+<font size="28"><b>Don't claw us! Don't!</b></font>
+
+158
+00:05:14,510 --> 00:05:15,240
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}"Doesn't want to get clawed" group.</b></font>
+
+159
+00:05:15,240 --> 00:05:18,580
+<font size="28"><b>- I've never wanted to get clawed!
+- Maybe we have that too.</b></font>
+
+160
+00:05:18,580 --> 00:05:18,580
+<font size="28"><b>- Akita has that too?
+- Tohoku?  - Correct.</b></font>
+
+161
+00:05:18,580 --> 00:05:18,910
+<font face="Arial Rounded MT Bold" size="20"><b>{\an8}[ Tohoku = northeast region of Japan ]</b></font>
+
+162
+00:05:18,910 --> 00:05:18,910
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#7e0d86">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+163
+00:05:18,910 --> 00:05:18,910
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#ffffff">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+164
+00:05:18,910 --> 00:05:18,910
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font size="20">Ikoma Rina</font></b></font>
+
+165
+00:05:18,910 --> 00:05:21,210
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#000000"><font size="22">from Akita</font></font></b></font>
+
+166
+00:05:21,210 --> 00:05:22,410
+<font size="28"><b>Yamato, you have that too?</b></font>
+
+167
+00:05:22,410 --> 00:05:22,410
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#7e0d86">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+168
+00:05:22,410 --> 00:05:22,410
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#ffffff">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+169
+00:05:22,410 --> 00:05:22,410
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font size="20">Yamato  Rina</font></b></font>
+
+170
+00:05:22,410 --> 00:05:22,850
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#000000"><font size="16"><font face="Arial">from Miyagi prefecture</font></font></font></b></font>
+
+171
+00:05:22,850 --> 00:05:24,480
+<font size="28"><b>When do you say that?</b></font>
+
+172
+00:05:24,480 --> 00:05:26,480
+<font size="28"><b>For example, to my little sister...</b></font>
+
+173
+00:05:26,480 --> 00:05:28,480
+<font size="28"><b>... I'll claw you!</b></font>
+
+174
+00:05:28,890 --> 00:05:31,780
+<font size="28"><b>You claw me, I claw you back!</b></font>
+
+175
+00:05:31,780 --> 00:05:33,070
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}Claw war.</b></font>
+
+176
+00:05:33,070 --> 00:05:35,020
+<font size="28"><b>Her little sis is very scary.</b></font>
+
+177
+00:05:35,020 --> 00:05:38,050
+<font size="28"><b>Normally, there's no such thing!</b></font>
+
+178
+00:05:38,050 --> 00:05:39,080
+<font size="28"><b>- Eh, then after you say that...
+- After that...</b></font>
+
+179
+00:05:39,080 --> 00:05:39,080
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#bb78e6">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+180
+00:05:39,080 --> 00:05:42,050
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font size="16">Tanabata event in Hokkaido 
+Getting snacks with Rousoku Dase!</font></b></font>
+
+181
+00:05:42,050 --> 00:05:45,760
+<font size="28"><b>Someone will come out from that house and says
+"<i>Ah, you're here this year too</i>..."</b></font>
+
+182
+00:05:45,760 --> 00:05:46,950
+<font size="28"><b>- Halloween?
+- Maybe it's like Halloween.</b></font>
+
+183
+00:05:46,950 --> 00:05:46,950
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#ffffff">m 167 42 l 0 42 l 0 0 l 167 0</font></b></font>
+
+184
+00:05:46,950 --> 00:05:46,950
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font size="20"><font color="#ffffff">Rousoku Dase Hokkaido!</font></font></b></font>
+
+185
+00:05:46,950 --> 00:05:48,620
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font size="20"><font color="#000000">On Tanabata, the elementary students sing in front of houses
+<font color="#df2014">trying to get snacks and candles from every house</font></font></font></b></font>
+
+186
+00:05:48,620 --> 00:05:52,280
+<font size="28"><b>- Hokkaido's own Halloween, huh?
+- Most people...</b></font>
+
+187
+00:05:52,280 --> 00:05:55,250
+<font size="28"><b>... prepared a lot of snacks before August 7th.</b></font>
+
+188
+00:05:55,250 --> 00:05:57,150
+<font size="28"><b>- Any snacks?
+- Yes, every house provides that...</b></font>
+
+189
+00:05:57,150 --> 00:05:57,150
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#bb78e6">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+190
+00:05:57,150 --> 00:06:00,150
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font size="16">Tanabata event in Hokkaido 
+Getting snacks with Rousoku Dase!</font></b></font>
+
+191
+00:06:00,150 --> 00:06:04,050
+<font size="28"><b>However, for house that doesn't have any snacks, 
+ they'll give money instead.</b></font>
+
+192
+00:06:04,050 --> 00:06:06,300
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}The correct house.</b></font>
+
+193
+00:06:06,300 --> 00:06:10,610
+<font size="28"><b>- Amazing.   - They will say some thing like 
+"<i>Since we don't have any this year, you go buy it yourself.</i>"...</b></font>
+
+194
+00:06:10,610 --> 00:06:12,480
+<font size="28"><b>... then they give 100 Yen!</b></font>
+
+195
+00:06:12,480 --> 00:06:16,110
+<font size="28"><b>If you say get the candle out,
+will someone give you a candle?</b></font>
+
+196
+00:06:16,110 --> 00:06:17,710
+<font size="28"><b>- They might.
+- They might?!</b></font>
+
+197
+00:06:17,710 --> 00:06:20,980
+<font size="28"><b>For example, an old couple who doesn't know anything, 
+ they will mutter...</b></font>
+
+198
+00:06:20,980 --> 00:06:22,950
+<font size="28"><b>... "<i>Okay, we understand</i>", 
+and they give a candle instead.</b></font>
+
+199
+00:06:22,950 --> 00:06:24,940
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}The wrong house.</b></font>
+
+200
+00:06:24,940 --> 00:06:26,950
+<font size="28"><b>Are they okay?</b></font>
+
+201
+00:06:26,950 --> 00:06:30,510
+<font size="28"><b>Then they actually knew the history behind it, didn't they?</b></font>
+
+202
+00:06:30,510 --> 00:06:30,710
+<font size="28"><b>It's famous in Hokkaido.
+ Everyone knew it when the Tanabata Festival is being held.</b></font>
+
+203
+00:06:30,710 --> 00:06:30,710
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#ffffff">m 167 42 l 0 42 l 0 0 l 167 0</font></b></font>
+
+204
+00:06:30,710 --> 00:06:30,710
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font size="20"><font color="#ffffff">Additional Information Regarding Rousoku Dase Hokkaido!</font></font></b></font>
+
+205
+00:06:30,710 --> 00:06:36,010
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font size="20"><font color="#000000">In Hokkaido prefecture, 
+this is the most popular part of <font color="#df2014">Tanabata Festival <font color="#000000"></font></font></font></font></b></font>
+
+206
+00:06:36,010 --> 00:06:36,040
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font size="20"><font color="#000000">The story goes like this: the children are included in Obon, then they 
+are asked to gather the candles needed for the offering</font></font></b></font>
+
+207
+00:06:36,040 --> 00:06:36,040
+<font size="28"><b>At <i>Obon</i>, kids are being told to gather some candles...</b></font>
+
+208
+00:06:36,040 --> 00:06:39,520
+<font face="Arial Rounded MT Bold" size="20"><b>{\an8}[ Obon = the lantern festival or festival of the spirits ]</b></font>
+
+209
+00:06:39,520 --> 00:06:41,470
+<font size="28"><b>... they're also traveling around while carrying lanterns 
+and playing some music.</b></font>
+
+210
+00:06:41,470 --> 00:06:42,980
+<font size="28"><b>- I see!</b></font>
+
+211
+00:06:43,080 --> 00:06:43,310
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font size="20"><font color="#000000">Then after a while, together with the candle,
+the children also receive <font color="#df2014">snacks <font color="#000000">to make them happy</font></font></font></font></b></font>
+
+212
+00:06:43,310 --> 00:06:44,060
+<font size="28"><b>- So that's how it is!</b></font>
+
+213
+00:06:44,060 --> 00:06:48,180
+<font size="28"><b>After a while, together with the candles,
+they're also given some snacks to make them happy.</b></font>
+
+214
+00:06:48,180 --> 00:06:49,410
+<font size="28"><b>- That's very nice!</b></font>
+
+215
+00:06:49,410 --> 00:06:51,710
+<font size="28"><b>- So the candle is the important one.
+- Yes!</b></font>
+
+216
+00:06:51,710 --> 00:06:51,710
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#bb78e6">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+217
+00:06:51,710 --> 00:06:51,850
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font size="16">Tanabata event in Hokkaido 
+Getting snacks with Rousoku Dase!</font></b></font>
+
+218
+00:06:51,850 --> 00:06:54,080
+<font size="28"><b>But there's even a song about it, huh.</b></font>
+
+219
+00:06:54,080 --> 00:06:56,450
+<font size="28"><b>Get it out~ Get the candle out~ otherwise, I will claw you!</b></font>
+
+220
+00:06:56,450 --> 00:07:03,010
+<font size="28"><b>I'll claw you~ I'll claw you~ 
+I'll claw you!</b></font>
+
+221
+00:07:03,010 --> 00:07:05,580
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}Conductor of Kacchaku song.</b></font>
+
+222
+00:07:05,720 --> 00:07:07,210
+<font size="28"><b>I'll claw you! I'll claw you!</b></font>
+
+223
+00:07:07,210 --> 00:07:08,910
+<font size="28"><b>- Don't claw me!</b></font>
+
+224
+00:07:08,910 --> 00:07:11,400
+<font size="28"><b>Okay, I won't claw you!</b></font>
+
+225
+00:07:11,400 --> 00:07:13,530
+<font size="28"><b>Next, here it is.</b></font>
+
+226
+00:07:13,610 --> 00:07:13,610
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#943ae6">Does It Only Exist In My Hometown? <font color="#df2014">[ Local Event Category ]</font></font></b></font>
+
+227
+00:07:13,610 --> 00:07:14,680
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#3b3cd1">The Mysterious [Gourd Quiz]</font></b></font>
+
+228
+00:07:14,680 --> 00:07:19,180
+<font size="28"><b>- What is this?
+- Quiz? Gourd Quiz? Whose is this?</b></font>
+
+229
+00:07:19,180 --> 00:07:21,180
+<font size="28"><b>- That's mine.
+- Eh, you have this in your place?</b></font>
+
+230
+00:07:21,180 --> 00:07:21,180
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#7e0d86">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+231
+00:07:21,180 --> 00:07:21,180
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#ffffff">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+232
+00:07:21,180 --> 00:07:21,180
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font size="20">Takayama Kazumi</font></b></font>
+
+233
+00:07:21,180 --> 00:07:22,310
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#000000"><font size="22">from Chiba</font></font></b></font>
+
+234
+00:07:22,310 --> 00:07:25,310
+<font size="28"><b>- Really?
+- I had this in my elementary school.</b></font>
+
+235
+00:07:25,310 --> 00:07:25,310
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#bb78e6">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+236
+00:07:25,310 --> 00:07:25,560
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font size="16">An event in Takayama's elementary school
+The Mysterious Gourd Quiz</font></b></font>
+
+237
+00:07:25,560 --> 00:07:25,560
+<font size="28"><b>Takayama is from Chiba, right?</b></font>
+
+238
+00:07:25,560 --> 00:07:28,200
+<font face="Arial Rounded MT Bold" size="20"><b>{\an8}[ This segment is about traditions outside of Kanto. 
+Chiba is still in Kanto region ]</b></font>
+
+239
+00:07:28,200 --> 00:07:31,650
+<font size="28"><b>I am from Chiba, but it was an outskirt area...</b></font>
+
+240
+00:07:31,650 --> 00:07:33,880
+<font size="28"><b>- Eh, there's nothing like this in Kanto?
+- No!</b></font>
+
+241
+00:07:33,880 --> 00:07:35,210
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}Everyone is strongly rejecting.</b></font>
+
+242
+00:07:35,210 --> 00:07:37,210
+<font size="28"><b>Wait... Wait...</b></font>
+
+243
+00:07:37,210 --> 00:07:40,650
+<font size="28"><b>I think this gourd quiz is special just in your area.</b></font>
+
+244
+00:07:40,650 --> 00:07:43,350
+<font size="28"><b>Like it only exists in your area.</b></font>
+
+245
+00:07:43,350 --> 00:07:46,210
+<font size="28"><b>- What's a Gourd Quiz?
+- Back in my elementary years...</b></font>
+
+246
+00:07:46,210 --> 00:07:48,750
+<font size="28"><b>Twice a year, from first grade to sixth grade...</b></font>
+
+247
+00:07:48,750 --> 00:07:51,870
+<font size="28"><b>... we had a Gourd Quiz when it was the gourd season.</b></font>
+
+248
+00:07:51,870 --> 00:07:55,410
+<font size="28"><b>And to smoothen the quiz, we had a meeting...</b></font>
+
+249
+00:07:55,410 --> 00:07:56,540
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}A meeting about gourds.</b></font>
+
+250
+00:07:56,540 --> 00:07:59,310
+<font size="28"><b>So there was a meeting?</b></font>
+
+251
+00:07:59,310 --> 00:08:01,310
+<font size="28"><b>Then, one by one...</b></font>
+
+252
+00:08:01,310 --> 00:08:04,610
+<font size="28"><b>... we carried a gourd located on the first floor...</b></font>
+
+253
+00:08:04,610 --> 00:08:07,850
+<font size="28"><b>... and we were asked to "<i>Guess the weight</i>!",
+it was that type of a quiz.</b></font>
+
+254
+00:08:07,850 --> 00:08:10,550
+<font size="28"><b>- So you looked for a big gourd...
+- The gourd was quite big...</b></font>
+
+255
+00:08:10,550 --> 00:08:10,550
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#ffffff">m 167 42 l 0 42 l 0 0 l 167 0</font></b></font>
+
+256
+00:08:10,550 --> 00:08:10,550
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font size="20"><font color="#ffffff">The Gourd Quiz in Takayama's Elementary School</font></font></b></font>
+
+257
+00:08:10,550 --> 00:08:12,510
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font size="20"><font color="#df2014">A quiz <font color="#000000">where all students of her school try to<font color="#df2014"> predict 
+the weight of the big gourd<font color="#000000"> the school has</font></font></font></font></font></b></font>
+
+258
+00:08:12,510 --> 00:08:18,480
+<font size="28"><b>... about this big, there was always one gourd that big every year.</b></font>
+
+259
+00:08:18,480 --> 00:08:18,480
+<font size="28"><b>We only had to guess the weight of the gourd.</b></font>
+
+260
+00:08:18,480 --> 00:08:18,480
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#bb78e6">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+261
+00:08:18,480 --> 00:08:23,050
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font size="16">An event in Takayama's elementary school
+Quiz to get the heaviest gourd</font></b></font>
+
+262
+00:08:23,050 --> 00:08:26,410
+<font size="28"><b>And then you wrote it on a paper and showed it?</b></font>
+
+263
+00:08:26,410 --> 00:08:31,350
+<font size="28"><b>Then, about five students with the most correct answers, 
+ would get some award...</b></font>
+
+264
+00:08:31,350 --> 00:08:32,980
+<font size="28"><b>.... in the school ceremony.</b></font>
+
+265
+00:08:32,980 --> 00:08:35,870
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}A special right as an honor.</b></font>
+
+266
+00:08:35,870 --> 00:08:37,500
+<font size="28"><b>- Well...
+- What was that?</b></font>
+
+267
+00:08:37,500 --> 00:08:40,550
+<font size="28"><b>I guess your school is the only one who does that.</b></font>
+
+268
+00:08:40,550 --> 00:08:41,100
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}Not a local specialty.</b></font>
+
+269
+00:08:41,100 --> 00:08:44,380
+<font size="28"><b>Certainly just your school! 
+ But that's sweet, though!</b></font>
+
+270
+00:08:44,640 --> 00:08:46,380
+<font size="28"><b>Then...</b></font>
+
+271
+00:08:46,380 --> 00:08:48,380
+<font size="28"><b>Eh, what? What's wrong?</b></font>
+
+272
+00:08:48,380 --> 00:08:49,380
+<font size="28"><b>... there's some detail about that.</b></font>
+
+273
+00:08:49,380 --> 00:08:49,380
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#ffffff">m 167 42 l 0 42 l 0 0 l 167 0</font></b></font>
+
+274
+00:08:49,380 --> 00:08:49,380
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font size="20"><font color="#ffffff">Additional Information Regarding The Gourd Quiz</font></font></b></font>
+
+275
+00:08:49,380 --> 00:08:50,510
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font size="20"><font color="#000000">Takayama's school has combined with another school.
+The school does not exist anymore today</font></font></b></font>
+
+276
+00:08:50,510 --> 00:08:56,050
+<font size="28"><b>- Takayama's school has combined with another school,
+ so it doesn't exist anymore now.   - That's true!</b></font>
+
+277
+00:08:56,050 --> 00:08:58,910
+<font size="28"><b>- That's so true!
+- How unfortunate.</b></font>
+
+278
+00:08:58,910 --> 00:09:01,150
+<font size="28"><b>Sad, isn't it? We've been searching for more detail
+ about this Gourd Quiz, but...</b></font>
+
+279
+00:09:01,150 --> 00:09:01,150
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#ffffff">m 167 42 l 0 42 l 0 0 l 167 0</font></b></font>
+
+280
+00:09:01,150 --> 00:09:01,150
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font size="20"><font color="#ffffff">Additional Information Regarding The Gourd Quiz</font></font></b></font>
+
+281
+00:09:01,150 --> 00:09:04,380
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font size="20"><font color="#000000">We can't contact the said teacher to ask for his whereabout
+ <font color="#df2014">With such condition, the information regarding this thing is unknown</font></font></font></b></font>
+
+282
+00:09:04,380 --> 00:09:09,480
+<font size="28"><b>... her teacher back then was not there anymore, 
+ and we couldn't make a contact with him either...</b></font>
+
+283
+00:09:09,480 --> 00:09:11,010
+<font size="28"><b>... so the Gourd Quiz is still a mystery now.</b></font>
+
+284
+00:09:11,010 --> 00:09:13,150
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}Still a mystery.</b></font>
+
+285
+00:09:13,150 --> 00:09:15,150
+<font size="28"><b>This sucks!</b></font>
+
+286
+00:09:15,440 --> 00:09:16,950
+<font size="28"><b>Ah, hold on. What?</b></font>
+
+287
+00:09:16,950 --> 00:09:16,950
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#7e0d86">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+288
+00:09:16,950 --> 00:09:16,950
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#ffffff">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+289
+00:09:16,950 --> 00:09:16,950
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font size="20">Matsumura Sayuri</font></b></font>
+
+290
+00:09:16,950 --> 00:09:18,150
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#000000"><font size="22">from Osaka</font></font></b></font>
+
+291
+00:09:18,150 --> 00:09:22,080
+<font size="28"><b>-  In my elementary school...
+- What? Don't tell me...</b></font>
+
+292
+00:09:22,080 --> 00:09:27,080
+<font size="28"><b>Back on a teacher exchange, there was a new headmaster, 
+ it happened when I was a fourth grader.</b></font>
+
+293
+00:09:27,080 --> 00:09:29,680
+<font size="28"><b>Suddenly my headmaster got changed, and...</b></font>
+
+294
+00:09:29,680 --> 00:09:33,110
+<font size="28"><b>... he told us
+ "<i>Actually, that teacher can guess the weight of a gourd...</i>."</b></font>
+
+295
+00:09:33,110 --> 00:09:35,080
+<font size="28"><b>Since there was no big gourd in Osaka...</b></font>
+
+296
+00:09:35,080 --> 00:09:35,080
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#bb78e6">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+297
+00:09:35,080 --> 00:09:37,550
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font size="16">The Mysterious [Gourd Quiz]
+Matsumura also has a similar experience</font></b></font>
+
+298
+00:09:37,550 --> 00:09:42,560
+<font size="28"><b>He told us to guess the weight of the dirt instead.</b></font>
+
+299
+00:09:42,560 --> 00:09:45,280
+<font size="28"><b>Wasn't that Takayama's teacher?</b></font>
+
+300
+00:09:45,280 --> 00:09:46,310
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}The gourd teacher got transferred?</b></font>
+
+301
+00:09:46,310 --> 00:09:49,780
+<font size="28"><b>Kyaaa! Awesome! Unbelievable!</b></font>
+
+302
+00:09:49,780 --> 00:09:53,080
+<font size="28"><b>- Do you remember his name?
+- Ah, I don't.</b></font>
+
+303
+00:09:53,080 --> 00:09:55,080
+<font size="28"><b>What do you mean with the weight of the dirt!?</b></font>
+
+304
+00:09:55,080 --> 00:09:55,640
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}Now it's The Dirt Quiz.</b></font>
+
+305
+00:09:55,640 --> 00:10:00,010
+<font size="28"><b>- I don't get it at all!
+- They used that because there was no gourd.</b></font>
+
+306
+00:10:00,010 --> 00:10:04,510
+<font size="28"><b>- Like a handful of dirt...
+- He said, "<i>Normally we use gourd, but let's just use this in Osaka</i>..."</b></font>
+
+307
+00:10:04,510 --> 00:10:05,660
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}So that was the gourd teacher?</b></font>
+
+308
+00:10:05,660 --> 00:10:07,200
+<font size="28"><b>That's for sure!</b></font>
+
+309
+00:10:07,200 --> 00:10:10,680
+<font size="28"><b>- Amazing!
+- I remembered so suddenly...</b></font>
+
+310
+00:10:10,680 --> 00:10:14,110
+<font size="28"><b>Wasn't our story so scary just now?</b></font>
+
+311
+00:10:14,110 --> 00:10:14,110
+<font size="28"><b>- Let's send this to "<i>Tantei! Naito Scoop</i>".
+- Yeah, let's do that!</b></font>
+
+312
+00:10:14,110 --> 00:10:16,280
+<font face="Arial Rounded MT Bold" size="20"><b>{\an8}[ Tantei! Naito Scoop = a show where detectives 
+solve problems the viewers had sent to them ]</b></font>
+
+313
+00:10:16,280 --> 00:10:19,680
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}Legit investigation.</b></font>
+
+314
+00:10:19,760 --> 00:10:23,070
+<font size="28"><b>- Your teacher might get found.
+- That's right.</b></font>
+
+315
+00:10:23,070 --> 00:10:25,070
+<font size="28"><b>Okay, let's continue, here it is.</b></font>
+
+316
+00:10:25,080 --> 00:10:25,080
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#943ae6">Does It Only Exist In My Hometown? <font color="#df2014">[ Local Event Category ]</font></font></b></font>
+
+317
+00:10:25,080 --> 00:10:25,550
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#ea7436">All-You-Can-Eat In Someone Else's House</font></b></font>
+
+318
+00:10:25,550 --> 00:10:27,070
+<font size="28"><b>EEHH!!!??</b></font>
+
+319
+00:10:27,070 --> 00:10:29,280
+<font size="28"><b>- What is this?
+- All you can eat in someone else's house?</b></font>
+
+320
+00:10:29,280 --> 00:10:29,280
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#bb78e6">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+321
+00:10:29,280 --> 00:10:29,900
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font size="16">All you can eat
+in a stranger's house</font></b></font>
+
+322
+00:10:29,900 --> 00:10:33,560
+<font size="28"><b>- What is this?
+- I don't understand. Whose is this?</b></font>
+
+323
+00:10:33,560 --> 00:10:35,950
+<font size="28"><b>- Where?  - Who?
+- Me.</b></font>
+
+324
+00:10:35,950 --> 00:10:36,880
+<font size="28"><b>- Nagasaki? Kawago!
+- Nagasaki?</b></font>
+
+325
+00:10:36,880 --> 00:10:36,880
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#7e0d86">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+326
+00:10:36,880 --> 00:10:36,880
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#ffffff">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+327
+00:10:36,880 --> 00:10:36,880
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font size="20">Kawago Hina</font></b></font>
+
+328
+00:10:36,880 --> 00:10:39,380
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#000000"><font size="20">from Nagasaki</font></font></b></font>
+
+329
+00:10:39,380 --> 00:10:39,910
+<font size="28"><b>Yes. There's a festival 
+called Nagasaki Kunchi back in my place.</b></font>
+
+330
+00:10:39,910 --> 00:10:39,910
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#ffffff">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+331
+00:10:39,910 --> 00:10:39,910
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font size="18"><font color="#000000">A festival of Suwa Shrine in Nagasaki
+A name of the dynamic (Dragon Dance)</font></font></b></font>
+
+332
+00:10:39,910 --> 00:10:43,410
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#df2014">Nagasaki Kunchi</font></b></font>
+
+333
+00:10:43,410 --> 00:10:47,010
+<font size="28"><b>On the day of festival, we can go to someone's house
+ and eat as much as we want.</b></font>
+
+334
+00:10:47,010 --> 00:10:47,010
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#bb78e6">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+335
+00:10:47,010 --> 00:10:51,080
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font size="16">A festival in Nagasaki
+All you can eat in a stranger's house</font></b></font>
+
+336
+00:10:51,080 --> 00:10:53,880
+<font size="28"><b>- You gotta be kidding me!  - No, it's real.
+- Isn't that creepy?</b></font>
+
+337
+00:10:53,880 --> 00:10:55,880
+<font size="28"><b>It's just for children, right?</b></font>
+
+338
+00:10:55,880 --> 00:10:59,650
+<font size="28"><b>No. There were quite some old men I don't know
+ came to our house.</b></font>
+
+339
+00:10:59,650 --> 00:11:00,850
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}Strangers are coming to eat.</b></font>
+
+340
+00:11:00,850 --> 00:11:04,270
+<font size="28"><b>No! That's creepy!</b></font>
+
+341
+00:11:04,270 --> 00:11:07,080
+<font size="28"><b>Was it okay for them to came into your house?</b></font>
+
+342
+00:11:07,080 --> 00:11:10,750
+<font size="28"><b>So a bunch of old men came to your house?</b></font>
+
+343
+00:11:10,750 --> 00:11:12,950
+<font size="28"><b>- Yes! I don't know any of them.
+- Seriously?</b></font>
+
+344
+00:11:12,950 --> 00:11:16,480
+<font size="28"><b>- Yes, and they ate as much as they wanted 
+in my house and went home.  - That's very bizzare!</b></font>
+
+345
+00:11:16,480 --> 00:11:18,490
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}Area of crime risks.</b></font>
+
+346
+00:11:18,490 --> 00:11:20,180
+<font size="28"><b>That's so creepy!</b></font>
+
+347
+00:11:20,180 --> 00:11:24,270
+<font size="28"><b>But we all understand each other...</b></font>
+
+348
+00:11:24,270 --> 00:11:28,350
+<font size="28"><b>- At least you knew who they were, right?
+Like they weren't total strangers?  - Ah, well...</b></font>
+
+349
+00:11:28,350 --> 00:11:32,960
+<font size="28"><b>- ... since it's a rural area, everyone was close
+ and befriended each other.   - I see.</b></font>
+
+350
+00:11:32,960 --> 00:11:38,960
+<font size="28"><b>- So on that festival, everything in that area 
+is available to be eaten?  - Exactly.</b></font>
+
+351
+00:11:38,960 --> 00:11:40,960
+<font size="28"><b>Unbelievable!</b></font>
+
+352
+00:11:40,960 --> 00:11:43,210
+<font size="28"><b>Ah, here's an information about Nagasaki.</b></font>
+
+353
+00:11:43,210 --> 00:11:43,210
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#ffffff">m 167 42 l 0 42 l 0 0 l 167 0</font></b></font>
+
+354
+00:11:43,210 --> 00:11:43,210
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font size="20"><font color="#ffffff">Additional Information Regarding All-You-Can-Eat In Someone Else's House</font></font></b></font>
+
+355
+00:11:43,210 --> 00:11:43,310
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font size="18"><font color="#000000">On Nagasaki Kunchi (especially Karatsu Kunchi), there's a <font color="#df2014">local custom 
+ which is providing anyone with meals which was the start of this tradition</font></font></font></b></font>
+
+356
+00:11:43,310 --> 00:11:48,350
+<font size="28"><b>Nagasaki Kunchi is a custom to receive anyone. 
+ So it's...</b></font>
+
+357
+00:11:48,350 --> 00:11:50,950
+<font size="28"><b>So it was a custom, then it became a tradition.</b></font>
+
+358
+00:11:50,950 --> 00:11:51,250
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font size="20"><font color="#000000">In the area where the festival is taking place, the local women
+cook the luxurious <font color="#df2014">[Kunchi Food] <font color="#000000">without stopping</font></font></font></font></b></font>
+
+359
+00:11:51,250 --> 00:11:55,250
+<font size="28"><b>Because of that, when the festival is going on, 
+ the women stay inside the house and keep cooking.</b></font>
+
+360
+00:11:55,250 --> 00:11:58,780
+<font size="28"><b>Keep cooking? That's very tiring!</b></font>
+
+361
+00:11:58,780 --> 00:12:00,410
+<font size="28"><b>Pretty interesting!</b></font>
+
+362
+00:12:01,260 --> 00:12:06,850
+<font size="28"><b><i>Next segment, there will be a mysterious local delicacy!</i></b></font>
+
+363
+00:12:09,260 --> 00:12:12,110
+<font size="28"><b>Alright, next topic.</b></font>
+
+364
+00:12:12,110 --> 00:12:12,110
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#943ae6">Does It Only Exist In My Hometown?</font></b></font>
+
+365
+00:12:12,110 --> 00:12:12,510
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#ea7436">[ Food Category ]</font></b></font>
+
+366
+00:12:12,510 --> 00:12:15,610
+<font size="28"><b>Does it only exist in my hometown?
+Food Category!</b></font>
+
+367
+00:12:16,080 --> 00:12:18,320
+<font size="28"><b>So we have this too!</b></font>
+
+368
+00:12:18,320 --> 00:12:20,140
+<font size="28"><b>Alright, here's the first one!</b></font>
+
+369
+00:12:20,210 --> 00:12:20,210
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#943ae6">Does It Only Exist In My Hometown? <font color="#ea7436">[ Food Category ]</font></font></b></font>
+
+370
+00:12:20,210 --> 00:12:21,450
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#c52928">BABAHERA</font></b></font>
+
+371
+00:12:21,450 --> 00:12:23,610
+<font size="28"><b>Babahera?</b></font>
+
+372
+00:12:23,610 --> 00:12:24,980
+<font size="28"><b>- Wait a second!
+- What is this?</b></font>
+
+373
+00:12:24,980 --> 00:12:24,980
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#bb78e6">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+374
+00:12:24,980 --> 00:12:24,980
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font size="16">Special delicacy of Akita prefecture
+[BABAHERA]</font></b></font>
+
+375
+00:12:24,980 --> 00:12:24,980
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#7e0d86">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+376
+00:12:24,980 --> 00:12:24,980
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#ffffff">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+377
+00:12:24,980 --> 00:12:24,980
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font size="20">Ikoma Rina</font></b></font>
+
+378
+00:12:24,980 --> 00:12:25,480
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#000000"><font size="22">from Akita</font></font></b></font>
+
+379
+00:12:25,480 --> 00:12:29,350
+<font size="28"><b>Ikoma? It's in Akita? 
+First thing first, what's a Babahera? Wait...</b></font>
+
+380
+00:12:29,350 --> 00:12:31,350
+<font size="28"><b>- We'll try to guess.
+- Alright, got it.</b></font>
+
+381
+00:12:31,350 --> 00:12:33,750
+<font size="28"><b>- It's like a Miso.
+- I'm thinking about the same thing too!</b></font>
+
+382
+00:12:33,750 --> 00:12:37,310
+<font size="28"><b>- Baba (granny) does this using Hera (spatula).
+- But there are Baba and Hera.</b></font>
+
+383
+00:12:37,310 --> 00:12:39,920
+<font size="28"><b>- There are Baba and Hera.
+- No way!</b></font>
+
+384
+00:12:39,920 --> 00:12:41,920
+<font size="28"><b>Okay, tell us what it is. What is this?</b></font>
+
+385
+00:12:41,920 --> 00:12:43,920
+<font size="28"><b>Ice cream.</b></font>
+
+386
+00:12:43,920 --> 00:12:45,680
+<font size="28"><b>So it's ice cream?</b></font>
+
+387
+00:12:45,680 --> 00:12:47,390
+<font size="28"><b>Here it is.</b></font>
+
+388
+00:12:47,390 --> 00:12:50,850
+<font size="28"><b>- So pretty!
+- This is Babahera...</b></font>
+
+389
+00:12:50,850 --> 00:12:56,760
+<font size="28"><b>... because a granny uses a spatula 
+ to make such ice cream.</b></font>
+
+390
+00:12:56,760 --> 00:12:59,680
+<font size="28"><b>The rose shape can only be done by professionals.</b></font>
+
+391
+00:12:59,680 --> 00:13:05,010
+<font size="28"><b>- Wait, what are those made of? The pink and the yellow,
+ are those ice cream?   - Correct, those are ice cream.</b></font>
+
+392
+00:13:05,960 --> 00:13:10,810
+<font size="28"><b>They use strawberry and banana flavor there...</b></font>
+
+393
+00:13:10,810 --> 00:13:13,020
+<font size="28"><b>It's very good, Baba with a Hera...</b></font>
+
+394
+00:13:13,020 --> 00:13:15,280
+<font size="28"><b>- So only a Baba makes this?!</b></font>
+
+395
+00:13:15,280 --> 00:13:15,470
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}Just for Babaa (Grandma).</b></font>
+
+396
+00:13:15,470 --> 00:13:18,670
+<font size="28"><b>Yes. The ones who sell this...</b></font>
+
+397
+00:13:18,670 --> 00:13:22,910
+<font size="28"><b>- I wanna see a Jiji (grandpa) making it too!
+- There are moments where Jijis make it instead.</b></font>
+
+398
+00:13:22,910 --> 00:13:25,000
+<font size="28"><b>But mostly grannies.</b></font>
+
+399
+00:13:25,000 --> 00:13:26,750
+<font size="28"><b>Baba with a Hera.</b></font>
+
+400
+00:13:26,750 --> 00:13:29,610
+<font size="28"><b>What is she doing there?</b></font>
+
+401
+00:13:29,610 --> 00:13:30,910
+<font size="28"><b>They're doing business in a place like this.</b></font>
+
+402
+00:13:30,910 --> 00:13:32,800
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}Lonely.</b></font>
+
+403
+00:13:32,800 --> 00:13:37,080
+<font size="28"><b>On the side of the road, near the mountains.</b></font>
+
+404
+00:13:37,080 --> 00:13:38,980
+<font size="28"><b>How did she get there?</b></font>
+
+405
+00:13:38,980 --> 00:13:40,980
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}She lives here?</b></font>
+
+406
+00:13:40,980 --> 00:13:42,730
+<font size="28"><b>They have a method!</b></font>
+
+407
+00:13:42,730 --> 00:13:48,410
+<font size="28"><b>- There's a Babahera company...
+- There's a company?!</b></font>
+
+408
+00:13:48,410 --> 00:13:51,450
+<font size="28"><b>When the grannies are going to work...</b></font>
+
+409
+00:13:51,450 --> 00:13:54,780
+<font size="28"><b>... they get picked by a car, 
+ and they get dropped at some spots.</b></font>
+
+410
+00:13:54,780 --> 00:13:55,930
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}Seed-sowing strategy</b></font>
+
+411
+00:13:55,930 --> 00:14:00,180
+<font size="28"><b>A bunch of grannies are being picked up by a car at once...</b></font>
+
+412
+00:14:00,180 --> 00:14:03,550
+<font size="28"><b>... then they'll get dropped off at each points?</b></font>
+
+413
+00:14:04,170 --> 00:14:05,850
+<font size="28"><b>I see.</b></font>
+
+414
+00:14:05,850 --> 00:14:05,850
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#bb78e6">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+415
+00:14:05,850 --> 00:14:05,950
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font size="16">Special delicacy of Akita prefecture
+The mystery of [BABAHERA]</font></b></font>
+
+416
+00:14:05,950 --> 00:14:09,530
+<font size="28"><b>Then when their work hour is up, 
+they'll get picked up one by one.</b></font>
+
+417
+00:14:09,530 --> 00:14:11,530
+<font size="28"><b>So that's how it is.</b></font>
+
+418
+00:14:11,530 --> 00:14:15,180
+<font size="28"><b>Well so while waiting for the car, 
+ they'll just keep making the Babaheras forever!</b></font>
+
+419
+00:14:15,180 --> 00:14:15,910
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}A sad work system.</b></font>
+
+420
+00:14:15,910 --> 00:14:17,240
+<font size="28"><b>Precisely!</b></font>
+
+421
+00:14:17,240 --> 00:14:21,370
+<font size="28"><b>- How much is this?
+- About 150 Yen.   - Eh, that's very cheap!</b></font>
+
+422
+00:14:21,370 --> 00:14:23,740
+<font size="28"><b>- That's cheap.
+- You can certainly find them on a festival.</b></font>
+
+423
+00:14:23,740 --> 00:14:29,260
+<font size="28"><b>A while ago when there was a festival in Akita, 
+ Babahera also came to that festival.</b></font>
+
+424
+00:14:29,260 --> 00:14:32,210
+<font size="28"><b>Actually, they just came as they want.</b></font>
+
+425
+00:14:32,210 --> 00:14:34,210
+<font size="28"><b>Just as they want?</b></font>
+
+426
+00:14:34,210 --> 00:14:36,450
+<font size="28"><b>So right after a Babahera got dropped off...</b></font>
+
+427
+00:14:36,450 --> 00:14:38,080
+<font size="28"><b>... all she does is this.</b></font>
+
+428
+00:14:38,080 --> 00:14:38,910
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}Zero Complain.</b></font>
+
+429
+00:14:38,910 --> 00:14:40,910
+<font size="28"><b>Why?</b></font>
+
+430
+00:14:40,910 --> 00:14:43,320
+<font size="28"><b>Shall we continue?
+ Here's next!</b></font>
+
+431
+00:14:43,380 --> 00:14:43,380
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#943ae6">Does It Only Exist In My Hometown? <font color="#ea7436">[ Food Category ]</font></font></b></font>
+
+432
+00:14:43,380 --> 00:14:45,600
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#c52928">What Do You Call This?</font></b></font>
+
+433
+00:14:45,600 --> 00:14:47,280
+<font size="28"><b>What do you call this?</b></font>
+
+434
+00:14:47,280 --> 00:14:47,280
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#bb78e6">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+435
+00:14:47,280 --> 00:14:47,280
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font size="22">What do you call this?</font></b></font>
+
+436
+00:14:47,280 --> 00:14:47,280
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#7e0d86">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+437
+00:14:47,280 --> 00:14:47,280
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#ffffff">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+438
+00:14:47,280 --> 00:14:47,280
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font size="20">Kawamura Mahiro</font></b></font>
+
+439
+00:14:47,280 --> 00:14:47,320
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#000000"><font size="22">from Osaka</font></font></b></font>
+
+440
+00:14:47,320 --> 00:14:49,130
+<font size="28"><b>Ah, me!</b></font>
+
+441
+00:14:49,130 --> 00:14:49,130
+<font size="28"><b>- We call that Obanyaki or Imagawayaki.
+- Maybe it's different.</b></font>
+
+442
+00:14:49,130 --> 00:14:52,150
+<font face="Arial Rounded MT Bold" size="20"><b>{\an8}[ Obanyaki/Imagawayaki = snack with red paste fillings ]</b></font>
+
+443
+00:14:52,150 --> 00:14:52,150
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#ffffff">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+444
+00:14:52,150 --> 00:14:52,180
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#000000">Osaka Prefecture <font face="Wingdings 3"><font color="#df2014">=<font face="Arial Rounded MT Bold"> Kaitenyaki</font></font></font></font></b></font>
+
+445
+00:14:52,180 --> 00:14:57,180
+<font size="28"><b>- We call that Kaitenyaki in Osaka.
+- Kaitenyaki, huh?</b></font>
+
+446
+00:14:57,180 --> 00:15:01,580
+<font size="28"><b>Even though we call it Kaitenyaki,
+ that's not the case in Tokyo.</b></font>
+
+447
+00:15:01,580 --> 00:15:05,610
+<font size="28"><b>- There's Kaitenyaki too in Kyushu!
+- Maybe it came from Osaka.</b></font>
+
+448
+00:15:05,610 --> 00:15:05,610
+<font size="28"><b>- But it's different in Hiroshima.
+- What is it? Okonomiyaki?</b></font>
+
+449
+00:15:05,610 --> 00:15:07,210
+<font face="Arial Rounded MT Bold" size="20"><b>{\an8}[ Both of Hiroshima & Kyushu are located on the southern part of Japan ]
+[ Okonomiyaki = Hiroshima's special delicacy ]</b></font>
+
+450
+00:15:07,210 --> 00:15:07,210
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#7e0d86">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+451
+00:15:07,210 --> 00:15:07,210
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#ffffff">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+452
+00:15:07,210 --> 00:15:07,210
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font size="20">Nakamoto Himeka</font></b></font>
+
+453
+00:15:07,210 --> 00:15:10,550
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#000000"><font size="22">from Nagashima</font></font></b></font>
+
+454
+00:15:12,170 --> 00:15:15,980
+<font size="28"><b>Usually it's called Obanyaki in Tokyo.</b></font>
+
+455
+00:15:15,980 --> 00:15:16,580
+<font size="28"><b>Nijuuyaki?</b></font>
+
+456
+00:15:16,580 --> 00:15:16,580
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#ffffff">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+457
+00:15:16,580 --> 00:15:17,980
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#000000">Hiroshima Prefecture <font face="Wingdings 3"><font color="#df2014">=<font face="Arial Rounded MT Bold"> Nijuuyaki</font></font></font></font></b></font>
+
+458
+00:15:17,980 --> 00:15:22,570
+<font size="28"><b>Eh, I don't really know. 
+But maybe it's called Nijuuyaki.</b></font>
+
+459
+00:15:22,570 --> 00:15:25,510
+<font size="28"><b>- Nijouyaki?
+- Nijuuyaki. But perhaps that's...</b></font>
+
+460
+00:15:25,510 --> 00:15:27,710
+<font size="28"><b>Eh, it's okay, let's go with that. 
+So, Nijuuyaki?</b></font>
+
+461
+00:15:27,710 --> 00:15:30,250
+<font size="28"><b>- It's alright compared to the "Gourd Quiz" story earlier. 
+ - Why?!</b></font>
+
+462
+00:15:30,250 --> 00:15:32,210
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}A very trusted local information.</b></font>
+
+463
+00:15:32,250 --> 00:15:33,250
+<font size="28"><b>- Others? Ah, Akita.
+- Ajiman.</b></font>
+
+464
+00:15:33,250 --> 00:15:33,250
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#ffffff">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+465
+00:15:33,250 --> 00:15:34,880
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#000000">Akita Prefecture <font face="Wingdings 3"><font color="#df2014">=<font face="Arial Rounded MT Bold"> Ajiman</font></font></font></font></b></font>
+
+466
+00:15:34,880 --> 00:15:36,880
+<font size="28"><b>Huh? Ajiman?</b></font>
+
+467
+00:15:36,880 --> 00:15:40,960
+<font size="28"><b>Where they sell this Ajiman, they also sell Takoyaki.</b></font>
+
+468
+00:15:40,960 --> 00:15:44,800
+<font size="28"><b>So Ajiman? Are the others different too?
+ Hokkaido?</b></font>
+
+469
+00:15:44,800 --> 00:15:44,850
+<font size="28"><b>We call that Oyaki.</b></font>
+
+470
+00:15:44,850 --> 00:15:44,850
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#ffffff">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+471
+00:15:44,850 --> 00:15:47,320
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#000000">Hokkaido <font face="Wingdings 3"><font color="#df2014">= <font face="Arial Rounded MT Bold">Oyaki</font></font></font></font></b></font>
+
+472
+00:15:47,320 --> 00:15:49,110
+<font size="28"><b>Well, Oyaki...</b></font>
+
+473
+00:15:49,110 --> 00:15:49,110
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#e30a22"><font face="Arial"><font size="18">Oyaki, Shinshu's original product</font></font></font></b></font>
+
+474
+00:15:49,110 --> 00:15:49,320
+<font face="Arial Rounded MT Bold" size="20"><b>{\an8}[ Shinshu = another name of Nagano prefecture ]
+[ Takana = pasta made from mustard plant ]</b></font>
+
+475
+00:15:49,320 --> 00:15:54,300
+<font size="28"><b>- ... there's a lot of fillings...
+- Like <i>Takana</i> too.</b></font>
+
+476
+00:15:54,300 --> 00:15:57,410
+<font size="28"><b>But it's just in my place it's called Oyaki.</b></font>
+
+477
+00:15:57,410 --> 00:15:58,250
+<font size="28"><b>Basically in Kanto, this is called Imagawayaki or Obanyaki.</b></font>
+
+478
+00:15:58,250 --> 00:15:58,250
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#ffffff">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+479
+00:15:58,250 --> 00:16:02,950
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#000000">Kanto  <font face="Wingdings 3"><font color="#df2014">=<font face="Arial Rounded MT Bold"> Imagawayaki • Obanyaki</font></font></font></font></b></font>
+
+480
+00:16:02,950 --> 00:16:05,650
+<font size="28"><b>- But it's different in my place.
+- Eh, no way!</b></font>
+
+481
+00:16:05,650 --> 00:16:07,180
+<font size="28"><b>What? Hyoutanyaki? 
+(Hyoutan = Gourd)</b></font>
+
+482
+00:16:07,180 --> 00:16:09,390
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}Inheriting the name of Miss Gourd.</b></font>
+
+483
+00:16:09,390 --> 00:16:10,710
+<font size="28"><b>- Takayama, what about your place?
+- It's called Amatarou in my place.</b></font>
+
+484
+00:16:10,710 --> 00:16:10,710
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#ffffff">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+485
+00:16:10,710 --> 00:16:12,580
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#000000">Chiba Prefecture <font face="Wingdings 3"><font color="#df2014">=<font face="Arial Rounded MT Bold"> Amatarou</font></font></font></font></b></font>
+
+486
+00:16:12,580 --> 00:16:16,620
+<font size="28"><b>- No! No!
+- What a difference!</b></font>
+
+487
+00:16:16,620 --> 00:16:20,080
+<font size="28"><b>I thought it would end with "<i>Yaki</i>", 
+ but actually it's "<i>Tarou</i>".</b></font>
+
+488
+00:16:20,080 --> 00:16:22,700
+<font size="28"><b>- Amatarou?
+- Yes, Amatarou.</b></font>
+
+489
+00:16:22,700 --> 00:16:25,820
+<font size="28"><b>Alright, moving on. 
+ Here's the next theme.</b></font>
+
+490
+00:16:25,910 --> 00:16:25,910
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#943ae6">Does It Only Exist In My Hometown?</font></b></font>
+
+491
+00:16:25,910 --> 00:16:26,480
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#3b3cd1">[ Local Commercial Ad Category ]</font></b></font>
+
+492
+00:16:26,480 --> 00:16:30,750
+<font size="28"><b>Does this only exist in my hometown?
+Commercial Ad Category.</b></font>
+
+493
+00:16:31,230 --> 00:16:35,750
+<font size="28"><b>There must be some ads that only broadcasted in their hometowns.</b></font>
+
+494
+00:16:35,750 --> 00:16:39,210
+<font size="28"><b>This seems interesting.
+Okay, first is this.</b></font>
+
+495
+00:16:39,250 --> 00:16:39,250
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#943ae6">Does It Only Exist In My Hometown? <font color="#3b3cd1">[ Local Commercial Ad Category ]</font></font></b></font>
+
+496
+00:16:39,250 --> 00:16:39,960
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#c52928">The Poppo Ojisan Song</font></b></font>
+
+497
+00:16:39,960 --> 00:16:42,380
+<font size="28"><b>The Poppo Ojisan song.</b></font>
+
+498
+00:16:42,380 --> 00:16:44,570
+<font size="28"><b>- What is this? Whose hometown is this?
+- Me.</b></font>
+
+499
+00:16:44,570 --> 00:16:46,280
+<font size="28"><b>- There's a lot of things there.
+- From Oita.   - Oita.</b></font>
+
+500
+00:16:46,280 --> 00:16:46,280
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#7e0d86">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+501
+00:16:46,280 --> 00:16:46,280
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#ffffff">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+502
+00:16:46,280 --> 00:16:46,280
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font size="18">Hatanaka Seira</font></b></font>
+
+503
+00:16:46,280 --> 00:16:48,880
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#000000"><font size="18">from Oita prefecture</font></font></b></font>
+
+504
+00:16:48,880 --> 00:16:48,980
+<font size="28"><b>- Does everyone in Oita know this Poppo Ojisan song?
+- Certainly!</b></font>
+
+505
+00:16:48,980 --> 00:16:48,980
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#bb78e6">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+506
+00:16:48,980 --> 00:16:53,280
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font size="16">A popular ad in Oita region
+The Poppo Ojisan Song</font></b></font>
+
+507
+00:16:53,280 --> 00:16:55,040
+<font size="28"><b>I see.</b></font>
+
+508
+00:16:55,040 --> 00:16:59,580
+<font size="28"><b>This is a song of Karaage shop.</b></font>
+
+509
+00:16:59,580 --> 00:17:01,110
+<font size="28"><b>This is a drawing song!</b></font>
+
+510
+00:17:01,110 --> 00:17:04,550
+<font size="28"><b>Then I'll try to draw it according to the song on a paper.</b></font>
+
+511
+00:17:04,550 --> 00:17:06,250
+<font size="28"><b>We'll try to draw it.</b></font>
+
+512
+00:17:06,250 --> 00:17:08,750
+<font size="28"><b>- You draw it too.
+- Draw the correct answer.</b></font>
+
+513
+00:17:09,760 --> 00:17:14,180
+<font size="28"><b><i>Before they see the actual ad,
+ we'll try the drawing challenge based from their singing.</i></b></font>
+
+514
+00:17:14,480 --> 00:17:16,180
+<font size="28"><b>Okay, I will draw it for real.</b></font>
+
+515
+00:17:16,180 --> 00:17:17,410
+<font size="28"><b>- Please start.
+- Go!</b></font>
+
+516
+00:17:17,410 --> 00:17:18,180
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#e30a22">♪ Poppoojisan no Uta</font></b></font>
+
+517
+00:17:18,180 --> 00:17:18,180
+<font size="28"><b>Poppoppo~ on the Onigiri~</b></font>
+
+518
+00:17:18,180 --> 00:17:21,800
+<font face="Arial Rounded MT Bold" size="20"><b>{\an8}[ Poppoppo = Onomatopoeia of something puffing like steam from hot food ]</b></font>
+
+519
+00:17:21,800 --> 00:17:21,800
+<font size="28"><b>Put two <i>Umeboshi</i>s and wrap it in <i>Nori</i>.</b></font>
+
+520
+00:17:21,800 --> 00:17:25,340
+<font face="Arial Rounded MT Bold" size="20"><b>{\an8}[ Umeboshi = dried plum ]</b></font>
+
+521
+00:17:25,340 --> 00:17:30,180
+<font size="28"><b>Sprinkle some sesame and salt, it's Poppo  Ojisan.</b></font>
+
+522
+00:17:30,180 --> 00:17:30,680
+<font size="28"><b>What was that? Eh!</b></font>
+
+523
+00:17:30,680 --> 00:17:30,680
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#bb78e6">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+524
+00:17:30,680 --> 00:17:32,180
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font size="16">A popular ad in Oita region
+The Poppo Ojisan Song</font></b></font>
+
+525
+00:17:32,180 --> 00:17:34,320
+<font size="28"><b>That sounded scary!</b></font>
+
+526
+00:17:34,320 --> 00:17:36,150
+<font size="28"><b>Hold on, you were too fast!</b></font>
+
+527
+00:17:36,150 --> 00:17:38,880
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}The tempo was too fast.</b></font>
+
+528
+00:17:39,020 --> 00:17:42,550
+<font size="28"><b>Here's mine.</b></font>
+
+529
+00:17:44,030 --> 00:17:46,410
+<font size="28"><b>I thought the song would be a bit longer.</b></font>
+
+530
+00:17:48,590 --> 00:17:52,910
+<font size="28"><b><i>Now please watch the real Poppo Ojisan ad here.</i></b></font>
+
+531
+00:17:54,150 --> 00:17:57,880
+<font size="28"><b>Poppoppo~ on the Onigiri~</b></font>
+
+532
+00:17:57,880 --> 00:18:01,310
+<font size="28"><b>Put two <i>Umeboshi</i>s and wrap it in <i>Nori</i>.</b></font>
+
+533
+00:18:01,310 --> 00:18:04,410
+<font size="28"><b>Sprinkle some sesame and salt, it's Poppo Ojisan.</b></font>
+
+534
+00:18:04,410 --> 00:18:06,580
+<font size="28"><b>How cute!</b></font>
+
+535
+00:18:06,880 --> 00:18:08,610
+<font size="28"><b>Oita Karaage!</b></font>
+
+536
+00:18:08,610 --> 00:18:09,150
+<font size="28"><b>- So that's Poppo Ojisan?
+ - It's been a while since I saw that.   - That's cute!</b></font>
+
+537
+00:18:09,150 --> 00:18:09,150
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#2fc5fe">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+538
+00:18:09,150 --> 00:18:11,120
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font size="22"><font color="#ef5200">Poppo Ojisan</font></font></b></font>
+
+539
+00:18:11,120 --> 00:18:14,980
+<font size="28"><b>Isn't Poppo Ojisan weird?
+It's red from here on!</b></font>
+
+540
+00:18:15,870 --> 00:18:19,050
+<font size="28"><b>- Seriously!
+- So this is Oita's Karaage!</b></font>
+
+541
+00:18:19,210 --> 00:18:21,900
+<font size="28"><b>- We didn't know this.
+- That's true.</b></font>
+
+542
+00:18:21,900 --> 00:18:25,350
+<font size="28"><b>- Oita itself is famous for its Karaage.
+- Ah, I see.</b></font>
+
+543
+00:18:25,350 --> 00:18:27,350
+<font size="28"><b>Moving on, here it is.</b></font>
+
+544
+00:18:27,410 --> 00:18:27,410
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#943ae6">Does It Only Exist In My Hometown? <font color="#3b3cd1">[ Local Commercial Ad Category ]</font></font></b></font>
+
+545
+00:18:27,410 --> 00:18:27,410
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#db662d">Long Term Relationship</font></b></font>
+
+546
+00:18:27,410 --> 00:18:28,410
+<font face="Arial Rounded MT Bold" size="20"><b>{\an8}[ Nagai Otsukiai = long term relationship, the company is trusted
+ and gives the best service over a long period of time  ]</b></font>
+
+547
+00:18:28,410 --> 00:18:31,910
+<font size="28"><b>Long term relationship?</b></font>
+
+548
+00:18:31,910 --> 00:18:33,680
+<font size="28"><b>- Who?
+- Me!</b></font>
+
+549
+00:18:33,680 --> 00:18:36,210
+<font size="28"><b>- Osaka?   - Yes.
+- What ad is this?</b></font>
+
+550
+00:18:36,210 --> 00:18:36,210
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#7e0d86">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+551
+00:18:36,210 --> 00:18:36,210
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#ffffff">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+552
+00:18:36,210 --> 00:18:36,210
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font size="20">Matsumura Sayuri</font></b></font>
+
+553
+00:18:36,210 --> 00:18:36,670
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#000000"><font size="22">from Osaka</font></font></b></font>
+
+554
+00:18:36,670 --> 00:18:38,780
+<font size="28"><b>It's an ad of the Bank of Kyoto.</b></font>
+
+555
+00:18:38,780 --> 00:18:38,780
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#bb78e6">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+556
+00:18:38,780 --> 00:18:40,080
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font size="16">A popular ad in Osaka region
+Long Term Relationship</font></b></font>
+
+557
+00:18:40,080 --> 00:18:43,510
+<font size="28"><b>- And it's seriously long.
+- Yes.</b></font>
+
+558
+00:18:43,510 --> 00:18:46,850
+<font size="28"><b>- Literally.
+- Everything is literally long.</b></font>
+
+559
+00:18:46,850 --> 00:18:48,380
+<font size="28"><b>Let's check it out.</b></font>
+
+560
+00:18:49,580 --> 00:18:53,610
+<font size="28"><b>Long~~~~~~~~~~ Term Relationship</b></font>
+
+561
+00:18:53,610 --> 00:19:01,380
+<font size="28"><b>Ah, the nostalgia.</b></font>
+
+562
+00:19:01,380 --> 00:19:01,880
+<font size="28"><b>I see.</b></font>
+
+563
+00:19:01,880 --> 00:19:03,880
+<font size="28"><b>Bank of Kyoto</b></font>
+
+564
+00:19:04,480 --> 00:19:04,480
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#bb78e6">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+565
+00:19:04,480 --> 00:19:06,270
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font size="16">A popular ad in Osaka region
+Long Term Relationship</font></b></font>
+
+566
+00:19:06,270 --> 00:19:07,880
+<font size="28"><b>So that was the "long"?</b></font>
+
+567
+00:19:09,290 --> 00:19:11,390
+<font size="28"><b>- This feels so Osaka.
+- It does!</b></font>
+
+568
+00:19:11,580 --> 00:19:11,580
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#943ae6">Bank of Kyoto<font color="#db662d"> Long Term Relationship</font></font></b></font>
+
+569
+00:19:11,580 --> 00:19:11,950
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#3b3cd1">Toast Category</font></b></font>
+
+570
+00:19:11,950 --> 00:19:13,750
+<font size="28"><b>Toast?</b></font>
+
+571
+00:19:13,750 --> 00:19:15,980
+<font size="28"><b>Ah, there's more?</b></font>
+
+572
+00:19:15,980 --> 00:19:17,980
+<font size="28"><b>What is this?</b></font>
+
+573
+00:19:17,980 --> 00:19:20,910
+<font size="28"><b>Eeeehhhh???!!!</b></font>
+
+574
+00:19:20,910 --> 00:19:22,880
+<font size="28"><b>- Awesome!
+- That's weird!</b></font>
+
+575
+00:19:23,210 --> 00:19:28,080
+<font size="28"><b>Long~~~~~~~~~~ Term Relationship</b></font>
+
+576
+00:19:28,080 --> 00:19:29,480
+<font size="28"><b>Bank of Kyoto</b></font>
+
+577
+00:19:29,580 --> 00:19:29,580
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#bb78e6">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+578
+00:19:29,580 --> 00:19:30,080
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font size="16">A popular ad in Osaka region
+Long Term Relationship</font></b></font>
+
+579
+00:19:30,080 --> 00:19:32,080
+<font size="28"><b>What ad is this?</b></font>
+
+580
+00:19:32,300 --> 00:19:36,350
+<font size="28"><b>- There are many?
+- Yes, about 20.  - That many?</b></font>
+
+581
+00:19:36,510 --> 00:19:38,350
+<font size="28"><b>There's more!?</b></font>
+
+582
+00:19:38,350 --> 00:19:38,710
+<font size="28"><b>Mop?!</b></font>
+
+583
+00:19:38,710 --> 00:19:38,710
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#943ae6">Bank of Kyoto<font color="#db662d"> Long Term Relationship</font></font></b></font>
+
+584
+00:19:38,710 --> 00:19:40,810
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#a25032">Mopping Category</font></b></font>
+
+585
+00:19:41,400 --> 00:19:43,480
+<font size="28"><b>Let's start together!</b></font>
+
+586
+00:19:44,160 --> 00:19:45,770
+<font size="28"><b>- Ah, that's nice.
+- Cute.</b></font>
+
+587
+00:19:45,770 --> 00:19:53,310
+<font size="28"><b>Long~~~~~~~~~~~~~~~~~~~~ Term Relationship</b></font>
+
+588
+00:19:53,310 --> 00:19:54,860
+<font size="28"><b>Bank of Kyoto</b></font>
+
+589
+00:19:54,860 --> 00:19:55,880
+<font size="28"><b>I see.</b></font>
+
+590
+00:19:55,880 --> 00:19:55,880
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#bb78e6">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+591
+00:19:55,880 --> 00:19:57,610
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font size="16">A popular ad in Osaka region
+Long Term Relationship</font></b></font>
+
+592
+00:19:57,610 --> 00:19:59,110
+<font size="28"><b>So that's how it is.</b></font>
+
+593
+00:19:59,110 --> 00:20:02,310
+<font size="28"><b>So it's a series of a long-shaped things.</b></font>
+
+594
+00:20:02,880 --> 00:20:07,810
+<font size="28"><b><i>After this, there will be an illogical local ad!?</i></b></font>
+
+595
+00:20:07,810 --> 00:20:09,580
+<font size="28"><b>So the songs were overlapping?</b></font>
+
+596
+00:20:10,360 --> 00:20:12,990
+<font size="28"><b>Okay, let's continue.
+Here's next!</b></font>
+
+597
+00:20:13,110 --> 00:20:13,110
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#943ae6">Does It Only Exist In My Hometown? <font color="#3b3cd1">[ Local Commercial Ad Category ]
+</font></font></b></font>
+
+598
+00:20:13,110 --> 00:20:14,440
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#c52928">Tokugawa Okonomiyaki</font></b></font>
+
+599
+00:20:14,440 --> 00:20:17,750
+<font size="28"><b>- Tokugawa Okonomiyaki.
+- Okonomiyaki ad?</b></font>
+
+600
+00:20:17,750 --> 00:20:20,780
+<font size="28"><b>- Who?
+- Here! An ad from Hiroshima.</b></font>
+
+601
+00:20:21,450 --> 00:20:21,450
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#bb78e6">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+602
+00:20:21,450 --> 00:20:21,450
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font size="16">A popular ad in Hiroshima region
+Tokugawa Okonomiyaki</font></b></font>
+
+603
+00:20:21,450 --> 00:20:21,450
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#7e0d86">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+604
+00:20:21,450 --> 00:20:21,450
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#ffffff">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+605
+00:20:21,450 --> 00:20:21,450
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font size="20">Wada Maaya</font></b></font>
+
+606
+00:20:21,450 --> 00:20:21,580
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#000000"><font size="22">from Nagashima</font></font></b></font>
+
+607
+00:20:21,580 --> 00:20:25,050
+<font size="28"><b>The concept is old...</b></font>
+
+608
+00:20:25,050 --> 00:20:27,050
+<font size="28"><b>... the drawings are old...</b></font>
+
+609
+00:20:27,050 --> 00:20:29,550
+<font size="28"><b>... well... everything looks old...</b></font>
+
+610
+00:20:29,550 --> 00:20:30,480
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}Too many "olds".</b></font>
+
+611
+00:20:30,480 --> 00:20:32,860
+<font size="28"><b>I seriously have no idea!</b></font>
+
+612
+00:20:32,860 --> 00:20:36,810
+<font size="28"><b>- Wada, all you said was "old".
+- Everything is old.</b></font>
+
+613
+00:20:36,810 --> 00:20:39,150
+<font size="28"><b>The atmosphere is classic...</b></font>
+
+614
+00:20:39,150 --> 00:20:42,110
+<font size="28"><b>... the classic atmosphere can always be felt...</b></font>
+
+615
+00:20:42,110 --> 00:20:43,850
+<font size="28"><b>... well... it just looks old!</b></font>
+
+616
+00:20:43,850 --> 00:20:45,510
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}No relation whatsoever.</b></font>
+
+617
+00:20:45,510 --> 00:20:48,580
+<font size="28"><b>- Let's just see it, what did she mean by old?
+- Let's check it out.</b></font>
+
+618
+00:20:50,110 --> 00:20:52,710
+<font size="28"><b>Quickly, quickly, mix it quickly</b></font>
+
+619
+00:20:52,710 --> 00:20:53,690
+<font size="28"><b>Ah, this is old.</b></font>
+
+620
+00:20:53,690 --> 00:20:54,580
+<font size="28"><b>Let's make it round</b></font>
+
+621
+00:20:54,580 --> 00:20:56,580
+<font size="28"><b>I see now.</b></font>
+
+622
+00:20:57,180 --> 00:21:00,590
+<font size="28"><b>Talking about Okonomiyaki,
+ it's Tokugawa</b></font>
+
+623
+00:21:00,590 --> 00:21:01,640
+<font size="28"><b>With your friends...</b></font>
+
+624
+00:21:01,640 --> 00:21:04,450
+<font size="28"><b><font size="40">Toyokanko Group</font></b></font>
+
+625
+00:21:04,510 --> 00:21:04,510
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#bb78e6">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+626
+00:21:04,510 --> 00:21:07,290
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font size="16">A popular ad in Hiroshima region
+Tokugawa Okonomiyaki</font></b></font>
+
+627
+00:21:07,290 --> 00:21:10,550
+<font size="28"><b>What was that? Like...</b></font>
+
+628
+00:21:10,550 --> 00:21:12,270
+<font size="28"><b>That was bad!</b></font>
+
+629
+00:21:12,270 --> 00:21:15,510
+<font size="28"><b>- Why did it overlap?
+- So the songs were overlapping?</b></font>
+
+630
+00:21:15,510 --> 00:21:18,380
+<font size="28"><b>- Was it like that ever since?
+- It was, huh?</b></font>
+
+631
+00:21:18,380 --> 00:21:21,280
+<font size="28"><b>Suddenly "<i>Toyokanko</i>!"</b></font>
+
+632
+00:21:21,280 --> 00:21:23,280
+<font size="28"><b>- Let's see it once again.
+- What was that?</b></font>
+
+633
+00:21:24,490 --> 00:21:24,490
+<font size="28"><b>Must be scary to be there.</b></font>
+
+634
+00:21:24,490 --> 00:21:28,030
+<font size="28"><b>Quickly, quickly, mix it quickly</b></font>
+
+635
+00:21:28,030 --> 00:21:31,600
+<font size="28"><b>Let's make it round</b></font>
+
+636
+00:21:31,600 --> 00:21:35,050
+<font size="28"><b>Talking about Okonomiyaki,
+ it's Tokugawa</b></font>
+
+637
+00:21:35,050 --> 00:21:36,010
+<font size="28"><b>Let's make a lot with your friends</b></font>
+
+638
+00:21:36,010 --> 00:21:38,850
+<font size="28"><b><font size="45"><font color="#dd2637">Toyokanko Group</font></font></b></font>
+
+639
+00:21:38,910 --> 00:21:38,910
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#bb78e6">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+640
+00:21:38,910 --> 00:21:39,160
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font size="16">A popular ad in Hiroshima region
+Tokugawa Okonomiyaki</font></b></font>
+
+641
+00:21:39,160 --> 00:21:40,850
+<font size="28"><b>Why?</b></font>
+
+642
+00:21:41,790 --> 00:21:46,210
+<font size="28"><b>The "<i>Tomodachi</i>..." hasn't ended yet
+but there's "<i>Toyokanko</i>." What was that?</b></font>
+
+643
+00:21:46,760 --> 00:21:48,210
+<font size="28"><b>What a timing!</b></font>
+
+644
+00:21:48,430 --> 00:21:50,210
+<font size="28"><b>Actually...</b></font>
+
+645
+00:21:50,210 --> 00:21:55,180
+<font size="28"><b>- ... it's "<i>Let's make a lot with your friends</i>."
+- That's what he said, right?</b></font>
+
+646
+00:21:55,180 --> 00:21:59,000
+<font size="28"><b>But then "Toyokanko" suddenly got in,
+I wonder why?</b></font>
+
+647
+00:21:59,000 --> 00:22:01,880
+<font size="28"><b>Maybe because of the time limit, 
+ since ads have 15 to 30 seconds of duration...</b></font>
+
+648
+00:22:01,880 --> 00:22:04,270
+<font size="28"><b>... perhaps they thought "<i>Not enough time!</i>"</b></font>
+
+649
+00:22:04,270 --> 00:22:06,480
+<font size="28"><b>Then they just said
+"<i>Put it in! Just put the Toyokanko in!</i>"</b></font>
+
+650
+00:22:06,480 --> 00:22:07,470
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}Forcing it too much.</b></font>
+
+651
+00:22:07,470 --> 00:22:09,340
+<font size="28"><b>Shouldn't be like that!</b></font>
+
+652
+00:22:09,340 --> 00:22:11,340
+<font size="28"><b>Okay, let's continue.
+ Here's another!</b></font>
+
+653
+00:22:11,340 --> 00:22:11,380
+<font size="28"><b>- Mysterious...
+- Another quiz.</b></font>
+
+654
+00:22:11,380 --> 00:22:11,380
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#943ae6">Does It Only Exist In My Hometown? <font color="#3b3cd1">[ Local Commercial Ad Category ]
+</font></font></b></font>
+
+655
+00:22:11,380 --> 00:22:14,010
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#db662d">The Mysterious Bento Quiz</font></b></font>
+
+656
+00:22:14,010 --> 00:22:16,010
+<font size="28"><b>The mysterious bento quiz?</b></font>
+
+657
+00:22:16,010 --> 00:22:18,750
+<font size="28"><b>- An ad from Shizuoka!
+- Shizuoka?  - Yes.</b></font>
+
+658
+00:22:18,750 --> 00:22:18,950
+<font size="28"><b>- Certainly everyone in Shizuoka knew this ad.  
+- Seriously?!</b></font>
+
+659
+00:22:18,950 --> 00:22:18,950
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#bb78e6">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+660
+00:22:18,950 --> 00:22:18,950
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font size="16">A popular ad in Shizuoka region
+The Mysterious Bento Quiz</font></b></font>
+
+661
+00:22:18,950 --> 00:22:18,950
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#7e0d86">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+662
+00:22:18,950 --> 00:22:18,950
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#ffffff">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+663
+00:22:18,950 --> 00:22:18,950
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font size="20">Fukagawa Mai</font></b></font>
+
+664
+00:22:18,950 --> 00:22:22,380
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#000000"><font size="22">from Shizuoka</font></font></b></font>
+
+665
+00:22:23,650 --> 00:22:25,650
+<font size="28"><b>- Was it that famous?
+- Very!</b></font>
+
+666
+00:22:25,650 --> 00:22:25,650
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#ff0030">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+667
+00:22:25,650 --> 00:22:25,650
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#ff0030">m 0 3 b 0 3 0 3 0 3 b -7 -2 -10 -5 -10 -8 b -10 -11 -8 -13 -5 -13 b -2 -13 0 -11 0 -8 b 0 -11 2 -13 5 -13 b 8 -13 10 -11 10 -8 b 10 -5 7 -2 0 3</font></b></font>
+
+668
+00:22:25,650 --> 00:22:25,650
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#ffffff">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+669
+00:22:25,650 --> 00:22:25,650
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#ff0030">m 0 3 b 0 3 0 3 0 3 b -7 -2 -10 -5 -10 -8 b -10 -11 -8 -13 -5 -13 b -2 -13 0 -11 0 -8 b 0 -11 2 -13 5 -13 b 8 -13 10 -11 10 -8 b 10 -5 7 -2 0 3</font></b></font>
+
+670
+00:22:25,650 --> 00:22:25,650
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#ff0030">m 0 3 b 0 3 0 3 0 3 b -7 -2 -10 -5 -10 -8 b -10 -11 -8 -13 -5 -13 b -2 -13 0 -11 0 -8 b 0 -11 2 -13 5 -13 b 8 -13 10 -11 10 -8 b 10 -5 7 -2 0 3</font></b></font>
+
+671
+00:22:25,650 --> 00:22:25,650
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font size="20"><font color="#ff0000">Wakatsuki Yumi</font></font></b></font>
+
+672
+00:22:25,650 --> 00:22:26,090
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#000000"><font size="22">from Shizuoka</font></font></b></font>
+
+673
+00:22:26,090 --> 00:22:30,250
+<font size="28"><b>- Maybe this is a very old recording.
+- Yes, this is so old school!</b></font>
+
+674
+00:22:30,250 --> 00:22:32,620
+<font size="28"><b>Well then, let's see. 
+ It's a quiz, isn't it?</b></font>
+
+675
+00:22:33,740 --> 00:22:34,910
+<font size="28"><b>Here's the question</b></font>
+
+676
+00:22:34,910 --> 00:22:36,760
+<font size="28"><b>If you have to say
+ Happy Gourmet Bento now...?</b></font>
+
+677
+00:22:36,760 --> 00:22:36,910
+<font size="28"><b>What is this?</b></font>
+
+678
+00:22:36,910 --> 00:22:38,910
+<font size="28"><b>Ebi Katsui!</b></font>
+
+679
+00:22:39,210 --> 00:22:39,560
+<font size="28"><b>So old!</b></font>
+
+680
+00:22:39,560 --> 00:22:40,910
+<font size="28"><b>Don~Don~?</b></font>
+
+681
+00:22:40,910 --> 00:22:42,160
+<font size="28"><b>Obento~</b></font>
+
+682
+00:22:42,160 --> 00:22:42,380
+<font size="28"><b>What?</b></font>
+
+683
+00:22:42,380 --> 00:22:44,380
+<font size="28"><b>Instantly makes you Happy!</b></font>
+
+684
+00:22:44,840 --> 00:22:44,960
+<font size="28"><b>Don Don?</b></font>
+
+685
+00:22:44,960 --> 00:22:46,300
+<font size="28"><b>Obento Don Don.</b></font>
+
+686
+00:22:46,300 --> 00:22:47,880
+<font size="28"><b>- It's Obento Don Don.
+- I think I know this.</b></font>
+
+687
+00:22:47,880 --> 00:22:47,950
+<font size="28"><b>- So it's Obento Don Don's ad?
+- Yes!</b></font>
+
+688
+00:22:47,950 --> 00:22:47,950
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#bb78e6">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+689
+00:22:47,950 --> 00:22:50,320
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font size="16">A popular ad in Shizuoka region
+The Mysterious Bento Quiz</font></b></font>
+
+690
+00:22:50,320 --> 00:22:53,530
+<font size="28"><b>- Do the stores that sell this Obento Don Don
+ exist only in Shizuoka?   - Perhaps yes.</b></font>
+
+691
+00:22:53,530 --> 00:22:56,010
+<font size="28"><b>When fans come to the handshake event...</b></font>
+
+692
+00:22:56,010 --> 00:22:59,150
+<font size="28"><b>... if they say 
+"<i>If you have to say Happy Gourmet Bento now...?</i>!"</b></font>
+
+693
+00:22:59,150 --> 00:23:02,650
+<font size="28"><b>We'll answer it with "<i>Don Don!</i>", 
+and the atmosphere becomes like "<i>Wah!!!</i>"</b></font>
+
+694
+00:23:02,650 --> 00:23:03,580
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}Humor Shizuoka people definitely know.</b></font>
+
+695
+00:23:03,580 --> 00:23:05,610
+<font size="28"><b>That was awesome!</b></font>
+
+696
+00:23:05,610 --> 00:23:07,610
+<font size="28"><b>What was that...</b></font>
+
+697
+00:23:07,610 --> 00:23:09,870
+<font size="28"><b>"<i>If you have to say Happy Gourmet Bento now...?</i>!"</b></font>
+
+698
+00:23:09,870 --> 00:23:13,180
+<font size="28"><b>- Happy Gourmet Bento!
+- Happy Gourmet Bento?</b></font>
+
+699
+00:23:13,180 --> 00:23:16,180
+<font size="28"><b>But the cut just now, 
+ it was here at the beginning...</b></font>
+
+700
+00:23:16,180 --> 00:23:19,780
+<font size="28"><b>... but the girl answered it from this direction.</b></font>
+
+701
+00:23:20,840 --> 00:23:23,350
+<font size="28"><b>What's with the glasses. 
+Let's see it one more time.</b></font>
+
+702
+00:23:23,350 --> 00:23:26,860
+<font size="28"><b>- That was all over the place, even the cuts were messy.
+   - True that.</b></font>
+
+703
+00:23:29,160 --> 00:23:32,040
+<font size="28"><b>Here's the question.
+If you have to say
+ Happy Gourmet Bento now...?</b></font>
+
+704
+00:23:32,040 --> 00:23:34,040
+<font size="28"><b>Ebi Katsui!</b></font>
+
+705
+00:23:34,780 --> 00:23:36,040
+<font size="28"><b>Don~Don~?</b></font>
+
+706
+00:23:36,040 --> 00:23:37,610
+<font size="28"><b>Obento~</b></font>
+
+707
+00:23:37,610 --> 00:23:39,280
+<font size="28"><b>Instantly makes you Happy!</b></font>
+
+708
+00:23:39,770 --> 00:23:39,770
+<font size="28"><b>Obento Don Don.</b></font>
+
+709
+00:23:39,770 --> 00:23:42,480
+<font size="28"><b>- Her pose was good!
+- Yeah.</b></font>
+
+710
+00:23:42,750 --> 00:23:42,750
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#bb78e6">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+711
+00:23:42,750 --> 00:23:42,830
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font size="16">A popular ad in Shizuoka region
+The Mysterious Bento Quiz</font></b></font>
+
+712
+00:23:42,830 --> 00:23:45,450
+<font size="28"><b>- It was kinda erotic, wasn't it?
+- Like alluring?</b></font>
+
+713
+00:23:45,450 --> 00:23:46,810
+<font size="28"><b>Like "DonDon<font face="Symbol"><font face="Arial">"</font></font></b></font>
+
+714
+00:23:46,810 --> 00:23:48,380
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}Her breathing makes a difference.</b></font>
+
+715
+00:23:48,380 --> 00:23:49,640
+<font size="28"><b>That was it, though.</b></font>
+
+716
+00:23:49,640 --> 00:23:52,750
+<font size="28"><b>And they had Donburi (bowl) on their heads, yeah?</b></font>
+
+717
+00:23:52,750 --> 00:23:56,280
+<font size="28"><b>Maybe they wore it since it's DonDon.</b></font>
+
+718
+00:23:56,280 --> 00:23:57,310
+<font size="28"><b>That's right!</b></font>
+
+719
+00:23:57,310 --> 00:24:00,210
+<font size="28"><b>Why did they shoot it outside 
+when the weather was that bad?</b></font>
+
+720
+00:24:00,210 --> 00:24:01,480
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}Cloudy...</b></font>
+
+721
+00:24:01,480 --> 00:24:03,480
+<font size="28"><b>What's next?</b></font>
+
+722
+00:24:03,900 --> 00:24:06,610
+<font size="28"><b>Is that as far as you know how my feelings are?</b></font>
+
+723
+00:24:06,610 --> 00:24:09,680
+<font size="28"><b><i>Love confessions using local dialects,
+everyone is shrieking!!</i></b></font>
+
+724
+00:24:11,180 --> 00:24:15,980
+<font size="28"><b><i>"Members turn to Mofi characters"
+for UFO Catcher reward has been released!!</i></b></font>
+
+725
+00:24:15,980 --> 00:24:19,290
+<font size="28"><b><i>By autumn of August, 
+the products will be released at game centers.</i></b></font>
+
+726
+00:24:19,290 --> 00:24:23,410
+<font size="28"><b><i>To know the places where you can get these products, 
+please check Sega Prize on the official website.</i></b></font>
+
+727
+00:24:23,680 --> 00:24:23,680
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#af7cf1">Sekai de Ichiban Kodoku na LOVER</font></b></font>
+
+728
+00:24:23,680 --> 00:24:25,550
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#ffffff">Sekai de Ichiban Kodoku na LOVER</font></b></font>
+
+729
+00:24:25,550 --> 00:24:29,450
+<font size="28"><b><i>November 9th, 
+ Gekijou DAN Bad Boys J will be released!</i></b></font>
+
+730
+00:24:29,450 --> 00:24:35,150
+<font size="28"><b><i>The ticket reservation for art performance
+ Nogizaka version has been opened!</i></b></font>
+
+731
+00:24:35,150 --> 00:24:39,380
+<font size="28"><b><i>For more information, 
+ please visit our official website.</i></b></font>
+
+732
+00:24:39,520 --> 00:24:39,680
+<font size="28"><b>Is that as far as you know how my feelings are?</b></font>
+
+733
+00:24:39,680 --> 00:24:39,680
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font color="#af7cf1">m 167 42 l 0 42 l 0 0 l 167 0</font></b></font>
+
+734
+00:24:39,680 --> 00:24:40,090
+<font face="Arial Rounded MT Bold" size="22"><b>{\an5}<font size="18"><font color="#f15115">There's still more discussion about love for hometowns
+Something we've been waiting for! Love confessions using their local dialects<font face="Arial"> ♥</font></font></font></b></font>
+
+735
+00:24:40,090 --> 00:24:42,310
+<font size="28"><b><i><i>MANUALLY TRANSLATED FROM INDO SUBTITLE
+ORIGINAL SUB BY MasToppu.blogspot.co.id
+USE IT AT YOUR OWN RISK</i></i></b></font>
+
+736
+00:24:42,310 --> 00:24:45,480
+<font size="28"><b>Um... may I say something I've been holding all this time?</b></font>
+
+737
+00:24:45,480 --> 00:24:47,480
+<font size="28"><b>But...</b></font>
+
+738
+00:24:47,480 --> 00:24:49,080
+<font size="28"><b>... I want us to keep being together like this, okay?</b></font>
+
+739
+00:24:49,080 --> 00:24:51,310
+<font size="28"><b>Since it's cold, may I hold your hand now?</b></font>
+
+740
+00:24:51,310 --> 00:24:54,180
+<font size="28"><b>I want to hold her hand!</b></font>
+
+741
+00:24:55,040 --> 00:24:56,800
+<font size="28"><b>This is a bit different than what I thought...</b></font>
+
+742
+00:24:56,800 --> 00:24:59,580
+<font size="28"><b><i>A ridiculous birthday party of Akimoto!</i></b></font>
+

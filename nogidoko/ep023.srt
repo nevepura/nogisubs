@@ -1,0 +1,1056 @@
+1
+00:00:01,640 --> 00:00:07,200
+<font size="38">Tonight, a close-up documentary about Nogizaka46's pre-debut era.</font>
+
+2
+00:00:08,500 --> 00:00:11,720
+<font size="38">The hardships they endured during their difficult days.</font>
+
+3
+00:00:12,780 --> 00:00:16,740
+<font size="38">Louder! Louder!</font>
+
+4
+00:00:16,740 --> 00:00:18,200
+<font size="38">That's strict.</font>
+
+5
+00:00:19,860 --> 00:00:24,040
+<font size="38">What's the biggest problem they faced before their debut?</font>
+
+6
+00:00:30,200 --> 00:00:32,900
+<font size="38">Nogizakatte, Doko?</font>
+
+7
+00:00:32,900 --> 00:00:32,900
+<font size="60">Credits: NeruestSub</font>
+
+8
+00:00:32,900 --> 00:00:32,900
+<font size="38">Subber: Coffee-san</font>
+
+9
+00:00:32,900 --> 00:00:32,900
+<font size="38">Timing: MintTea-san</font>
+
+10
+00:00:32,900 --> 00:00:49,140
+<font size="38">Proofreading: Coffee-san</font>
+
+11
+00:00:49,360 --> 00:00:54,380
+<font size="38">Don! Nogizakatte, Doko? has started! We're the MC - Bananaman!</font>
+
+12
+00:00:54,380 --> 00:00:57,420
+<font size="38">Yoroshiku Onegaishimasu!</font>
+
+13
+00:00:57,480 --> 00:01:01,540
+<font size="38">So, every member showed up, except those who took a sick leave!</font>
+
+14
+00:01:01,660 --> 00:01:03,900
+<font size="38">Nogizaka46's members!</font>
+
+15
+00:01:03,900 --> 00:01:08,060
+<font size="38">-Yoroshiku Onegaishimasu! -There's a lot of them.</font>
+
+16
+00:01:08,760 --> 00:01:11,020
+<font size="38">You guys were incredible lately!</font>
+
+17
+00:01:11,020 --> 00:01:13,020
+<font size="38">Thank you very much.</font>
+
+18
+00:01:13,020 --> 00:01:15,860
+<font size="38">You guys appeared on every channel.</font>
+
+19
+00:01:17,720 --> 00:01:23,160
+<font size="38">Congratulations on your 2nd place on the Oricon's Weekly Chart!</font>
+
+20
+00:01:23,160 --> 00:01:26,760
+<font size="38">That's incredible!</font>
+
+21
+00:01:26,760 --> 00:01:29,840
+<font size="38">Why did everyone show up for today?</font>
+
+22
+00:01:29,840 --> 00:01:33,320
+<font size="38">Nogizaka46 was formed around August last year, right?</font>
+
+23
+00:01:33,320 --> 00:01:37,320
+<font size="38">So what's the song title again? Bichabicha Curtain(wet curtain)?</font>
+
+24
+00:01:40,540 --> 00:01:45,840
+<font size="38">Guruguru Curtain was the one that got the 2nd place on the Oricon.</font>
+
+25
+00:01:45,840 --> 00:01:51,700
+<font size="38">From the formation of the group until now, how did you guys deal with it?</font>
+
+26
+00:01:51,700 --> 00:01:57,240
+<font size="38">We're going to use a video to conclude it, so everyone can see your growth.</font>
+
+27
+00:01:57,780 --> 00:02:00,840
+<font size="38">Tokyo Minato-ku. Nogizaka.</font>
+
+28
+00:02:00,840 --> 00:02:05,680
+<font size="38">Countless artists once started their careers at this place.</font>
+
+29
+00:02:05,680 --> 00:02:12,840
+<font size="38">Among them, it's the official rival of AKB48 - Nogizaka46!</font>
+
+30
+00:02:14,480 --> 00:02:21,160
+<font size="38">These were the 154 days of training for their debut single.</font>
+
+31
+00:02:25,900 --> 00:02:30,180
+<font size="38">August 2011, the final evaluation for Nogizaka46.</font>
+
+32
+00:02:30,180 --> 00:02:39,060
+<font size="38">56 finalist were selected from 38,934 candidates for the final evaluation.</font>
+
+33
+00:02:40,020 --> 00:02:42,680
+<font size="38">I come from Yurihonjo, Akita.</font>
+
+34
+00:02:42,680 --> 00:02:46,600
+<font size="38">Both Natsuki Kato and Shu Watanabe came from Yurihonjo too.</font>
+
+35
+00:02:46,600 --> 00:02:51,520
+<font size="38">I would like to become the third artist that came from Yurihonjo.</font>
+
+36
+00:02:51,520 --> 00:02:55,800
+<font size="38">Hello everyone, my name is Shiraishi Mai.</font>
+
+37
+00:02:55,800 --> 00:02:57,780
+<font size="38">I like to eat sweet potato,</font>
+
+38
+00:02:57,780 --> 00:02:59,860
+<font size="38">and my favorite sauce is mayonnaise.</font>
+
+39
+00:02:59,900 --> 00:03:00,420
+<font face="Times New Roman" size="32">{\an8}U gonna regret saying that, Maiyan</font>
+
+40
+00:03:00,420 --> 00:03:04,620
+<font size="38">After serious evaluation, they announced the starting members.</font>
+
+41
+00:03:04,620 --> 00:03:09,560
+<font size="38">Ikoma Rina, please come in front.</font>
+
+42
+00:03:09,820 --> 00:03:13,840
+<font size="38">Entry No.3, Ichiki Rena.</font>
+
+43
+00:03:15,540 --> 00:03:19,180
+<font size="38">Nogizaka46 was formed with 33 members.</font>
+
+44
+00:03:19,180 --> 00:03:23,540
+<font size="38">They're going to give their best along the way for their CD debut.</font>
+
+45
+00:03:24,820 --> 00:03:31,880
+<font size="38">Two weeks after the announcement, members have started their first dance lesson.</font>
+
+46
+00:03:33,440 --> 00:03:39,360
+<font size="38">Members started their first dance lesson with unease and nervous feelings.</font>
+
+47
+00:03:41,120 --> 00:03:45,840
+<font size="38">With the help from their teacher, they put their maximum effort to it.</font>
+
+48
+00:03:45,840 --> 00:03:50,560
+<font size="38">After their lesson, they heard some unexpected feedback from their teacher.</font>
+
+49
+00:03:50,560 --> 00:03:55,500
+<font size="38">After looking at everyone, the most obvious aura I felt was,</font>
+
+50
+00:03:55,500 --> 00:03:58,340
+<font size="38">you guys thought you're still in school.</font>
+
+51
+00:03:58,340 --> 00:04:03,460
+<font size="38">Even with that kind of basic learning consciousness, it was far from enough.</font>
+
+52
+00:04:03,460 --> 00:04:06,440
+<font size="38">Since everyone set their goal to debut,</font>
+
+53
+00:04:06,440 --> 00:04:11,800
+<font size="38">you guys should have shown us your professionalism during the lessons.</font>
+
+54
+00:04:11,800 --> 00:04:14,820
+<font size="38">Not only you have to learn the moves,</font>
+
+55
+00:04:14,820 --> 00:04:19,420
+<font size="38">you have to learn how to engage with the audience, express yourself.</font>
+
+56
+00:04:20,100 --> 00:04:27,040
+<font size="38">The place they're standing is not a playground, it's a serious entertainment stage.</font>
+
+57
+00:04:27,740 --> 00:04:33,140
+<font size="38">They  learned the ways to engage with the audience during their first lesson.</font>
+
+58
+00:04:34,560 --> 00:04:40,000
+<font size="38">Next up, a mandatory skill for a CD debut, the singing lessons started.</font>
+
+59
+00:04:46,020 --> 00:05:01,760
+<font size="38">Firstly, the members had to perform songs, one by one in front of their teachers.</font>
+
+60
+00:05:01,760 --> 00:05:04,280
+<font size="38">Is that the best from you?</font>
+
+61
+00:05:04,280 --> 00:05:06,320
+<font size="38">-Hmm? -Is that the best you got?</font>
+
+62
+00:05:06,320 --> 00:05:08,320
+<font size="38">I accidentally looked down.</font>
+
+63
+00:05:08,320 --> 00:05:09,800
+<font size="38">Can I sing one more time?</font>
+
+64
+00:05:09,800 --> 00:05:12,740
+<font size="38">Sorry, we don't have much time, next.</font>
+
+65
+00:05:12,740 --> 00:05:16,560
+<font size="38">I'm Saito Chiharu, I'm going to sing now.</font>
+
+66
+00:05:16,980 --> 00:05:19,800
+<font size="38">-Can you tell me your name again? -I'm Saito Chiharu.</font>
+
+67
+00:05:19,800 --> 00:05:22,140
+<font size="38">-Again. -I'm Saito Chiharu.</font>
+
+68
+00:05:22,140 --> 00:05:24,660
+<font size="38">-Again. -I'm Saito Chiharu.</font>
+
+69
+00:05:24,660 --> 00:05:26,700
+<font size="38">Again, louder this time, be energetic.</font>
+
+70
+00:05:26,700 --> 00:05:29,000
+<font size="38">-I'm Saito Chiharu. -Louder.</font>
+
+71
+00:05:29,000 --> 00:05:30,840
+<font size="38">I'm Saito Chiharu. -Louder!!</font>
+
+72
+00:05:30,840 --> 00:05:34,440
+<font size="38">-I'm Saito Chiharu!! -Yes, that felt more energetic.</font>
+
+73
+00:05:34,440 --> 00:05:38,520
+<font size="38">If you want to leave an impression, you have to be energetic like you did just now.</font>
+
+74
+00:05:44,620 --> 00:05:48,400
+<font size="38">If you're nervous, you can move your body a bit.</font>
+
+75
+00:05:50,840 --> 00:05:56,160
+<font size="38">How do you express yourself when everyone can see your face?</font>
+
+76
+00:05:56,160 --> 00:05:58,820
+<font size="38">Undoubtedly everyone gets nervous on the stage.</font>
+
+77
+00:05:58,820 --> 00:06:02,680
+<font size="38">But if you show your nervousness out, you'll look like an amateur.</font>
+
+78
+00:06:02,680 --> 00:06:04,680
+<font size="38">Everyone here wanted to become a pro artist right?</font>
+
+79
+00:06:04,680 --> 00:06:08,260
+<font size="38">So that's why even when you're nervous you have to express yourself more.</font>
+
+80
+00:06:08,260 --> 00:06:10,520
+<font size="38">I know you were nervous earlier.</font>
+
+81
+00:06:10,520 --> 00:06:12,680
+<font size="38">But please do your training.</font>
+
+82
+00:06:12,680 --> 00:06:15,340
+<font size="38">So, let's continue.</font>
+
+83
+00:06:15,340 --> 00:06:17,340
+<font size="38">Imagine yourself on a stage.</font>
+
+84
+00:06:17,940 --> 00:06:19,760
+<font size="38">Imagine yourself on a stage!</font>
+
+85
+00:06:20,860 --> 00:06:24,500
+<font size="38">As a professional artist and as a performer,</font>
+
+86
+00:06:24,880 --> 00:06:27,560
+<font size="38">fooling around is not allowed.</font>
+
+87
+00:06:27,560 --> 00:06:31,460
+<font size="38">The members had to go through a harsh lessons step by step.</font>
+
+88
+00:06:32,020 --> 00:06:34,620
+<font size="38">After their lesson,</font>
+
+89
+00:06:36,040 --> 00:06:39,260
+<font size="38">today we have something important to announce.</font>
+
+90
+00:06:39,260 --> 00:06:44,620
+<font size="38">Nogizaka46's first variety show has been decided.</font>
+
+91
+00:06:44,620 --> 00:06:49,760
+<font size="38">But not everyone can participate in the show.</font>
+
+92
+00:06:51,620 --> 00:06:56,220
+<font size="38">After the combinations of training and official poll,</font>
+
+93
+00:06:56,220 --> 00:07:00,040
+<font size="38">they selected these members to participate.</font>
+
+94
+00:07:00,040 --> 00:07:03,980
+<font size="38">Here it is, the first ever recording of the show has started.</font>
+
+95
+00:07:06,720 --> 00:07:09,280
+<font size="38">No please, it's embarrassing.</font>
+
+96
+00:07:19,060 --> 00:07:23,820
+<font size="38">Their first variety show debut, and their first own show.</font>
+
+97
+00:07:23,820 --> 00:07:28,660
+<font size="38">Before the appearance, the members were nervous behind the scene.</font>
+
+98
+00:07:29,120 --> 00:07:32,820
+<font size="38">I'm really nervous now, yabai.</font>
+
+99
+00:07:32,820 --> 00:07:38,040
+<font size="38">I'm super nervous, no idea what should I do now.</font>
+
+100
+00:07:38,040 --> 00:07:41,400
+<font size="38">Gambarimasu! I'm going to do my best.</font>
+
+101
+00:07:41,400 --> 00:07:44,500
+<font size="38">Alright, welcome!</font>
+
+102
+00:07:50,340 --> 00:07:55,020
+<font size="38">Everyone waved at us, thank you very much.</font>
+
+103
+00:07:56,100 --> 00:07:58,940
+<font size="38">The talks between Bananaman relieved the members' nervousness.</font>
+
+104
+00:07:58,940 --> 00:08:03,700
+<font size="38">Members started to talk more, and the recording finished without a hinge.</font>
+
+105
+00:08:03,700 --> 00:08:06,360
+<font size="38">Actually, we have a big announcement to make.</font>
+
+106
+00:08:08,580 --> 00:08:11,180
+<font size="38">Nogizaka's Shichifukujin.</font>
+
+107
+00:08:14,120 --> 00:08:20,560
+<font size="38">Unexpectedly, they were going to announce the Shichifukujin members during their second recording.</font>
+
+108
+00:08:21,520 --> 00:08:23,920
+<font size="38">Shiraishi Mai-san!</font>
+
+109
+00:08:27,040 --> 00:08:29,440
+<font size="38">Sakurai Reika!</font>
+
+110
+00:08:31,720 --> 00:08:33,580
+<font size="38">Ikoma Rina!</font>
+
+111
+00:08:34,820 --> 00:08:39,320
+<font size="38">I had no confidence in myself.</font>
+
+112
+00:08:39,320 --> 00:08:46,260
+<font size="38">I thought I'm not worthy to be the one standing here.</font>
+
+113
+00:08:48,800 --> 00:08:51,440
+<font size="38">After the announcement of Nogizaka's Shichifukujin,</font>
+
+114
+00:08:51,500 --> 00:08:55,640
+<font size="38">they started to work towards their debut, the interaction between fans also started.</font>
+
+115
+00:08:56,340 --> 00:08:58,520
+<font size="38">Their first ever event, the members designed their own posters for the meeting event.</font>
+
+116
+00:08:58,520 --> 00:09:03,760
+<font face="Times New Roman" size="32">{\an8}Doiya-san</font>
+
+117
+00:09:03,760 --> 00:09:07,260
+<font size="38">This was the first time the members interacted with their fans.</font>
+
+118
+00:09:07,940 --> 00:09:12,340
+<font size="38">The members formed a circle to boost their energy.</font>
+
+119
+00:09:12,340 --> 00:09:16,260
+<font size="38">Is everyone energized? OOOOYYEEEAAHHHH!!</font>
+
+120
+00:09:16,260 --> 00:09:16,300
+<font size="38">one two, "Doryoku, kansha, egao, uchira wa Nogizaka noborizaka FORTY-SIX!"</font>
+
+121
+00:09:16,300 --> 00:09:30,160
+<font face="Times New Roman" size="32">{\an8}Translation: Effort, gratitude, and smiles! We’re the 46 who are going to ascend Nogizaka!</font>
+
+122
+00:09:30,820 --> 00:09:36,240
+<font size="38">To shorten the distance between them, the members introduced themselves one by one.</font>
+
+123
+00:09:40,020 --> 00:09:40,020
+<font face="Times New Roman" size="32">{\an8}From: The Phantom of the Opera - Think of Me.</font>
+
+124
+00:09:40,020 --> 00:09:48,720
+<font size="38"><i>"Think of me, think of me fondly When we've said goodbye."</i></font>
+
+125
+00:09:48,720 --> 00:09:53,220
+<font size="38">Although I read tons of books when I was a child,</font>
+
+126
+00:09:53,220 --> 00:09:59,300
+<font size="38">I still love the Galileo·Galilei Biography I read when I was in fourth grade.</font>
+
+127
+00:09:59,300 --> 00:10:05,040
+<font size="38">The book had shaped me into the person I am today.</font>
+
+128
+00:10:06,420 --> 00:10:12,500
+<font size="38">Next up, some unique interactions between members and fans.</font>
+
+129
+00:10:13,820 --> 00:10:20,160
+<font size="38">Speed drawing of the fans in a limited time.</font>
+
+130
+00:10:20,840 --> 00:10:25,760
+<font size="38">Nishino who's really good at drawing finished her artwork very quickly.</font>
+
+131
+00:10:28,740 --> 00:10:33,000
+<font size="38">The oldest member, Iwase also drew some good drawing.</font>
+
+132
+00:10:36,000 --> 00:10:42,000
+<font size="38">Other members also finished their own unique artwork.</font>
+
+133
+00:10:50,300 --> 00:10:56,280
+<font size="38">Next up was the message recording session from the members.</font>
+
+134
+00:10:56,280 --> 00:11:00,600
+<font size="38">I like you, always!</font>
+
+135
+00:11:00,600 --> 00:11:10,020
+<font size="38">Good morning, the sun came out, time to get up!</font>
+
+136
+00:11:10,020 --> 00:11:18,340
+<font size="38">Thanks for the hard work, do your best for tomorrow too!</font>
+
+137
+00:11:19,800 --> 00:11:24,640
+<font size="38">As the Nogizaka's Shichifukujin, the members went through 4 months of activities.</font>
+
+138
+00:11:24,640 --> 00:11:27,040
+<font size="38">There's another announcement...</font>
+
+139
+00:11:29,440 --> 00:11:35,720
+<font size="38">February 22nd is going to be Nogizaka46's CD debut date.</font>
+
+140
+00:11:38,000 --> 00:11:44,420
+<font size="38">Next up, the senbatsu of 16 members for the CD debut.</font>
+
+141
+00:11:46,420 --> 00:11:51,680
+<font size="38">Unexpectedly, they're going to reveal the 16 senbatsu members for the debut on the show.</font>
+
+142
+00:11:52,840 --> 00:11:55,220
+<font size="38">Cellphones will be used.</font>
+
+143
+00:11:55,220 --> 00:12:01,280
+<font size="38">Those who got selected, will receive a call from the management team.</font>
+
+144
+00:12:01,280 --> 00:12:04,580
+<font size="38">Those who did not receive a call will not make it into the senbatsu.</font>
+
+145
+00:12:05,260 --> 00:12:08,320
+<font size="38">First up, the Shichifukujin's!</font>
+
+146
+00:12:11,700 --> 00:12:17,240
+<font size="38">Shiraishi's phone is ringing!</font>
+
+147
+00:12:25,240 --> 00:12:26,840
+<font size="38">Thank you very much.</font>
+
+148
+00:12:34,620 --> 00:12:36,560
+<font size="38">The next Shichifukujin.</font>
+
+149
+00:12:36,560 --> 00:12:38,820
+<font size="38">Oh! Who's it? Matsumura?</font>
+
+150
+00:12:44,360 --> 00:12:48,800
+<font size="38">Ehh...how do I say...</font>
+
+151
+00:12:57,180 --> 00:13:00,040
+<font size="38">More new Shichifukujin appeared...</font>
+
+152
+00:13:04,840 --> 00:13:14,500
+<font size="38">Ikoma Rina, Takayama Kazumi, Ikuta Erika also made it into Shichifukujin.</font>
+
+153
+00:13:15,340 --> 00:13:21,140
+<font size="38">Unexpectedly, there are 3 new Shichifukujin members that joined the ranks.</font>
+
+154
+00:13:22,620 --> 00:13:26,500
+<font size="38">Next up, Nogizaka46's hardest trial yet!</font>
+
+155
+00:13:30,400 --> 00:13:38,300
+<font size="38">After the senbatsu, the members started to work towards their final goal!</font>
+
+156
+00:13:38,660 --> 00:13:43,880
+<font size="38">Announcement! Nogizaka's going to do Meiji's commercial deal.</font>
+
+157
+00:13:44,580 --> 00:13:49,060
+<font size="38">Nobody expected themselves to have a Meiji's commercial.</font>
+
+158
+00:13:50,300 --> 00:13:55,100
+<font size="38">Nogizaka46 has officially debuted into commercial deal!</font>
+
+159
+00:13:56,520 --> 00:14:01,120
+<font size="38">They did all kind of promotions around the country.</font>
+
+160
+00:14:02,900 --> 00:14:08,500
+<font size="38">At the same time, the lessons for the debut single and CW song did not stop at all.</font>
+
+161
+00:14:10,740 --> 00:14:14,420
+<font size="38">Following their working schedules, they shot a PV.</font>
+
+162
+00:14:15,460 --> 00:14:19,320
+<font size="38">They also finished the recording work.</font>
+
+163
+00:14:20,660 --> 00:14:25,220
+<font size="38">For the first time ever, the members experienced overloaded works/schedules.</font>
+
+164
+00:14:25,220 --> 00:14:28,780
+<font size="38">The members were battling against pressure and uneasiness.</font>
+
+165
+00:14:28,780 --> 00:14:31,680
+<font size="38">Although they were determined to carry on,</font>
+
+166
+00:14:31,680 --> 00:14:36,500
+<font size="38">but they started to become exhausted at the same time, one by one.</font>
+
+167
+00:14:36,920 --> 00:14:40,660
+<font size="38">Finally, on the day of their recording, Hashimoto was sick.</font>
+
+168
+00:14:40,860 --> 00:14:45,760
+<font size="38">Because of her extreme nervousness, she was suffering from hyperventilation.</font>
+
+169
+00:14:48,820 --> 00:14:52,420
+<font size="38">She couldn't do anything but rest.</font>
+
+170
+00:14:55,200 --> 00:14:59,320
+<font size="38">But it was the recording day for their song "Guruguru Curtain."</font>
+
+171
+00:14:59,320 --> 00:15:03,240
+<font size="38">One member's absent might caused a big trouble to the rest.</font>
+
+172
+00:15:04,500 --> 00:15:07,340
+<font size="38">"I'm not the only one that's going through a hard time."</font>
+
+173
+00:15:07,380 --> 00:15:10,820
+<font size="38">Hashimoto seems to hear her teammates' inner voice.</font>
+
+174
+00:15:11,500 --> 00:15:13,880
+<font size="38">She went back to finish the recording.</font>
+
+175
+00:15:17,620 --> 00:15:19,580
+<font size="38">Going through a hard time altogether,</font>
+
+176
+00:15:19,580 --> 00:15:22,100
+<font size="38">they thought of their responsibilities and each other,</font>
+
+177
+00:15:22,100 --> 00:15:25,600
+<font size="38">Nogizaka46's was one step closer to become professional artists.</font>
+
+178
+00:15:29,380 --> 00:15:35,260
+<font size="38">Around January, Nogizaka46's members arrived at AKB48's live show.</font>
+
+179
+00:15:35,860 --> 00:15:41,260
+<font size="38">They performed "Guruguru Curtain" during AKB48's concert.</font>
+
+180
+00:15:42,760 --> 00:15:46,920
+<font size="38">It was Nogizaka46's first time to be performing in front of the audiences.</font>
+
+181
+00:15:50,520 --> 00:15:55,060
+<font size="38">The members felt extremely nervous for their first live performance.</font>
+
+182
+00:15:55,840 --> 00:16:02,320
+<font size="38">Meanwhile, the other members that are not in the senbatsu stayed at the backstage to cheer on them.</font>
+
+183
+00:16:02,320 --> 00:16:06,940
+<font size="38">We're on the same boat. So even though we're not performing our heart beats together.</font>
+
+184
+00:16:07,440 --> 00:16:15,840
+<font size="38">10, 9..."Doryoku, kansha, egao, uchira wa Nogizaka noborizaka FORTY-SIX!"</font>
+
+185
+00:16:17,860 --> 00:16:22,780
+<font size="38">Finally, Nogizaka46 went up to the stage full of nervousness.</font>
+
+186
+00:16:23,780 --> 00:16:30,800
+<font size="38">Everyone, good evening! 1, 2, We're Nogizaka46!</font>
+
+187
+00:16:42,160 --> 00:16:47,740
+<font size="38">The senbatsu members sang their song in front of audiences without being nervous.</font>
+
+188
+00:16:51,120 --> 00:16:56,340
+<font size="38">The members on stage were performing for everyone that supported and cheered for them.</font>
+
+189
+00:16:59,720 --> 00:17:06,880
+<font size="38">Those who could not make it to the stage also cheered for the members on stage.</font>
+
+190
+00:17:09,960 --> 00:17:16,880
+<font size="38">Finally, Nogizaka46 finished "Guruguru Curtain" in front of AKB48's fans.</font>
+
+191
+00:17:17,560 --> 00:17:24,920
+<font size="38">We, as Nogizaka46, has a goal we would like to surpass.</font>
+
+192
+00:17:24,920 --> 00:17:26,920
+<font size="38">The goal is...</font>
+
+193
+00:17:31,380 --> 00:17:35,900
+<font size="38">The goal is... AKB48.</font>
+
+194
+00:17:35,900 --> 00:17:44,640
+<font size="38">We'll work hard and do our best so we could become AKB48's real rival.</font>
+
+195
+00:17:44,640 --> 00:18:08,440
+<font size="38">Everyone, please support us!</font>
+
+196
+00:18:08,440 --> 00:18:15,380
+<font size="38">After that, "Guruguru Curtain" achieved the 2nd place on Oricon Weekly Chart!</font>
+
+197
+00:18:18,220 --> 00:18:22,600
+<font size="38">But Nogizaka46 just debuted recently.</font>
+
+198
+00:18:22,600 --> 00:18:28,440
+<font size="38">They only started their first step of a long journey towards the top of the hill.</font>
+
+199
+00:18:28,800 --> 00:18:35,520
+<font size="38">To surpass their target, to the top of the hill, to reach beyond the horizon.</font>
+
+200
+00:18:40,300 --> 00:18:45,960
+<font size="38">With thankful and hardworking thoughts and the smile on their face,</font>
+
+201
+00:18:45,960 --> 00:18:52,380
+<font size="38">Nogizaka46's going full speed towards the higher goals!</font>
+
+202
+00:18:58,540 --> 00:19:06,760
+<font size="38">So from the look of it, everyone did their best to carry on.</font>
+
+203
+00:19:06,760 --> 00:19:11,420
+<font size="38">So what's the harshest experience for each different members?</font>
+
+204
+00:19:11,420 --> 00:19:15,040
+<font size="38">Let's talk about that. Firstly, Takayama.</font>
+
+205
+00:19:15,040 --> 00:19:23,940
+<font size="38">For me, before we have our own songs, I could not sing during events.</font>
+
+206
+00:19:23,940 --> 00:19:27,060
+<font size="38">Because you guys have no songs yet?</font>
+
+207
+00:19:27,060 --> 00:19:34,080
+<font size="38">Yes, so we have to learn how to do talks, it's very hard.</font>
+
+208
+00:19:34,080 --> 00:19:40,320
+<font size="38">Indeed, right? You must be able to talk all of a sudden, with no prior experience.</font>
+
+209
+00:19:40,320 --> 00:19:42,760
+<font size="38">But at least you kinda know how to talk now, right?</font>
+
+210
+00:19:42,760 --> 00:19:44,600
+<font size="38">Yeah, kinda now...</font>
+
+211
+00:19:48,720 --> 00:19:52,740
+<font size="38">Hashimoto, what do you think about her talking skill?</font>
+
+212
+00:19:52,740 --> 00:20:00,580
+<font size="38">She can now talk very smoothly even without any scripts.</font>
+
+213
+00:20:00,580 --> 00:20:03,100
+<font size="38">So you already surpassed me.</font>
+
+214
+00:20:03,560 --> 00:20:05,900
+<font size="38">You're competent. x2</font>
+
+215
+00:20:05,900 --> 00:20:07,900
+<font size="38">Next up, Matsumura.</font>
+
+216
+00:20:08,560 --> 00:20:15,900
+<font size="38">During Meiji's commercial filming, I'm not a senbatsu member,</font>
+
+217
+00:20:16,020 --> 00:20:24,580
+<font size="38">Everyone was filming, but I'm not the senbatsu member so I finished my filming part very quickly.</font>
+
+218
+00:20:24,580 --> 00:20:31,780
+<font size="38">Because they filmed for the whole day, and I went in the lounge to wait for them.</font>
+
+219
+00:20:31,780 --> 00:20:35,800
+<font size="38">So when I heard them laughing and having fun, I became sad and cried.</font>
+
+220
+00:20:36,680 --> 00:20:42,020
+<font size="38">When I heard their happy voices, I realized that I finished my part very quickly.</font>
+
+221
+00:20:42,020 --> 00:20:45,880
+<font size="38">It was kinda sad.</font>
+
+222
+00:20:48,940 --> 00:20:55,720
+<font size="38">Well, everything has two sides, the happy part, and the sad part...</font>
+
+223
+00:20:55,720 --> 00:20:57,720
+<font size="38">Nanamin~~</font>
+
+224
+00:20:57,720 --> 00:21:00,920
+<font size="38">Eh, what happened?</font>
+
+225
+00:21:00,920 --> 00:21:03,780
+<font size="38">Hashimoto looks like she's gonna cry too.</font>
+
+226
+00:21:03,780 --> 00:21:06,540
+<font size="38">Sorry, I feel like crying too.</font>
+
+227
+00:21:06,940 --> 00:21:09,080
+<font size="38">We faced the same problem.</font>
+
+228
+00:21:09,080 --> 00:21:11,400
+<font size="38">I understand the pain.</font>
+
+229
+00:21:11,400 --> 00:21:13,940
+<font size="38">But I still love the members,</font>
+
+230
+00:21:13,940 --> 00:21:15,880
+<font size="38">so I thought was there another way?</font>
+
+231
+00:21:15,880 --> 00:21:20,700
+<font size="38">I love them so much, but there's no place to release my anger.</font>
+
+232
+00:21:20,700 --> 00:21:23,960
+<font size="38">Why not just hire a staff as a sandbag for you to punch.</font>
+
+233
+00:21:27,240 --> 00:21:31,020
+<font size="38">After this, another big announcement!</font>
+
+234
+00:21:35,680 --> 00:21:43,340
+<font size="38">Because I Don't Want to Lose You / Ushinaitaku Nai Kara</font>
+
+235
+00:21:48,820 --> 00:21:53,840
+<font size="38"><i>I was surrounded by the sound of cicada's cries,</i></font>
+
+236
+00:21:53,840 --> 00:21:58,360
+<font size="38"><i>The summer fever spread throughout the schoolyard</i></font>
+
+237
+00:21:58,360 --> 00:22:03,460
+<font size="38"><i>Your white shirt and grey skirt</i></font>
+
+238
+00:22:03,460 --> 00:22:08,360
+<font size="38"><i>Heartrendingly wavering at me like a mirage</i></font>
+
+239
+00:22:08,360 --> 00:22:12,340
+<font size="38"><i>Within my heart</i></font>
+
+240
+00:22:12,340 --> 00:22:16,880
+<font size="38"><i>A wind silently begins to blow</i></font>
+
+241
+00:22:16,880 --> 00:22:22,680
+<font size="38"><i>My true thoughts are suddenly stirring</i></font>
+
+242
+00:22:22,680 --> 00:22:31,260
+<font size="38"><i>People fall in love because they don't want to be alone</i></font>
+
+243
+00:22:33,880 --> 00:22:38,580
+<font size="38"><i>Pretending to tie the laces on my Converses</i></font>
+
+244
+00:22:38,580 --> 00:22:43,460
+<font size="38"><i>But I was really looking at you the whole time</i></font>
+
+245
+00:22:43,460 --> 00:22:48,800
+<font size="38"><i>My thirst had been quenched</i></font>
+
+246
+00:22:48,800 --> 00:22:55,240
+<font size="38"><i>But somehow I'm always sinking Into the desert of my heart</i></font>
+
+247
+00:22:56,780 --> 00:23:01,240
+<font size="38">Guruguru Curtain's worldwide handshake event has started!</font>
+
+248
+00:23:02,600 --> 00:23:08,380
+<font size="38">Their first event attracted around 5 thousands people!</font>
+
+249
+00:23:10,540 --> 00:23:14,620
+<font size="38">I had a dream since I was a kid that I'll be able to perform in front of a lot of people</font>
+
+250
+00:23:14,620 --> 00:23:18,460
+<font size="38">I achieved that dream today, I'm really happy.</font>
+
+251
+00:23:18,460 --> 00:23:21,020
+<font size="38">Next up, the dream stage.</font>
+
+252
+00:23:21,020 --> 00:23:24,260
+<font size="38">Please listen next, "Guruguru Curtain."</font>
+
+253
+00:23:31,080 --> 00:23:35,980
+<font size="38">The live performance was a big hit! The members continued to work towards their dreams!</font>
+
+254
+00:23:35,980 --> 00:23:40,080
+<font size="38">Congratulations, Guruguru Curtain achieved 2nd place.</font>
+
+255
+00:23:40,080 --> 00:23:42,080
+<font size="38">Thank you very much.</font>
+
+256
+00:23:42,860 --> 00:23:49,740
+<font size="38">So since you have the first single, of course, there'll be the second single.</font>
+
+257
+00:23:49,740 --> 00:23:55,420
+<font size="38">So next week, senbatsu announcement for the second single!</font>
+
+258
+00:23:56,900 --> 00:24:01,960
+<font size="38">It's really fast, right? Ikoma's already in tears.</font>
+
+259
+00:24:02,740 --> 00:24:04,500
+<font size="38">It's coming.</font>
+
+260
+00:24:04,500 --> 00:24:07,980
+<font size="38">But that's Nogizaka46 for you right?</font>
+
+261
+00:24:08,940 --> 00:24:12,020
+<font size="38">Finally, senbatsu for their second single!</font>
+
+262
+00:24:16,100 --> 00:24:19,780
+<font size="38">Next week, senbatsu for their second single!</font>
+
+263
+00:24:19,780 --> 00:24:24,000
+<font size="38">More shocking and unexpected results than the previous single's senbatsu!</font>
+
+264
+00:24:26,540 --> 00:24:28,700
+<font size="38">I'm getting goosebumps.</font>
+

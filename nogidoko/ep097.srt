@@ -1,0 +1,2359 @@
+1
+00:00:00,000 --> 00:00:00,290
+<font size="40">GG</font>
+
+2
+00:00:00,290 --> 00:00:00,680
+<font face="经典综艺体简" size="20"><b>  VOZ48 </ font></b></font>
+
+3
+00:00:00,680 --> 00:00:04,240
+<font size="40">Your names! Even though you’re doing this for 2 years,</font>
+
+4
+00:00:04,240 --> 00:00:06,800
+<font size="40">I don’t even remember a single one!</font>
+
+5
+00:00:07,060 --> 00:00:08,060
+<font size="40">Tonight on Nogizakatte Doko,</font>
+
+6
+00:00:08,060 --> 00:00:12,060
+<font size="40">The members will try to leave an impression 
+on our guest in this Pressure Self Introduction.</font>
+
+7
+00:00:14,640 --> 00:00:17,060
+<font size="40">Heading to the special guest’s green room,</font>
+
+8
+00:00:17,060 --> 00:00:19,540
+<font size="40">the members desperately promote themselves.</font>
+
+9
+00:00:22,420 --> 00:00:25,720
+<font size="40">Will our special guest be able to remember all of the members’ names?</font>
+
+10
+00:00:27,400 --> 00:00:29,760
+<font size="40">Who is this special guest?</font>
+
+11
+00:00:35,450 --> 00:00:35,450
+<font face="方正准圆_GBK" size="33"><b>Credits to guringurin for the original Indo-sub and timesetting</b></font>
+
+12
+00:00:35,450 --> 00:00:35,450
+<font face="方正准圆_GBK" size="33"><b></b></font>
+
+13
+00:00:35,450 --> 00:00:35,450
+<font face="方正准圆_GBK" size="33"><b></b></font>
+
+14
+00:00:35,450 --> 00:00:48,100
+<font face="方正准圆_GBK" size="33"><b></b></font>
+
+15
+00:00:50,420 --> 00:00:51,000
+<font size="40">DON!</font>
+
+16
+00:00:51,000 --> 00:00:54,860
+<font size="40">Nogizakatte Doko has started, we’re your hosts, Bananaman.
+-Yoroshiku Onegeshimasu</font>
+
+17
+00:00:54,960 --> 00:01:06,140
+<font size="40">and they are...
+ Nogizaka-chan~</font>
+
+18
+00:01:06,140 --> 00:01:08,040
+<font size="40">Saito Yuuri, what’s wrong? It looks cool.</font>
+
+19
+00:01:08,040 --> 00:01:09,600
+<font face="微软雅黑" size="47"><b>Injured.</b></font>
+
+20
+00:01:09,600 --> 00:01:11,300
+<font size="40">Because it is fashionable.</font>
+
+21
+00:01:13,620 --> 00:01:17,080
+<font size="40">Released on the 3rd of July, the 6th single, “Girls’ Rule”</font>
+
+22
+00:01:17,300 --> 00:01:19,440
+<font size="40">set the record as the group’s highest-selling single.</font>
+
+23
+00:01:19,680 --> 00:01:22,560
+<font size="40">Taking on the ride this summer are Nogizaka’s members.</font>
+
+24
+00:01:23,860 --> 00:01:24,600
+<font size="40">You guys are doing well.</font>
+
+25
+00:01:24,820 --> 00:01:28,680
+<font size="40">Eeeeee no no no...</font>
+
+26
+00:01:28,740 --> 00:01:30,400
+<font size="40">I saw Hashimoto on a TV drama.</font>
+
+27
+00:01:30,830 --> 00:01:31,200
+<font face="微软雅黑" size="47"><b>Monday Primetime Actress</b></font>
+
+28
+00:01:31,200 --> 00:01:31,760
+<font size="40">Thank you very much.</font>
+
+29
+00:01:31,760 --> 00:01:33,720
+<font size="40">Your character is a bit of a mysterious girl, right?</font>
+
+30
+00:01:33,720 --> 00:01:36,720
+<font size="40">I also saw someone like Shiraishi, for example.</font>
+
+31
+00:01:36,840 --> 00:01:37,580
+<font size="40">Thank you ve-</font>
+
+32
+00:01:37,580 --> 00:01:38,780
+<font size="40">Shut your trap! All of you!</font>
+
+33
+00:01:39,160 --> 00:01:41,260
+<font face="微软雅黑" size="47"><b>Great Fury!!</b></font>
+
+34
+00:01:41,260 --> 00:01:42,240
+<font size="40">This is so sudden, why…</font>
+
+35
+00:01:42,240 --> 00:01:43,340
+<font size="40">-Shut up!!! 
+ -Why is that?</font>
+
+36
+00:01:44,180 --> 00:01:46,300
+<font size="40"></font>
+
+37
+00:01:46,300 --> 00:01:48,740
+<font size="40">Recently, you are all suddenly in the rise!</font>
+
+38
+00:01:50,200 --> 00:01:52,020
+<font size="40">That kind of occasion is okay.</font>
+
+39
+00:01:52,060 --> 00:01:54,240
+<font size="40">I really want you to sell, but…</font>
+
+40
+00:01:55,480 --> 00:01:59,200
+<font size="40">Your names! Even though you’re doing this for 2 years,</font>
+
+41
+00:01:59,200 --> 00:02:01,000
+<font size="40">I don’t even remember a single one!</font>
+
+42
+00:02:01,000 --> 00:02:03,580
+<font face="微软雅黑" size="47"><b> Shocking truth?!</b></font>
+
+43
+00:02:06,700 --> 00:02:08,240
+<font size="40">Too rude!</font>
+
+44
+00:02:08,240 --> 00:02:11,060
+<font size="40">That’s a bit of a problem for Himura-san too.</font>
+
+45
+00:02:11,100 --> 00:02:11,940
+<font size="40">That’s right.</font>
+
+46
+00:02:13,700 --> 00:02:15,180
+<font size="40">For those in a large idol group,</font>
+
+47
+00:02:15,400 --> 00:02:19,600
+<font size="40">The amount of people who will remember your name 
+after one self-introduction is important.</font>
+
+48
+00:02:20,640 --> 00:02:23,660
+<font size="40">This time, with a special guest offered with Nogidoko’s fake project,</font>
+
+49
+00:02:23,660 --> 00:02:26,600
+<font size="40">the members are headed to the special guest’s green room for greetings</font>
+
+50
+00:02:26,680 --> 00:02:28,520
+<font size="40">There, they’ll introduce themselves one by one.</font>
+
+51
+00:02:30,060 --> 00:02:32,440
+<font size="40">Afterwards, the plan is revealed to the special guest.</font>
+
+52
+00:02:32,640 --> 00:02:32,640
+<font size="40">GG</font>
+
+53
+00:02:32,640 --> 00:02:34,820
+<font size="40">Who among the members will leave an impression?</font>
+
+54
+00:02:34,920 --> 00:02:38,240
+<font size="40">It will be checked through a verification segment.</font>
+
+55
+00:02:39,680 --> 00:02:43,280
+<font size="40">Finally, the special guest offered with the fake project is…</font>
+
+56
+00:02:43,620 --> 00:02:46,380
+<font size="40">Our special guest… is this person.</font>
+
+57
+00:02:47,900 --> 00:02:49,740
+<font size="40">Who is that? 
+-I don’t know.</font>
+
+58
+00:02:49,740 --> 00:02:51,060
+<font size="40">What is he doing?</font>
+
+59
+00:02:51,060 --> 00:02:52,300
+<font size="40">Ah, reading the newspaper?</font>
+
+60
+00:02:52,360 --> 00:02:55,980
+<font size="40">Even with all these different camera angles, we still don’t know who it is.</font>
+
+61
+00:02:56,520 --> 00:02:57,980
+<font size="40">-Amazing 
+-Amazing.</font>
+
+62
+00:02:58,960 --> 00:03:00,430
+<font size="40">Perfectly unknown, huh?</font>
+
+63
+00:03:02,960 --> 00:03:04,580
+<font size="40">Ah! senpai, senpai</font>
+
+64
+00:03:04,580 --> 00:03:08,540
+<font size="40">It’s our acquaintance, Degawa-san.</font>
+
+65
+00:03:10,680 --> 00:03:14,380
+<font size="40">With 28 years in the industry, one of the biggest names, Degawa Tetsuro.</font>
+
+66
+00:03:16,000 --> 00:03:20,620
+<font size="40">The person himself thinks that he’ll be teaching reaction skills to the members.</font>
+
+67
+00:03:20,960 --> 00:03:24,700
+<font size="40">By the way, who here have worked with Degawa-san in the past?</font>
+
+68
+00:03:25,620 --> 00:03:27,340
+<font size="40">Ah, Ikoma and Shiraishi.</font>
+
+69
+00:03:27,340 --> 00:03:29,120
+<font size="40">We talked quite a lot. 
+-Have you?</font>
+
+70
+00:03:29,120 --> 00:03:30,840
+<font size="40">He’s sitting beside me and talked a lot.</font>
+
+71
+00:03:30,940 --> 00:03:34,160
+<font size="40">Ah, he might still remember you. It may be an advantage.</font>
+
+72
+00:03:34,160 --> 00:03:34,800
+<font size="40">That’s an advantage.</font>
+
+73
+00:03:35,540 --> 00:03:36,440
+<font size="40">Even for Shiraishi, right?</font>
+
+74
+00:03:37,200 --> 00:03:40,740
+<font size="40">Can they leave an impression on Degawa Tetsuro?</font>
+
+75
+00:03:40,780 --> 00:03:42,740
+<font size="40">Finally, here’s the green room greetings.</font>
+
+76
+00:03:43,080 --> 00:03:46,820
+<font size="40">The preparations are done, let’s start the green room greetings!</font>
+
+77
+00:03:49,400 --> 00:03:50,460
+<font size="40">Excuse me.</font>
+
+78
+00:03:50,460 --> 00:03:51,200
+<font size="40">Yes?</font>
+
+79
+00:03:52,080 --> 00:03:56,180
+<font size="40">Sorry for bothering you. Nogizaka46 is grateful to have you today,</font>
+
+80
+00:03:56,500 --> 00:03:58,960
+<font size="40">Can they have the privilege of greeting you?</font>
+
+81
+00:03:59,120 --> 00:04:00,080
+<font size="40">Sorry about that.</font>
+
+82
+00:04:00,140 --> 00:04:02,080
+<font size="40">That’s how Degawa-san is in the green room.</font>
+
+83
+00:04:02,320 --> 00:04:03,520
+<font size="40">sumimasen, onegaishimasu~</font>
+
+84
+00:04:03,580 --> 00:04:05,680
+<font size="40">Will he be able to remember them?</font>
+
+85
+00:04:05,800 --> 00:04:12,640
+<font size="40">Good morning. I’m the captain, Sakurai Reika.</font>
+
+86
+00:04:13,840 --> 00:04:16,820
+<font size="40">Yoroshiku onegaishimasu~</font>
+
+87
+00:04:21,720 --> 00:04:25,400
+<font size="40">Born and raised in Akita, I’m Ikoma Rina, yoroshiku onegaishimasu~</font>
+
+88
+00:04:25,620 --> 00:04:27,320
+<font size="40">Actually, I’ve been on a show with you in the past, called “TORE!”</font>
+
+89
+00:04:27,320 --> 00:04:28,460
+<font size="40">Yes, I remember.</font>
+
+90
+00:04:28,460 --> 00:04:32,940
+<font size="40">Really? Thank you very much, yoroshiku onegaishimasu~</font>
+
+91
+00:04:32,940 --> 00:04:34,480
+<font face="微软雅黑" size="27"><b>{\an3} That is a tough one!</b></font>
+
+92
+00:04:34,760 --> 00:04:37,000
+<font face="微软雅黑" size="27"><b>{\an3} It is not easy to remember all of them!</b></font>
+
+93
+00:04:37,000 --> 00:04:39,260
+<font size="40">Good morning, I’m Shiraishi Mai, yoroshiku onegaishimasu~</font>
+
+94
+00:04:39,260 --> 00:04:41,030
+<font face="微软雅黑" size="27"><b>{\an3}He thinks that it’s already over with just two people.</b></font>
+
+95
+00:04:41,300 --> 00:04:43,880
+<font size="40">I’ve also been in a show with Degawa-san 
+-Ah, yes.</font>
+
+96
+00:04:43,880 --> 00:04:45,060
+<font size="40">Thank you very much.</font>
+
+97
+00:04:45,060 --> 00:04:45,060
+<font size="40">White skin corresponds to refuban Shiraishi, please keep that into mind.</font>
+
+98
+00:04:45,060 --> 00:04:47,920
+<font size="40"><i>Refuban – reflector board used in photography.</i></font>
+
+99
+00:04:47,980 --> 00:04:49,020
+<font size="40">Eh? Shiraishi is?</font>
+
+100
+00:04:49,040 --> 00:04:52,180
+<font size="40">I am often called as reflector board…</font>
+
+101
+00:04:52,180 --> 00:04:52,180
+<font size="40">-Ah, reflector board.</font>
+
+102
+00:04:53,180 --> 00:04:55,220
+<font size="40">Reflector board corresponds to Shiraishi. I’d be glad if you remembered it.</font>
+
+103
+00:04:55,220 --> 00:04:56,220
+<font size="40">-Ah, Reflector board Shiraishi-san? Okay.</font>
+
+104
+00:04:56,220 --> 00:05:00,520
+<font size="40">Yoroshiku onegaishimasu~ I’ll excuse myself. 
+Thank you very much.</font>
+
+105
+00:05:00,520 --> 00:05:00,880
+<font face="微软雅黑" size="27"><b>{\an3}He thinks that it is over already.</b></font>
+
+106
+00:05:00,880 --> 00:05:03,180
+<font size="40">Pardon for the intrusion, good morning.</font>
+
+107
+00:05:03,280 --> 00:05:05,280
+<font size="40">May I introduce myself?</font>
+
+108
+00:05:05,280 --> 00:05:06,600
+<font size="40">-Okay</font>
+
+109
+00:05:06,640 --> 00:05:08,060
+<font size="40">Here goes Sayurin~</font>
+
+110
+00:05:08,180 --> 00:05:10,140
+<font size="40">Sayurin, Sayurin, Sayurin Rin</font>
+
+111
+00:05:10,140 --> 00:05:10,980
+<font size="40">Sayurin, Sayurin, Sayuringo~</font>
+
+112
+00:05:10,980 --> 00:05:11,980
+<font face="微软雅黑" size="27"><b>{\an3}That’s troublesome!</b></font>
+
+113
+00:05:11,980 --> 00:05:13,360
+<font size="40">full of sweet honey, Sayuringo.</font>
+
+114
+00:05:13,360 --> 00:05:15,860
+<font size="40">Degawa-san, would you like to taste it?</font>
+
+115
+00:05:17,400 --> 00:05:18,800
+<font size="40">-Well… 
+-Thank you very much.</font>
+
+116
+00:05:19,860 --> 00:05:21,120
+<font size="40">Good morning~</font>
+
+117
+00:05:21,420 --> 00:05:23,600
+<font size="40">We’re still at the 5th person.</font>
+
+118
+00:05:23,780 --> 00:05:25,200
+<font size="40">I wonder if everyone will come one by one.</font>
+
+119
+00:05:25,300 --> 00:05:29,080
+<font size="40">Born in Hokkaido, 20 years old, Hashimoto Nanami</font>
+
+120
+00:05:29,140 --> 00:05:32,820
+<font size="40">I’m thinking of doing a response with you.</font>
+
+121
+00:05:32,820 --> 00:05:34,820
+<font size="40">It will go like “Born in Hokkaido”</font>
+
+122
+00:05:35,320 --> 00:05:36,060
+<font size="40">”20 years old”</font>
+
+123
+00:05:36,500 --> 00:05:37,400
+<font size="40">”Hashimoto”</font>
+
+124
+00:05:37,580 --> 00:05:38,260
+<font size="40">”Nanami”</font>
+
+125
+00:05:38,340 --> 00:05:40,200
+<font face="微软雅黑" size="27"><b>{\an3} What is she doing?</b></font>
+
+126
+00:05:40,360 --> 00:05:42,700
+<font face="微软雅黑" size="27"><b>{\an3} What is she suddenly saying?</b></font>
+
+127
+00:05:42,820 --> 00:05:45,300
+<font size="40">That’s not a greeting!</font>
+
+128
+00:05:46,140 --> 00:05:47,260
+<font size="40">Born in Hokkaido</font>
+
+129
+00:05:47,340 --> 00:05:48,160
+<font size="40">20 years old</font>
+
+130
+00:05:48,240 --> 00:05:49,000
+<font size="40">Hashimoto</font>
+
+131
+00:05:49,160 --> 00:05:49,800
+<font size="40">Nanami</font>
+
+132
+00:05:49,800 --> 00:05:51,080
+<font size="40">Okay, thank you very much.</font>
+
+133
+00:05:51,400 --> 00:05:52,960
+<font face="微软雅黑" size="27"><b>{\an3}It is rude of her!</b></font>
+
+134
+00:05:53,220 --> 00:05:54,940
+<font face="微软雅黑" size="27"><b>{\an3} This is being rude to her senpai!</b></font>
+
+135
+00:05:54,940 --> 00:05:55,660
+<font size="40">Good morning.</font>
+
+136
+00:05:56,000 --> 00:05:57,480
+<font face="微软雅黑" size="27"><b>{\an3}What is she saying?!</b></font>
+
+137
+00:05:57,540 --> 00:06:00,040
+<font size="40">Currently in 2nd year of high school, I’m Ikuta Erika.</font>
+
+138
+00:06:00,040 --> 00:06:02,160
+<font size="40">My nickname is Erika-sama</font>
+
+139
+00:06:02,160 --> 00:06:04,200
+<font size="40">Erika-sama</font>
+
+140
+00:06:04,460 --> 00:06:07,410
+<font size="40">I am Nogizaka’s Don.</font>
+
+141
+00:06:07,960 --> 00:06:08,040
+<font face="微软雅黑" size="27"><b>{\an3} What kind of Sawajiri-san is she trying to portray?</b></font>
+
+142
+00:06:08,040 --> 00:06:09,900
+<font size="40">Yes, I’m a Don.</font>
+
+143
+00:06:09,940 --> 00:06:11,540
+<font size="40">it’s not Ikuta but,</font>
+
+144
+00:06:11,580 --> 00:06:11,580
+<font face="微软雅黑" size="27"><b>{\an3}She is doing Sawajiri-san, right?</b></font>
+
+145
+00:06:11,580 --> 00:06:13,540
+<font size="40">Please remember me as Ikuta Don.</font>
+
+146
+00:06:15,140 --> 00:06:18,860
+<font size="40">The 7th person is Nishino. During the 8th person, Takayama’s appearance..</font>
+
+147
+00:06:19,920 --> 00:06:22,040
+<font size="40">the special guest felt something unusual about this.</font>
+
+148
+00:06:22,860 --> 00:06:24,640
+<font size="40">I’m Takayama Kazumi.</font>
+
+149
+00:06:25,560 --> 00:06:27,640
+<font size="40">-Ahhhhhhhh~</font>
+
+150
+00:06:28,040 --> 00:06:29,720
+<font size="40">Do you think he somehow figured it out?</font>
+
+151
+00:06:29,720 --> 00:06:31,720
+<font size="40">Degawa-san is suspicious about this.</font>
+
+152
+00:06:31,920 --> 00:06:35,520
+<font size="40">I don’t understand what the purpose of this plan is.</font>
+
+153
+00:06:36,460 --> 00:06:39,340
+<font size="40">He thinks that something’s up.</font>
+
+154
+00:06:39,640 --> 00:06:41,380
+<font size="40">Excuse me, Good morning.</font>
+
+155
+00:06:41,640 --> 00:06:44,640
+<font size="40">I am Nogizaka46’s Wakatsuki Yumi.</font>
+
+156
+00:06:44,640 --> 00:06:47,600
+<font size="40">It’s the same as Wakatsuki Chinatsu-san but…</font>
+
+157
+00:06:47,940 --> 00:06:50,920
+<font size="40">Little by little, I saw this coming!</font>
+
+158
+00:06:50,920 --> 00:06:52,120
+<font size="40">I can’t do this! I can’t! This is impossible!</font>
+
+159
+00:06:52,120 --> 00:06:53,180
+<font size="40">Up until now, I don’t even remember a single person!</font>
+
+160
+00:06:53,180 --> 00:06:54,700
+<font face="微软雅黑" size="27"><b>{\an3} Ah, he gave up!</b></font>
+
+161
+00:06:56,160 --> 00:07:00,820
+<font size="40">I understand it now, this is hopeless.</font>
+
+162
+00:07:01,880 --> 00:07:05,840
+<font size="40">Degawa Tetsuro-san completely noticed the purpose of this plan.</font>
+
+163
+00:07:06,960 --> 00:07:09,900
+<font size="40">From this point on, Degawa-san is in 
+a challenge of flipping his “memorizing mode” on. </font>
+
+164
+00:07:09,900 --> 00:07:11,330
+<font size="40">”Ido NO UE no SAYURI” Please remember that.</font>
+
+165
+00:07:12,520 --> 00:07:15,520
+<font size="40">-Then, Degawa, Fukagawa, I’ll remember that. </font>
+
+166
+00:07:15,520 --> 00:07:16,740
+<font size="40">-Ah, Thank you very much.</font>
+
+167
+00:07:16,860 --> 00:07:19,200
+<font size="40">Da-Saito Yuuri, please remember it.</font>
+
+168
+00:07:19,200 --> 00:07:19,200
+<font size="40">Ahhhh.</font>
+
+169
+00:07:19,200 --> 00:07:21,000
+<font size="40"><i>Dasai – uncool</i></font>
+
+170
+00:07:21,000 --> 00:07:26,220
+<font size="40">MarikaMarikaMarikaMarikaMarika marika rika rika......</font>
+
+171
+00:07:26,660 --> 00:07:31,740
+<font size="40">Read from top to bottom or bottom to top, Nakada Kana.</font>
+
+172
+00:07:31,780 --> 00:07:34,200
+<font size="40">Read it sideways, DA!</font>
+
+173
+00:07:34,200 --> 00:07:34,640
+<font face="微软雅黑" size="27"><b>{\an3}This is her usual self-introduction right?</b></font>
+
+174
+00:07:34,640 --> 00:07:36,820
+<font size="40">My nickname is Kanarin, I’m Nakada Kana.</font>
+
+175
+00:07:36,960 --> 00:07:41,700
+<font size="40">Read from top to bottom or bottom to top is Nakada Dakana, 
+there’s nothing when read sideways.</font>
+
+176
+00:07:41,700 --> 00:07:43,540
+<font size="40">Read from top to bottom or bottom to top is Nakada Kana.</font>
+
+177
+00:07:43,600 --> 00:07:46,000
+<font size="40">Ah, that’s what you meant. Na-ka-da-Ka-na-chan.</font>
+
+178
+00:07:46,000 --> 00:07:47,000
+<font size="40">That’s right!</font>
+
+179
+00:07:47,080 --> 00:07:49,400
+<font size="40">Ah, I’m sorry, I’m sorry.</font>
+
+180
+00:07:49,460 --> 00:07:50,740
+<font size="40">Thank you very much</font>
+
+181
+00:07:51,700 --> 00:07:52,640
+<font face="微软雅黑" size="27"><b>{\an3} Nakada Kana, Nakada Kana</b></font>
+
+182
+00:07:52,640 --> 00:07:53,920
+<font face="微软雅黑" size="27"><b>{\an3}What number are we in now?</b></font>
+
+183
+00:07:55,560 --> 00:07:56,300
+<font size="40">Excuse me~~~</font>
+
+184
+00:07:56,320 --> 00:07:57,820
+<font size="40">Too fast!!</font>
+
+185
+00:07:59,420 --> 00:08:02,200
+<font size="40">15 years old, Hoshino Minami, Yoroshiku Onegashimasu</font>
+
+186
+00:08:02,700 --> 00:08:04,020
+<font size="40">Please remember Minami.</font>
+
+187
+00:08:04,020 --> 00:08:07,940
+<font size="40">Minami, Minami chan, Minami chan, Minami is easy to remember.</font>
+
+188
+00:08:07,940 --> 00:08:08,840
+<font size="40">Do you remember my name?</font>
+
+189
+00:08:08,840 --> 00:08:13,360
+<font size="40">If you would do something Minami chan-like..</font>
+
+190
+00:08:13,360 --> 00:08:14,300
+<font size="40">Eh? What for?</font>
+
+191
+00:08:14,300 --> 00:08:15,700
+<font size="40">So that I can remember your name.</font>
+
+192
+00:08:16,040 --> 00:08:18,440
+<font size="40">Something Minami chan-like.</font>
+
+193
+00:08:19,520 --> 00:08:20,340
+<font size="40">I don’t know.</font>
+
+194
+00:08:20,340 --> 00:08:23,980
+<font size="40">Eh? You don’t know? 
+Then I’ll remember Minami-chan with that “I don’t know”</font>
+
+195
+00:08:25,020 --> 00:08:25,380
+<font face="微软雅黑" size="27"><b>{\an3}What exactly is Minami chan-like?</b></font>
+
+196
+00:08:25,380 --> 00:08:27,160
+<font size="40">I’ll excuse myself, thank you very much.</font>
+
+197
+00:08:28,780 --> 00:08:30,780
+<font face="微软雅黑" size="27"><b>{\an3}Is it over already?</b></font>
+
+198
+00:08:30,960 --> 00:08:31,040
+<font size="40">Thank you very much. If you would excuse me.</font>
+
+199
+00:08:31,040 --> 00:08:32,560
+<font face="微软雅黑" size="27"><b>{\an3}Everyone’s finished.</b></font>
+
+200
+00:08:34,280 --> 00:08:37,060
+<font size="40">I have to do this right away!</font>
+
+201
+00:08:38,300 --> 00:08:40,520
+<font size="40">How many of the members’ names are remembered?</font>
+
+202
+00:08:41,200 --> 00:08:44,200
+<font size="40">Degawa-san is called to the studio to finally start the verification.</font>
+
+203
+00:08:45,060 --> 00:08:46,480
+<font size="40">He’s probably aware of what’s going on.</font>
+
+204
+00:08:47,680 --> 00:08:50,660
+<font size="40">Ah, doumo~ Sorry to have kept you waiting.</font>
+
+205
+00:08:51,300 --> 00:08:53,280
+<font size="40">For starters, I’d like to say this is impossible.</font>
+
+206
+00:08:54,060 --> 00:08:55,840
+<font size="40">I’d like to say this from the start..</font>
+
+207
+00:08:55,840 --> 00:08:56,460
+<font size="40">douzo~</font>
+
+208
+00:08:56,780 --> 00:08:59,340
+<font size="40">This is impossible.</font>
+
+209
+00:08:59,380 --> 00:09:04,080
+<font size="40">Today, we have Degawa-san to teach you all about reaction skills.</font>
+
+210
+00:09:04,820 --> 00:09:06,820
+<font size="40">No, no, no.</font>
+
+211
+00:09:06,820 --> 00:09:08,060
+<font size="40">That’s not right!</font>
+
+212
+00:09:08,740 --> 00:09:10,460
+<font size="40">That’s not right, right?</font>
+
+213
+00:09:10,540 --> 00:09:11,840
+<font size="40">Okay, Nakada Kana-chan!</font>
+
+214
+00:09:12,080 --> 00:09:13,660
+<font size="40">Wait a minute.</font>
+
+215
+00:09:14,870 --> 00:09:15,930
+<font size="40">What are you looking for?</font>
+
+216
+00:09:16,740 --> 00:09:18,280
+<font size="40">Finally, the verification started.</font>
+
+217
+00:09:18,540 --> 00:09:20,680
+<font size="40">Choose the number of the member in mind,</font>
+
+218
+00:09:20,680 --> 00:09:22,700
+<font size="40">and announce the name of that member.</font>
+
+219
+00:09:23,160 --> 00:09:26,520
+<font size="40">Who is able to do this with me but bothered by it?</font>
+
+220
+00:09:26,660 --> 00:09:28,140
+<font size="40">-Hai, hai, hai.</font>
+
+221
+00:09:28,600 --> 00:09:29,820
+<font size="40">Nakada Kana-chan!</font>
+
+222
+00:09:29,820 --> 00:09:30,260
+<font size="40">That’s no good.</font>
+
+223
+00:09:30,260 --> 00:09:32,220
+<font face="微软雅黑" size="37"><b>{\an4}Please choose a number</b></font>
+
+224
+00:09:32,220 --> 00:09:34,000
+<font size="40">They won’t say anything.</font>
+
+225
+00:09:34,100 --> 00:09:35,900
+<font size="40">Eh, wait a minute, Nakada Kana-chan....</font>
+
+226
+00:09:35,960 --> 00:09:37,240
+<font size="40">Nakada Kana-chan, right?</font>
+
+227
+00:09:37,240 --> 00:09:39,100
+<font size="40">Who here is Nakada Kana-chan?</font>
+
+228
+00:09:39,100 --> 00:09:40,640
+<font size="40">You had just met her earlier..</font>
+
+229
+00:09:44,040 --> 00:09:45,060
+<font size="40">You’re kidding, right, Degawa-san?</font>
+
+230
+00:09:45,060 --> 00:09:45,960
+<font size="40">No, no, you’re wrong.</font>
+
+231
+00:09:45,960 --> 00:09:50,880
+<font size="40">I really don’t want to do this, I don’t know anyone.</font>
+
+232
+00:09:50,880 --> 00:09:53,220
+<font size="40">There’s really something strange with my brain.</font>
+
+233
+00:09:54,040 --> 00:09:56,180
+<font size="40">This is really… 
+-That’s not true!</font>
+
+234
+00:09:56,440 --> 00:09:58,180
+<font size="40">That’s not true, Degawa-san</font>
+
+235
+00:09:58,300 --> 00:10:00,120
+<font size="40">Should I give you a hint, then?</font>
+
+236
+00:10:00,120 --> 00:10:01,340
+<font size="40">Degawa-san</font>
+
+237
+00:10:02,340 --> 00:10:04,360
+<font size="40">Degawa-san found something!</font>
+
+238
+00:10:04,360 --> 00:10:06,240
+<font face="微软雅黑" size="47"><b> Lock-on!</b></font>
+
+239
+00:10:06,240 --> 00:10:07,580
+<font size="40">Degawa-san have decided already,</font>
+
+240
+00:10:07,680 --> 00:10:09,440
+<font size="40">That’s not Nakada Kana-chan.</font>
+
+241
+00:10:09,500 --> 00:10:11,520
+<font size="40">Wait a minute, what’s with that?</font>
+
+242
+00:10:11,700 --> 00:10:12,960
+<font size="40">Number 13?!</font>
+
+243
+00:10:13,540 --> 00:10:14,600
+<font size="40">Nakada Kana chan..</font>
+
+244
+00:10:14,640 --> 00:10:15,380
+<font size="40">Okay!</font>
+
+245
+00:10:15,480 --> 00:10:17,260
+<font size="40">But which number will stand up? </font>
+
+246
+00:10:17,380 --> 00:10:18,760
+<font size="40">Number 13, please stand up.</font>
+
+247
+00:10:18,760 --> 00:10:19,700
+<font size="40">Okay, number 13.</font>
+
+248
+00:10:21,440 --> 00:10:22,280
+<font size="40">Minami-chan!</font>
+
+249
+00:10:25,780 --> 00:10:27,560
+<font size="40">Wait a minute.</font>
+
+250
+00:10:27,560 --> 00:10:29,560
+<font size="40">Suddenly… Wait a minute.</font>
+
+251
+00:10:29,560 --> 00:10:32,140
+<font size="40">Degawa san....</font>
+
+252
+00:10:32,860 --> 00:10:35,000
+<font size="40">Why, all of the sudden… Hoshino..</font>
+
+253
+00:10:35,000 --> 00:10:37,340
+<font size="40">All this time, you were looking for Nakada Kana</font>
+
+254
+00:10:37,380 --> 00:10:40,240
+<font size="40">I’m sorry, but when I saw her face,</font>
+
+255
+00:10:40,380 --> 00:10:42,020
+<font size="40">she is Minami-chan, I remembered.</font>
+
+256
+00:10:42,020 --> 00:10:44,920
+<font size="40">However, when I asked her to do something</font>
+
+257
+00:10:45,040 --> 00:10:46,820
+<font size="40">she’s like “What’s Minami-chan-like?!”</font>
+
+258
+00:10:46,860 --> 00:10:49,720
+<font size="40">What she did remind me of her.</font>
+
+259
+00:10:50,180 --> 00:10:52,120
+<font size="40">-It suddenly came to you, huh? 
+-That’s amazing.</font>
+
+260
+00:10:52,760 --> 00:10:53,620
+<font size="40">You did it.</font>
+
+261
+00:10:53,760 --> 00:10:55,280
+<font size="40">Yay! Thank you very much.</font>
+
+262
+00:10:56,220 --> 00:10:57,680
+<font size="40">Anyone you remember with confidence?</font>
+
+263
+00:10:59,140 --> 00:11:00,660
+<font size="40">Don’t you know anyone in the first row?</font>
+
+264
+00:11:01,120 --> 00:11:02,740
+<font size="40">Because she co-starred with me…</font>
+
+265
+00:11:02,740 --> 00:11:03,160
+<font size="40">That’s great! Then, say it quickly.</font>
+
+266
+00:11:03,160 --> 00:11:04,440
+<font face="微软雅黑" size="47"><b>Co-stars at a different TV station.</b></font>
+
+267
+00:11:04,440 --> 00:11:06,180
+<font size="40">Number 3, please stand up.</font>
+
+268
+00:11:06,180 --> 00:11:07,000
+<font size="40">No, it’s wrong, wrong, wrong.</font>
+
+269
+00:11:07,430 --> 00:11:08,280
+<font face="微软雅黑" size="47"><b> Cowardly</b></font>
+
+270
+00:11:08,280 --> 00:11:09,660
+<font size="40">it’s not that.</font>
+
+271
+00:11:09,740 --> 00:11:12,500
+<font size="40">Wait a minute, we were talking quite a lot, </font>
+
+272
+00:11:12,500 --> 00:11:15,480
+<font size="40">you were sitting beside me, I remember about it.</font>
+
+273
+00:11:15,940 --> 00:11:18,500
+<font size="40">Ah! There it is! 
+-I might be wrong…</font>
+
+274
+00:11:19,300 --> 00:11:20,120
+<font size="40">Yukino-chan?</font>
+
+275
+00:11:21,780 --> 00:11:23,380
+<font size="40">That’s not it, it’s wrong!</font>
+
+276
+00:11:23,380 --> 00:11:25,780
+<font size="40">I’m sorry!</font>
+
+277
+00:11:26,320 --> 00:11:28,880
+<font size="40">Back then there’s this Yuki Yuki.</font>
+
+278
+00:11:30,260 --> 00:11:31,100
+<font size="40">Verification results</font>
+
+279
+00:11:31,400 --> 00:11:36,060
+<font size="40">Names that are remembered  from the self-introduction: 
+1 out of 16 members.</font>
+
+280
+00:11:36,520 --> 00:11:39,600
+<font size="40">At this rate, this will never end, right?</font>
+
+281
+00:11:40,320 --> 00:11:41,340
+<font size="40">Let’s start over again!</font>
+
+282
+00:11:41,440 --> 00:11:41,740
+<font face="微软雅黑" size="47"><b>Revenge!</b></font>
+
+283
+00:11:41,740 --> 00:11:43,760
+<font size="40">Thank goodness.</font>
+
+284
+00:11:43,760 --> 00:11:46,360
+<font size="40">This time, you can memorize from the start.</font>
+
+285
+00:11:46,360 --> 00:11:48,040
+<font size="40">Thank goodnesss.</font>
+
+286
+00:11:48,040 --> 00:11:48,900
+<font size="40">everyone as well.</font>
+
+287
+00:11:52,560 --> 00:11:55,320
+<font size="40">More self-introduction revenge after this!</font>
+
+288
+00:11:58,240 --> 00:12:00,780
+<font size="40">Pressure Self-Introduction Challenge.</font>
+
+289
+00:12:01,460 --> 00:12:03,740
+<font size="40">For Degawa-san who is motivated from the beginning,</font>
+
+290
+00:12:03,740 --> 00:12:05,840
+<font size="40">Will he be able to remember the members this time?</font>
+
+291
+00:12:06,420 --> 00:12:08,960
+<font size="40">Now, let’s take a look at the situation in the green room.</font>
+
+292
+00:12:09,420 --> 00:12:10,880
+<font size="40">He’s already memorizing.</font>
+
+293
+00:12:10,880 --> 00:12:11,860
+<font face="微软雅黑" size="37"><b>{\an4} Super serious</b></font>
+
+294
+00:12:11,860 --> 00:12:14,040
+<font size="40">He’s preparing for this match, right?</font>
+
+295
+00:12:15,700 --> 00:12:16,440
+<font size="40">Degawa-san?</font>
+
+296
+00:12:17,160 --> 00:12:17,680
+<font size="40">Yes?</font>
+
+297
+00:12:18,140 --> 00:12:21,240
+<font size="40">For the second time, please remember them all, okay?</font>
+
+298
+00:12:21,240 --> 00:12:22,740
+<font size="40">Please do it slowly.</font>
+
+299
+00:12:23,460 --> 00:12:24,700
+<font size="40">-Here we go. 
+ -Yes.</font>
+
+300
+00:12:25,400 --> 00:12:26,460
+<font size="40">Onegaishimasu!</font>
+
+301
+00:12:27,020 --> 00:12:28,020
+<font face="微软雅黑" size="27"><b>{\an3}This is the second time, 
+will he finally be able to remember them?</b></font>
+
+302
+00:12:28,020 --> 00:12:28,920
+<font size="40">Douzo.</font>
+
+303
+00:12:31,240 --> 00:12:32,240
+<font size="40">Nogizaka46 is grateful to have you today…</font>
+
+304
+00:12:32,240 --> 00:12:33,720
+<font size="40">Enough of this!</font>
+
+305
+00:12:35,820 --> 00:12:38,120
+<font size="40">Yes, yes, please go ahead.</font>
+
+306
+00:12:38,980 --> 00:12:40,560
+<font size="40">Good morning~</font>
+
+307
+00:12:41,620 --> 00:12:45,980
+<font size="40">I’m Nogizaka46’s captain, Sakurai Reika.</font>
+
+308
+00:12:46,620 --> 00:12:46,620
+<font face="微软雅黑" size="32"><b>Mr. Children – Japanese band</b></font>
+
+309
+00:12:46,620 --> 00:12:50,180
+<font size="40">The vocalist of Mr. Children is?</font>
+
+310
+00:12:50,680 --> 00:12:51,660
+<font size="40">Sakurai-san</font>
+
+311
+00:12:51,860 --> 00:12:52,860
+<font size="40">My name is Sakurai</font>
+
+312
+00:12:52,860 --> 00:12:54,520
+<font size="40">Leader, Sakurai.</font>
+
+313
+00:12:56,180 --> 00:12:58,980
+<font size="40">Yoroshiku onegaishimasu.</font>
+
+314
+00:12:59,100 --> 00:13:00,260
+<font size="40">onegaishimasu~</font>
+
+315
+00:13:00,560 --> 00:13:01,760
+<font size="40">Did you get that, Degawa-san?</font>
+
+316
+00:13:01,760 --> 00:13:02,820
+<font size="40">It’s all good.</font>
+
+317
+00:13:02,820 --> 00:13:04,580
+<font size="40">I’m Ikoma Rina.</font>
+
+318
+00:13:04,580 --> 00:13:05,500
+<font size="40">Ah, it’s Ikoma-chan.</font>
+
+319
+00:13:05,500 --> 00:13:10,400
+<font size="40">Ikoma-chan. Because a lot of people are calling me that,</font>
+
+320
+00:13:10,420 --> 00:13:12,440
+<font size="40">just Ikoma-chan, please remember that.</font>
+
+321
+00:13:12,580 --> 00:13:14,580
+<font size="40">Ikoma-chan, just Koma-chan would be..</font>
+
+322
+00:13:14,580 --> 00:13:15,540
+<font size="40">Ikoma-chan</font>
+
+323
+00:13:15,540 --> 00:13:16,500
+<font size="40">seems Koma-chan, I think?</font>
+
+324
+00:13:16,800 --> 00:13:18,840
+<font size="40">Because you’re small and cute, Koma-chan.</font>
+
+325
+00:13:19,320 --> 00:13:20,160
+<font size="40">Yoroshiku onegaishimasu~</font>
+
+326
+00:13:20,160 --> 00:13:21,300
+<font size="40">Ikoma-chan, Sakurai-san...</font>
+
+327
+00:13:21,320 --> 00:13:24,140
+<font size="40">Ikoma-chan, koma-chan, koma-chan</font>
+
+328
+00:13:24,220 --> 00:13:25,560
+<font size="40">Sakurai-san, Ikoma-chan</font>
+
+329
+00:13:25,560 --> 00:13:26,860
+<font face="微软雅黑" size="27"><b>{\an3} Kobo-chan, Kobo-chan, Kobo-chan</b></font>
+
+330
+00:13:27,040 --> 00:13:28,360
+<font size="40">Stop that!!!</font>
+
+331
+00:13:29,160 --> 00:13:32,060
+<font size="40">Sakurai-san, Ikoma-chan, Sakurai-san, Ikoma-chan</font>
+
+332
+00:13:32,080 --> 00:13:33,630
+<font face="微软雅黑" size="27"><b>{\an3}Stop that!!! </b></font>
+
+333
+00:13:34,620 --> 00:13:36,500
+<font size="40">Pardon for the intrusion, good morning~</font>
+
+334
+00:13:36,820 --> 00:13:42,020
+<font size="40">- I’m serving as Nogizaka46’s center, I’m Shiraishi Mai. 
+- Ah, as expected from the center,</font>
+
+335
+00:13:42,140 --> 00:13:43,380
+<font size="40">as expected, you are cute.</font>
+
+336
+00:13:44,060 --> 00:13:46,080
+<font size="40">My white skin is my charm point</font>
+
+337
+00:13:46,400 --> 00:13:48,880
+<font size="40">This time, I’m also wearing a white uniform.</font>
+
+338
+00:13:48,880 --> 00:13:50,820
+<font size="40">And on my name Shiraishi, it has ‘shiro’ in it.</font>
+
+339
+00:13:50,820 --> 00:13:52,120
+<font size="40">Reflector boards are also white.</font>
+
+340
+00:13:52,460 --> 00:13:56,480
+<font size="40">There are silver-colored ones, right?</font>
+
+341
+00:13:58,680 --> 00:14:01,260
+<font size="40">I wonder if reflector boards appear as white?</font>
+
+342
+00:14:02,920 --> 00:14:05,500
+<font size="40">That’s right. 
+-Yup, closer to a silver-color.</font>
+
+343
+00:14:06,060 --> 00:14:08,760
+<font size="40">Yoroshiku onegaishimasu~ Thank you very much.</font>
+
+344
+00:14:09,100 --> 00:14:13,700
+<font size="40">-Sakurai-san, Sakurai-san, Ikoma-chan, Shiraishi-san 
+-There are silver colored reflector boards too, right?</font>
+
+345
+00:14:13,700 --> 00:14:14,220
+<font size="40">There are silver colored reflector boards too, right?</font>
+
+346
+00:14:14,220 --> 00:14:17,200
+<font size="40">That’s right.</font>
+
+347
+00:14:17,440 --> 00:14:20,280
+<font size="40">Rather than white, it seems to appear as silver-colored, right?</font>
+
+348
+00:14:20,420 --> 00:14:21,720
+<font size="40">That’s right!</font>
+
+349
+00:14:22,420 --> 00:14:23,760
+<font size="40">Reflector board and then white skin,</font>
+
+350
+00:14:23,760 --> 00:14:24,600
+<font size="40">Forget about the reflector board.</font>
+
+351
+00:14:24,600 --> 00:14:25,460
+<font size="40">White skin.</font>
+
+352
+00:14:25,460 --> 00:14:27,580
+<font face="微软雅黑" size="47"><b> Reflector board is ditched</b></font>
+
+353
+00:14:27,580 --> 00:14:29,880
+<font size="40">But they all have white skin, it’s what they have in common.</font>
+
+354
+00:14:29,880 --> 00:14:32,000
+<font size="40">But hers is really amazing.</font>
+
+355
+00:14:32,060 --> 00:14:32,900
+<font size="40">Shiraishi-san</font>
+
+356
+00:14:32,900 --> 00:14:33,980
+<font size="40">Do you remember Kobo-chan?</font>
+
+357
+00:14:33,980 --> 00:14:34,740
+<font size="40">Ah, Kobo-chan.</font>
+
+358
+00:14:34,740 --> 00:14:36,000
+<font size="40">There’s no one named Kobo-chan!</font>
+
+359
+00:14:36,440 --> 00:14:38,080
+<font size="40">Koma-chan, Koma-chan, Sakurai-san, Shiraishi-san</font>
+
+360
+00:14:38,080 --> 00:14:41,260
+<font size="40">Koma-chan, Sakurai-san, Koma-chan, Shiraishi-san 
+- Next person please~</font>
+
+361
+00:14:43,340 --> 00:14:44,480
+<font size="40">Good morning.</font>
+
+362
+00:14:44,480 --> 00:14:45,540
+<font size="40">Ah, you’re cute.</font>
+
+363
+00:14:45,540 --> 00:14:48,320
+<font size="40">Matsumura-san, I’ll remember you as Ma-chan.</font>
+
+364
+00:14:49,180 --> 00:14:50,180
+<font size="40">Seriously?</font>
+
+365
+00:14:50,180 --> 00:14:52,240
+<font size="40">For some reasons, this cute girl is Ma-chan.</font>
+
+366
+00:14:53,180 --> 00:14:55,820
+<font size="40">I have a close friend, Matsumura Kinihiro,</font>
+
+367
+00:14:57,040 --> 00:14:58,520
+<font size="40">because you share the same surname…</font>
+
+368
+00:14:58,920 --> 00:15:02,500
+<font size="40">I have a catchphrase but, is it okay without doing it?</font>
+
+369
+00:15:02,500 --> 00:15:04,500
+<font size="40">Please do it, I might remember you because of it.</font>
+
+370
+00:15:04,640 --> 00:15:06,300
+<font size="40">Okay, here goes Sayurin.</font>
+
+371
+00:15:06,460 --> 00:15:08,300
+<font size="40">Sayurin, Sayurin, Sayurin rin</font>
+
+372
+00:15:08,300 --> 00:15:10,120
+<font size="40">Sayurin, Sayurin, Sayuringo</font>
+
+373
+00:15:10,120 --> 00:15:11,980
+<font size="40">full of sweet honey, Sayuringo.</font>
+
+374
+00:15:11,980 --> 00:15:15,260
+<font size="40">Degawa san, once again, would you like to taste it?</font>
+
+375
+00:15:15,440 --> 00:15:17,660
+<font size="40">Wow, you are like a talking doll.</font>
+
+376
+00:15:17,840 --> 00:15:18,980
+<font size="40">Thank you very much.</font>
+
+377
+00:15:19,100 --> 00:15:20,700
+<font size="40">I don’t remember what you did just now.</font>
+
+378
+00:15:21,100 --> 00:15:22,700
+<font face="微软雅黑" size="37"><b>{\an4}Was not particularly…</b></font>
+
+379
+00:15:22,700 --> 00:15:25,100
+<font size="40">I’ll remind of you as “Ma-chan despite of being cute.”</font>
+
+380
+00:15:26,660 --> 00:15:29,960
+<font size="40">Next, the way of remembering Hashimoto Nanami…</font>
+
+381
+00:15:30,340 --> 00:15:33,080
+<font size="40">Hashimoto, the professional wrestler, Hashimoto.</font>
+
+382
+00:15:33,080 --> 00:15:34,840
+<font size="40">Hashimoto Shinya-san?</font>
+
+383
+00:15:34,860 --> 00:15:37,280
+<font size="40">It’s okay if you remember me as Hashimoto Shinya’s daughter.</font>
+
+384
+00:15:37,360 --> 00:15:38,640
+<font size="40">Hashimoto Shinya’s daughter</font>
+
+385
+00:15:39,100 --> 00:15:42,000
+<font face="微软雅黑" size="27"><b>{\an3}This had gone weird.</b></font>
+
+386
+00:15:42,300 --> 00:15:44,780
+<font size="40">You’re next to “Ma-chan despite of being cute,” right?</font>
+
+387
+00:15:44,780 --> 00:15:44,980
+<font size="40">That’s right.</font>
+
+388
+00:15:44,980 --> 00:15:46,940
+<font size="40">Next to cute Ma-chan is,</font>
+
+389
+00:15:46,940 --> 00:15:48,180
+<font size="40">Hashimoto Shinya’s daughter.</font>
+
+390
+00:15:48,180 --> 00:15:48,600
+<font size="40">That’s right.</font>
+
+391
+00:15:49,360 --> 00:15:50,040
+<font size="40">Doumo~</font>
+
+392
+00:15:50,400 --> 00:15:52,480
+<font size="40">Ah, after Hashimoto Shinya’s daughter is..</font>
+
+393
+00:15:52,480 --> 00:15:53,500
+<font size="40">I’m Erika-sama</font>
+
+394
+00:15:53,500 --> 00:15:54,460
+<font size="40">Ahh, Erika-sama</font>
+
+395
+00:15:54,460 --> 00:15:56,040
+<font face="微软雅黑" size="27"><b>{\an3} This girl’s folding up her arms again</b></font>
+
+396
+00:15:56,040 --> 00:15:57,400
+<font size="40">My hair is black, right?</font>
+
+397
+00:15:57,400 --> 00:15:58,680
+<font size="40">Ah! That’s right.</font>
+
+398
+00:15:58,680 --> 00:15:59,980
+<font size="40">Please remember “Black Erika-sama”</font>
+
+399
+00:15:59,980 --> 00:16:01,900
+<font size="40">Okay, okay, I’ll remember that.</font>
+
+400
+00:16:04,800 --> 00:16:07,040
+<font size="40">What number is Black Erika-sama assigned to?</font>
+
+401
+00:16:07,120 --> 00:16:08,300
+<font size="40">Front row? Back row?</font>
+
+402
+00:16:08,300 --> 00:16:08,980
+<font size="40">Front row?</font>
+
+403
+00:16:09,760 --> 00:16:13,340
+<font size="40">But the seating arrangement have nothing to do with the sequence of self-introduction.</font>
+
+404
+00:16:15,260 --> 00:16:15,740
+<font face="微软雅黑" size="27"><b>{\an3} That’s no good Degawa-san!</b></font>
+
+405
+00:16:15,740 --> 00:16:15,740
+<font size="40">Ehhhhhhh this is impossible</font>
+
+406
+00:16:15,740 --> 00:16:17,580
+<font face="微软雅黑" size="37"><b>{\an4}Big Miscalculation</b></font>
+
+407
+00:16:18,240 --> 00:16:19,340
+<font size="40">Doing that is useless!</font>
+
+408
+00:16:19,340 --> 00:16:21,620
+<font size="40">My hair color is black.</font>
+
+409
+00:16:21,620 --> 00:16:22,200
+<font size="40">- Degawa-san? 
+ – Eh?</font>
+
+410
+00:16:22,740 --> 00:16:27,280
+<font size="40">-Who said that the seating arrangement and the sequence of appearance is the same? 
+ - Ehhhhhhh</font>
+
+411
+00:16:30,980 --> 00:16:34,400
+<font size="40">Please remember their faces and names properly.</font>
+
+412
+00:16:37,120 --> 00:16:38,560
+<font size="40">Next up, number 6 is Nishino.</font>
+
+413
+00:16:38,800 --> 00:16:41,760
+<font size="40">what kind of impression will she make?</font>
+
+414
+00:16:42,600 --> 00:16:45,720
+<font size="40">My nickname is Nanasemaru, but..</font>
+
+415
+00:16:45,720 --> 00:16:49,520
+<font size="40">if we could do a catchphrase of it together…</font>
+
+416
+00:16:49,600 --> 00:16:50,590
+<font size="40">Okay, let’s do it.</font>
+
+417
+00:16:50,590 --> 00:16:53,830
+<font size="40">When I do this..</font>
+
+418
+00:16:53,830 --> 00:16:55,830
+<font size="40">you’ll say Nanasemaru.</font>
+
+419
+00:16:55,940 --> 00:16:56,820
+<font size="40">Okay.</font>
+
+420
+00:16:56,980 --> 00:16:58,700
+<font size="40">Born in Osaka</font>
+
+421
+00:16:59,780 --> 00:17:01,000
+<font size="40">Nanasemaru!</font>
+
+422
+00:17:01,580 --> 00:17:03,160
+<font size="40">Let’s do it one more time.</font>
+
+423
+00:17:03,180 --> 00:17:04,440
+<font size="40">Born in Osaka</font>
+
+424
+00:17:05,440 --> 00:17:06,500
+<font size="40">Nanasemaru!</font>
+
+425
+00:17:06,540 --> 00:17:08,960
+<font size="40">- Thank you very much. Is it okay?</font>
+
+426
+00:17:11,040 --> 00:17:14,160
+<font size="40">-Onegaishimasu~  I’m Takayama Kazumi.</font>
+
+427
+00:17:14,160 --> 00:17:15,420
+<font size="40">- Takayama Kazumi-chan, Kazumi-chan 
+- Yes</font>
+
+428
+00:17:16,900 --> 00:17:16,900
+<font face="微软雅黑" size="32"><b>Philtrum – midline groove in the upper lip 
+that runs from the top of the lip to the nose</b></font>
+
+429
+00:17:16,900 --> 00:17:21,740
+<font size="40">Among the members, I have the most prominent philtrum.</font>
+
+430
+00:17:22,920 --> 00:17:25,760
+<font size="40">Please look at this line and this character on my name..</font>
+
+431
+00:17:25,760 --> 00:17:27,140
+<font size="40">Okay!</font>
+
+432
+00:17:27,440 --> 00:17:30,280
+<font size="40">This is what I’m most thankful for!</font>
+
+433
+00:17:30,720 --> 00:17:33,030
+<font size="40">Kazumi-chan, Kazumi-chan</font>
+
+434
+00:17:33,030 --> 00:17:33,030
+<font face="华文中宋" size="32" color="#1ea2c1">{\an8}In reference to Kato Cha</font>
+
+435
+00:17:33,030 --> 00:17:35,030
+<font size="40">- Kato-chan Pe  
+ - Kazumi-chan</font>
+
+436
+00:17:35,030 --> 00:17:37,030
+<font size="40">Kazu-chan Pe</font>
+
+437
+00:17:37,080 --> 00:17:38,660
+<font size="40">-It’s going well, huh? 
+-It’s all good.</font>
+
+438
+00:17:38,660 --> 00:17:40,460
+<font size="40">Because that was Kato-san, huh? Just now.</font>
+
+439
+00:17:42,940 --> 00:17:45,960
+<font size="40">The 9th member, Inoue Sayuri</font>
+
+440
+00:17:46,280 --> 00:17:49,500
+<font size="40">Sayuri-chan, how can I remember you?</font>
+
+441
+00:17:50,640 --> 00:17:52,060
+<font size="40">With my bangs</font>
+
+442
+00:17:52,900 --> 00:17:54,580
+<font size="40">What’s up with your bangs?</font>
+
+443
+00:17:55,060 --> 00:17:57,180
+<font size="40">Please remember my precisely done bangs.</font>
+
+444
+00:17:57,180 --> 00:17:59,560
+<font size="40">Precisely done?</font>
+
+445
+00:17:59,560 --> 00:18:01,080
+<font size="40">Why is that? Sayuri..</font>
+
+446
+00:18:01,280 --> 00:18:03,640
+<font size="40">It’s true, this part here…</font>
+
+447
+00:18:06,000 --> 00:18:08,020
+<font size="40">Sayuri-chan who really likes nori.</font>
+
+448
+00:18:08,700 --> 00:18:11,820
+<font face="微软雅黑" size="37"><b>{\an4}Likes nori?</b></font>
+
+449
+00:18:14,740 --> 00:18:15,380
+<font size="40">After that,</font>
+
+450
+00:18:15,380 --> 00:18:16,380
+<font size="40">Wakatsuki Yumi</font>
+
+451
+00:18:19,540 --> 00:18:21,120
+<font size="40">Akimoto Manatsu</font>
+
+452
+00:18:25,440 --> 00:18:26,520
+<font size="40">Fukagawa Mai</font>
+
+453
+00:18:28,680 --> 00:18:29,900
+<font size="40">Saito Yuuri</font>
+
+454
+00:18:32,260 --> 00:18:33,460
+<font size="40">Ito Marika</font>
+
+455
+00:18:37,300 --> 00:18:38,960
+<font size="40">14 members are done,</font>
+
+456
+00:18:39,200 --> 00:18:40,960
+<font size="40">Last one is Nakada Kana</font>
+
+457
+00:18:42,640 --> 00:18:45,180
+<font size="40">Read from top to bottom or bottom to top…</font>
+
+458
+00:18:45,300 --> 00:18:47,940
+<font size="40">Uwaaaa, Nakada Kana</font>
+
+459
+00:18:48,340 --> 00:18:50,880
+<font size="40">Our eyes should’ve met more!</font>
+
+460
+00:18:51,300 --> 00:18:54,420
+<font size="40">Well, about my appearance...</font>
+
+461
+00:18:54,420 --> 00:18:55,780
+<font size="40">Because of my hair, please remember "Black Kanarin"</font>
+
+462
+00:18:56,300 --> 00:18:56,400
+<font face="微软雅黑" size="47"><b> Black II</b></font>
+
+463
+00:18:56,400 --> 00:18:57,700
+<font size="40">It already appeared earlier,</font>
+
+464
+00:18:57,700 --> 00:18:58,820
+<font size="40">Black Erika-sama</font>
+
+465
+00:18:58,820 --> 00:19:00,180
+<font size="40">My white skin is my charm point.</font>
+
+466
+00:19:00,180 --> 00:19:01,560
+<font size="40">White skin also appeared earlier!</font>
+
+467
+00:19:04,820 --> 00:19:06,360
+<font size="40">Bye bye. 
+-We’re finished!</font>
+
+468
+00:19:07,020 --> 00:19:11,280
+<font size="40">Degawa san, please proceed to the studio.</font>
+
+469
+00:19:12,920 --> 00:19:16,360
+<font size="40">Finally, how many members were able to make an impression?</font>
+
+470
+00:19:18,740 --> 00:19:20,700
+<font size="40">Verification Take 2!</font>
+
+471
+00:19:21,160 --> 00:19:21,760
+<font size="40">What number?</font>
+
+472
+00:19:22,040 --> 00:19:23,400
+<font size="40">Number 1</font>
+
+473
+00:19:25,080 --> 00:19:25,840
+<font size="40">Sakurai-san</font>
+
+474
+00:19:27,000 --> 00:19:28,360
+<font size="40">Please take it off.</font>
+
+475
+00:19:28,980 --> 00:19:30,960
+<font size="40">Okay, amazing.</font>
+
+476
+00:19:32,420 --> 00:19:33,200
+<font size="40">Number 3</font>
+
+477
+00:19:34,120 --> 00:19:35,340
+<font size="40">Ikoma-chan</font>
+
+478
+00:19:38,760 --> 00:19:41,740
+<font size="40">Center, I know this one, Number 5</font>
+
+479
+00:19:42,500 --> 00:19:47,560
+<font size="40">Because of her white skin, Shiroi-san... Shiraishi-san...</font>
+
+480
+00:19:49,800 --> 00:19:51,040
+<font size="40">Yatta! Yes! Yes! Yes!</font>
+
+481
+00:19:53,840 --> 00:19:55,720
+<font size="40">It is always Degawa-san’s turn.</font>
+
+482
+00:19:56,120 --> 00:19:57,520
+<font size="40">What number?</font>
+
+483
+00:19:57,840 --> 00:20:00,020
+<font size="40">Number 4</font>
+
+484
+00:20:00,020 --> 00:20:02,280
+<font size="40">Despite of being cute… Matsumura-san</font>
+
+485
+00:20:03,720 --> 00:20:04,820
+<font size="40">Woohoo, so amazing.</font>
+
+486
+00:20:04,820 --> 00:20:07,400
+<font size="40">This is pretty amazing...</font>
+
+487
+00:20:07,400 --> 00:20:08,380
+<font size="40">Ah, yes.</font>
+
+488
+00:20:08,840 --> 00:20:09,820
+<font size="40">Let’s go.</font>
+
+489
+00:20:12,220 --> 00:20:13,930
+<font size="40">Short hair and yet…</font>
+
+490
+00:20:17,000 --> 00:20:18,080
+<font size="40">Ah, wrong.</font>
+
+491
+00:20:19,700 --> 00:20:21,920
+<font size="40">Hashimoto-san despite being a short hair.</font>
+
+492
+00:20:23,740 --> 00:20:24,820
+<font size="40">What’s that?</font>
+
+493
+00:20:25,580 --> 00:20:29,500
+<font size="40">Pro-wrestler Hashimoto-san’s daughter.</font>
+
+494
+00:20:31,160 --> 00:20:33,240
+<font size="40">You remembered quite a lot, Degawa-san.</font>
+
+495
+00:20:33,240 --> 00:20:35,040
+<font size="40">Uhhmm, the girl who did this.</font>
+
+496
+00:20:35,520 --> 00:20:36,620
+<font size="40">What was that again?</font>
+
+497
+00:20:36,620 --> 00:20:38,800
+<font size="40">yabai, yabai, yabai.</font>
+
+498
+00:20:40,000 --> 00:20:41,980
+<font size="40">Number 7, please stand up.</font>
+
+499
+00:20:42,240 --> 00:20:43,980
+<font size="40">Do that one again.</font>
+
+500
+00:20:46,380 --> 00:20:47,440
+<font size="40">Ahhh! I got it!</font>
+
+501
+00:20:48,180 --> 00:20:49,060
+<font size="40">Please do it again!</font>
+
+502
+00:20:50,700 --> 00:20:51,540
+<font size="40">Nanase!</font>
+
+503
+00:20:56,420 --> 00:20:57,700
+<font size="40"></font>
+
+504
+00:20:58,040 --> 00:21:01,480
+<font size="40">Ah! This one!</font>
+
+505
+00:21:02,580 --> 00:21:04,000
+<font size="40">Nori, nori nori.</font>
+
+506
+00:21:04,320 --> 00:21:06,280
+<font size="40">Number 10, please stand up.</font>
+
+507
+00:21:06,400 --> 00:21:08,880
+<font size="40">What was that? She really likes nori…</font>
+
+508
+00:21:08,920 --> 00:21:09,680
+<font size="40">No, no, no.</font>
+
+509
+00:21:10,820 --> 00:21:12,300
+<font size="40">You really like nori, right?</font>
+
+510
+00:21:12,440 --> 00:21:13,480
+<font size="40">Eh? Wait a minute.</font>
+
+511
+00:21:13,540 --> 00:21:16,380
+<font size="40">She really likes nori… Matsuzaka-san..</font>
+
+512
+00:21:20,960 --> 00:21:23,940
+<font size="40">She really likes nori, who was that? I’m sorry. I’m sorry.</font>
+
+513
+00:21:24,020 --> 00:21:27,400
+<font size="40">Read it from top to bottom or bottom to top, Nakada Kana-chan.</font>
+
+514
+00:21:27,700 --> 00:21:31,000
+<font size="40">From this point on, Degawa-san displayed his forte.</font>
+
+515
+00:21:31,000 --> 00:21:31,920
+<font size="40">- Yumi-chan  
+ - Yes</font>
+
+516
+00:21:34,260 --> 00:21:35,780
+<font size="40">Manatsu-chan</font>
+
+517
+00:21:38,420 --> 00:21:39,940
+<font size="40">Dasai is Saiito-san!</font>
+
+518
+00:21:40,380 --> 00:21:42,000
+<font size="40">- Saito-san! 
+ -Okay.</font>
+
+519
+00:21:42,000 --> 00:21:43,220
+<font size="40">Thank you very much.</font>
+
+520
+00:21:43,380 --> 00:21:44,240
+<font size="40">Marika-chan?</font>
+
+521
+00:21:46,220 --> 00:21:47,140
+<font size="40"></font>
+
+522
+00:21:47,840 --> 00:21:50,180
+<font size="40">Mai Degawa, Mai-chan</font>
+
+523
+00:21:52,580 --> 00:21:53,660
+<font size="40">Yatta!</font>
+
+524
+00:21:54,660 --> 00:21:58,160
+<font size="40">With that, there are three members left. 
+Ikuta, Takayama and Inoue</font>
+
+525
+00:21:58,760 --> 00:21:59,600
+<font size="40">Just three people remaining!</font>
+
+526
+00:21:59,600 --> 00:22:02,140
+<font size="40">Degawa-san, there’s not much time remaining.</font>
+
+527
+00:22:02,140 --> 00:22:03,520
+<font size="40">Ah, wait, wait.</font>
+
+528
+00:22:03,520 --> 00:22:05,660
+<font size="40">Which one is Black Erika-chan?!</font>
+
+529
+00:22:07,280 --> 00:22:08,540
+<font size="40">Black Erika-chan!</font>
+
+530
+00:22:10,360 --> 00:22:12,260
+<font size="40">Searching for Black Erika-chan.</font>
+
+531
+00:22:13,180 --> 00:22:15,500
+<font size="40">I figured out who Black Erika-chan is.</font>
+
+532
+00:22:15,860 --> 00:22:17,500
+<font size="40">Number 2 is Erika-chan!</font>
+
+533
+00:22:18,600 --> 00:22:19,680
+<font size="40"></font>
+
+534
+00:22:20,980 --> 00:22:21,700
+<font size="40"></font>
+
+535
+00:22:22,060 --> 00:22:23,160
+<font size="40">I’m begging you, I’m begging you.</font>
+
+536
+00:22:23,160 --> 00:22:24,460
+<font size="40">Two remaining.</font>
+
+537
+00:22:28,100 --> 00:22:30,980
+<font size="40">After this, a miraculous perfect achievement?!</font>
+
+538
+00:22:38,020 --> 00:22:40,580
+<font size="40">Ah! You’re not doing this! Because you’re not doing this!</font>
+
+539
+00:22:40,600 --> 00:22:42,660
+<font size="40">Number 8</font>
+
+540
+00:22:43,920 --> 00:22:47,280
+<font size="40">with the most prominent philtrum, Kazumi-chan!</font>
+
+541
+00:22:48,200 --> 00:22:50,280
+<font size="40">Ahh, amazing!</font>
+
+542
+00:22:51,240 --> 00:22:51,940
+<font size="40">It’s amazing!</font>
+
+543
+00:22:51,940 --> 00:22:52,940
+<font size="40">Last one.</font>
+
+544
+00:22:52,940 --> 00:22:54,080
+<font size="40">I’m begging you.</font>
+
+545
+00:22:54,080 --> 00:22:55,760
+<font size="40">Will the last one be safe?</font>
+
+546
+00:22:55,940 --> 00:22:58,200
+<font size="40">It’s not “Matsuzaka-san who really likes nori” after all?</font>
+
+547
+00:22:58,320 --> 00:22:58,620
+<font size="40">Who is that?!</font>
+
+548
+00:22:58,620 --> 00:23:02,060
+<font face="微软雅黑" size="47"><b> Matsuzaka-kun?</b></font>
+
+549
+00:23:05,660 --> 00:23:07,300
+<font size="40">She really likes nori.</font>
+
+550
+00:23:09,900 --> 00:23:11,820
+<font size="40">She really likes nori, who was that again?</font>
+
+551
+00:23:12,420 --> 00:23:13,720
+<font size="40">You had a lot of doubts after all, right?</font>
+
+552
+00:23:13,980 --> 00:23:16,040
+<font size="40">Yes, yes, yes.</font>
+
+553
+00:23:20,660 --> 00:23:22,320
+<font size="40">Time’s up!</font>
+
+554
+00:23:24,020 --> 00:23:27,700
+<font size="40">I’m sorry!</font>
+
+555
+00:23:28,120 --> 00:23:30,560
+<font size="40">Sorry!</font>
+
+556
+00:23:31,180 --> 00:23:32,760
+<font size="40">Sorry! I’m really sorry.</font>
+
+557
+00:23:33,700 --> 00:23:34,560
+<font size="40">I’ll give you a last chance.</font>
+
+558
+00:23:34,560 --> 00:23:37,520
+<font size="40">Last chance, get it right, then it’s safe</font>
+
+559
+00:23:37,640 --> 00:23:38,900
+<font size="40">There’s only one shot however.</font>
+
+560
+00:23:39,040 --> 00:23:40,620
+<font size="40">Her favorite is nori.</font>
+
+561
+00:23:41,680 --> 00:23:42,800
+<font size="40">Eh, wait a minute.</font>
+
+562
+00:23:43,320 --> 00:23:44,720
+<font size="40">There’s only one shot.</font>
+
+563
+00:23:45,640 --> 00:23:48,760
+<font size="40">Her favorite is nori…</font>
+
+564
+00:23:48,760 --> 00:23:49,760
+<font size="40">Akie-chan?</font>
+
+565
+00:23:49,760 --> 00:23:50,760
+<font size="40">Who is that?</font>
+
+566
+00:23:50,760 --> 00:23:52,340
+<font size="40">We’re finished!</font>
+
+567
+00:23:52,980 --> 00:23:54,160
+<font size="40">Number 10, please show the answer.</font>
+
+568
+00:23:54,840 --> 00:23:56,140
+<font size="40">Inoue Sayuri</font>
+
+569
+00:23:56,720 --> 00:23:59,580
+<font size="40">Ah, it’s Sayuri-san, Sayuri-chan.</font>
+
+570
+00:23:59,660 --> 00:24:02,380
+<font size="40">Ah, it’s Sayunyan, I’m really sorry.</font>
+
+571
+00:24:04,140 --> 00:24:06,100
+<font size="40">Matsuzaka-san who really likes nori,</font>
+
+572
+00:24:06,420 --> 00:24:09,820
+<font size="40">please think of a new self-introduction!</font>
+
+573
+00:24:11,720 --> 00:24:11,720
+<font size="40">Terimakasih sudah memakai sub dari guringurin.com 
+Maaf banyak kesalahan dan Typo dalam mengartikan</font>
+
+574
+00:24:11,720 --> 00:24:14,920
+<font size="40"></font>
+
+575
+00:24:18,200 --> 00:24:23,800
+<font size="40"></font>
+
+576
+00:24:23,960 --> 00:24:28,080
+<font size="40"></font>
+
+577
+00:24:28,880 --> 00:24:31,480
+<font size="40"></font>
+
+578
+00:24:49,020 --> 00:24:51,100
+<font size="40"></font>
+
+579
+00:24:51,100 --> 00:24:52,840
+<font size="40"></font>
+
+580
+00:24:54,080 --> 00:24:55,460
+<font size="40"></font>
+
+581
+00:24:55,460 --> 00:24:58,000
+<font size="40"></font>
+

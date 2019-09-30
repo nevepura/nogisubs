@@ -1,0 +1,2510 @@
+1
+00:00:00,000 --> 00:00:05,760
+<font face="Calibri" size="18">{\an7}m 0 0 l 0 27 l 2 27 l 2 0 l 0 0 m 2 0 l -4 0 l -4 6 l 16 6 l 16 4 l -2 4 l -2 2 l 0 2 m 2 2 m 16 0 l 16 27 l 18 27 l 18 -1 l 16 -1 m 22 0 l 22 0 l 24 0 l 24 11 l 19 11 l 19 9 l 22 9 l 22 2 l 15 2 l 15 0 m 6 18 l 6 12 l 12 12 l 12 14 l 8 14 l 8 18 l 6 18 m 12 18 l 12 20 l 6 20 l 6 18 l 10 18 l 10 14 l 12 14 l 12 18 m 5 7 l 8 9 l 7 10 l 4 8 l 5 7 m 10 9 l 10 9 l 13 7 l 14 8 l 11 10 l 10 9 m 3 24 b 3 24 3 23 3 23 b 7 21 11 21 15 23 b 15 23 15 25 15 25 b 11 23 7 23 3 25 
+<b>MasToppu.blogspot.co.id</b></font>
+
+2
+00:00:05,760 --> 00:00:07,900
+<font size="24"><b>Nogizaka Koujichuu</b></font>
+
+3
+00:00:08,160 --> 00:00:08,590
+<font size="24"><b>DON! Alright, Nogizaka Koujichuu is starting
+and we're the MC, Bananaman, <i>Yoroshiku Onegaishimasu</i>...</b></font>
+
+4
+00:00:08,590 --> 00:00:08,590
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font face="Arial Rounded MT Bold"><font size="20"><font color="#fffc00">BANANAMAN</font></font></font></b></font>
+
+5
+00:00:08,590 --> 00:00:08,590
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font face="Berlin Sans FB"><font size="18"><font color="#000000">HIMURA YUUKI</font></font></font></b></font>
+
+6
+00:00:08,590 --> 00:00:13,080
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font face="Berlin Sans FB"><font size="18"><font color="#000000">SHITARA OSAMU</font></font></font></b></font>
+
+7
+00:00:13,080 --> 00:00:16,730
+<font size="24"><b>And here's, Nogizaka-chan ~</b></font>
+
+8
+00:00:20,000 --> 00:00:22,460
+<font size="24"><b>Okay, without further ado, 
+ Himura-san, please announce our segment for today!</b></font>
+
+9
+00:00:22,460 --> 00:00:23,640
+<font size="24"><b>- Yes!</b></font>
+
+10
+00:00:23,640 --> 00:00:31,210
+<font size="24"><b>To commemorate Nogikoi release,
+Ideal Boyfriend Presentation!</b></font>
+
+11
+00:00:33,540 --> 00:00:36,920
+<font size="24"><b><i>In order to commemorate the release of 
+ Nogizaka46's love game...</i></b></font>
+
+12
+00:00:36,920 --> 00:00:44,360
+<font size="24"><b><i>... in tonight's segment, members who are not allowed 
+ to date will tell us their ideal boyfriend types.</i></b></font>
+
+13
+00:00:44,520 --> 00:00:47,830
+<font size="24"><b>All of you had answered 
+ the questionnaire...</b></font>
+
+14
+00:00:47,830 --> 00:00:50,800
+<font size="24"><b>What I have in my hand right now
+ is the original questionnaire.</b></font>
+
+15
+00:00:50,800 --> 00:00:53,200
+<font size="24"><b>They totally wrote it until it's full!</b></font>
+
+16
+00:00:53,200 --> 00:00:53,200
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#2a292c">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+17
+00:00:53,200 --> 00:00:53,840
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font size="16">THE LONG-WAITED SEGMENT.</font></b></font>
+
+18
+00:00:53,840 --> 00:00:59,620
+<font size="24"><b>Up until now, they have never wrote this much
+ on questionnaire for other segment in this show.</b></font>
+
+19
+00:00:59,620 --> 00:01:01,840
+<font size="24"><b>I guess if we release this out, 
+ it will be a big hit.   - No, no, no!</b></font>
+
+20
+00:01:01,840 --> 00:01:01,840
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#2a292c">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+21
+00:01:01,840 --> 00:01:03,240
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font size="16">NOGIZAKA46 GUIDEBOOK.</font></b></font>
+
+22
+00:01:03,240 --> 00:01:05,480
+<font size="24"><b>That's right, people 
+will be interested in this.</b></font>
+
+23
+00:01:05,480 --> 00:01:05,480
+<font size="24"><b>Well then, Himura-san...   - Yeah?
+- I'm selling this to you for 200.000 Yen...</b></font>
+
+24
+00:01:05,480 --> 00:01:09,380
+<font size="18"><b>{\an8}[ 200.000 Yen = about 2000 USD ]</b></font>
+
+25
+00:01:09,380 --> 00:01:12,720
+<font size="24"><b>That cheap?</b></font>
+
+26
+00:01:13,320 --> 00:01:17,960
+<font size="24"><b><i>Without any more waiting, here's 
+Takayama's ideal man type.</i></b></font>
+
+27
+00:01:18,020 --> 00:01:21,890
+<font size="24"><b>Okay, I'm ready... not too tall.
+- What?</b></font>
+
+28
+00:01:22,420 --> 00:01:25,300
+<font size="24"><b>That's...   - 110cm...  - That's too short. 
+ - He might be mistaken as an elementary student.</b></font>
+
+29
+00:01:25,300 --> 00:01:25,300
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#2a292c">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+30
+00:01:25,300 --> 00:01:27,470
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font size="16">EXTREME EXAMPLE.</font></b></font>
+
+31
+00:01:27,660 --> 00:01:31,680
+<font size="24"><b>Tall people in general have deeper voice...</b></font>
+
+32
+00:01:31,680 --> 00:01:32,000
+<font size="24"><b>- Like Giant Shirota-san,</b></font>
+
+33
+00:01:32,000 --> 00:01:33,000
+<font size="18"><b>{\an8}[ Giant Shirota = Nobuyuki Shirota, Japan's champion of competitive eating (yup)
+Choi Hongman =  A 2,18 meter K1 South Korean fighter ]</b></font>
+
+34
+00:01:33,000 --> 00:01:36,610
+<font size="24"><b>Ah, right, like Giant Shirota-san, or
+that guy, Choi Hongman, both of them are...</b></font>
+
+35
+00:01:36,610 --> 00:01:37,080
+<font size="24"><b>- They're not the same!</b></font>
+
+36
+00:01:37,080 --> 00:01:37,080
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#2a292c">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+37
+00:01:37,080 --> 00:01:38,210
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font size="16">EXTREME EXAMPLE.</font></b></font>
+
+38
+00:01:38,210 --> 00:01:41,680
+<font size="24"><b>Their voices are similar! 
+ - Clearly they're more than 110...</b></font>
+
+39
+00:01:41,680 --> 00:01:46,380
+<font size="24"><b>But in my imagination, 
+tall people have deep voice...</b></font>
+
+40
+00:01:46,380 --> 00:01:49,320
+<font size="24"><b>... so I think short person might be better...
+- How short?</b></font>
+
+41
+00:01:49,320 --> 00:01:55,200
+<font size="24"><b>I'm 160cm myself, ehm, 
+ I guess it's okay if he's shorter than me.</b></font>
+
+42
+00:01:55,200 --> 00:01:57,120
+<font size="24"><b>You don't want someone as tall as you?
+- Is 150cm good?</b></font>
+
+43
+00:01:57,120 --> 00:01:59,830
+<font size="24"><b>I think it's cuter.
+- So taller is fine?</b></font>
+
+44
+00:01:59,830 --> 00:02:03,880
+<font size="24"><b>Yes, a tall person might be fine. 
+But I think tall person's face is too far, so...</b></font>
+
+45
+00:02:03,880 --> 00:02:05,680
+<font size="24"><b>- What kind of person is that?</b></font>
+
+46
+00:02:05,680 --> 00:02:11,100
+<font size="24"><b>But when you kiss her it will look sweet,
+like when you're on your tiptoe...</b></font>
+
+47
+00:02:11,100 --> 00:02:13,700
+<font size="24"><b>Is that too old school?
+- If he's shorter then I can just...</b></font>
+
+48
+00:02:15,100 --> 00:02:20,480
+<font size="24"><b>But maybe I will get used to it... maybe I... 
+- How cute ~</b></font>
+
+49
+00:02:20,480 --> 00:02:21,890
+<font size="24"><b>No, this is embarassing. 
+ What's this all about?</b></font>
+
+50
+00:02:21,890 --> 00:02:21,890
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#2a292c">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+51
+00:02:21,890 --> 00:02:22,820
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font size="14"><font face="Arial">THERE'LL BE MANY MEMBERS ACTING LIKE THIS TODAY.</font></font></b></font>
+
+52
+00:02:22,820 --> 00:02:26,730
+<font size="24"><b>It's okay.
+- This is nice, she's that embarassed.  - Nice...</b></font>
+
+53
+00:02:27,700 --> 00:02:33,440
+<font size="24"><b><i>Takayama's next ideal criteria, 
+having white skin, plus...</i></b></font>
+
+54
+00:02:34,820 --> 00:02:38,200
+<font size="24"><b>His clothings are lame.
+- Seriously?!</b></font>
+
+55
+00:02:38,200 --> 00:02:41,220
+<font size="24"><b>I just realized this recently...</b></font>
+
+56
+00:02:41,220 --> 00:02:44,910
+<font size="24"><b>... one time, I passed a man...</b></font>
+
+57
+00:02:44,910 --> 00:02:48,880
+<font size="24"><b>He had this bag 
+hanging on his shoulder...</b></font>
+
+58
+00:02:48,880 --> 00:02:52,120
+<font size="24"><b>... I saw him tightly gripping on it...</b></font>
+
+59
+00:02:52,120 --> 00:02:55,920
+<font size="24"><b>I thought, 
+ "<i>That's so cute!</i>"</b></font>
+
+60
+00:02:55,920 --> 00:03:00,730
+<font size="24"><b>But it's not only that. 
+Regarding clothing, I'm also interested in someone who...</b></font>
+
+61
+00:03:00,730 --> 00:03:06,180
+<font size="24"><b>... like, I can ask him "<i>What about this clothes?</i>"
+and wearing pairing clothes...   - Pairing clothes?</b></font>
+
+62
+00:03:06,180 --> 00:03:11,670
+<font size="24"><b>His fashion style might be messy or bad even,
+ but he's not a picky person...</b></font>
+
+63
+00:03:11,670 --> 00:03:19,340
+<font size="24"><b>... so when I say "<i>Try this</i>", he'll say "<i>Okay I will</i>",
+ while carrying his ugly bag, I think that's adorable...</b></font>
+
+64
+00:03:20,080 --> 00:03:21,060
+<font size="24"><b>You got it, right?</b></font>
+
+65
+00:03:21,060 --> 00:03:23,750
+<font size="24"><b>Okay, next...</b></font>
+
+66
+00:03:23,750 --> 00:03:27,150
+<font size="24"><b>Sometimes stupid, sometimes genius.
+- What does that mean?</b></font>
+
+67
+00:03:27,150 --> 00:03:30,820
+<font size="24"><b>For example, when we go
+ to the zoo together...</b></font>
+
+68
+00:03:30,820 --> 00:03:33,790
+<font size="24"><b>If he's being stupid, he'll say 
+"<i>Eh, is that a gorilla or a monkey</i>?"</b></font>
+
+69
+00:03:33,790 --> 00:03:33,790
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#2a292c">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+70
+00:03:33,790 --> 00:03:35,880
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font size="16">UNQUESTIONABLY STUPID.</font></b></font>
+
+71
+00:03:35,880 --> 00:03:38,040
+<font size="24"><b>That's worrying.</b></font>
+
+72
+00:03:38,040 --> 00:03:40,730
+<font size="24"><b>"<i>Eh, is that a gorilla or a monkey</i>?"...</b></font>
+
+73
+00:03:40,730 --> 00:03:45,840
+<font size="24"><b>More or less, it's like that 
+when he's being stupid, but it's adorable...</b></font>
+
+74
+00:03:45,840 --> 00:03:50,660
+<font size="24"><b>He always wants to know stuff 
+ he doesn't know, maybe that's...</b></font>
+
+75
+00:03:50,660 --> 00:03:53,620
+<font size="24"><b>Is that impossible?
+- Impossible? No way...</b></font>
+
+76
+00:03:53,620 --> 00:04:00,760
+<font size="24"><b>On the other side, someone like that needs explanation like,
+ "<i>Ah, that monkey only exists in Japan</i>...</b></font>
+
+77
+00:04:00,760 --> 00:04:01,640
+<font size="24"><b>...<i>and it can only be seen in this zoo</i>,"
+he's a person who wants to know the details...</b></font>
+
+78
+00:04:01,640 --> 00:04:04,720
+<font size="24"><b>-  How troublesome...</b></font>
+
+79
+00:04:05,990 --> 00:04:08,460
+<font size="24"><b>Do you think there's a lot of people 
+with that criteria?</b></font>
+
+80
+00:04:08,460 --> 00:04:12,280
+<font size="24"><b>I wanna have a date with someone different... 
+ - You don't like the normal ones?</b></font>
+
+81
+00:04:12,280 --> 00:04:17,640
+<font size="24"><b>If I go to the zoo with the normal type of a guy,
+maybe it'll be fun, but...</b></font>
+
+82
+00:04:17,640 --> 00:04:21,180
+<font size="24"><b>... perhaps it's boring.
+- You want someone different.  - Yes, like he has variations.</b></font>
+
+83
+00:04:21,180 --> 00:04:22,500
+<font size="24"><b>Sometimes stupid and smart?
+- Yes!</b></font>
+
+84
+00:04:22,820 --> 00:04:25,920
+<font size="24"><b><i>And, Takayama's last ideal criteria is...</i></b></font>
+
+85
+00:04:26,400 --> 00:04:28,080
+<font size="24"><b>Please!
+- Shoulders?</b></font>
+
+86
+00:04:28,080 --> 00:04:29,660
+<font size="24"><b>Shoulders! Now this...
+- What do you mean?</b></font>
+
+87
+00:04:29,660 --> 00:04:33,640
+<font size="24"><b>Personally, I can't stop talking about them ever. 
+ I'm a shoulders maniac.</b></font>
+
+88
+00:04:33,640 --> 00:04:34,760
+<font size="24"><b>- What?</b></font>
+
+89
+00:04:34,760 --> 00:04:38,920
+<font size="24"><b>There are round shoulders, 
+ flat shoulders...</b></font>
+
+90
+00:04:38,920 --> 00:04:41,890
+<font size="24"><b>... lean like cat's shoulders...</b></font>
+
+91
+00:04:41,890 --> 00:04:44,300
+<font size="24"><b>By lean do you mean bony?</b></font>
+
+92
+00:04:44,300 --> 00:04:46,770
+<font size="24"><b>Yes, the shape is not too big...</b></font>
+
+93
+00:04:46,770 --> 00:04:51,120
+<font size="24"><b>What about mine? These shoulders?
+- Himura-san's shoulders are round...</b></font>
+
+94
+00:04:51,120 --> 00:04:54,810
+<font size="24"><b>Himura-san's shoulders are super rounding?
+- That's right.</b></font>
+
+95
+00:04:54,810 --> 00:04:58,210
+<font size="24"><b>What about me...
+- Shitara-san's upper shoulders...</b></font>
+
+96
+00:04:58,210 --> 00:05:00,440
+<font size="24"><b>... I like them because they look natural.</b></font>
+
+97
+00:05:00,440 --> 00:05:03,700
+<font size="24"><b>Like a cat's?  -Yes, yes true!
+-  But I'm not lean.</b></font>
+
+98
+00:05:03,700 --> 00:05:09,760
+<font size="24"><b>If you're a bit more lean, 
+ you'll get 100 points out of 100.</b></font>
+
+99
+00:05:09,760 --> 00:05:12,820
+<font size="24"><b>Yeah, I got a perfect score.
+What about Himura-san?</b></font>
+
+100
+00:05:12,820 --> 00:05:15,890
+<font size="24"><b>Why do you start to care about mine now...</b></font>
+
+101
+00:05:16,620 --> 00:05:20,660
+<font size="24"><b>How many points do I get?
+- Himura-san's shoulders score....</b></font>
+
+102
+00:05:20,660 --> 00:05:22,400
+<font size="24"><b>... is almost 0 point.</b></font>
+
+103
+00:05:22,400 --> 00:05:22,400
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#2a292c">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+104
+00:05:22,400 --> 00:05:23,840
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font size="16">0 POINT.</font></b></font>
+
+105
+00:05:23,840 --> 00:05:25,720
+<font size="24"><b>Why so low?</b></font>
+
+106
+00:05:25,720 --> 00:05:30,220
+<font size="24"><b>But if the shoulders are good, 
+ even if he doesn't fulfill the other criterias here...</b></font>
+
+107
+00:05:30,220 --> 00:05:32,220
+<font size="24"><b>Are shoulders that important?
+- Yes!</b></font>
+
+108
+00:05:32,220 --> 00:05:35,510
+<font size="24"><b>This is a tough call, 
+ but it's really fun...</b></font>
+
+109
+00:05:35,550 --> 00:05:35,550
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#2a292c">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+110
+00:05:35,550 --> 00:05:37,420
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font size="16">THIS SEGMENT, FUN.</font></b></font>
+
+111
+00:05:38,180 --> 00:05:42,320
+<font size="24"><b><i>Next, here's Akimoto's 
+ ideal man criteria.</i></b></font>
+
+112
+00:05:42,540 --> 00:05:44,320
+<font size="24"><b>Okay.
+- Jyan~</b></font>
+
+113
+00:05:44,320 --> 00:05:46,990
+<font size="24"><b>Both of his arms are muscular!</b></font>
+
+114
+00:05:46,990 --> 00:05:49,180
+<font size="24"><b>Well, am I muscular enough?</b></font>
+
+115
+00:05:49,180 --> 00:05:55,100
+<font size="24"><b>Muscular as in it's not just big, 
+ but the muscles are also visible...</b></font>
+
+116
+00:05:55,100 --> 00:05:58,500
+<font size="24"><b>Plus, his upper part body has
+muscular texture.   - Zennichi...</b></font>
+
+117
+00:05:58,500 --> 00:05:58,500
+<font size="24"><b>Zenni... why are you comparing it
+ with Zennichi Wrestler...</b></font>
+
+118
+00:05:58,500 --> 00:05:59,170
+<font size="18"><b>{\an8}[ Zennichi Wrestler = Japan's freestyle wrestling association ]</b></font>
+
+119
+00:05:59,170 --> 00:05:59,170
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#2a292c">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+120
+00:05:59,170 --> 00:06:01,610
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font size="16">MEMBERS OF ZENNICHI PRO WRESTLING?</font></b></font>
+
+121
+00:06:01,940 --> 00:06:05,810
+<font size="24"><b>But there's a Japanese entertainer
+ who is also included in this type...  - Who?</b></font>
+
+122
+00:06:05,810 --> 00:06:05,810
+<font size="24"><b>He's Downtown's Matsumoto-san...</b></font>
+
+123
+00:06:05,810 --> 00:06:08,680
+<font size="18"><b>{\an8}[ Matsumoto Hitoshi = a member of comedy duo Downtown. ]</b></font>
+
+124
+00:06:08,680 --> 00:06:10,680
+<font size="24"><b>Seriously!</b></font>
+
+125
+00:06:10,680 --> 00:06:12,680
+<font size="24"><b>He's pretty muscular!
+- Very swole!</b></font>
+
+126
+00:06:12,680 --> 00:06:16,460
+<font size="24"><b>Matsumoto-san is amazing...
+- Yes, he's on a different league...</b></font>
+
+127
+00:06:16,460 --> 00:06:17,990
+<font size="24"><b>You just wanted to say Zennichi.
+- Yeah, actually...</b></font>
+
+128
+00:06:17,990 --> 00:06:17,990
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#2a292c">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+129
+00:06:17,990 --> 00:06:20,360
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font size="16">IT HAS BEEN TOLD MANY TIMES.</font></b></font>
+
+130
+00:06:20,360 --> 00:06:21,830
+<font size="24"><b>It's definitely Zennichi.</b></font>
+
+131
+00:06:21,830 --> 00:06:27,940
+<font size="24"><b>But regarding Zennichi's swoleness,
+ perhaps I only like the upper arms part...</b></font>
+
+132
+00:06:27,940 --> 00:06:30,700
+<font size="24"><b>So Himura-san is very different then?
+- What about this?</b></font>
+
+133
+00:06:30,700 --> 00:06:33,610
+<font size="24"><b>Appearance-wise, 
+ it's okay...</b></font>
+
+134
+00:06:33,610 --> 00:06:36,310
+<font size="24"><b>It's okay?
+- You said only appearance matters just now!</b></font>
+
+135
+00:06:36,310 --> 00:06:38,010
+<font size="24"><b>Why do you suddenly 
+ talk about appearance?</b></font>
+
+136
+00:06:38,010 --> 00:06:38,010
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#2a292c">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+137
+00:06:38,010 --> 00:06:39,180
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font size="14"><font face="Arial">OUTWARD APPEARANCE IS NO GOOD?</font></font></b></font>
+
+138
+00:06:39,180 --> 00:06:40,820
+<font size="24"><b>There's no relation whatsoever!</b></font>
+
+139
+00:06:41,520 --> 00:06:46,140
+<font size="24"><b><i>Next in Akimoto's criteria, 
+a fatherly figure.</i></b></font>
+
+140
+00:06:46,140 --> 00:06:47,740
+<font size="24"><b><i>Then</i>...</b></font>
+
+141
+00:06:47,880 --> 00:06:49,440
+<font size="24"><b>Jyan~</b></font>
+
+142
+00:06:49,440 --> 00:06:51,440
+<font size="24"><b>The cunning sadist.</b></font>
+
+143
+00:06:51,440 --> 00:06:53,440
+<font size="24"><b>What do you mean with the cunning sadist?</b></font>
+
+144
+00:06:53,440 --> 00:06:58,160
+<font size="24"><b>Like when he's saying, "<i>If you wanna show me your love, you need to be more cheery than that</i>."</b></font>
+
+145
+00:06:58,160 --> 00:07:02,770
+<font size="24"><b>I want him to be able to do it direct and bluntly...
+- I see.</b></font>
+
+146
+00:07:02,770 --> 00:07:06,180
+<font size="24"><b>The stupid and bothersome sadist.
+So no matter who is the person he's talking to...</b></font>
+
+147
+00:07:06,180 --> 00:07:08,180
+<font size="24"><b>...yeaah!!...
+- Like this?</b></font>
+
+148
+00:07:08,180 --> 00:07:11,110
+<font size="24"><b>That's the stupid sadist!
+- He gets on everyone's nerves...</b></font>
+
+149
+00:07:11,110 --> 00:07:12,800
+<font size="24"><b>A man with rigorous personality?</b></font>
+
+150
+00:07:12,800 --> 00:07:16,960
+<font size="24"><b>When you ask him, "<i>Where are we going?</i>"
+he'll say "<i>Let's just go!</i>"...</b></font>
+
+151
+00:07:16,960 --> 00:07:18,320
+<font size="24"><b>It's not like that...</b></font>
+
+152
+00:07:18,320 --> 00:07:18,320
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#2a292c">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+153
+00:07:18,320 --> 00:07:18,620
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font size="16">OF COURSE IT'S NOT LIKE THAT.</font></b></font>
+
+154
+00:07:18,620 --> 00:07:20,620
+<font size="24"><b>It's not?
+- No that's different...</b></font>
+
+155
+00:07:20,620 --> 00:07:22,920
+<font size="24"><b>That's just like a normal person...</b></font>
+
+156
+00:07:22,920 --> 00:07:25,390
+<font size="24"><b>For example, "<i>Everyone let's go!</i>" but to you,
+<font size="28">"<i>Oi pig, you too!</i>"  <font size="24"> - I don't like that...</font></font></b></font>
+
+157
+00:07:25,390 --> 00:07:25,390
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#2a292c">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+158
+00:07:25,390 --> 00:07:26,360
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font size="16">WHAT IS THIS?</font></b></font>
+
+159
+00:07:26,360 --> 00:07:29,260
+<font size="24"><b>That looks very bad!
+- That's a bothersome idiot...</b></font>
+
+160
+00:07:29,260 --> 00:07:34,730
+<font size="24"><b>It's more like that way he talks, like when I'm waiting 
+ for a message reply before we go on a date...</b></font>
+
+161
+00:07:34,730 --> 00:07:41,170
+<font size="24"><b>... because he knows I'm waiting for it so bad,
+he cancels the date altogether on purpose...</b></font>
+
+162
+00:07:41,170 --> 00:07:43,660
+<font size="24"><b>He likes it when he's being treated special?</b></font>
+
+163
+00:07:43,660 --> 00:07:47,180
+<font size="24"><b>He wants to see me suffer...
+- See you suffer?</b></font>
+
+164
+00:07:48,640 --> 00:07:52,880
+<font size="24"><b><i>Next, Akimoto's ideal man voice is 
+ nasal and raspy.</i></b></font>
+
+165
+00:07:52,880 --> 00:07:56,090
+<font size="24"><b><i>And the most important criteria is...</i></b></font>
+
+166
+00:07:56,280 --> 00:07:58,020
+<font size="24"><b>Last one,
+ Jyan~!</b></font>
+
+167
+00:07:58,020 --> 00:08:00,020
+<font size="24"><b>Rabbit lips!
+- What does that mean?</b></font>
+
+168
+00:08:01,940 --> 00:08:07,180
+<font size="24"><b>I... mouth is the a part 
+of someone I like the most...</b></font>
+
+169
+00:08:07,180 --> 00:08:10,470
+<font size="24"><b>Person like that...</b></font>
+
+170
+00:08:10,470 --> 00:08:12,720
+<font size="24"><b>So you consider his mouth first?
+- Yes!</b></font>
+
+171
+00:08:12,720 --> 00:08:15,820
+<font size="24"><b>The first thing I look at
+ in order to know how cool he is...</b></font>
+
+172
+00:08:15,820 --> 00:08:18,010
+<font size="24"><b>... is definitely the shape of his mouth.</b></font>
+
+173
+00:08:18,010 --> 00:08:23,260
+<font size="24"><b>And the shape is not usual, 
+ it's more like a bunny's...</b></font>
+
+174
+00:08:23,260 --> 00:08:25,880
+<font size="24"><b>What do you mean? 
+ Like pointy?</b></font>
+
+175
+00:08:25,880 --> 00:08:25,880
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#2a292c">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+176
+00:08:25,880 --> 00:08:28,000
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font size="16">THIS ONE THEN?</font></b></font>
+
+177
+00:08:28,000 --> 00:08:30,490
+<font size="24"><b>Here... Protrude your teeth more... 
+ Like this?</b></font>
+
+178
+00:08:30,490 --> 00:08:33,630
+<font size="24"><b>Wait, the lower lip...
+- This?</b></font>
+
+179
+00:08:33,630 --> 00:08:35,860
+<font size="24"><b>No that's not it.
+- This is rabbit lips!</b></font>
+
+180
+00:08:35,860 --> 00:08:38,760
+<font size="24"><b>No, it's not. 
+ The lower lip should be thicker...</b></font>
+
+181
+00:08:39,600 --> 00:08:39,600
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#2a292c">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+182
+00:08:39,600 --> 00:08:40,140
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font size="16">WHAT ABOUT THIS?</font></b></font>
+
+183
+00:08:40,140 --> 00:08:41,940
+<font size="24"><b>Ahh! What about this?</b></font>
+
+184
+00:08:41,940 --> 00:08:43,940
+<font size="24"><b>No that's pretty different...
+- This is rabbit lips.</b></font>
+
+185
+00:08:43,940 --> 00:08:45,620
+<font size="24"><b>The difference is very far.</b></font>
+
+186
+00:08:45,620 --> 00:08:48,070
+<font size="24"><b>Is there a member 
+who has mouth like that?</b></font>
+
+187
+00:08:48,070 --> 00:08:50,070
+<font size="24"><b>Ah, Kazumin! Kazumin!</b></font>
+
+188
+00:08:50,680 --> 00:08:53,320
+<font size="24"><b>I like Kazumin's mouth very much.</b></font>
+
+189
+00:08:53,320 --> 00:08:57,020
+<font size="24"><b>This, I like this!
+- Are those rabbit lips?</b></font>
+
+190
+00:08:57,020 --> 00:08:59,020
+<font size="24"><b>It's...
+- Duck...</b></font>
+
+191
+00:08:59,020 --> 00:09:00,840
+<font size="24"><b>What's wrong?
+- Her wrinkles!</b></font>
+
+192
+00:09:00,840 --> 00:09:04,320
+<font size="24"><b>Wrinkles are okay!
+-  I am totally shocked!</b></font>
+
+193
+00:09:04,320 --> 00:09:06,320
+<font size="24"><b>It's okay...
+- We're not talking about wrinkles here.</b></font>
+
+194
+00:09:06,320 --> 00:09:10,530
+<font size="24"><b>Ah, like that? That part?
+- That part is lifted a bit, like that...</b></font>
+
+195
+00:09:10,530 --> 00:09:13,780
+<font size="24"><b>And the front teeth are kinda visible...
+- Like beaver?  - Yes!</b></font>
+
+196
+00:09:14,260 --> 00:09:17,980
+<font size="24"><b><i>Here,, Akimoto will draw 
+ her ideal mouth shape..</i></b></font>
+
+197
+00:09:18,520 --> 00:09:21,170
+<font size="24"><b>I'm not good at drawing...
+- That's bad!  - That's so bad!</b></font>
+
+198
+00:09:21,170 --> 00:09:21,170
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#2a292c">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+199
+00:09:21,170 --> 00:09:23,160
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font size="16">IDEAL MOUTH?</font></b></font>
+
+200
+00:09:23,160 --> 00:09:28,000
+<font size="24"><b>Ah, it looks like Himura-san's mouth.
+- Actually it's better than that, it's just that my drawing is ugly...</b></font>
+
+201
+00:09:28,000 --> 00:09:30,920
+<font size="24"><b>Look! 
+This is Himura-san, right?</b></font>
+
+202
+00:09:31,940 --> 00:09:35,520
+<font size="24"><b>No! Why?
+- So you like mine!</b></font>
+
+203
+00:09:35,520 --> 00:09:36,800
+<font size="24"><b>No!</b></font>
+
+204
+00:09:36,800 --> 00:09:37,060
+<font size="24"><b>So, I am your type?</b></font>
+
+205
+00:09:37,060 --> 00:09:37,060
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#f8e405">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+206
+00:09:37,060 --> 00:09:37,300
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font size="18"><font color="#000000"><font face="Arial">After this too... members' ideal boyfriend criteria will be shown one by one!
+What's the surprising criteria for Ikuta, Asuka, and Hoshino?</font></font></font></b></font>
+
+207
+00:09:37,300 --> 00:09:40,060
+<font size="24"><b><i>MANUALLY TRANSLATED FROM INDO SUB 
+ ORIGINAL SUB BY: mastoppu.blogspot.co.id
+USE IT AT YOUR OWN RISK</i></b></font>
+
+208
+00:09:40,060 --> 00:09:42,940
+<font size="24"><b>Fatherlike figure... muscular...</b></font>
+
+209
+00:09:42,940 --> 00:09:44,940
+<font size="24"><b>What?
+<i>Hai, douzo.</i></b></font>
+
+210
+00:09:46,160 --> 00:09:48,070
+<font size="24"><b>This is old lady.</b></font>
+
+211
+00:09:48,840 --> 00:09:51,570
+<font size="24"><b>What is this?
+- No, no!</b></font>
+
+212
+00:09:53,040 --> 00:09:57,080
+<font size="24"><b><i>Next, presentation about 
+ Hashimoto's ideal man!</i></b></font>
+
+213
+00:09:58,320 --> 00:09:59,880
+<font size="24"><b>Bob haircut.</b></font>
+
+214
+00:09:59,880 --> 00:10:03,050
+<font size="24"><b>I like a guy with bob haircut...
+- By bob, do you mean...</b></font>
+
+215
+00:10:03,050 --> 00:10:06,060
+<font size="24"><b>His face...   - Like that...
+- This is bob.</b></font>
+
+216
+00:10:06,060 --> 00:10:11,320
+<font size="24"><b>He has bangs pulled from behind...</b></font>
+
+217
+00:10:11,320 --> 00:10:14,620
+<font size="24"><b>Yup, that's all me!
+- Yes, that's Himura-san...</b></font>
+
+218
+00:10:14,620 --> 00:10:16,160
+<font size="24"><b>Is it me?</b></font>
+
+219
+00:10:16,160 --> 00:10:22,670
+<font size="24"><b>Then, this part is properly cut...
+- Yes, mine too...</b></font>
+
+220
+00:10:24,160 --> 00:10:25,540
+<font size="24"><b>What?!</b></font>
+
+221
+00:10:25,940 --> 00:10:25,940
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#2a292c">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+222
+00:10:25,940 --> 00:10:28,980
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font size="16">NAGANO?</font></b></font>
+
+223
+00:10:28,980 --> 00:10:30,500
+<font size="24"><b>There it is!
+- So it's me?</b></font>
+
+224
+00:10:30,500 --> 00:10:36,520
+<font size="24"><b>If Himura-san cut his hairline here
+a little bit, it'll look better...</b></font>
+
+225
+00:10:36,520 --> 00:10:38,850
+<font size="24"><b>This part in the front?
+- All of it...</b></font>
+
+226
+00:10:38,850 --> 00:10:40,580
+<font size="24"><b>Everything?</b></font>
+
+227
+00:10:40,580 --> 00:10:42,580
+<font size="24"><b>How short should it be?
+- No...</b></font>
+
+228
+00:10:42,580 --> 00:10:44,660
+<font size="24"><b>How should he cut his hair?
+- Not like that...</b></font>
+
+229
+00:10:44,660 --> 00:10:46,430
+<font size="24"><b>You mean his bangs, right?
+Or do you mean it can't be him?</b></font>
+
+230
+00:10:46,430 --> 00:10:46,430
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#2a292c">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+231
+00:10:46,430 --> 00:10:47,230
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font size="16">NEVER MENTIONED.</font></b></font>
+
+232
+00:10:47,230 --> 00:10:50,440
+<font size="24"><b>So it's not me from the very start?
+ You mentioned my everything...</b></font>
+
+233
+00:10:50,440 --> 00:10:52,680
+<font size="24"><b>I'm a full blown bob! 
+Every part of me is!</b></font>
+
+234
+00:10:52,680 --> 00:10:54,370
+<font size="24"><b>Bob style?
+- Yes, I'm Bob.  I am Bob!</b></font>
+
+235
+00:10:54,370 --> 00:10:54,370
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#2a292c">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+236
+00:10:54,370 --> 00:10:57,060
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font size="16">BLACK-HAIRED Bob.</font></b></font>
+
+237
+00:10:57,060 --> 00:11:00,170
+<font size="24"><b>Don't involve Himura-san if it's not him...
+- You better not involve me from here on...</b></font>
+
+238
+00:11:00,170 --> 00:11:00,170
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#2a292c">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+239
+00:11:00,170 --> 00:11:02,310
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font size="16">ENOUGH?</font></b></font>
+
+240
+00:11:02,440 --> 00:11:06,610
+<font size="24"><b>On previous show, 
+in lobby, I saw...</b></font>
+
+241
+00:11:06,610 --> 00:11:06,610
+<font size="24"><b>...Kasuga-san from Audrey,
+and I like such hairstyle.</b></font>
+
+242
+00:11:06,610 --> 00:11:11,160
+<font size="18"><b>{\an8}[ Toshiaki Kasuga = a member of comedy duo Audrey ]</b></font>
+
+243
+00:11:11,160 --> 00:11:13,190
+<font size="24"><b>His hair is pretty short, though.</b></font>
+
+244
+00:11:13,190 --> 00:11:16,690
+<font size="24"><b>If he cut this shorter...
+Is it impossible because he's Himura-san?  - No, no...</b></font>
+
+245
+00:11:16,690 --> 00:11:16,690
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#2a292c">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+246
+00:11:16,690 --> 00:11:18,280
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font size="16">HIMURA IS REJECTED.</font></b></font>
+
+247
+00:11:18,280 --> 00:11:20,280
+<font size="24"><b>"<i>No, I mean Kasuga</i>!", 
+like that?</b></font>
+
+248
+00:11:20,280 --> 00:11:23,500
+<font size="24"><b>Clearly it's not me...
+- You need to be direct...</b></font>
+
+249
+00:11:23,500 --> 00:11:25,140
+<font size="24"><b>What's wrong with you?</b></font>
+
+250
+00:11:25,140 --> 00:11:28,300
+<font size="24"><b>Do you like black hair?
+- Black hair is good, I guess.</b></font>
+
+251
+00:11:28,300 --> 00:11:31,870
+<font size="24"><b>I prefer black over gold...
+- Ah, me too!</b></font>
+
+252
+00:11:31,870 --> 00:11:33,480
+<font size="24"><b>Don't say "<i>Me too</i>!"..</b></font>
+
+253
+00:11:33,480 --> 00:11:35,480
+<font size="24"><b>We're on same side!
+- Black over gold?  - Yes...</b></font>
+
+254
+00:11:35,480 --> 00:11:37,940
+<font size="24"><b>Shouldn't that be the opposite?
+- Black over gold?</b></font>
+
+255
+00:11:37,940 --> 00:11:39,940
+<font size="24"><b>And the second is...</b></font>
+
+256
+00:11:40,460 --> 00:11:45,120
+<font size="24"><b>... I like a guy who wears sweater, 
+ like a coach...</b></font>
+
+257
+00:11:45,120 --> 00:11:46,300
+<font size="24"><b>What do you mean?</b></font>
+
+258
+00:11:46,300 --> 00:11:48,450
+<font size="24"><b>Sweater or training pants are okay...</b></font>
+
+259
+00:11:48,450 --> 00:11:52,320
+<font size="24"><b>... someone who's good
+ with casual style...</b></font>
+
+260
+00:11:53,440 --> 00:11:56,290
+<font size="24"><b>Like navy clothes?</b></font>
+
+261
+00:11:56,290 --> 00:11:56,290
+<font size="24"><b>That's <i>hai...hai</i>...</b></font>
+
+262
+00:11:56,290 --> 00:11:59,870
+<font size="18"><b>{\an8}[ Nanamin is about to say "high level" in English here. ]</b></font>
+
+263
+00:11:59,870 --> 00:11:59,870
+<font size="24"><b>Apa?
+ <i>Hai, douzo</i>...(Yes, go ahead...)</b></font>
+
+264
+00:11:59,870 --> 00:12:00,900
+<font size="18"><b>{\an8}[ Shitara-san turned it into "Hai Douzo" ]</b></font>
+
+265
+00:12:00,900 --> 00:12:00,900
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#2a292c">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+266
+00:12:00,900 --> 00:12:02,230
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font size="16">PLEASE RESPOND.</font></b></font>
+
+267
+00:12:02,230 --> 00:12:05,100
+<font size="24"><b>The level is higher than that...</b></font>
+
+268
+00:12:05,100 --> 00:12:10,740
+<font size="24"><b>Ah you mean there's a puppy print here,
+and he's wearing jewelries...</b></font>
+
+269
+00:12:10,740 --> 00:12:11,440
+<font size="24"><b>No...</b></font>
+
+270
+00:12:11,440 --> 00:12:11,440
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#2a292c">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+271
+00:12:11,440 --> 00:12:11,440
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font size="16">CHINPIRA STYLE.</font></b></font>
+
+272
+00:12:11,440 --> 00:12:12,180
+<font size="18"><b>{\an8}[ Chinpira = a low level Yakuza member, like some random thug ]</b></font>
+
+273
+00:12:12,180 --> 00:12:16,040
+<font size="24"><b>He's wearing a set of sweter and training pants...
+- No, more casual than that...</b></font>
+
+274
+00:12:16,040 --> 00:12:19,550
+<font size="24"><b>It's like someone who likes
+ to eat vegetables...</b></font>
+
+275
+00:12:19,550 --> 00:12:21,200
+<font size="24"><b>Vegetables?</b></font>
+
+276
+00:12:21,920 --> 00:12:27,360
+<font size="24"><b><i>And Hashimoto's next ideal type is
+the back muscle can be seen from the t-shirt.</i></b></font>
+
+277
+00:12:27,360 --> 00:12:28,820
+<font size="24"><b><i>Plus...</i></b></font>
+
+278
+00:12:29,300 --> 00:12:31,280
+<font size="24"><b>Cold stare.
+- I see.</b></font>
+
+279
+00:12:31,280 --> 00:12:33,520
+<font size="24"><b>Ah. I know that...
+- Really?</b></font>
+
+280
+00:12:33,520 --> 00:12:36,900
+<font size="24"><b>Like, in a glance,
+ his stare is soulful...</b></font>
+
+281
+00:12:36,900 --> 00:12:40,910
+<font size="24"><b>... there are people who do that spontaneously, right?
+As if their eyes are that way...</b></font>
+
+282
+00:12:40,910 --> 00:12:44,640
+<font size="24"><b>I don't like it 
+if I'm being looked at that way...</b></font>
+
+283
+00:12:44,640 --> 00:12:47,680
+<font size="24"><b>You don't?
+- It does seem dreamy, but...</b></font>
+
+284
+00:12:47,680 --> 00:12:51,420
+<font size="24"><b>... people with eyes like that make me think,
+ "<i>I wonder what's on his mind</i>?"</b></font>
+
+285
+00:12:51,420 --> 00:12:56,020
+<font size="24"><b>... seems like he always wants to 
+get my attention, seems tiring.</b></font>
+
+286
+00:12:56,220 --> 00:12:59,620
+<font size="24"><b>What you just said matches with Shitara-san...</b></font>
+
+287
+00:12:59,620 --> 00:13:01,420
+<font size="24"><b>His stare does look cold.</b></font>
+
+288
+00:13:01,420 --> 00:13:05,430
+<font size="24"><b>But Himura-san's stare does look cold sometime...
+- That's how Himura-san is!</b></font>
+
+289
+00:13:05,430 --> 00:13:08,500
+<font size="24"><b>He's always like that, 
+even when he's talking... no...</b></font>
+
+290
+00:13:08,500 --> 00:13:10,670
+<font size="24"><b>This is an old lady!</b></font>
+
+291
+00:13:11,260 --> 00:13:12,670
+<font size="24"><b>Why old lady?</b></font>
+
+292
+00:13:13,240 --> 00:13:15,960
+<font size="24"><b><i>Hasimoto's last ideal criteria is...</i></b></font>
+
+293
+00:13:16,100 --> 00:13:20,200
+<font size="24"><b>Here's the last, date at Kyoto!
+- Why so suddenly?</b></font>
+
+294
+00:13:20,200 --> 00:13:24,120
+<font size="24"><b>You want to have a date at Kyoto?   - What do you mean?
+- I want to know what it's like to have a date there...</b></font>
+
+295
+00:13:24,120 --> 00:13:27,420
+<font size="24"><b>I like Kyoto from the beginning, but...
+- Ah, that's good...</b></font>
+
+296
+00:13:27,420 --> 00:13:29,960
+<font size="24"><b>... sometimes I go there alone...
+- To Kyoto?   - Yeah...</b></font>
+
+297
+00:13:29,960 --> 00:13:33,300
+<font size="24"><b>I feel lonely if I go alone...</b></font>
+
+298
+00:13:33,300 --> 00:13:37,380
+<font size="24"><b>When you're eating, right? 
+"<i>Ah, feels lonely to eat by myself</i>", you mean like that?</b></font>
+
+299
+00:13:37,380 --> 00:13:42,140
+<font size="24"><b>I'd be glad if he can't explain stuff about Kyoto 
+that I don't know about.    - Ah, nice!</b></font>
+
+300
+00:13:42,140 --> 00:13:47,960
+<font size="24"><b>Like if he takes me to a beautiful spot
+ behind the bushes at night...</b></font>
+
+301
+00:13:47,960 --> 00:13:53,050
+<font size="24"><b>... the ground? The ground around the river? 
+- That area?</b></font>
+
+302
+00:13:53,050 --> 00:13:56,720
+<font size="24"><b>... we go there on summer, 
+ spending time while have something to eat...</b></font>
+
+303
+00:13:56,720 --> 00:14:00,500
+<font size="24"><b>I wanna go somewhere hidden like that.
+   - Very good!</b></font>
+
+304
+00:14:00,500 --> 00:14:03,860
+<font size="24"><b>But black hair... Himura-san
+also wears sweater, right?</b></font>
+
+305
+00:14:03,860 --> 00:14:05,490
+<font size="24"><b>I wonder why it's not me.</b></font>
+
+306
+00:14:05,490 --> 00:14:05,490
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#2a292c">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+307
+00:14:05,490 --> 00:14:06,260
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font size="16">THINK ABOUT IT, THAT'S HIMURA, RIGHT?</font></b></font>
+
+308
+00:14:06,260 --> 00:14:11,000
+<font size="24"><b>Himura-san, a date at Kyoto...
+- I know much about Kyoto!</b></font>
+
+309
+00:14:11,000 --> 00:14:11,000
+<font size="24"><b>I like to eat <i>Yatsuhashi</i> too.</b></font>
+
+310
+00:14:11,000 --> 00:14:14,600
+<font size="18"><b>{\an8}[ Yatsuhashi = Kyoto's sweets, made from rice flour and having many kinds of stuffing ]</b></font>
+
+311
+00:14:14,600 --> 00:14:18,840
+<font size="24"><b>That's me, right? 
+ Why didn't you say so?</b></font>
+
+312
+00:14:19,160 --> 00:14:21,170
+<font size="24"><b>Ehmm...   - Yes, that's TOTALLY me!
+ - No, no... that's scary...</b></font>
+
+313
+00:14:21,170 --> 00:14:21,170
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#2a292c">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+314
+00:14:21,170 --> 00:14:23,610
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font size="16">FORCED.</font></b></font>
+
+315
+00:14:24,720 --> 00:14:28,610
+<font size="24"><b><i>After this, 
+Ikuta's ideal man is...</i></b></font>
+
+316
+00:14:30,180 --> 00:14:33,920
+<font size="24"><b><i>Next, here's Ikuta's ideal man.</i></b></font>
+
+317
+00:14:34,260 --> 00:14:37,190
+<font size="24"><b>Okay, first one is this...</b></font>
+
+318
+00:14:37,190 --> 00:14:41,490
+<font size="24"><b>His eyes are like James Rodriguez' eyes.</b></font>
+
+319
+00:14:42,800 --> 00:14:44,930
+<font size="24"><b>A football player?</b></font>
+
+320
+00:14:44,930 --> 00:14:52,340
+<font size="24"><b>He looks cool and adorable.
+- Yes, I love eyes like that.</b></font>
+
+321
+00:14:52,600 --> 00:14:56,010
+<font size="24"><b>Well he's like that because he's a Colombian, right?</b></font>
+
+322
+00:14:56,010 --> 00:14:59,180
+<font size="24"><b>I didn't know he's a 
+ football player...</b></font>
+
+323
+00:14:59,180 --> 00:15:03,500
+<font size="24"><b>When I saw a news, 
+his face popped up...</b></font>
+
+324
+00:15:03,500 --> 00:15:08,080
+<font size="24"><b>... that was the first time 
+ I saw someone that cool...</b></font>
+
+325
+00:15:08,080 --> 00:15:10,080
+<font size="24"><b>Whoaaa..
+- Because of that?   - Yes.</b></font>
+
+326
+00:15:10,080 --> 00:15:12,720
+<font size="24"><b>And, next...
+- Next!</b></font>
+
+327
+00:15:12,720 --> 00:15:14,160
+<font size="24"><b>His nose is like James Rodriguez'.</b></font>
+
+328
+00:15:14,160 --> 00:15:14,590
+<font size="24"><b>- Wait a second!</b></font>
+
+329
+00:15:14,590 --> 00:15:14,590
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#2a292c">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+330
+00:15:14,590 --> 00:15:15,790
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font size="16"> ALL ABOUT [JAMES].</font></b></font>
+
+331
+00:15:15,790 --> 00:15:17,330
+<font size="24"><b>This doesn't look good!</b></font>
+
+332
+00:15:17,330 --> 00:15:21,800
+<font size="24"><b>All five of them could be
+"<i>like James Rodrigez'</i>"...</b></font>
+
+333
+00:15:21,800 --> 00:15:25,940
+<font size="24"><b>About this, 
+ of course I like the cute shape...</b></font>
+
+334
+00:15:25,940 --> 00:15:27,940
+<font size="24"><b>His nose does look like that...</b></font>
+
+335
+00:15:27,940 --> 00:15:30,080
+<font size="24"><b>And what's next?
+- Next?</b></font>
+
+336
+00:15:30,460 --> 00:15:35,100
+<font size="24"><b>Short hair like James Rodriguez'.
+- Short hair?</b></font>
+
+337
+00:15:35,100 --> 00:15:38,250
+<font size="24"><b>Everyone can have this.
+- Short hair is an easy criteria.</b></font>
+
+338
+00:15:38,250 --> 00:15:43,960
+<font size="24"><b>I liked long hair
+ that covers the ears at first.</b></font>
+
+339
+00:15:44,220 --> 00:15:48,160
+<font size="24"><b>But about two years ago, 
+ after I met James...</b></font>
+
+340
+00:15:48,160 --> 00:15:48,160
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#2a292c">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+341
+00:15:48,160 --> 00:15:48,860
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font size="16">HAVE YOU TWO MET?</font></b></font>
+
+342
+00:15:48,860 --> 00:15:51,680
+<font size="24"><b>Met?!</b></font>
+
+343
+00:15:51,680 --> 00:15:57,600
+<font size="24"><b>You should've said "<i>saw"</i>... 
+- After I met him, I think short hair looks more refreshing...</b></font>
+
+344
+00:15:57,600 --> 00:16:02,760
+<font size="24"><b>I see.   - It's amazing she could meet 
+someone with ideal face like that...</b></font>
+
+345
+00:16:02,760 --> 00:16:06,680
+<font size="24"><b>It is amazing, no matter what he's showing, 
+I think it's so cool!</b></font>
+
+346
+00:16:06,680 --> 00:16:08,180
+<font size="24"><b>Continue please, 
+ it must be his looks too.</b></font>
+
+347
+00:16:08,180 --> 00:16:09,850
+<font size="24"><b>- Next...</b></font>
+
+348
+00:16:09,850 --> 00:16:12,680
+<font size="24"><b>Okay, stable job.
+- What!? It's different?</b></font>
+
+349
+00:16:12,680 --> 00:16:12,680
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#2a292c">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+350
+00:16:12,680 --> 00:16:13,180
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font size="16">DRASTIC CHANGE.</font></b></font>
+
+351
+00:16:13,180 --> 00:16:14,620
+<font size="24"><b>What's this?</b></font>
+
+352
+00:16:14,620 --> 00:16:17,660
+<font size="24"><b>It has nothing to do with short hair!
+- Scary!</b></font>
+
+353
+00:16:17,660 --> 00:16:19,660
+<font size="24"><b>Why do you suddenly pick this?</b></font>
+
+354
+00:16:19,660 --> 00:16:24,060
+<font size="24"><b>It's fine even if 
+he's not a football player, but...</b></font>
+
+355
+00:16:24,060 --> 00:16:27,420
+<font size="24"><b>... my own job isn't stable, right?</b></font>
+
+356
+00:16:27,420 --> 00:16:34,100
+<font size="24"><b>That's why I think to be with someone who has more stable
+ and more serious job is a good choice.   - I see..</b></font>
+
+357
+00:16:34,100 --> 00:16:38,040
+<font size="24"><b>Next, his hobby is cooking!</b></font>
+
+358
+00:16:38,660 --> 00:16:43,080
+<font size="24"><b>Clearly this is a field that 
+I don't have any proficiency in...</b></font>
+
+359
+00:16:43,080 --> 00:16:45,960
+<font size="24"><b>... he can teach me...</b></font>
+
+360
+00:16:45,960 --> 00:16:50,260
+<font size="24"><b>... like when we're cooking together, 
+ he'll say <i>"This needs more salt a little bit"</i>...</b></font>
+
+361
+00:16:50,260 --> 00:16:52,960
+<font size="24"><b>... affection like that 
+might be interesting I think.</b></font>
+
+362
+00:16:52,960 --> 00:16:54,520
+<font size="24"><b>Speaking about cooking, 
+have you done it since back then?</b></font>
+
+363
+00:16:54,520 --> 00:16:57,360
+<font size="24"><b>- Some time ago, I started a cooking series...</b></font>
+
+364
+00:16:57,360 --> 00:16:57,360
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#2a292c">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+365
+00:16:57,360 --> 00:16:57,860
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font size="16">IS THIS A LIE?</font></b></font>
+
+366
+00:16:57,860 --> 00:16:59,600
+<font size="24"><b>Series?!</b></font>
+
+367
+00:16:59,600 --> 00:17:03,070
+<font size="24"><b>The title is 
+<font color="#870908">"Swaping The Keyboard with A Cutting Board"</font></b></font>
+
+368
+00:17:03,070 --> 00:17:04,740
+<font size="24"><b>Sounds fantastic.</b></font>
+
+369
+00:17:04,740 --> 00:17:07,970
+<font size="24"><b>That's amazing of you to 
+switch over to something like that.</b></font>
+
+370
+00:17:08,500 --> 00:17:12,620
+<font size="24"><b><i>Next, here are
+ Saitou Asuka's ideal man criteria.</i></b></font>
+
+371
+00:17:14,800 --> 00:17:16,760
+<font size="24"><b>His body is very lean!</b></font>
+
+372
+00:17:16,760 --> 00:17:20,390
+<font size="24"><b>How lean?
+- I don't like bony ones...</b></font>
+
+373
+00:17:20,390 --> 00:17:22,390
+<font size="24"><b>Are you interested in muscular ones?</b></font>
+
+374
+00:17:22,390 --> 00:17:25,720
+<font size="24"><b>Doesn't muscular body look oily?</b></font>
+
+375
+00:17:25,720 --> 00:17:27,030
+<font size="24"><b>Wait, I need to step aside for a moment.
+- What?</b></font>
+
+376
+00:17:27,030 --> 00:17:27,030
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#2a292c">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+377
+00:17:27,030 --> 00:17:28,260
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font size="16">THIS IS POLICE.</font></b></font>
+
+378
+00:17:28,260 --> 00:17:28,980
+<font size="24"><b>Muscular body looks oily?</b></font>
+
+379
+00:17:28,980 --> 00:17:32,540
+<font size="24"><b>It looks oily, like shiny...
+- What do you mean?</b></font>
+
+380
+00:17:32,540 --> 00:17:35,930
+<font size="24"><b>They apply oil they body!
+- Yeah!</b></font>
+
+381
+00:17:35,930 --> 00:17:38,640
+<font size="24"><b>But I think muscular body 
+is always oily all the time...</b></font>
+
+382
+00:17:38,640 --> 00:17:42,900
+<font size="24"><b>You don't like shiny ones?
+- I don't...</b></font>
+
+383
+00:17:43,540 --> 00:17:47,650
+<font size="24"><b><i>Then, someone who talks like 
+ he's whispering, like doesn't really care</i>...</b></font>
+
+384
+00:17:47,650 --> 00:17:52,920
+<font size="24"><b><i>...and someone who can improve family's income.
+What does she mean with "doesn't really care?"</i></b></font>
+
+385
+00:17:53,160 --> 00:17:56,590
+<font size="24"><b>I'm weak for stuff.
+- What?</b></font>
+
+386
+00:17:56,590 --> 00:18:00,060
+<font size="24"><b>It's not like birthday presents...</b></font>
+
+387
+00:18:00,060 --> 00:18:02,060
+<font size="24"><b>Since he doesn't really care...</b></font>
+
+388
+00:18:02,060 --> 00:18:05,360
+<font size="24"><b>...he gives me tasty foods...
+- Tasty foods?</b></font>
+
+389
+00:18:05,360 --> 00:18:07,930
+<font size="24"><b>If someone gives me tasty foods, 
+I'll just...</b></font>
+
+390
+00:18:07,930 --> 00:18:09,930
+<font size="24"><b>... perhaps because 
+I'm a weak-minded person...</b></font>
+
+391
+00:18:10,820 --> 00:18:13,670
+<font size="24"><b>That sounds lame.
+- No, I am just like that...</b></font>
+
+392
+00:18:13,670 --> 00:18:19,440
+<font size="24"><b>I see. For example, "<i>Here, this tastes good!</i>"
+- Maybe I'll like him right away...</b></font>
+
+393
+00:18:19,440 --> 00:18:23,940
+<font size="24"><b>You shouldn't say something like that!
+- There's a lot of people within that criteria.</b></font>
+
+394
+00:18:23,940 --> 00:18:26,920
+<font size="24"><b>After this there'll be many people who
+"<i>Here, eat this!</i>" since they don't care...</b></font>
+
+395
+00:18:26,920 --> 00:18:26,920
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#2a292c">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+396
+00:18:26,920 --> 00:18:27,880
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font size="16">NO MATTER WHAT SHE'S EATING.</font></b></font>
+
+397
+00:18:27,880 --> 00:18:30,560
+<font size="24"><b>Giving something like that is bad.
+Please don't be like that.</b></font>
+
+398
+00:18:30,560 --> 00:18:33,530
+<font size="24"><b>I don't like surprise that much.
+- So that's that.</b></font>
+
+399
+00:18:33,530 --> 00:18:35,590
+<font size="24"><b>I just want him to be direct...</b></font>
+
+400
+00:18:35,590 --> 00:18:40,470
+<font size="24"><b>Like, "<i>Today you'll look good wearing this...</i>"    
+- Ah, that's right.</b></font>
+
+401
+00:18:40,470 --> 00:18:43,000
+<font size="24"><b>So that's what you mean 
+with doesn't really care...   - I like that...</b></font>
+
+402
+00:18:43,000 --> 00:18:44,780
+<font size="24"><b>That's cool!
+- That's great!</b></font>
+
+403
+00:18:45,300 --> 00:18:48,160
+<font size="24"><b><i>And Saitou Asuka's last ideal criteria is...</i></b></font>
+
+404
+00:18:50,160 --> 00:18:52,900
+<font size="24"><b>Mature...
+- Even though he skips around?</b></font>
+
+405
+00:18:52,900 --> 00:18:55,910
+<font size="24"><b>Yes.
+- This seems bad, he has matured already...</b></font>
+
+406
+00:18:55,910 --> 00:18:59,920
+<font size="24"><b>I've never seen an old man or employee
+who skips around.</b></font>
+
+407
+00:18:59,920 --> 00:19:05,760
+<font size="24"><b>No, I like someone who's usually 
+serious and adult-like, but...</b></font>
+
+408
+00:19:05,760 --> 00:19:11,120
+<font size="24"><b>... when there's happy moment, he skips around...
+   - So he has such gap?</b></font>
+
+409
+00:19:11,120 --> 00:19:14,370
+<font size="24"><b>But is okay if he looks stupid? 
+  - It's okay...</b></font>
+
+410
+00:19:14,370 --> 00:19:17,070
+<font size="24"><b>"<i>Waa~haa</i>!!!" like that?
+- Yes, like that...</b></font>
+
+411
+00:19:17,070 --> 00:19:19,070
+<font size="24"><b>That is a person who has lost his mind.</b></font>
+
+412
+00:19:19,070 --> 00:19:22,520
+<font size="24"><b>Maybe since many people say 
+I'm not innocent...</b></font>
+
+413
+00:19:22,520 --> 00:19:26,480
+<font size="24"><b>... so I like an innocent guy like that.
+- Oh, so that's why...</b></font>
+
+414
+00:19:26,480 --> 00:19:29,820
+<font size="24"><b>But since you just said that, 
+ when there's a handshake event later...</b></font>
+
+415
+00:19:29,820 --> 00:19:30,750
+<font size="24"><b>... everyone will be skipping around.</b></font>
+
+416
+00:19:30,750 --> 00:19:30,750
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#2a292c">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+417
+00:19:30,750 --> 00:19:32,220
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font size="16">QUEUING WHILE SKIPPING.</font></b></font>
+
+418
+00:19:32,220 --> 00:19:35,890
+<font size="24"><b>Even when they're told to get out.</b></font>
+
+419
+00:19:35,890 --> 00:19:35,890
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#2a292c">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+420
+00:19:35,890 --> 00:19:36,660
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font size="16">CAN'T STOP SKIPPING.</font></b></font>
+
+421
+00:19:36,660 --> 00:19:38,360
+<font size="24"><b>That'll be a mess.</b></font>
+
+422
+00:19:38,840 --> 00:19:42,130
+<font size="24"><b><i>Next, the criteria of Hoshino's ideal guy are...</i></b></font>
+
+423
+00:19:42,130 --> 00:19:44,430
+<font size="24"><b><i>... long bangs 
+ and broad shoulders. </i></b></font>
+
+424
+00:19:44,430 --> 00:19:47,570
+<font size="24"><b><i>He also must has a sexy voice 
+ and wearing cool accessories.</i></b></font>
+
+425
+00:19:47,570 --> 00:19:50,070
+<font size="24"><b><i>And her last criteria is...</i></b></font>
+
+426
+00:19:50,500 --> 00:19:52,140
+<font size="24"><b>And the last one is...</b></font>
+
+427
+00:19:52,140 --> 00:19:54,660
+<font size="24"><b>Hails from Kansai!
+- That?!</b></font>
+
+428
+00:19:54,660 --> 00:19:57,820
+<font size="24"><b>Why that?
+- It's not limited to Kansai only, but...</b></font>
+
+429
+00:19:57,820 --> 00:20:01,480
+<font size="24"><b>... the important thing is 
+ the dialect.</b></font>
+
+430
+00:20:02,780 --> 00:20:03,840
+<font size="24"><b>Someone like that...</b></font>
+
+431
+00:20:03,840 --> 00:20:03,840
+<font size="24"><b>Why? You don't like someone from Tohoku area?
+- Perhaps she doesn't know the dialect...</b></font>
+
+432
+00:20:03,840 --> 00:20:07,820
+<font size="18"><b>{\an8}[ Tohoku = an area located on northern part of Japan ]</b></font>
+
+433
+00:20:08,660 --> 00:20:08,660
+<font size="24"><b>So areas like Kansai or Kyushu?</b></font>
+
+434
+00:20:08,660 --> 00:20:11,190
+<font size="18"><b>{\an8}[ Kansai & Kyushu = areas located on southers part of Japan ]</b></font>
+
+435
+00:20:11,190 --> 00:20:14,690
+<font size="24"><b>Then after waking up in the morning, 
+ he just suddenly...</b></font>
+
+436
+00:20:14,690 --> 00:20:16,780
+<font size="24"><b>... makes some joke, 
+it'll sound nice too.</b></font>
+
+437
+00:20:16,780 --> 00:20:18,380
+<font size="24"><b>Since Kansai is funny...</b></font>
+
+438
+00:20:18,380 --> 00:20:20,920
+<font size="24"><b>No, that's not just Kansai.</b></font>
+
+439
+00:20:20,920 --> 00:20:23,100
+<font size="24"><b>There are many people 
+who do that too.</b></font>
+
+440
+00:20:23,100 --> 00:20:27,310
+<font size="24"><b>If you generalize the Kansai people, 
+ they'll all go...</b></font>
+
+441
+00:20:27,310 --> 00:20:29,110
+<font size="24"><b>... "<i>My eyes have opened!</i>!"
+ after they woke up...</b></font>
+
+442
+00:20:29,110 --> 00:20:29,110
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#2a292c">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+443
+00:20:29,110 --> 00:20:30,240
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font size="16">DEFINITELY NO.</font></b></font>
+
+444
+00:20:30,240 --> 00:20:32,460
+<font size="24"><b>... surely that's wrong!</b></font>
+
+445
+00:20:32,460 --> 00:20:35,950
+<font size="24"><b>But this is unexpected, 
+ Hoshino likes a mature type.</b></font>
+
+446
+00:20:35,950 --> 00:20:39,700
+<font size="24"><b>I do admire people
+ who have maturity in them...</b></font>
+
+447
+00:20:39,700 --> 00:20:41,540
+<font size="24"><b>... who screams "<i>ADULT!</i>"</b></font>
+
+448
+00:20:41,540 --> 00:20:43,760
+<font size="24"><b>"<i>Adult!</i>"</b></font>
+
+449
+00:20:43,760 --> 00:20:45,200
+<font size="24"><b>He's saying "<i>Adult!</i>" all the time...</b></font>
+
+450
+00:20:45,200 --> 00:20:49,560
+<font size="24"><b>But although he's mature, 
+he thinks about his joke really hard.   - Pretty good!</b></font>
+
+451
+00:20:49,560 --> 00:20:49,560
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#2a292c">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+452
+00:20:49,560 --> 00:20:50,640
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font size="16">GAG IS IMPORTANT.</font></b></font>
+
+453
+00:20:50,640 --> 00:20:53,580
+<font size="24"><b>Why should he? 
+What about some light jokes?</b></font>
+
+454
+00:20:53,580 --> 00:20:53,580
+<font size="24"><b>Actually anything is okay, but when we're together
+ and he says "<i>Doumo Doumo</i>", I think that might be interesting...</b></font>
+
+455
+00:20:53,580 --> 00:20:58,200
+<font size="18"><b>{\an8}[ Doumo Doumo = means hello hello, a greeting usually 
+ said at the beginning of Manzai, Japanese's stand up comedy ]</b></font>
+
+456
+00:20:58,200 --> 00:21:00,340
+<font size="24"><b>- Like that?</b></font>
+
+457
+00:21:01,140 --> 00:21:04,280
+<font size="24"><b>Well then people from
+ entertainment industry are fine?</b></font>
+
+458
+00:21:04,940 --> 00:21:08,360
+<font size="24"><b>For example, when he's joking,
+"<i>What do you mean</i>,"...</b></font>
+
+459
+00:21:08,360 --> 00:21:09,750
+<font size="24"><b>... and suddenly he says
+ "<i>Sorry, someone's calling!</i>"</b></font>
+
+460
+00:21:09,750 --> 00:21:09,750
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#2a292c">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+461
+00:21:09,750 --> 00:21:11,680
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font size="16">NOT RECOMMENDED.</font></b></font>
+
+462
+00:21:11,680 --> 00:21:12,880
+<font size="24"><b>That's so bad!</b></font>
+
+463
+00:21:13,480 --> 00:21:16,400
+<font size="24"><b>Have you tried the game?
+- Yes!</b></font>
+
+464
+00:21:16,720 --> 00:21:18,340
+<font size="24"><b>You have? 
+- Yeah, some time ago.</b></font>
+
+465
+00:21:18,340 --> 00:21:19,880
+<font size="24"><b>- Nogikoi?</b></font>
+
+466
+00:21:19,890 --> 00:21:23,330
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}NOGIZAKA46 TRYING NOGIKOI</b></font>
+
+467
+00:21:23,480 --> 00:21:25,400
+<font size="24"><b>Okay, let's enter the academy.
+- Okay!</b></font>
+
+468
+00:21:25,400 --> 00:21:26,730
+<font face="Courier"><b>{\an9}[Shitara]: First day of school?</b></font>
+
+469
+00:21:27,200 --> 00:21:31,800
+<font size="24"><b><i>In this game, the main character 
+just got transferred to Nogizaka Gakuen.</i></b></font>
+
+470
+00:21:32,140 --> 00:21:33,520
+<font size="24"><b><i>Here, all of the classmates are
+ Nogizaka 46 members.</i></b></font>
+
+471
+00:21:33,520 --> 00:21:36,260
+<font face="Courier"><b>{\an9}[Shitara]: Wow, this is like 
+every fans' dream.</b></font>
+
+472
+00:21:36,260 --> 00:21:38,940
+<font size="24"><b><i>The player will be in the academy environment 
+ together with the members</i>...</b></font>
+
+473
+00:21:38,940 --> 00:21:40,700
+<font size="24"><b><i>... and build up a love relationship 
+ with the chosen Oshimen.</i></b></font>
+
+474
+00:21:40,700 --> 00:21:42,680
+<font face="Courier"><b>{\an9}[Himura]: Woah, this seems 
+interesting!</b></font>
+
+475
+00:21:43,720 --> 00:21:46,650
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}NAMING THE CHARACTER.</b></font>
+
+476
+00:21:46,880 --> 00:21:49,920
+<font size="24"><b>Eh, what should I name the character?
+- What name?</b></font>
+
+477
+00:21:50,320 --> 00:21:53,430
+<font size="24"><b>Hori-kun.
+- Hori-kun.</b></font>
+
+478
+00:21:53,430 --> 00:21:55,430
+<font size="24"><b>So cute.
+- What's the full name?</b></font>
+
+479
+00:21:55,430 --> 00:21:57,430
+<font size="24"><b>Minao-kun.
+- Minao?</b></font>
+
+480
+00:21:57,430 --> 00:21:59,430
+<font size="24"><b>Hori Minao.
+- Hohh!!!</b></font>
+
+481
+00:21:59,430 --> 00:22:02,130
+<font size="24"><b>Minao...  - You use <i>katakana</i> for Minao? 
+ - It's fine.</b></font>
+
+482
+00:22:02,300 --> 00:22:05,240
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}CHOOSING OSHIMEN.</b></font>
+
+483
+00:22:05,340 --> 00:22:07,020
+<font size="24"><b>"<i>Oshimen may be changed later</i>",
+- What, no, that hurts!</b></font>
+
+484
+00:22:07,020 --> 00:22:08,970
+<font face="Courier"><b>{\an9}[Shiraishi]: Seriously?!</b></font>
+
+485
+00:22:09,380 --> 00:22:12,280
+<font size="24"><b>Then choose Manattan as the oshimen
+ from the very start...</b></font>
+
+486
+00:22:12,280 --> 00:22:14,500
+<font size="24"><b>Since it can be changed later, right?
+- No, I'll stay with this one.</b></font>
+
+487
+00:22:14,500 --> 00:22:15,850
+<font face="Courier"><b>{\an9}[Himura]: You can change it?</b></font>
+
+488
+00:22:16,540 --> 00:22:18,250
+<font size="24"><b><i>With the chosen oshimen member...</i></b></font>
+
+489
+00:22:18,250 --> 00:22:24,080
+<font size="24"><b><i>... player follows the story
+ to build a closer relationship to be her boyfriend. And...</i></b></font>
+
+490
+00:22:24,760 --> 00:22:27,500
+<font size="24"><b>"<i>Hey, would you eat my handmade sandwich?</i>"
+ - That's cute...</b></font>
+
+491
+00:22:27,500 --> 00:22:27,760
+<font size="24"><b>"<i>I heard it might erase your hunger{.\i0}"</i></b></font>
+
+492
+00:22:27,760 --> 00:22:30,160
+<font face="Courier"><b>{\an9}[Ikoma]: Am I like that?</b></font>
+
+493
+00:22:31,620 --> 00:22:34,470
+<font size="24"><b>Ah, it popped out...
+- So this...</b></font>
+
+494
+00:22:34,470 --> 00:22:36,860
+<font size="24"><b>This is similar...   - Here we go!</b></font>
+
+495
+00:22:36,860 --> 00:22:39,670
+<font size="24"><b>What if we reject her offer?
+- Yeah... </b></font>
+
+496
+00:22:39,670 --> 00:22:42,370
+<font size="24"><b>But we don't know
+ what Minao-san will say...</b></font>
+
+497
+00:22:42,370 --> 00:22:46,180
+<font size="24"><b>Just accept it for now...   - Accept?
+- Yeah, I'm kinda hungry.  - Okay, option number 1...</b></font>
+
+498
+00:22:46,540 --> 00:22:48,650
+<font size="24"><b>"<i>Here you go </i>~"</b></font>
+
+499
+00:22:48,650 --> 00:22:51,120
+<font size="24"><b><i>"Good Choice!"</i> 
+Does that it's good?</b></font>
+
+500
+00:22:51,580 --> 00:22:55,720
+<font size="24"><b><i>In the middle of the story, there will be quizzes and choices
+that if those got answered correctly</i></b></font>
+
+501
+00:22:55,720 --> 00:22:59,260
+<font size="24"><b><i>... player will items that can increase 
+the relationship with oshimen.</i></b></font>
+
+502
+00:22:59,260 --> 00:23:02,160
+<font size="24"><b><i>And player may get "Nogi Talk" to be able 
+ to chat with the chosen oshimen</i>...</b></font>
+
+503
+00:23:02,160 --> 00:23:05,230
+<font face="Courier"><b>{\an9}[Shitara]: Everyone will be happy.
+[Himura]: This is interesting!</b></font>
+
+504
+00:23:05,230 --> 00:23:07,570
+<font size="24"><b><i>... player can have a talk
+ all alone with the oshimen.</i></b></font>
+
+505
+00:23:07,570 --> 00:23:08,980
+<font face="Courier"><b>{\an9}[Ikoma: Even though they don't 
+ really know each other...</b></font>
+
+506
+00:23:08,980 --> 00:23:09,970
+<font size="24"><b><i>"Sorry, I have a lot of stuff to do today..."</i></b></font>
+
+507
+00:23:09,970 --> 00:23:11,970
+<font face="Courier"><b>{\an9}[Misa]: Eh, what is this?</b></font>
+
+508
+00:23:12,000 --> 00:23:14,040
+<font size="24"><b><i>"... but I'll be waiting for the next date. 
+Where will we go?"</i></b></font>
+
+509
+00:23:14,040 --> 00:23:15,540
+<font face="Courier"><b>{\an9}[HImura]: Eh! What's this?</b></font>
+
+510
+00:23:18,660 --> 00:23:21,180
+<font size="24"><b>"<i>Somewhere Akimoto wants to go</i>", 
+"<i>I'll think about it"...</i></b></font>
+
+511
+00:23:21,180 --> 00:23:23,520
+<font size="24"><b>- What would you have said? 
+ What's your response normally?</b></font>
+
+512
+00:23:23,520 --> 00:23:23,780
+<font face="Courier"><b>{\an9}[Himura]: Woah, three difficult 
+choices!</b></font>
+
+513
+00:23:23,780 --> 00:23:26,660
+<font size="24"><b>Definitely not option number 3!
+- Me? Of course no!</b></font>
+
+514
+00:23:26,660 --> 00:23:27,390
+<font face="Courier"><b>{\an9}[Himura]: This is a very
+ important decision!</b></font>
+
+515
+00:23:27,390 --> 00:23:31,920
+<font size="24"><b>Option number 2 seems good! I want her to pick it.
+- Select that option that.</b></font>
+
+516
+00:23:32,820 --> 00:23:35,380
+<font face="Courier"><b>{\an9}[Himura]: Even the real person 
+need to be taught.</b></font>
+
+517
+00:23:35,380 --> 00:23:38,460
+<font face="Courier"><b>{\an9}[Shiraishi]: Neat, she's staring at it.
+[Reika]: She read it in an instant.</b></font>
+
+518
+00:23:38,460 --> 00:23:39,600
+<font size="24"><b>She replied...
+- Yeah...</b></font>
+
+519
+00:23:39,600 --> 00:23:41,230
+<font face="Courier"><b>{\an9}[Shitara]: Ah, I see.</b></font>
+
+520
+00:23:41,230 --> 00:23:46,340
+<font size="24"><b><i>"Thanks. Let's talk later.
+I have many things I want to tell you at school."</i></b></font>
+
+521
+00:23:46,920 --> 00:23:47,640
+<font size="24"><b><i>"Next time, let's have a real date..."</i></b></font>
+
+522
+00:23:47,640 --> 00:23:49,060
+<font face="Courier"><b>{\an9}[Shiraishi]: That's so Manatsu!</b></font>
+
+523
+00:23:49,060 --> 00:23:50,880
+<font size="24"><b>"...<i>good night</i>."  
+- That is so Manatsu.</b></font>
+
+524
+00:23:50,880 --> 00:23:51,310
+<font face="Courier"><b>{\an9}[Himura]: Will she reply it on break?
+ He'll fell for it.</b></font>
+
+525
+00:23:51,310 --> 00:23:56,580
+<font size="24"><b>Plus, I like to use
+[hearts] and [musical notes]...</b></font>
+
+526
+00:23:56,580 --> 00:23:59,820
+<font size="24"><b>Doesn't everyone do that too?</b></font>
+
+527
+00:23:59,820 --> 00:24:00,550
+<font size="24"><b>OI!!!</b></font>
+
+528
+00:24:01,460 --> 00:24:04,420
+<font size="24"><b><i>Then, when the story continues...</i></b></font>
+
+529
+00:24:07,640 --> 00:24:08,500
+<font size="24"><b>Hold on! 
+I don't wanna see this!</b></font>
+
+530
+00:24:08,500 --> 00:24:10,460
+<font face="Courier"><b>{\an9}[Kaz]: Ah, this?</b></font>
+
+531
+00:24:11,160 --> 00:24:11,380
+<font size="24"><b>Where did you record this?</b></font>
+
+532
+00:24:11,380 --> 00:24:12,860
+<font face="Courier"><b>{\an9}[Reika]: Totally normal.</b></font>
+
+533
+00:24:13,160 --> 00:24:17,280
+<font size="24"><b><i>Player can also get a
+clip of confession by real members.</i></b></font>
+
+534
+00:24:17,540 --> 00:24:20,700
+<font size="24"><b>Awesome!
+ - It's embarassing for me to see myself!</b></font>
+
+535
+00:24:20,700 --> 00:24:20,970
+<font face="Courier"><b>{\an9}[Shitara]: This is what the fans have dreamed about.
+[Himura]: This is interesting!   [Akimoto]: Yes.</b></font>
+
+536
+00:24:20,970 --> 00:24:23,580
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}AND SO, NOGIZAKA46
+HAS SUCCESSFULLY PLAYED [NOGIKOI].</b></font>
+
+537
+00:24:24,020 --> 00:24:24,040
+<font size="24"><b>Usually, do your faces get covered
+then get painted on?  - No!</b></font>
+
+538
+00:24:24,040 --> 00:24:24,040
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#f8e405">m 466 -175 l -469 -175 l -469 19 l 466 19</font></b></font>
+
+539
+00:24:24,040 --> 00:24:24,580
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font size="18"><font color="#000000"><font face="Arial">Minggu depan...Nogizaka46 membentuk klub esktrakurikuler!?
+Mereka mengumpulkan anggota dengan menunjukkan kelebihan klub mereka!</font></font></font></b></font>
+
+540
+00:24:24,580 --> 00:24:29,410
+<font size="24"><b><i>MANUALLY TRANSLATED FROM INDO SUBTITLE
+ORIGINAL SUB BY MasToppu.blogspot.co.id
+USE IT AT YOUR OWN RISK</i></b></font>
+
+541
+00:24:29,640 --> 00:24:30,750
+<font size="24"><b>Of course not.</b></font>
+
+542
+00:24:30,750 --> 00:24:32,750
+<font size="24"><b>Settle down everyone...
+- Ah, have you worn your skirt?</b></font>
+
+543
+00:24:32,750 --> 00:24:34,320
+<font size="24"><b>No, no...</b></font>
+
+544
+00:24:34,320 --> 00:24:36,180
+<font size="24"><b>I don't want to go climbing anymore...</b></font>
+
+545
+00:24:36,180 --> 00:24:38,990
+<font size="24"><b>It could be Tonkotsu soup...</b></font>
+
+546
+00:24:40,680 --> 00:24:44,830
+<font size="24"><b><i>The title of the second album has been decided, 
+"Sorezore no Isu",</i></b></font>
+
+547
+00:24:44,830 --> 00:24:47,530
+<font size="24"><b><i>Album jackets have already been released too.</i></b></font>
+
+548
+00:24:48,560 --> 00:24:54,220
+<font size="24"><b><i>Ticket reservation process for 
+"Manatsu Zenkoku Tour 2016" has been opened for the third time!</i></b></font>
+
+549
+00:24:54,540 --> 00:24:59,580
+<font size="24"><b><i>And, the second Joshiraku will be available 
+for public at Tuesday, 3 May!</i></b></font>
+

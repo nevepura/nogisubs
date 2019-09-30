@@ -1,0 +1,1244 @@
+1
+00:02:30,040 --> 00:02:31,840
+<font size="38">Tonight on Nogizakatte, Doko?</font>
+
+2
+00:02:31,840 --> 00:02:36,320
+<font size="38">We're going to scoop Nogizaka46 members' comedy skills!</font>
+
+3
+00:02:37,720 --> 00:02:41,780
+<font size="38">Unexpected and weird answers one after another!</font>
+
+4
+00:02:41,780 --> 00:02:43,780
+<font size="38">The correct answer appeared!</font>
+
+5
+00:02:45,600 --> 00:02:48,940
+<font size="38">Is it ok to be an Idol if they're vulgar?</font>
+
+6
+00:02:49,400 --> 00:02:52,060
+<font size="38">What actually happened!?</font>
+
+7
+00:02:54,800 --> 00:02:56,980
+<font size="38">Nogizakatte, Doko?</font>
+
+8
+00:02:57,020 --> 00:02:57,020
+<font size="60">Credits: NeruestSub Team</font>
+
+9
+00:02:57,020 --> 00:02:57,020
+<font size="38">Subber: NeruNeru-san</font>
+
+10
+00:02:57,020 --> 00:02:57,020
+<font size="38">Timing: Coffee-san</font>
+
+11
+00:02:57,020 --> 00:03:12,440
+<font size="38">Proofreading: Miru-chan</font>
+
+12
+00:03:13,160 --> 00:03:14,720
+<font size="38">DON!</font>
+
+13
+00:03:14,720 --> 00:03:19,760
+<font size="38">Nogizakatte, Doko? has started! We're the MC Bananaman!</font>
+
+14
+00:03:20,720 --> 00:03:24,100
+<font size="38">These are the members for today!</font>
+
+15
+00:03:27,840 --> 00:03:31,880
+<font size="38">Our guest for today, Hamaguchi-san*! Yoroshiku!</font>
+
+16
+00:03:31,880 --> 00:03:36,080
+<font face="Times New Roman" size="32">{\an8}Japanese comedian, and actor.</font>
+
+17
+00:03:36,080 --> 00:03:39,400
+<font size="38">Same as the last time, we invited the fans to our studio.</font>
+
+18
+00:03:39,400 --> 00:03:43,700
+<font size="38">-There's a lot of fans here! -Thanks for coming!</font>
+
+19
+00:03:43,700 --> 00:03:47,720
+<font size="38">So for today's plan, Himura-san.</font>
+
+20
+00:03:47,720 --> 00:03:48,680
+<font size="38">What's the plan?</font>
+
+21
+00:03:48,680 --> 00:03:52,260
+<font size="38">Please read the plan while acting cute.</font>
+
+22
+00:03:52,260 --> 00:04:01,380
+<font size="38">Yes~ alright~  I'm realli cute and funny too~ Nogizaka Comedy~~</font>
+
+23
+00:04:03,640 --> 00:04:06,560
+<font size="38">Speaking of comedy, the girls should know a few of it right?</font>
+
+24
+00:04:06,560 --> 00:04:10,240
+<font size="38">Because comedy appeared on different shows very often.</font>
+
+25
+00:04:10,240 --> 00:04:10,240
+<font size="38">Like AIUEO Sakubon* and "Nazokake*, MC like to use them during a show.</font>
+
+26
+00:04:10,240 --> 00:04:14,200
+<font face="Times New Roman" size="32">{\an8}Both are a form of wordplay jokes in Japanese.</font>
+
+27
+00:04:14,220 --> 00:04:16,140
+<font size="38">So you wanna do an AIUEO Sakubon?</font>
+
+28
+00:04:16,140 --> 00:04:20,780
+<font size="38">Well...this is not the time to betray me.</font>
+
+29
+00:04:22,200 --> 00:04:30,160
+<font face="Times New Roman" size="30">Today's questions were already answered beforehand by the members before the recording.</font>
+
+30
+00:04:30,160 --> 00:04:32,860
+<font size="38">Although we'll be looking at some of the weird answers,</font>
+
+31
+00:04:32,860 --> 00:04:39,460
+<font size="38">but if all of them were really lame, 
+Hamaguchi-san will answer instead.</font>
+
+32
+00:04:42,500 --> 00:04:44,700
+<font size="38">He even bought his own equipment for this.</font>
+
+33
+00:04:44,700 --> 00:04:44,800
+<font size="38">well-prepared?</font>
+
+34
+00:04:44,800 --> 00:04:49,680
+<font size="38">I bought a lot of cards today, I'm totally prepared.</font>
+
+35
+00:04:51,080 --> 00:04:54,600
+<font size="38">Before the recording, I was told to prepare some witty answers.</font>
+
+36
+00:04:54,600 --> 00:04:56,860
+<font size="38">It'll be better if Himura-san could...</font>
+
+37
+00:04:56,860 --> 00:04:57,780
+<font size="60">Nani!?</font>
+
+38
+00:04:57,900 --> 00:04:59,160
+<font size="38">Friendly-fire.</font>
+
+39
+00:04:59,160 --> 00:05:02,120
+<font size="38">I might ask you later, so you should kinda prepare too.</font>
+
+40
+00:05:02,120 --> 00:05:06,620
+<font size="38">Aha...Ummm...I'm kinda pissed when you said that.</font>
+
+41
+00:05:06,620 --> 00:05:09,000
+<font size="38">Everyone, please help us too.</font>
+
+42
+00:05:09,700 --> 00:05:11,980
+<font size="38">I might even ask the fans too.</font>
+
+43
+00:05:12,360 --> 00:05:14,720
+<font size="38">They'll be like "Eh!? Really!?"</font>
+
+44
+00:05:14,940 --> 00:05:18,300
+<font size="38">If you were picked, just laugh.</font>
+
+45
+00:05:19,200 --> 00:05:22,460
+<font size="38">Let's get started!</font>
+
+46
+00:05:22,460 --> 00:05:24,400
+<font size="38">The first question is...</font>
+
+47
+00:05:25,480 --> 00:05:28,780
+<font size="38">There's a "dating ban" rule in AKB48,</font>
+
+48
+00:05:28,780 --> 00:05:34,340
+<font size="38">other than that, what are the other rules people do not know?</font>
+
+49
+00:05:34,340 --> 00:05:37,240
+<font size="38">So there might be those unspoken rules...</font>
+
+50
+00:05:37,240 --> 00:05:39,560
+<font size="38">-The answer range is kinda wide. -Yes.</font>
+
+51
+00:05:39,860 --> 00:05:41,860
+<font size="38">We'll see how did you guys answer this question.</font>
+
+52
+00:05:41,920 --> 00:05:44,280
+<font size="38">Alright, first up is Ichiki's answer.</font>
+
+53
+00:05:44,280 --> 00:05:45,560
+<font size="38">Oh, it's here!</font>
+
+54
+00:05:45,560 --> 00:05:48,520
+<font size="38">Ichiki's answer is the following, let's see.</font>
+
+55
+00:05:50,260 --> 00:05:53,660
+<font size="38">"Only buy the electric appliance in Akihabara!!"</font>
+
+56
+00:05:55,780 --> 00:05:58,100
+<font size="38">Yes. I had an inspiration earlier.</font>
+
+57
+00:05:58,100 --> 00:06:00,620
+<font size="38">Akihabara. Interesting.</font>
+
+58
+00:06:02,200 --> 00:06:04,620
+<font size="38">Not bad as the first answer.</font>
+
+59
+00:06:05,040 --> 00:06:10,140
+<font size="38">The answer was smooth and stable. Not bad.</font>
+
+60
+00:06:10,140 --> 00:06:13,480
+<font size="38">The flattering words from two comedians with each up to 20 years of comedy experiences.</font>
+
+61
+00:06:13,480 --> 00:06:15,580
+<font size="38">Just in case.</font>
+
+62
+00:06:15,580 --> 00:06:18,580
+<font size="38">So next up, Inoue's answer.</font>
+
+63
+00:06:18,580 --> 00:06:20,940
+<font size="38">What's the other rule people do not know?</font>
+
+64
+00:06:22,020 --> 00:06:23,600
+<font size="38">"Don't catch a cold."</font>
+
+65
+00:06:24,240 --> 00:06:26,540
+<font size="38">Oh!! This is important!</font>
+
+66
+00:06:26,540 --> 00:06:30,780
+<font size="38">I mean it's not for Nogizaka only, everyone should not catch a cold!</font>
+
+67
+00:06:30,860 --> 00:06:32,460
+<font size="38">It's like a worldwide rule.</font>
+
+68
+00:06:32,500 --> 00:06:36,860
+<font size="38">During the recording, a few members caught a cold,</font>
+
+69
+00:06:36,860 --> 00:06:40,120
+<font size="38">and we kinda caused some troubles.</font>
+
+70
+00:06:40,120 --> 00:06:41,160
+<font size="38">I know right!</font>
+
+71
+00:06:41,160 --> 00:06:44,660
+<font size="38">Even if you wrote a small matter like this, it's still funny!</font>
+
+72
+00:06:44,660 --> 00:06:46,220
+<font size="38">That's nice! Not bad, not bad!</font>
+
+73
+00:06:46,220 --> 00:06:49,240
+<font size="38">Not bad too as the second answer.</font>
+
+74
+00:06:49,240 --> 00:06:50,260
+<font size="38">How strange.</font>
+
+75
+00:06:50,320 --> 00:06:53,300
+<font size="38">No matter what was written, these two will always be giving tons of feedback.</font>
+
+76
+00:06:53,300 --> 00:06:54,340
+<font size="38">A new type of jokes.</font>
+
+77
+00:06:54,340 --> 00:06:58,460
+<font size="38">How interesting. This might become a new oogiri's segment.</font>
+
+78
+00:06:58,540 --> 00:07:01,860
+<font size="38">All credit goes to the girls.</font>
+
+79
+00:07:01,860 --> 00:07:03,800
+<font size="38">Next up, Ikoma's answer.</font>
+
+80
+00:07:03,800 --> 00:07:06,800
+<font size="38">What's the other rule people do not know?</font>
+
+81
+00:07:07,740 --> 00:07:07,740
+<font size="38">"Marriage is ok."</font>
+
+82
+00:07:07,740 --> 00:07:09,520
+<font face="Times New Roman" size="32">{\an8}*cough* AKB's 49th Sousenkyo *cough*</font>
+
+83
+00:07:09,520 --> 00:07:11,820
+<font size="38">Oh, I see.</font>
+
+84
+00:07:11,820 --> 00:07:14,740
+<font size="38">No dating, but if it's marriage, it's ok?</font>
+
+85
+00:07:14,740 --> 00:07:17,300
+<font size="38">I thought that they can just skip the dating part.</font>
+
+86
+00:07:17,300 --> 00:07:21,680
+<font size="38">Like the other countries, where they met their fiancé only during their wedding ceremony.</font>
+
+87
+00:07:21,680 --> 00:07:24,820
+<font size="38">Well if that's the case, I think it's ok.</font>
+
+88
+00:07:24,820 --> 00:07:27,460
+<font size="38">Kinda like finding a loophole.</font>
+
+89
+00:07:27,460 --> 00:07:31,540
+<font size="38">Yes. I finally got to see the smart side of Ikoma.</font>
+
+90
+00:07:32,460 --> 00:07:36,400
+<font size="38">Please beware of these two's endless feedbacks!</font>
+
+91
+00:07:38,100 --> 00:07:43,100
+<font size="38">Alright, the last one which was Shiraishi's answer.</font>
+
+92
+00:07:43,100 --> 00:07:48,100
+<font size="38">What's the other rule in AKB48 that others do not know?</font>
+
+93
+00:07:49,100 --> 00:07:50,560
+<font size="38">"No farting."</font>
+
+94
+00:07:50,560 --> 00:07:52,560
+<font face="Times New Roman" size="32">{\an8}@Oshima Yuko</font>
+
+95
+00:07:52,600 --> 00:07:56,340
+<font size="38">Not just for AKB but for other idols too, right?</font>
+
+96
+00:07:56,340 --> 00:07:58,340
+<font size="38">You guys do not fart, right?</font>
+
+97
+00:07:58,440 --> 00:07:59,500
+<font size="38">But...</font>
+
+98
+00:07:59,540 --> 00:08:00,200
+<font size="60">But!?</font>
+
+99
+00:08:00,200 --> 00:08:00,960
+<font size="38">Spilling the bean!?</font>
+
+100
+00:08:00,960 --> 00:08:02,140
+<font size="38">Nani?</font>
+
+101
+00:08:03,240 --> 00:08:06,720
+<font size="38">Are you trying to betray your fellow members?</font>
+
+102
+00:08:06,900 --> 00:08:08,260
+<font size="38">That's bad.</font>
+
+103
+00:08:08,260 --> 00:08:09,620
+<font size="38">What happened?</font>
+
+104
+00:08:09,620 --> 00:08:11,480
+<font size="38">-Can I say it? -Sure, sure.</font>
+
+105
+00:08:11,540 --> 00:08:15,540
+<font size="38">We had a lesson before, and Saito Yuri was beside me.</font>
+
+106
+00:08:15,540 --> 00:08:18,040
+<font size="38">Wait you can't say that!</font>
+
+107
+00:08:18,040 --> 00:08:22,100
+<font size="38">She's like "I kinda wanna fart, may I?"</font>
+
+108
+00:08:23,000 --> 00:08:29,040
+<font size="38">After that, she kinda turned to where Sayuri (Inoue) was standing and released her chemical weapon.</font>
+
+109
+00:08:29,040 --> 00:08:32,940
+<font size="38">-No, it's nothing like that! -You can't do that!</font>
+
+110
+00:08:33,000 --> 00:08:36,520
+<font size="38">After I said that, Kazumi who was beside me said</font>
+
+111
+00:08:36,520 --> 00:08:39,420
+<font size="38">"Sure, but please fart at where Inoue's."</font>
+
+112
+00:08:39,420 --> 00:08:41,380
+<font size="38">The Mastermind?</font>
+
+113
+00:08:41,380 --> 00:08:44,240
+<font size="38">What's the meaning of this!?</font>
+
+114
+00:08:44,240 --> 00:08:49,160
+<font size="38">-But Yuri said "Ah...it won't come out," and she went back. 
+-Yes, I did not fart.</font>
+
+115
+00:08:49,160 --> 00:08:53,340
+<font size="38">-Since you're an idol. -Yes, I'll never fart as an idol!</font>
+
+116
+00:08:54,700 --> 00:09:00,320
+<font size="38">You didn't! You couldn't! No discussion!</font>
+
+117
+00:09:00,320 --> 00:09:02,160
+<font size="38">Not bad!</font>
+
+118
+00:09:04,080 --> 00:09:06,600
+<font size="38">Well, it's the time to listen to their answers.</font>
+
+119
+00:09:06,600 --> 00:09:06,620
+<font size="38">Ah...ummm...</font>
+
+120
+00:09:06,620 --> 00:09:11,540
+<font size="38">The standard answers...</font>
+
+121
+00:09:11,540 --> 00:09:15,540
+<font size="38">What kind of show pulled out an answer from a plastic bag.</font>
+
+122
+00:09:15,540 --> 00:09:17,160
+<font size="38">Well, this will do.</font>
+
+123
+00:09:17,160 --> 00:09:19,000
+<font size="38">Alright, let's go.</font>
+
+124
+00:09:19,000 --> 00:09:25,300
+<font size="38">What's the other rule in AKB48 that others do not know?</font>
+
+125
+00:09:25,300 --> 00:09:28,300
+<font size="38">"Don't use "rock paper scissors" to decide everything."</font>
+
+126
+00:09:28,660 --> 00:09:30,480
+<font face="Times New Roman" size="32">{\an8}*cough* Janken Tournament *cough*</font>
+
+127
+00:09:30,480 --> 00:09:33,640
+<font size="38">Ah, not bad!</font>
+
+128
+00:09:33,640 --> 00:09:36,120
+<font size="38">Well, I mean...there's more...</font>
+
+129
+00:09:36,400 --> 00:09:39,880
+<font size="38">Not one answer for one question?</font>
+
+130
+00:09:39,880 --> 00:09:43,180
+<font size="38">What do you mean? Only one answer for each question.</font>
+
+131
+00:09:43,180 --> 00:09:45,180
+<font size="38">Not just one time?</font>
+
+132
+00:09:45,180 --> 00:09:46,820
+<font size="38">You're really scary.</font>
+
+133
+00:09:47,460 --> 00:09:50,760
+<font size="38">If there are good answers it would be easier for the editors.</font>
+
+134
+00:09:52,400 --> 00:09:55,680
+<font size="38">"Do not meet face to face with SDN48."</font>
+
+135
+00:09:59,320 --> 00:10:02,940
+<font size="38">-This is a good one too. -Sugoi!</font>
+
+136
+00:10:02,940 --> 00:10:05,340
+<font size="38">What's the other rule in AKB48 that others do not know?</font>
+
+137
+00:10:05,340 --> 00:10:10,280
+<font size="38">"Don't think that everyone who wears suit and glasses is Producer Akimoto."</font>
+
+138
+00:10:10,280 --> 00:10:13,140
+<font size="38">Please use the one with "SDN" as my answer.</font>
+
+139
+00:10:16,080 --> 00:10:19,080
+<font size="38">Alright, let's continue. The next question is...</font>
+
+140
+00:10:20,020 --> 00:10:23,060
+<font size="38">The title for a new song which makes us think</font>
+
+141
+00:10:23,100 --> 00:10:28,660
+<font size="38">"Aki-p were you being lazy?" So what's the title?</font>
+
+142
+00:10:28,700 --> 00:10:34,420
+<font size="38">If they did not answer well enough, they'll get scolded.</font>
+
+143
+00:10:34,420 --> 00:10:37,580
+<font size="38">-First up, Hashimoto's answer. -Yes.</font>
+
+144
+00:10:38,360 --> 00:10:41,860
+<font size="38">Aki-p's lazy new song title is...</font>
+
+145
+00:10:43,380 --> 00:10:44,000
+<font size="38">"Someday, Kachuusha."</font>
+
+146
+00:10:44,000 --> 00:10:47,040
+<font face="Times New Roman" size="32">{\an8}Original song from AKB48 21st Single - "Everyday, Kachuusha"</font>
+
+147
+00:10:47,760 --> 00:10:50,100
+<font size="38">Not bad. It's not "everyday."</font>
+
+148
+00:10:51,460 --> 00:10:55,060
+<font size="38">-Incredible! -Not bad! Not bad at all!</font>
+
+149
+00:10:58,660 --> 00:11:02,020
+<font size="38">That's a typical standard answer for oogiri shows' opening.</font>
+
+150
+00:11:02,020 --> 00:11:05,880
+<font size="38">Yes. Just change a few words and you got a standard oogiri answer.</font>
+
+151
+00:11:05,880 --> 00:11:09,200
+<font size="38">That's right. A few changes and it's already funny.</font>
+
+152
+00:11:10,480 --> 00:11:12,360
+<font size="38">Next up, Mastumura's.</font>
+
+153
+00:11:12,960 --> 00:11:15,700
+<font size="38">Aki-p's lazy new song title is...</font>
+
+154
+00:11:16,840 --> 00:11:19,940
+<font size="38">"Heavy Rotation, probably?"</font>
+
+155
+00:11:19,940 --> 00:11:22,000
+<font size="38">"probably" has become a series.</font>
+
+156
+00:11:22,000 --> 00:11:24,000
+<font size="38">Not bad!</font>
+
+157
+00:11:24,000 --> 00:11:26,080
+<font size="38">-Did you come up with that? -Yes.</font>
+
+158
+00:11:26,460 --> 00:11:28,540
+<font size="38">You got talent girl~</font>
+
+159
+00:11:30,780 --> 00:11:33,820
+<font size="38">Not bad right, for these bunch of kids.</font>
+
+160
+00:11:36,480 --> 00:11:38,600
+<font size="38">Next up, Nishino's.</font>
+
+161
+00:11:38,600 --> 00:11:42,200
+<font size="38">Aki-p's lazy new song title is...</font>
+
+162
+00:11:43,360 --> 00:11:45,660
+<font size="38">"Guruguru Curtain 2."</font>
+
+163
+00:11:46,340 --> 00:11:48,620
+<font size="38">He's definitely being lazy.</font>
+
+164
+00:11:51,460 --> 00:11:54,060
+<font size="38">Maybe the next song will be "#3."</font>
+
+165
+00:11:54,060 --> 00:11:57,820
+<font size="38">After this, there'll be no other songs except "Guruguru Curtain."</font>
+
+166
+00:11:57,880 --> 00:12:00,960
+<font size="38">"Why the same old outfit..."</font>
+
+167
+00:12:02,960 --> 00:12:05,060
+<font size="38">They might even reach "#14."</font>
+
+168
+00:12:05,060 --> 00:12:08,480
+<font size="38">The road for them, just like that until the end.</font>
+
+169
+00:12:08,480 --> 00:12:09,760
+<font size="38">Next up, Takayama.</font>
+
+170
+00:12:09,760 --> 00:12:11,520
+<font size="38">Not bad, Takayama.</font>
+
+171
+00:12:11,540 --> 00:12:12,740
+<font size="38">Wait, we haven't show her answer yet.</font>
+
+172
+00:12:12,740 --> 00:12:13,020
+<font size="38">Can't resist.</font>
+
+173
+00:12:13,020 --> 00:12:17,020
+<font size="38">Can't help but to give feedbacks, it happened often.</font>
+
+174
+00:12:17,060 --> 00:12:20,680
+<font size="38">Like when the feet of a runner leaves the starting blocks before the starter’s gun.</font>
+
+175
+00:12:20,680 --> 00:12:25,480
+<font size="38">Let's continue with Takayama's answer. Aki-p's lazy new song title is...</font>
+
+176
+00:12:26,220 --> 00:12:28,420
+<font size="38">"Please look forward to it next time."</font>
+
+177
+00:12:29,640 --> 00:12:31,960
+<font size="38">-So for this time, we just give up the song? -Yes.</font>
+
+178
+00:12:33,460 --> 00:12:39,680
+<font size="38">That's bad if someone was told with it, "so...there's a next song?"</font>
+
+179
+00:12:42,520 --> 00:12:43,680
+<font size="38">Hatanaka's answer,</font>
+
+180
+00:12:43,680 --> 00:12:46,380
+<font size="38">Aki-p's lazy new song title is...</font>
+
+181
+00:12:47,300 --> 00:12:48,460
+<font size="38">"Hill!!(Saka)"</font>
+
+182
+00:12:51,820 --> 00:12:53,700
+<font size="38">How did you come up with this?</font>
+
+183
+00:12:53,700 --> 00:12:55,740
+<font size="38">Like the feeling of climbing a hill.</font>
+
+184
+00:12:55,740 --> 00:13:01,220
+<font size="38">Oh, I get it. Going up the hill(saka) and rolling down(guruguru)...</font>
+
+185
+00:13:02,140 --> 00:13:05,140
+<font size="38">Will "Nogizaka" be referred as "Saka?"</font>
+
+186
+00:13:05,140 --> 00:13:07,140
+<font size="38">"Nogizaka."</font>
+
+187
+00:13:07,140 --> 00:13:10,480
+<font size="38">If we slowly changed it to "Saka," that'll be nice right?</font>
+
+188
+00:13:11,820 --> 00:13:13,960
+<font size="38">Our guest for today is "Saka."</font>
+
+189
+00:13:15,320 --> 00:13:17,620
+<font size="38">"Today I climbed a hill(saka)."</font>
+
+190
+00:13:17,620 --> 00:13:20,800
+<font size="38">After this, "going to a live concert" will be referred as "climbing a hill."</font>
+
+191
+00:13:20,800 --> 00:13:24,560
+<font size="38">Not bad, not bad!</font>
+
+192
+00:13:25,680 --> 00:13:29,440
+<font size="38">So it's decided, no more "Nogizaka."</font>
+
+193
+00:13:29,440 --> 00:13:32,940
+<font size="38">Kawamura's Aki-p's lazy new song title is...</font>
+
+194
+00:13:34,000 --> 00:13:35,640
+<font size="38">"Dung Beetles."</font>
+
+195
+00:13:35,880 --> 00:13:39,680
+<font size="38">-Oh! -It became really bad!</font>
+
+196
+00:13:39,680 --> 00:13:45,680
+<font size="38">That's incredible. So kids these days like these kinds of stuff.</font>
+
+197
+00:13:46,100 --> 00:13:49,640
+<font size="38">Yabai! These two will give positive comments no matter what.</font>
+
+198
+00:13:49,640 --> 00:13:54,820
+<font size="38">Well, at least she wrote it.</font>
+
+199
+00:13:54,820 --> 00:13:56,820
+<font size="38">How do we sing it?</font>
+
+200
+00:13:56,820 --> 00:14:03,080
+<font size="38">"Dung beetles~ Dung dung dung~"</font>
+
+201
+00:14:03,080 --> 00:14:07,000
+<font size="38">So the lyrics are going to be "Dung beetles~ Dung dung dung~"</font>
+
+202
+00:14:07,000 --> 00:14:08,820
+<font size="38">Next up, Ito Nene's.</font>
+
+203
+00:14:08,820 --> 00:14:12,580
+<font size="38">Aki-p's lazy new song title is...</font>
+
+204
+00:14:14,020 --> 00:14:16,980
+<font size="38">"Mori Mori Supplied Food(Kyushoku)"</font>
+
+205
+00:14:17,680 --> 00:14:17,680
+<font face="Times New Roman" size="32">{\an8}Original song - Maru Maru Mori Mori</font>
+
+206
+00:14:17,680 --> 00:14:21,020
+<font size="38">How does it sound? "Mori~ mori~ supplied~ food~"</font>
+
+207
+00:14:21,020 --> 00:14:23,380
+<font size="38">It totally sounded like a plagiarized song.</font>
+
+208
+00:14:23,380 --> 00:14:25,380
+<font size="38">"Everyone~ let's eat~"</font>
+
+209
+00:14:28,720 --> 00:14:32,040
+<font size="38">This is actually lazy. When you heard the song "Eh!?"</font>
+
+210
+00:14:33,080 --> 00:14:35,080
+<font size="38">Let's check out sensei's.</font>
+
+211
+00:14:35,140 --> 00:14:36,160
+<font size="38">Example!</font>
+
+212
+00:14:36,160 --> 00:14:39,620
+<font size="38">Don't know whose answer is better yet. Even dung beetles appeared.</font>
+
+213
+00:14:39,620 --> 00:14:43,740
+<font size="38">Aki-p's lazy new song title is...</font>
+
+214
+00:14:43,740 --> 00:14:47,380
+<font size="38">"I took off my sailor uniform, probably?"</font>
+
+215
+00:14:48,540 --> 00:14:51,740
+<font size="38">-It's the "probably" series. 
+-It'll be better if I showed this during the opening.</font>
+
+216
+00:14:51,740 --> 00:14:53,420
+<font size="38">Ah, right...the "probably" series.</font>
+
+217
+00:14:53,420 --> 00:14:55,420
+<font size="38">But the girls already showed it.</font>
+
+218
+00:14:57,600 --> 00:14:59,420
+<font size="38">So do you have more?</font>
+
+219
+00:14:59,420 --> 00:15:01,420
+<font size="38">There's more! There's more!</font>
+
+220
+00:15:02,880 --> 00:15:07,020
+<font size="38">Aki-p's lazy new song title is...</font>
+
+221
+00:15:07,020 --> 00:15:07,020
+<font size="38">"High and Mighty Yasushi."</font>
+
+222
+00:15:07,020 --> 00:15:09,700
+<font face="Times New Roman" size="32">{\an8}(Original song from AKB48 24th Single - Ue kara Mariko. 
+"Yasushi" as Akimoto Yasushi 秋元康, the producer.)</font>
+
+223
+00:15:09,700 --> 00:15:13,540
+<font size="38">Ah! Not bad!</font>
+
+224
+00:15:13,540 --> 00:15:15,540
+<font size="38">Like "Ue kara Mariko."</font>
+
+225
+00:15:16,420 --> 00:15:19,120
+<font size="38">-One more... -There's more?</font>
+
+226
+00:15:20,520 --> 00:15:22,620
+<font size="38">If you have it, let's do it.</font>
+
+227
+00:15:22,620 --> 00:15:25,340
+<font size="38">Aki-p's lazy new song title...</font>
+
+228
+00:15:25,820 --> 00:15:30,160
+<font size="38">Don't make that face ok? Like you have to confirm the answer with me first.</font>
+
+229
+00:15:30,160 --> 00:15:32,160
+<font size="38">There's no need for it.</font>
+
+230
+00:15:33,740 --> 00:15:36,500
+<font size="38">Aki-p's lazy new song title is...</font>
+
+231
+00:15:36,500 --> 00:15:38,500
+<font size="38">"Well, it's still Yasushi."</font>
+
+232
+00:15:42,280 --> 00:15:45,480
+<font size="38"><i>*Edit this part out*</i></font>
+
+233
+00:15:46,500 --> 00:15:49,660
+<font size="38">Alright, next question...</font>
+
+234
+00:15:50,660 --> 00:15:54,560
+<font size="38">This kind of Idol that will never become popular! So what it is?</font>
+
+235
+00:15:56,860 --> 00:16:08,380
+<font size="38">"Ya won't become famous ya know?" x500</font>
+
+236
+00:16:08,380 --> 00:16:12,240
+<font size="38">Kawago's the kind of Idol that will never become popular is?</font>
+
+237
+00:16:13,620 --> 00:16:16,340
+<font size="38">"Do not sing, do not dance, do not talk."</font>
+
+238
+00:16:19,280 --> 00:16:21,240
+<font size="38">Do not sing, do not dance and do not talk.</font>
+
+239
+00:16:21,260 --> 00:16:25,300
+<font size="38">-Ya won't become famous! -Ya won't become famous!</font>
+
+240
+00:16:25,300 --> 00:16:27,300
+<font size="38">What kind of Idol is that?</font>
+
+241
+00:16:27,300 --> 00:16:31,280
+<font size="38">Eh, like she only has a pretty face?</font>
+
+242
+00:16:33,460 --> 00:16:35,820
+<font size="38">Next, Takayama's.</font>
+
+243
+00:16:35,820 --> 00:16:37,820
+<font size="38">Not bad, Takayama's.</font>
+
+244
+00:16:38,620 --> 00:16:43,240
+<font size="38">-Wait, we haven't shown it yet. -Not bad right, Takayama's.</font>
+
+245
+00:16:43,240 --> 00:16:46,340
+<font size="38">The kind of Idol that will never become popular is?</font>
+
+246
+00:16:47,200 --> 00:16:50,060
+<font size="38">"Only become the center once every three years."</font>
+
+247
+00:16:50,060 --> 00:16:53,360
+<font size="38">Oh!! That's good! That's really good!</font>
+
+248
+00:16:54,440 --> 00:16:57,780
+<font size="38">Like only become the center when it's a leap year.</font>
+
+249
+00:16:57,780 --> 00:17:01,120
+<font size="38">Umm, a leap year does not appear every three years. -Eh!?</font>
+
+250
+00:17:01,120 --> 00:17:03,920
+<font size="38">-It's once every four years. -Four? Ah! I messed up!</font>
+
+251
+00:17:03,920 --> 00:17:12,380
+<font size="38">Ahhhhhhh~~~~~~ That's good! That's good!</font>
+
+252
+00:17:16,400 --> 00:17:19,120
+<font size="38">-Not bad! -Next up, Ikuta's.</font>
+
+253
+00:17:19,200 --> 00:17:21,260
+<font size="38">-Ikuta's really tired today? -Eh!?</font>
+
+254
+00:17:21,260 --> 00:17:22,800
+<font size="38">You good with your studies?</font>
+
+255
+00:17:22,800 --> 00:17:25,900
+<font size="38">-Ah, I'm good. -Did you have a class today?</font>
+
+256
+00:17:25,900 --> 00:17:27,900
+<font size="38">Yes, I'm taking exam this year.</font>
+
+257
+00:17:27,900 --> 00:17:33,140
+<font size="38">There are others that work as Idol while studying too right?</font>
+
+258
+00:17:33,140 --> 00:17:39,360
+<font size="38">You have to prepare for exams and these oogiri answers...Sugoi.</font>
+
+259
+00:17:39,360 --> 00:17:42,180
+<font size="38">You should have declined it.</font>
+
+260
+00:17:42,980 --> 00:17:45,800
+<font size="38">The kind of Idol that will never become popular is?</font>
+
+261
+00:17:47,060 --> 00:17:49,560
+<font size="38">"Those who forgot their group name."</font>
+
+262
+00:17:49,560 --> 00:17:52,100
+<font size="38">That's kawai.</font>
+
+263
+00:17:52,160 --> 00:17:53,880
+<font size="38">Those who forgot?</font>
+
+264
+00:17:53,880 --> 00:17:56,440
+<font size="38">Like, "ready, set...Eh??"</font>
+
+265
+00:17:56,920 --> 00:18:02,240
+<font size="38">Just like Nogizaka's introduction, "one, two...Eh??"</font>
+
+266
+00:18:03,520 --> 00:18:05,720
+<font size="38">Kawai.</font>
+
+267
+00:18:07,100 --> 00:18:11,580
+<font size="38">After this, a funny masterpiece appeared?</font>
+
+268
+00:18:12,420 --> 00:18:14,040
+<font size="38">Kashiwa's answer.</font>
+
+269
+00:18:14,040 --> 00:18:17,080
+<font size="38">The kind of Idol that will never become popular is</font>
+
+270
+00:18:18,160 --> 00:18:18,220
+<font face="Times New Roman" size="30">Nobody in the group is cute enough.</font>
+
+271
+00:18:18,220 --> 00:18:21,540
+<font size="38">Nobody in...hahahaha!</font>
+
+272
+00:18:21,540 --> 00:18:28,220
+<font size="38">-What a straight forward answer. -A correct answer appeared!</font>
+
+273
+00:18:30,620 --> 00:18:32,980
+<font size="38">-So their turn is over. -Is that so?</font>
+
+274
+00:18:32,980 --> 00:18:37,300
+<font size="38">So, the kind of Idol that will never become popular is? Himura-san let's go.</font>
+
+275
+00:18:41,740 --> 00:18:51,680
+<font size="38">Ya won't become famous ya know!? x500</font>
+
+276
+00:18:51,820 --> 00:18:55,340
+<font size="38">Ya can't say adult jokes ya know!</font>
+
+277
+00:18:57,400 --> 00:18:59,940
+<font size="38">Oh, did you finish? So Himura-san's answer.</font>
+
+278
+00:18:59,940 --> 00:19:02,440
+<font size="38">So, the kind of Idol that will never become popular is?</font>
+
+279
+00:19:02,440 --> 00:19:04,600
+<font size="38">"Vomit the second she's on stage."</font>
+
+280
+00:19:06,120 --> 00:19:07,400
+<font size="38">Not that good.</font>
+
+281
+00:19:07,400 --> 00:19:12,260
+<font size="38">Ya can't do that ya know, and *vomit*</font>
+
+282
+00:19:15,640 --> 00:19:19,420
+<font size="38">Nogizaka46 reached a new milestone again?</font>
+
+283
+00:19:20,720 --> 00:19:26,340
+<font size="38">Nogizaka46 had a JFA press conference.</font>
+
+284
+00:19:28,580 --> 00:19:35,200
+<font size="38">The members appeared to be wearing a sports uniform, what's that about?</font>
+
+285
+00:19:35,200 --> 00:19:43,060
+<font size="38">Introducing SKYP TV! J-league 2012 Official Cheerleaders - Nogizaka46!</font>
+
+286
+00:19:43,740 --> 00:19:49,760
+<font size="38">Nogizaka46 has become the official cheerleaders for SKYP TV J-league 2012.</font>
+
+287
+00:19:50,600 --> 00:19:55,600
+<font size="38">"Hidari Mune no Yuuki" was chosen to be the official theme song.</font>
+
+288
+00:19:57,340 --> 00:20:00,440
+<font size="38">How does Ikoma feel about this?</font>
+
+289
+00:20:00,440 --> 00:20:07,920
+<font size="38">Nogizaka46 was chosen as the official cheerleader for SKY TV J-league 2012, I'm really honored.</font>
+
+290
+00:20:07,920 --> 00:20:15,380
+<font size="38">From today onward, Nogizaka46 will continue to cheer for the teams and the league,</font>
+
+291
+00:20:15,380 --> 00:20:21,600
+<font size="38">we hope to make J-league more interesting, and raise the bar for the sports.</font>
+
+292
+00:20:21,600 --> 00:20:25,560
+<font size="38">1, 2, let us witness our dream come true!</font>
+
+293
+00:20:27,300 --> 00:20:34,760
+<font size="38">To commemorate the selling of "Guruguru Curtain," they had a worldwide mini handshake event.</font>
+
+294
+00:20:36,720 --> 00:20:40,900
+<font size="38">There's a lot more fans that showed up than expected.</font>
+
+295
+00:20:42,800 --> 00:20:46,560
+<font size="38">The members cried tears of joy.</font>
+
+296
+00:20:48,840 --> 00:20:53,820
+<font size="38">Thanks to the fans, the event was a big success!</font>
+
+297
+00:20:53,820 --> 00:20:58,660
+<font size="38">Don! Yes! Everyone thanks for the hard work!</font>
+
+298
+00:20:58,660 --> 00:21:00,660
+<font size="38">The Daruma doll was really cute.</font>
+
+299
+00:21:01,500 --> 00:21:04,780
+<font size="38">-We drew stars and hearts on it. -Why stars and hearts?</font>
+
+300
+00:21:04,780 --> 00:21:07,220
+<font size="38">Well, I thought it was better than just drawing circles.</font>
+
+301
+00:21:07,220 --> 00:21:09,220
+<font size="38">Ah yes, this one.</font>
+
+302
+00:21:09,220 --> 00:21:13,820
+<font size="38">Yeeee~ The handshake event is a success!</font>
+
+303
+00:21:13,820 --> 00:21:17,040
+<font size="38">Thank you very much!</font>
+
+304
+00:21:19,760 --> 00:21:23,860
+<font size="38">Please continue to support Nogizaka46!</font>
+
+305
+00:21:25,120 --> 00:21:31,800
+<font size="38">Thanks for the fans' support, "Guruguru Curtain" achieved the 2nd place on Weekly Chart!</font>
+
+306
+00:21:31,800 --> 00:21:37,080
+<font size="38">They also achieved the 3rd place for female artists debut single!</font>
+
+307
+00:21:37,080 --> 00:24:21,600
+<font size="38">Please continue to support Nogizaka46!</font>
+
+308
+00:24:21,600 --> 00:24:27,080
+<font size="38">Next week, the reveal of Nogizaka46's formation and their road to debut.</font>
+
+309
+00:24:28,300 --> 00:24:34,180
+<font size="38">The members grew up as they worked together.</font>
+
+310
+00:24:34,380 --> 00:24:37,080
+<font size="38">Some of the changes are massive!</font>
+

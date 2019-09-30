@@ -1,0 +1,2870 @@
+1
+00:00:00,000 --> 00:00:00,000
+<font size="20"><b><font color="#ef8ff2"><font face="Berlin Sans FB Demi">{\an7}<font size="30">ア<font color="#f5b00b">イ{c&H83E9AE&\c&H77D3A5&}D<font color="#62bef0">O<font color="#8d8d8d">L</font></font></font></font></font></font></b></font>
+
+2
+00:00:00,000 --> 00:00:01,960
+<font size="20"><b><font face="Berlin Sans FB Demi">{\an7}<font size="30"><font color="#ffffff">www.myAidol.net</font></font></font></b></font>
+
+3
+00:00:01,960 --> 00:00:06,040
+<font face="Verdana" size="42"><b>On tonight's Nogizakatte Doko, we'll be having Quizzes about the members' insecurities!</b></font>
+
+4
+00:00:07,680 --> 00:00:12,540
+<font face="Verdana" size="42"><b>There'll be an outbreak of bad mouthing as the members have their eye on the prize!!</b></font>
+
+5
+00:00:13,010 --> 00:00:14,000
+<font face="Verdana" size="42"><b>Your face is round!</b></font>
+
+6
+00:00:14,000 --> 00:00:15,500
+<font face="Verdana" size="42"><b>That's so mean!!!</b></font>
+
+7
+00:00:15,500 --> 00:00:17,410
+<font face="Verdana" size="42"><b>Your [?] is weird!</b></font>
+
+8
+00:00:17,410 --> 00:00:18,890
+<font face="Verdana" size="42"><b>That's mean!</b></font>
+
+9
+00:00:19,160 --> 00:00:20,900
+<font face="Verdana" size="42"><b>Will we have members fainting?</b></font>
+
+10
+00:00:24,220 --> 00:00:25,900
+<font face="Verdana" size="42"><b>Nogizaka tte Doko?</b></font>
+
+11
+00:00:26,020 --> 00:00:35,460
+<font size="30"><b>{\an8}[What was supposed to be a quiz on insecurities turns into a bad mouthing tournament!?]</b></font>
+
+12
+00:00:35,460 --> 00:00:36,920
+<font face="Verdana" size="42"><b>You have small eyes.</b></font>
+
+13
+00:00:38,930 --> 00:00:41,320
+<font face="Verdana" size="42"><b>Your makeup looks gaudy.</b></font>
+
+14
+00:00:42,090 --> 00:00:42,400
+<font face="Verdana" size="42"><b>Really?</b></font>
+
+15
+00:00:42,400 --> 00:00:42,400
+<font size="20"><b>{\an5}<font face="Arial Rounded MT Bold"><font size="24"><font color="#d50926">Banana Man</font></font></font></b></font>
+
+16
+00:00:42,400 --> 00:00:42,400
+<font size="20"><b>{\an5}<font face="Times New Roman"><font size="30"><font color="#000000">Himura Yuki</font></font></font></b></font>
+
+17
+00:00:42,400 --> 00:00:42,730
+<font size="20"><b>{\an5}<font face="Times New Roman"><font size="30"><font color="#000000">Shitara Osamu</font></font></font></b></font>
+
+18
+00:00:42,730 --> 00:00:43,480
+<font face="Verdana" size="42"><b>DON!</b></font>
+
+19
+00:00:43,480 --> 00:00:47,160
+<font face="Verdana" size="42"><b>Here we go! This is Nogizakatte Doko? We're the MC, Banana Man. Great to have you here!</b></font>
+
+20
+00:00:47,340 --> 00:00:49,020
+<font face="Verdana" size="42"><b>And here is Nogizaka-chan!</b></font>
+
+21
+00:00:55,360 --> 00:00:58,960
+<font face="Verdana" size="42"><b>Let's quickly get into it and introduce what we'll be doing today.
+- Okay!</b></font>
+
+22
+00:00:58,960 --> 00:00:59,810
+<font face="Verdana" size="42"><b>Himura-san.
+- Yes.</b></font>
+
+23
+00:00:59,810 --> 00:01:01,810
+<font face="Verdana" size="42"><b>Go with a menial manner today.</b></font>
+
+24
+00:01:03,090 --> 00:01:07,300
+<font face="Verdana" size="42"><b>Let's resolve issues with our hidden insecurities...</b></font>
+
+25
+00:01:07,500 --> 00:01:11,100
+<font face="Verdana" size="42"><b>...Nogizaka Insecurities Quiz!</b></font>
+
+26
+00:01:11,100 --> 00:01:11,890
+<font size="30"><b>{\an8}Let's Resolve our Issues with our Hidden Insecurities 
+ Nogizaka Insecurities Quiz</b></font>
+
+27
+00:01:11,890 --> 00:01:14,460
+<font face="Verdana" size="42"><b>That was in a menial fashion, right?
+- Yep.</b></font>
+
+28
+00:01:15,820 --> 00:01:19,780
+<font face="Verdana" size="42"><b>The chosen member will put their insecurity up for guessing,</b></font>
+
+29
+00:01:19,780 --> 00:01:23,050
+<font face="Verdana" size="42"><b>while the other members try to guess it.</b></font>
+
+30
+00:01:24,780 --> 00:01:27,940
+<font face="Verdana" size="42"><b>By exposing the insecurities hidden within themselves,</b></font>
+
+31
+00:01:27,940 --> 00:01:30,260
+<font face="Verdana" size="42"><b>they'll aim to mature even further!</b></font>
+
+32
+00:01:31,500 --> 00:01:34,900
+<font face="Verdana" size="42"><b>For the first question we'll have Sakurai's insecurity up for guessing.</b></font>
+
+33
+00:01:34,900 --> 00:01:40,300
+<font face="Verdana" size="42"><b>Akimoto, Matsumura, Ikoma and Saito Yuri will be the ones guessing.</b></font>
+
+34
+00:01:40,650 --> 00:01:42,730
+<font face="Verdana" size="42"><b>Okay, guessers...</b></font>
+
+35
+00:01:42,730 --> 00:01:45,890
+<font face="Verdana" size="42"><b>It'll be good if you guess it right.
+- That's right.</b></font>
+
+36
+00:01:45,960 --> 00:01:48,560
+<font face="Verdana" size="42"><b>Don't be afraid to guess.
+- Yeah, no need.</b></font>
+
+37
+00:01:48,560 --> 00:01:50,250
+<font face="Verdana" size="42"><b>Say what their insecurity is.
+- Yeah.</b></font>
+
+38
+00:01:50,250 --> 00:01:50,730
+<font face="Verdana" size="42"><b>Got it?</b></font>
+
+39
+00:01:50,730 --> 00:01:55,200
+<font face="Verdana" size="42"><b>And for the person that guesses it correctly, we have this as the prize!</b></font>
+
+40
+00:01:55,400 --> 00:01:56,400
+<font face="Verdana" size="42"><b>Here it is!</b></font>
+
+41
+00:01:56,530 --> 00:02:01,080
+<font face="Verdana" size="42"><b>Oh, what's this?</b></font>
+
+42
+00:02:01,080 --> 00:02:02,280
+<font face="Verdana" size="34"><b>{\an5}Dancing Wildly!!</b></font>
+
+43
+00:02:02,280 --> 00:02:03,800
+<font face="Verdana" size="42"><b>I want to eat it!</b></font>
+
+44
+00:02:05,660 --> 00:02:06,860
+<font face="Verdana" size="42"><b>Please be generous with the guesses!</b></font>
+
+45
+00:02:06,860 --> 00:02:06,860
+<font size="20"><b>{\an5}<font color="#ffffff">m 0 0 l 350 0 l 350 40 l 0 40</font></b></font>
+
+46
+00:02:06,860 --> 00:02:06,860
+<font size="20"><b>{\an5}<font size="26">Strawberry Shortcake Serenade</font></b></font>
+
+47
+00:02:06,860 --> 00:02:06,860
+<font size="20"><b>{\an5}<font size="26"><font color="#fe1d08">Strawberry Shortcake Serenade</font></font></b></font>
+
+48
+00:02:06,860 --> 00:02:06,860
+<font size="20"><b>{\an5}<font color="#ffffff">m 0 0 l 250 0 l 250 40 l 0 40</font></b></font>
+
+49
+00:02:06,860 --> 00:02:06,860
+<font size="20"><b>{\an5}<font size="26">Berry Angel of Spring</font></b></font>
+
+50
+00:02:06,860 --> 00:02:06,860
+<font size="20"><b>{\an5}<font size="26"><font color="#d14ca4">Berry Angel of Spring</font></font></b></font>
+
+51
+00:02:06,860 --> 00:02:06,860
+<font size="20"><b>{\an5}<font color="#ffffff">m 0 0 l 240 0 l 240 40 l 0 40</font></b></font>
+
+52
+00:02:06,860 --> 00:02:06,860
+<font size="20"><b>{\an5}<font size="26">Shiratama Milk Berry</font></b></font>
+
+53
+00:02:06,860 --> 00:02:06,860
+<font size="20"><b>{\an5}<font size="26"><font color="#0f7a20">Shiratama Milk Berry</font></font></b></font>
+
+54
+00:02:06,860 --> 00:02:06,860
+<font size="20"><b>{\an5}<font color="#ffffff">m 0 0 l 220 0 l 220 40 l 0 40</font></b></font>
+
+55
+00:02:06,860 --> 00:02:06,860
+<font size="20"><b>{\an5}<font size="26">Chocolate Devotion</font></b></font>
+
+56
+00:02:06,860 --> 00:02:08,020
+<font size="20"><b>{\an5}<font size="26"><font color="#8a3e19">Chocolate Devotion</font></font></b></font>
+
+57
+00:02:08,020 --> 00:02:14,660
+<font face="Verdana" size="42"><b>The correct guesser will get to choose 1 of these 4 desserts from Cold Stone Creamery.</b></font>
+
+58
+00:02:15,140 --> 00:02:16,890
+<font face="Verdana" size="42"><b>It's only the winner,</b></font>
+
+59
+00:02:16,890 --> 00:02:19,850
+<font face="Verdana" size="42"><b>that gets their ice cream made for them over there.</b></font>
+
+60
+00:02:19,850 --> 00:02:22,260
+<font face="Verdana" size="42"><b>Because after recording, you won't have any chance to have it.</b></font>
+
+61
+00:02:22,300 --> 00:02:24,490
+<font face="Verdana" size="34"><b>{\an5}Correct Guesser's Privilege</b></font>
+
+62
+00:02:24,490 --> 00:02:25,860
+<font face="Verdana" size="42"><b>Obviously.</b></font>
+
+63
+00:02:26,250 --> 00:02:28,380
+<font face="Verdana" size="42"><b>Then guess it correctly!
+- Yeah, get it right.</b></font>
+
+64
+00:02:28,380 --> 00:02:29,260
+<font face="Verdana" size="42"><b>I want to get it.</b></font>
+
+65
+00:02:29,260 --> 00:02:30,820
+<font face="Verdana" size="42"><b>Just keep on throwing guesses our way.</b></font>
+
+66
+00:02:32,050 --> 00:02:36,020
+<font face="Verdana" size="42"><b>So just what insecurity is Sakurai self-conscious about?</b></font>
+
+67
+00:02:36,980 --> 00:02:38,520
+<font face="Verdana" size="42"><b>Oh, is that so?
+- Oh, I see.</b></font>
+
+68
+00:02:38,520 --> 00:02:41,210
+<font face="Verdana" size="42"><b>Oh, really? But that's cute.
+- They won't have a clue.</b></font>
+
+69
+00:02:41,210 --> 00:02:44,020
+<font face="Verdana" size="42"><b>I really hate it.
+- Well, I guess if it was you.</b></font>
+
+70
+00:02:44,140 --> 00:02:46,800
+<font face="Verdana" size="42"><b>Okay then, Insecurity Quiz... START!</b></font>
+
+71
+00:02:47,330 --> 00:02:48,450
+<font face="Verdana" size="42"><b>So fast!
+- Here we go!</b></font>
+
+72
+00:02:48,600 --> 00:02:49,940
+<font face="Verdana" size="42"><b>Her chin, her chin is long!</b></font>
+
+73
+00:02:49,940 --> 00:02:51,290
+<font face="Verdana" size="42"><b>Oi!</b></font>
+
+74
+00:02:51,290 --> 00:02:52,140
+<font face="Verdana" size="42"><b>It's sticking out!</b></font>
+
+75
+00:02:52,140 --> 00:02:53,780
+<font face="Verdana" size="42"><b>Her chin is long!
+- It's not long!</b></font>
+
+76
+00:02:53,780 --> 00:02:55,240
+<font face="Verdana" size="42"><b>That's not right. Ikoma!</b></font>
+
+77
+00:02:55,340 --> 00:02:56,520
+<font face="Verdana" size="42"><b>You're short!</b></font>
+
+78
+00:02:56,520 --> 00:02:58,770
+<font face="Verdana" size="42"><b>Well, that is true...
+- Being short.</b></font>
+
+79
+00:02:58,770 --> 00:03:00,770
+<font face="Verdana" size="42"><b>That's wrong. Oh here's Akimoto.</b></font>
+
+80
+00:03:00,890 --> 00:03:02,940
+<font face="Verdana" size="42"><b>She has a chiseled face!
+- A chiseled face!</b></font>
+
+81
+00:03:02,970 --> 00:03:04,940
+<font face="Verdana" size="42"><b>Well it is a bit...</b></font>
+
+82
+00:03:05,720 --> 00:03:08,370
+<font face="Verdana" size="42"><b>Please don't put it back yourself.</b></font>
+
+83
+00:03:08,370 --> 00:03:08,800
+<font face="Verdana" size="42"><b>Go.</b></font>
+
+84
+00:03:08,800 --> 00:03:11,040
+<font face="Verdana" size="42"><b>She's not good at talking!
+- What!?</b></font>
+
+85
+00:03:11,040 --> 00:03:11,800
+<font face="Verdana" size="42"><b>What?</b></font>
+
+86
+00:03:11,800 --> 00:03:13,840
+<font face="Verdana" size="42"><b>She can't really wrap up an MC performance.</b></font>
+
+87
+00:03:13,860 --> 00:03:14,170
+<font face="Verdana" size="34"><b>{\an5}Saying whatever they like.</b></font>
+
+88
+00:03:14,170 --> 00:03:17,890
+<font face="Verdana" size="42"><b>What!? No way! Do you really think that?</b></font>
+
+89
+00:03:17,960 --> 00:03:19,340
+<font face="Verdana" size="42"><b>We now have Matsumura!</b></font>
+
+90
+00:03:19,340 --> 00:03:23,000
+<font face="Verdana" size="42"><b>The parting of her bangs go back too far.</b></font>
+
+91
+00:03:24,220 --> 00:03:25,290
+<font face="Verdana" size="42"><b>That's not it.</b></font>
+
+92
+00:03:25,290 --> 00:03:27,640
+<font face="Verdana" size="42"><b>Will it be okay, with such an assault from everyone?</b></font>
+
+93
+00:03:27,640 --> 00:03:28,810
+<font face="Verdana" size="42"><b>Oh, Matsumura.</b></font>
+
+94
+00:03:28,810 --> 00:03:30,620
+<font face="Verdana" size="42"><b>Her nose is a bit too prominent.</b></font>
+
+95
+00:03:30,680 --> 00:03:32,300
+<font face="Verdana" size="42"><b>Oh, I wonder if it is.
+- Her nose is fine!</b></font>
+
+96
+00:03:32,300 --> 00:03:33,290
+<font face="Verdana" size="42"><b>Wrong!</b></font>
+
+97
+00:03:34,170 --> 00:03:35,770
+<font face="Verdana" size="42"><b>Okay, Ikoma!
+- Okay.</b></font>
+
+98
+00:03:35,810 --> 00:03:36,800
+<font face="Verdana" size="42"><b>Er...</b></font>
+
+99
+00:03:36,800 --> 00:03:38,260
+<font face="Verdana" size="42"><b>Her cheeks are thick!
+- What?</b></font>
+
+100
+00:03:38,260 --> 00:03:38,980
+<font face="Verdana" size="42"><b>Her cheeks are thick!</b></font>
+
+101
+00:03:38,980 --> 00:03:39,880
+<font face="Verdana" size="34"><b>{\an5}An Insult?</b></font>
+
+102
+00:03:39,880 --> 00:03:41,040
+<font face="Verdana" size="42"><b>Thick cheeks...</b></font>
+
+103
+00:03:41,040 --> 00:03:41,300
+<font face="Verdana" size="42"><b>Are my cheeks really?</b></font>
+
+104
+00:03:41,300 --> 00:03:43,440
+<font face="Verdana" size="42"><b>Wait a minute. Hold on a second.</b></font>
+
+105
+00:03:43,540 --> 00:03:44,820
+<font face="Verdana" size="42"><b>Let's stop for a moment.</b></font>
+
+106
+00:03:44,820 --> 00:03:48,120
+<font face="Verdana" size="42"><b>This person can't take anymore if you girls continue saying harsh things.</b></font>
+
+107
+00:03:48,120 --> 00:03:49,640
+<font face="Verdana" size="34"><b>{\an5}At her limits?</b></font>
+
+108
+00:03:49,640 --> 00:03:51,060
+<font face="Verdana" size="42"><b>I'm sorry, Reika!</b></font>
+
+109
+00:03:52,450 --> 00:03:54,660
+<font face="Verdana" size="42"><b>Akimoto's guess was good. "She has a chiseled face."</b></font>
+
+110
+00:03:54,700 --> 00:03:56,660
+<font face="Verdana" size="42"><b>Okay, here's a hint.
+- A hint?</b></font>
+
+111
+00:03:56,900 --> 00:03:59,210
+<font face="Verdana" size="42"><b>This one is above the neck, I'd say.</b></font>
+
+112
+00:03:59,210 --> 00:04:00,860
+<font face="Verdana" size="42"><b>I've got it.
+- Okay, let's resume.</b></font>
+
+113
+00:04:01,000 --> 00:04:01,560
+<font face="Verdana" size="42"><b>Ears!</b></font>
+
+114
+00:04:01,560 --> 00:04:01,940
+<font face="Verdana" size="42"><b>What?</b></font>
+
+115
+00:04:01,940 --> 00:04:04,860
+<font face="Verdana" size="42"><b>Her ears are tiny... kinda... big... kinda...</b></font>
+
+116
+00:04:05,680 --> 00:04:07,720
+<font face="Verdana" size="42"><b>Which one is it?
+- Her ears...</b></font>
+
+117
+00:04:07,720 --> 00:04:09,460
+<font face="Verdana" size="42"><b>...I'll go with her ears being huge.</b></font>
+
+118
+00:04:10,050 --> 00:04:11,450
+<font face="Verdana" size="42"><b>Ah! Wrong?
+- Her ears are...?</b></font>
+
+119
+00:04:11,450 --> 00:04:12,420
+<font face="Verdana" size="42"><b>Oh, here is Akimoto.</b></font>
+
+120
+00:04:12,420 --> 00:04:13,920
+<font face="Verdana" size="42"><b>Her ears are badly shaped.</b></font>
+
+121
+00:04:13,920 --> 00:04:15,010
+<font face="Verdana" size="34"><b>{\an5}Just wanted to say it?</b></font>
+
+122
+00:04:15,010 --> 00:04:16,130
+<font face="Verdana" size="42"><b>Oi, you!</b></font>
+
+123
+00:04:16,130 --> 00:04:18,290
+<font face="Verdana" size="42"><b>Please give a specific answer.</b></font>
+
+124
+00:04:18,440 --> 00:04:19,730
+<font face="Verdana" size="42"><b>Here we go.
+- Be more specific.</b></font>
+
+125
+00:04:19,960 --> 00:04:22,280
+<font face="Verdana" size="42"><b>Her ears...</b></font>
+
+126
+00:04:22,740 --> 00:04:24,320
+<font face="Verdana" size="42"><b>Um... are small?</b></font>
+
+127
+00:04:24,360 --> 00:04:25,210
+<font face="Verdana" size="42"><b>Nope!</b></font>
+
+128
+00:04:25,890 --> 00:04:26,980
+<font face="Verdana" size="42"><b>Okay, here's Matsumura.</b></font>
+
+129
+00:04:27,000 --> 00:04:28,540
+<font face="Verdana" size="42"><b>Her ears are pointy?</b></font>
+
+130
+00:04:28,690 --> 00:04:30,450
+<font face="Verdana" size="42"><b>Which means...?
+- Her ears are?</b></font>
+
+131
+00:04:31,730 --> 00:04:33,040
+<font face="Verdana" size="42"><b>I've got it!</b></font>
+
+132
+00:04:33,040 --> 00:04:33,640
+<font face="Verdana" size="42"><b>Oh here we have Akimoto!</b></font>
+
+133
+00:04:33,640 --> 00:04:35,640
+<font face="Verdana" size="42"><b>Her earlobes are small!</b></font>
+
+134
+00:04:37,930 --> 00:04:40,440
+<font face="Verdana" size="42"><b>I feel so embarrassed!
+- It is, isn't it.</b></font>
+
+135
+00:04:40,700 --> 00:04:43,210
+<font face="Verdana" size="42"><b>Her ears... her ears are...</b></font>
+
+136
+00:04:43,210 --> 00:04:44,260
+<font face="Verdana" size="42"><b>...weird?</b></font>
+
+137
+00:04:44,260 --> 00:04:46,080
+<font face="Verdana" size="42"><b>Like I said... these kinds of...</b></font>
+
+138
+00:04:46,680 --> 00:04:47,760
+<font face="Verdana" size="42"><b>General statements like that...</b></font>
+
+139
+00:04:49,020 --> 00:04:50,420
+<font face="Verdana" size="42"><b>Her ears go red easily.</b></font>
+
+140
+00:04:50,460 --> 00:04:53,210
+<font face="Verdana" size="42"><b>No. It has to do with the shape of it.</b></font>
+
+141
+00:04:54,660 --> 00:04:56,820
+<font face="Verdana" size="42"><b>Her ears point forwards.</b></font>
+
+142
+00:04:57,140 --> 00:04:58,240
+<font face="Verdana" size="42"><b>Which means?</b></font>
+
+143
+00:04:58,240 --> 00:05:00,400
+<font face="Verdana" size="42"><b>Oh, here's Akimoto.</b></font>
+
+144
+00:05:00,400 --> 00:05:02,140
+<font face="Verdana" size="42"><b>Her ears droop forwards.</b></font>
+
+145
+00:05:02,200 --> 00:05:03,680
+<font face="Verdana" size="42"><b>Drooping?</b></font>
+
+146
+00:05:03,840 --> 00:05:05,410
+<font face="Verdana" size="42"><b>Drooping...</b></font>
+
+147
+00:05:05,410 --> 00:05:07,170
+<font face="Verdana" size="42"><b>The expression is different, but...</b></font>
+
+148
+00:05:07,170 --> 00:05:07,170
+<font size="20"><b>{\an5}<font size="30">Correct Answer!</font></b></font>
+
+149
+00:05:07,170 --> 00:05:07,170
+<font size="20"><b>{\an5}<font size="30">Correct Answer!</font></b></font>
+
+150
+00:05:07,170 --> 00:05:07,170
+<font size="20"><b>{\an5}<font size="30"><font color="#caab27">Correct Answer!</font></font></b></font>
+
+151
+00:05:07,170 --> 00:05:07,170
+<font size="20"><b>{\an5}<font size="30"><font color="#e2c93e">Correct Answer!</font></font></b></font>
+
+152
+00:05:07,170 --> 00:05:07,170
+<font size="20"><b>{\an5}<font size="30"><font color="#f1e756">Correct Answer!</font></font></b></font>
+
+153
+00:05:07,170 --> 00:05:07,410
+<font size="20"><b>{\an5}<font size="30"><font color="#f6f25e">Correct Answer!</font></font></b></font>
+
+154
+00:05:07,410 --> 00:05:09,410
+<font face="Verdana" size="42"><b>But it should be fine!</b></font>
+
+155
+00:05:10,740 --> 00:05:11,690
+<font face="Verdana" size="42"><b>Yeah, that's fine.</b></font>
+
+156
+00:05:11,690 --> 00:05:13,780
+<font face="Verdana" size="42"><b>Okay then, why don't we show the answer.
+- Okay.</b></font>
+
+157
+00:05:13,780 --> 00:05:14,370
+<font face="Verdana" size="42"><b>Her ears are...</b></font>
+
+158
+00:05:14,370 --> 00:05:17,500
+<font face="Verdana" size="42"><b>The fact that my ears stand.</b></font>
+
+159
+00:05:17,540 --> 00:05:19,040
+<font face="Verdana" size="42"><b>Wait, isn't that cute?</b></font>
+
+160
+00:05:19,040 --> 00:05:20,800
+<font face="Verdana" size="42"><b>It is cute, isn't it?</b></font>
+
+161
+00:05:20,800 --> 00:05:22,360
+<font face="Verdana" size="42"><b>No, it's...
+- Show us how it is.</b></font>
+
+162
+00:05:22,360 --> 00:05:24,320
+<font face="Verdana" size="42"><b>My ears stand.
+- Your ears stand?</b></font>
+
+163
+00:05:24,320 --> 00:05:25,760
+<font face="Verdana" size="42"><b>It's like a monkey's.</b></font>
+
+164
+00:05:25,760 --> 00:05:29,340
+<font face="Verdana" size="42"><b>Which means that you'd prefer it to lie back more?
+- Yeah.</b></font>
+
+165
+00:05:29,410 --> 00:05:31,530
+<font face="Verdana" size="42"><b>There's nothing wrong with it, though...
+- Yeah!</b></font>
+
+166
+00:05:31,540 --> 00:05:33,970
+<font face="Verdana" size="42"><b>No, when I wear hats...
+- Yeah.</b></font>
+
+167
+00:05:33,970 --> 00:05:36,250
+<font face="Verdana" size="42"><b>My ears get squished.
+- Oh, I see.</b></font>
+
+168
+00:05:36,250 --> 00:05:38,680
+<font face="Verdana" size="42"><b>I see. So they are weird ears.</b></font>
+
+169
+00:05:39,120 --> 00:05:40,440
+<font face="Verdana" size="42"><b>You got that right, Himura.</b></font>
+
+170
+00:05:40,440 --> 00:05:45,760
+<font face="Verdana" size="42"><b>We were scared none of you would say anything...</b></font>
+
+171
+00:05:45,820 --> 00:05:46,640
+<font face="Verdana" size="42"><b>...but you said way too much.</b></font>
+
+172
+00:05:46,640 --> 00:05:47,940
+<font face="Verdana" size="34"><b>{\an5}Was Mostly an Insult Tournament.</b></font>
+
+173
+00:05:47,940 --> 00:05:48,700
+<font face="Verdana" size="42"><b>Sorry.</b></font>
+
+174
+00:05:49,660 --> 00:05:52,360
+<font face="Verdana" size="42"><b>But because you got it correct, Akimoto...</b></font>
+
+175
+00:05:52,570 --> 00:05:54,700
+<font face="Verdana" size="42"><b>Please have your reward, Cold Stone ice cream!</b></font>
+
+176
+00:05:55,240 --> 00:05:56,890
+<font face="Verdana" size="42"><b>Have a mouthful, Akimoto!</b></font>
+
+177
+00:05:56,890 --> 00:05:59,020
+<font face="Verdana" size="42"><b>I'm all wounded so can I have some?</b></font>
+
+178
+00:05:59,020 --> 00:06:00,620
+<font face="Verdana" size="42"><b>The wounded Sakurai cannot have any.</b></font>
+
+179
+00:06:00,620 --> 00:06:00,920
+<font face="Verdana" size="34"><b>{\an5}BURN.</b></font>
+
+180
+00:06:00,920 --> 00:06:02,160
+<font face="Verdana" size="42"><b>Why?</b></font>
+
+181
+00:06:02,160 --> 00:06:05,370
+<font face="Verdana" size="42"><b>You'll get your chance when you guess another person's.
+- Please guess it.</b></font>
+
+182
+00:06:05,370 --> 00:06:07,680
+<font face="Verdana" size="42"><b>So can we please have the others return to their seats?</b></font>
+
+183
+00:06:07,680 --> 00:06:08,650
+<font face="Verdana" size="42"><b>Please sit down.</b></font>
+
+184
+00:06:08,660 --> 00:06:10,240
+<font face="Verdana" size="42"><b>Akimoto, what'll you have?</b></font>
+
+185
+00:06:10,280 --> 00:06:11,520
+<font face="Verdana" size="42"><b>I'll have the Shiratama Milk Berry.</b></font>
+
+186
+00:06:11,520 --> 00:06:12,760
+<font face="Verdana" size="42"><b>Ah! The Shiratama Milk Berry.</b></font>
+
+187
+00:06:12,760 --> 00:06:15,090
+<font face="Verdana" size="42"><b>There's no doubt that's going to be good!
+- Please make your order.</b></font>
+
+188
+00:06:15,090 --> 00:06:18,330
+<font face="Verdana" size="42"><b>Good day to you, and welcome to Cold Stone Creamery!</b></font>
+
+189
+00:06:18,340 --> 00:06:24,610
+<font size="30"><b>{\an8}[T/N: This is sung when buying 
+ice cream from Cold Stone.]</b></font>
+
+190
+00:06:24,610 --> 00:06:27,650
+<font face="Verdana" size="42"><b>na na na...</b></font>
+
+191
+00:06:27,650 --> 00:06:30,770
+<font face="Verdana" size="42"><b>la la la...</b></font>
+
+192
+00:06:30,770 --> 00:06:32,260
+<font face="Verdana" size="42"><b>Yay!</b></font>
+
+193
+00:06:32,620 --> 00:06:34,810
+<font face="Verdana" size="42"><b>Thank you very much.</b></font>
+
+194
+00:06:35,010 --> 00:06:36,610
+<font face="Verdana" size="42"><b>Oh, here's the Shiratama part.</b></font>
+
+195
+00:06:38,690 --> 00:06:40,080
+<font face="Verdana" size="42"><b>Do you like Shiratama?</b></font>
+
+196
+00:06:40,120 --> 00:06:42,730
+<font face="Verdana" size="42"><b>I love it! With all its chewy goodness!
+- Ahh~</b></font>
+
+197
+00:06:43,330 --> 00:06:44,880
+<font face="Verdana" size="42"><b>I want to eat it!</b></font>
+
+198
+00:06:44,960 --> 00:06:46,330
+<font face="Verdana" size="42"><b>I want it!</b></font>
+
+199
+00:06:48,120 --> 00:06:49,640
+<font face="Verdana" size="42"><b>It looks just great!</b></font>
+
+200
+00:06:49,640 --> 00:06:51,640
+<font face="Verdana" size="42"><b>This is too good to resist!</b></font>
+
+201
+00:06:52,040 --> 00:06:53,440
+<font face="Verdana" size="42"><b>Thank you for waiting.</b></font>
+
+202
+00:06:53,440 --> 00:06:53,920
+<font face="Verdana" size="42"><b>Let's eat!</b></font>
+
+203
+00:06:53,920 --> 00:06:56,840
+<font face="Verdana" size="42"><b>Have a bite and tell us how it is.
+- Thank you very much.</b></font>
+
+204
+00:06:57,360 --> 00:07:00,250
+<font face="Verdana" size="42"><b>Have a bite and tell us.
+- Please have it.</b></font>
+
+205
+00:07:00,250 --> 00:07:01,160
+<font face="Verdana" size="42"><b>Here I go.</b></font>
+
+206
+00:07:01,170 --> 00:07:02,920
+<font face="Verdana" size="42"><b>Have a bit of the ice cream as well.</b></font>
+
+207
+00:07:04,360 --> 00:07:06,410
+<font face="Verdana" size="42"><b>This is awesome! I'm so happy I won!</b></font>
+
+208
+00:07:06,410 --> 00:07:08,410
+<font face="Verdana" size="42"><b>Eat the ice cream as well.</b></font>
+
+209
+00:07:09,900 --> 00:07:10,700
+<font face="Verdana" size="42"><b>Shiratama...</b></font>
+
+210
+00:07:11,700 --> 00:07:13,370
+<font face="Verdana" size="42"><b>It's Japanesque!</b></font>
+
+211
+00:07:13,370 --> 00:07:14,730
+<font face="Verdana" size="42"><b>"It's Japanesque!" Is it good?</b></font>
+
+212
+00:07:14,730 --> 00:07:16,730
+<font face="Verdana" size="42"><b>Okay then, you can go back to your seat and eat it there.</b></font>
+
+213
+00:07:17,860 --> 00:07:18,940
+<font face="Verdana" size="42"><b>You can't give it to anyone else.</b></font>
+
+214
+00:07:18,940 --> 00:07:20,740
+<font face="Verdana" size="42"><b>Yeah, you can't do that.</b></font>
+
+215
+00:07:20,740 --> 00:07:22,120
+<font face="Verdana" size="42"><b>Don't come here!</b></font>
+
+216
+00:07:22,880 --> 00:07:25,560
+<font face="Verdana" size="42"><b>Next up is Hoshino's insecurity.</b></font>
+
+217
+00:07:25,560 --> 00:07:29,810
+<font face="Verdana" size="42"><b>The guessers are Nishino, Hashimoto, Takayama and Inoue.</b></font>
+
+218
+00:07:30,160 --> 00:07:32,700
+<font face="Verdana" size="42"><b>Are any of you girls confident that you can guess Hoshino's insecurity?</b></font>
+
+219
+00:07:32,700 --> 00:07:35,040
+<font face="Verdana" size="42"><b>I'm very confident!
+- Oh, Hashimoto, you are?</b></font>
+
+220
+00:07:35,040 --> 00:07:37,100
+<font face="Verdana" size="42"><b>I think I might get it in one go.
+- Seriously!?</b></font>
+
+221
+00:07:37,100 --> 00:07:38,180
+<font face="Verdana" size="42"><b>Oh, you have some examples?
+- Stop it!</b></font>
+
+222
+00:07:38,180 --> 00:07:40,490
+<font face="Verdana" size="42"><b>That's fine, you can get it right with your first guess.</b></font>
+
+223
+00:07:40,490 --> 00:07:41,560
+<font face="Verdana" size="42"><b>How about you, Takayama?</b></font>
+
+224
+00:07:41,560 --> 00:07:45,170
+<font face="Verdana" size="42"><b>I think Minami is just too cute, so I have no idea.</b></font>
+
+225
+00:07:45,520 --> 00:07:46,620
+<font face="Verdana" size="42"><b>How about you, Inoue?</b></font>
+
+226
+00:07:46,620 --> 00:07:47,940
+<font face="Verdana" size="42"><b>I have no idea, but I want to eat it!</b></font>
+
+227
+00:07:47,940 --> 00:07:49,400
+<font face="Verdana" size="42"><b>Not confident?
+- Want to eat it, right?</b></font>
+
+228
+00:07:49,400 --> 00:07:49,680
+<font face="Verdana" size="42"><b>Yeah.</b></font>
+
+229
+00:07:49,680 --> 00:07:50,280
+<font face="Verdana" size="42"><b>Nishino?</b></font>
+
+230
+00:07:50,560 --> 00:07:52,100
+<font face="Verdana" size="42"><b>Um... I'm not confident, I think.</b></font>
+
+231
+00:07:52,100 --> 00:07:54,960
+<font face="Verdana" size="42"><b>Then Hashimoto has the advantage.
+- She'll get it right straight away.</b></font>
+
+232
+00:07:54,960 --> 00:07:56,240
+<font face="Verdana" size="42"><b>What? Can I really?
+- Yeah, sure.</b></font>
+
+233
+00:07:57,410 --> 00:08:00,970
+<font face="Verdana" size="42"><b>So what in fact is the hidden insecurity Hoshino has?</b></font>
+
+234
+00:08:01,460 --> 00:08:04,120
+<font face="Verdana" size="42"><b>Hoshino's insecurity. Ready... start!</b></font>
+
+235
+00:08:04,250 --> 00:08:05,580
+<font face="Verdana" size="42"><b>Here we go, Takayama!</b></font>
+
+236
+00:08:05,640 --> 00:08:06,260
+<font face="Verdana" size="42"><b>What? Kazumin?</b></font>
+
+237
+00:08:06,260 --> 00:08:08,860
+<font face="Verdana" size="42"><b>Being told that she doesn't work hard, even though she does.</b></font>
+
+238
+00:08:08,940 --> 00:08:11,140
+<font face="Verdana" size="42"><b>That's wrong.</b></font>
+
+239
+00:08:11,260 --> 00:08:11,940
+<font face="Verdana" size="42"><b>Let's see.</b></font>
+
+240
+00:08:12,570 --> 00:08:13,940
+<font face="Verdana" size="42"><b>Okay, Nishino.</b></font>
+
+241
+00:08:13,940 --> 00:08:15,490
+<font face="Verdana" size="42"><b>The fact that she eats only sweets.</b></font>
+
+242
+00:08:15,730 --> 00:08:17,780
+<font face="Verdana" size="42"><b>Nope.
+- That's not close at all.</b></font>
+
+243
+00:08:18,640 --> 00:08:20,660
+<font face="Verdana" size="42"><b>Oh Hashimoto hasn't had a chance yet. Okay, Inoue!</b></font>
+
+244
+00:08:20,660 --> 00:08:21,610
+<font face="Verdana" size="42"><b>Um...</b></font>
+
+245
+00:08:21,610 --> 00:08:22,820
+<font face="Verdana" size="42"><b>Her face is round!</b></font>
+
+246
+00:08:22,820 --> 00:08:25,260
+<font face="Verdana" size="42"><b>That's so mean!!!</b></font>
+
+247
+00:08:27,010 --> 00:08:27,570
+<font face="Verdana" size="42"><b>That's wrong.</b></font>
+
+248
+00:08:27,570 --> 00:08:28,370
+<font face="Verdana" size="42"><b>Ah, here she comes!</b></font>
+
+249
+00:08:28,370 --> 00:08:30,860
+<font face="Verdana" size="42"><b>Hashimoto, will she get it? You can get it right.
+- No! This is bad!</b></font>
+
+250
+00:08:31,250 --> 00:08:34,100
+<font face="Verdana" size="42"><b>She can't decide on how to arrange her bangs... each day.</b></font>
+
+251
+00:08:34,890 --> 00:08:35,370
+<font face="Verdana" size="42"><b>Oh?</b></font>
+
+252
+00:08:35,370 --> 00:08:37,220
+<font face="Verdana" size="42"><b>Her bangs...?</b></font>
+
+253
+00:08:37,220 --> 00:08:38,610
+<font face="Verdana" size="42"><b>Nice one, that was close.</b></font>
+
+254
+00:08:38,700 --> 00:08:40,690
+<font face="Verdana" size="42"><b>That's in the right direction.</b></font>
+
+255
+00:08:40,690 --> 00:08:42,090
+<font face="Verdana" size="42"><b>Do you know, Shiraishi?</b></font>
+
+256
+00:08:42,160 --> 00:08:43,250
+<font face="Verdana" size="42"><b>We were discussing it just now.</b></font>
+
+257
+00:08:43,250 --> 00:08:44,460
+<font face="Verdana" size="42"><b>Kanarin's got it.</b></font>
+
+258
+00:08:44,460 --> 00:08:47,300
+<font face="Verdana" size="42"><b>If you get it right Shiraishi, I'll give you the ice cream.
+- What!?</b></font>
+
+259
+00:08:47,930 --> 00:08:50,320
+<font face="Verdana" size="42"><b>What? That's no fair! I'm the one that knows.</b></font>
+
+260
+00:08:50,640 --> 00:08:52,770
+<font face="Verdana" size="42"><b>Ah! Inoue responded first.</b></font>
+
+261
+00:08:52,770 --> 00:08:54,090
+<font face="Verdana" size="42"><b>Inoue.
+- Er...</b></font>
+
+262
+00:08:54,090 --> 00:08:56,170
+<font face="Verdana" size="42"><b>Her bangs are...</b></font>
+
+263
+00:08:56,170 --> 00:08:57,400
+<font face="Verdana" size="42"><b>...are thin.</b></font>
+
+264
+00:08:58,810 --> 00:09:00,300
+<font face="Verdana" size="42"><b>That's not it, right?
+- Yep, not it.</b></font>
+
+265
+00:09:00,300 --> 00:09:01,660
+<font face="Verdana" size="42"><b>The last one wasn't bad.</b></font>
+
+266
+00:09:01,720 --> 00:09:02,840
+<font face="Verdana" size="42"><b>Okay, here's Hashimoto.</b></font>
+
+267
+00:09:02,840 --> 00:09:04,840
+<font face="Verdana" size="42"><b>Her bangs easily have gaps.</b></font>
+
+268
+00:09:05,130 --> 00:09:07,220
+<font face="Verdana" size="42"><b>Having gaps... argh! That one's also good!</b></font>
+
+269
+00:09:07,220 --> 00:09:08,400
+<font face="Verdana" size="42"><b>Was that one close?</b></font>
+
+270
+00:09:08,570 --> 00:09:10,730
+<font face="Verdana" size="42"><b>Her bangs get into her eyes.</b></font>
+
+271
+00:09:12,100 --> 00:09:13,020
+<font face="Verdana" size="42"><b>She's annoyed.</b></font>
+
+272
+00:09:13,020 --> 00:09:13,770
+<font face="Verdana" size="42"><b>Nope.</b></font>
+
+273
+00:09:13,770 --> 00:09:14,440
+<font face="Verdana" size="42"><b>Um...</b></font>
+
+274
+00:09:14,840 --> 00:09:15,680
+<font face="Verdana" size="42"><b>Okay, Inoue.</b></font>
+
+275
+00:09:15,720 --> 00:09:17,840
+<font face="Verdana" size="42"><b>Her bangs curl up.</b></font>
+
+276
+00:09:17,840 --> 00:09:19,840
+<font face="Verdana" size="42"><b>Waaa~... which means...?</b></font>
+
+277
+00:09:19,840 --> 00:09:20,780
+<font face="Verdana" size="42"><b>Takayama!</b></font>
+
+278
+00:09:20,780 --> 00:09:21,860
+<font face="Verdana" size="42"><b>Her downy hairs are bothering her.</b></font>
+
+279
+00:09:21,860 --> 00:09:21,860
+<font size="20"><b>{\an5}<font size="30">Correct Answer!</font></b></font>
+
+280
+00:09:21,860 --> 00:09:21,860
+<font size="20"><b>{\an5}<font size="30">Correct Answer!</font></b></font>
+
+281
+00:09:21,860 --> 00:09:21,860
+<font size="20"><b>{\an5}<font size="30"><font color="#caab27">Correct Answer!</font></font></b></font>
+
+282
+00:09:21,860 --> 00:09:21,860
+<font size="20"><b>{\an5}<font size="30"><font color="#e2c93e">Correct Answer!</font></font></b></font>
+
+283
+00:09:21,860 --> 00:09:24,740
+<font size="20"><b>{\an5}<font size="30"><font color="#f1e756">Correct Answer!</font></font></b></font>
+
+284
+00:09:24,740 --> 00:09:26,130
+<font face="Verdana" size="42"><b>That's right!</b></font>
+
+285
+00:09:26,260 --> 00:09:28,260
+<font face="Verdana" size="42"><b>Let's show them what you wrote.</b></font>
+
+286
+00:09:28,320 --> 00:09:30,580
+<font face="Verdana" size="42"><b>In the parting of my hair here... Can you see?</b></font>
+
+287
+00:09:30,580 --> 00:09:31,450
+<font face="Verdana" size="42"><b>Yeah, we can.</b></font>
+
+288
+00:09:31,450 --> 00:09:32,090
+<font face="Verdana" size="42"><b>Oh, that?</b></font>
+
+289
+00:09:32,090 --> 00:09:33,090
+<font face="Verdana" size="42"><b>This, here.
+- Cute!</b></font>
+
+290
+00:09:33,090 --> 00:09:34,570
+<font face="Verdana" size="42"><b>It's long, my downy hair.</b></font>
+
+291
+00:09:34,570 --> 00:09:36,130
+<font face="Verdana" size="42"><b>Ah, I see.</b></font>
+
+292
+00:09:36,130 --> 00:09:36,940
+<font face="Verdana" size="42"><b>Cute.</b></font>
+
+293
+00:09:36,940 --> 00:09:37,980
+<font face="Verdana" size="42"><b>That is cute.</b></font>
+
+294
+00:09:37,980 --> 00:09:40,180
+<font face="Verdana" size="42"><b>But because this is what is bothering her...</b></font>
+
+295
+00:09:40,210 --> 00:09:43,210
+<font face="Verdana" size="42"><b>...Takayama guessed correctly!</b></font>
+
+296
+00:09:43,210 --> 00:09:43,210
+<font size="20"><b>{\an5}<font size="30">Prize Obtained!!</font></b></font>
+
+297
+00:09:43,210 --> 00:09:43,210
+<font size="20"><b>{\an5}<font size="30">Prize Obtained!!</font></b></font>
+
+298
+00:09:43,210 --> 00:09:43,210
+<font size="20"><b>{\an5}<font size="30">Prize Obtained!!</font></b></font>
+
+299
+00:09:43,210 --> 00:09:43,210
+<font size="20"><b>{\an5}<font size="30"><font color="#caab27">Prize Obtained!!</font></font></b></font>
+
+300
+00:09:43,210 --> 00:09:43,210
+<font size="20"><b>{\an5}<font size="30"><font color="#e2c93e">Prize Obtained!!</font></font></b></font>
+
+301
+00:09:43,210 --> 00:09:43,210
+<font size="20"><b>{\an5}<font size="30"><font color="#f1e756">Prize Obtained!!</font></font></b></font>
+
+302
+00:09:43,210 --> 00:09:44,010
+<font size="20"><b>{\an5}<font size="30"><font color="#f6f25e">Prize Obtained!!</font></font></b></font>
+
+303
+00:09:44,010 --> 00:09:45,170
+<font face="Verdana" size="42"><b>Takayama, over here.</b></font>
+
+304
+00:09:46,260 --> 00:09:49,660
+<font face="Verdana" size="42"><b>Takayama selected the Strawberry Short Cake Serenade.</b></font>
+
+305
+00:09:50,050 --> 00:09:50,940
+<font face="Verdana" size="42"><b>That looks so good!</b></font>
+
+306
+00:09:50,940 --> 00:09:51,880
+<font face="Verdana" size="42"><b>Here I go.</b></font>
+
+307
+00:09:53,940 --> 00:09:54,690
+<font face="Verdana" size="42"><b>How is it?</b></font>
+
+308
+00:09:57,540 --> 00:09:59,020
+<font face="Verdana" size="42"><b>So GOOT!</b></font>
+
+309
+00:09:59,640 --> 00:10:00,680
+<font face="Verdana" size="42"><b>It's good!</b></font>
+
+310
+00:10:00,920 --> 00:10:02,680
+<font face="Verdana" size="42"><b>What did she say?
+- What does she want to say?</b></font>
+
+311
+00:10:02,680 --> 00:10:03,610
+<font face="Verdana" size="42"><b>This is good!</b></font>
+
+312
+00:10:03,610 --> 00:10:04,740
+<font face="Verdana" size="42"><b>"This is good!"</b></font>
+
+313
+00:10:06,040 --> 00:10:08,640
+<font face="Verdana" size="42"><b>Next up we have Ikoma's insecurity.</b></font>
+
+314
+00:10:08,640 --> 00:10:12,660
+<font face="Verdana" size="42"><b>The guessers are Hoshino, Sakurai, Shiraishi and Wakatsuki.</b></font>
+
+315
+00:10:13,080 --> 00:10:15,280
+<font face="Verdana" size="42"><b>Ikoma's insecurity. Please guess it. Start!</b></font>
+
+316
+00:10:16,180 --> 00:10:18,170
+<font face="Verdana" size="42"><b>The shape of her eyebrows differs from each other.</b></font>
+
+317
+00:10:18,640 --> 00:10:19,450
+<font face="Verdana" size="42"><b>Nope.
+- Oh, it's not?</b></font>
+
+318
+00:10:19,450 --> 00:10:20,090
+<font face="Verdana" size="42"><b>What?</b></font>
+
+319
+00:10:21,650 --> 00:10:24,620
+<font face="Verdana" size="42"><b>When she wakes up, she looks like a Sunday dad.</b></font>
+
+320
+00:10:24,770 --> 00:10:25,780
+<font face="Verdana" size="42"><b>What do you mean?</b></font>
+
+321
+00:10:25,800 --> 00:10:30,720
+<font face="Verdana" size="42"><b>I meet her in the morning before she applies her make-up, and she has ruffled hair with glasses on.</b></font>
+
+322
+00:10:30,720 --> 00:10:32,730
+<font face="Verdana" size="42"><b>Which really looks like a Sunday dad.</b></font>
+
+323
+00:10:32,730 --> 00:10:34,300
+<font face="Verdana" size="42"><b>It's not good because she looks like a dad?</b></font>
+
+324
+00:10:34,300 --> 00:10:35,290
+<font face="Verdana" size="42"><b>Yeah, not good.
+- That's wrong.</b></font>
+
+325
+00:10:35,290 --> 00:10:36,140
+<font face="Verdana" size="42"><b>Here we go!</b></font>
+
+326
+00:10:36,140 --> 00:10:39,220
+<font face="Verdana" size="42"><b>The sizes of her pupils are different from each other.</b></font>
+
+327
+00:10:41,060 --> 00:10:42,490
+<font face="Verdana" size="42"><b>That's a bit freaky.</b></font>
+
+328
+00:10:42,730 --> 00:10:43,800
+<font face="Verdana" size="42"><b>What?</b></font>
+
+329
+00:10:43,800 --> 00:10:45,180
+<font face="Verdana" size="42"><b>Wait, what is it?</b></font>
+
+330
+00:10:45,420 --> 00:10:46,610
+<font face="Verdana" size="42"><b>The size of her eyes are different from each other.</b></font>
+
+331
+00:10:46,610 --> 00:10:46,610
+<font size="20"><b>{\an5}<font size="30">Correct Answer!</font></b></font>
+
+332
+00:10:46,610 --> 00:10:46,610
+<font size="20"><b>{\an5}<font size="30">Correct Answer!</font></b></font>
+
+333
+00:10:46,610 --> 00:10:46,610
+<font size="20"><b>{\an5}<font size="30"><font color="#caab27">Correct Answer!</font></font></b></font>
+
+334
+00:10:46,610 --> 00:10:46,610
+<font size="20"><b>{\an5}<font size="30"><font color="#e2c93e">Correct Answer!</font></font></b></font>
+
+335
+00:10:46,610 --> 00:10:46,610
+<font size="20"><b>{\an5}<font size="30"><font color="#f1e756">Correct Answer!</font></font></b></font>
+
+336
+00:10:46,610 --> 00:10:47,260
+<font size="20"><b>{\an5}<font size="30"><font color="#f6f25e">Correct Answer!</font></font></b></font>
+
+337
+00:10:47,260 --> 00:10:48,040
+<font face="Verdana" size="42"><b>You've got it!</b></font>
+
+338
+00:10:48,040 --> 00:10:49,340
+<font face="Verdana" size="42"><b>OMG!</b></font>
+
+339
+00:10:49,810 --> 00:10:51,100
+<font size="30"><b>{\an8}[The sizes of my eyes are different]</b></font>
+
+340
+00:10:51,100 --> 00:10:52,290
+<font face="Verdana" size="42"><b>They're the same!</b></font>
+
+341
+00:10:52,290 --> 00:10:55,610
+<font face="Verdana" size="42"><b>But, they're not different at all.
+- Yeah, they're the same.</b></font>
+
+342
+00:10:55,620 --> 00:10:57,780
+<font face="Verdana" size="42"><b>They're the same!</b></font>
+
+343
+00:10:57,780 --> 00:11:00,320
+<font face="Verdana" size="42"><b>So we can't see it.
+- Why don't we ask?</b></font>
+
+344
+00:11:00,320 --> 00:11:02,160
+<font face="Verdana" size="42"><b>Do you really think that?</b></font>
+
+345
+00:11:02,160 --> 00:11:03,480
+<font face="Verdana" size="42"><b>I don't see it at all.</b></font>
+
+346
+00:11:03,560 --> 00:11:04,820
+<font face="Verdana" size="42"><b>No, well first off...</b></font>
+
+347
+00:11:05,000 --> 00:11:07,700
+<font face="Verdana" size="42"><b>Whenever I look, one looks bigger...</b></font>
+
+348
+00:11:07,720 --> 00:11:10,620
+<font face="Verdana" size="42"><b>The gap in my double eyelids are also completely different.</b></font>
+
+349
+00:11:10,620 --> 00:11:11,740
+<font face="Verdana" size="42"><b>Yeah.
+- What?</b></font>
+
+350
+00:11:12,260 --> 00:11:15,410
+<font face="Verdana" size="42"><b>But the faces of humans are generally asymmetric, right?
+- Yeah.</b></font>
+
+351
+00:11:15,410 --> 00:11:19,480
+<font face="Verdana" size="42"><b>But these parts here are really gross.</b></font>
+
+352
+00:11:19,480 --> 00:11:21,130
+<font face="Verdana" size="42"><b>It's not at all.</b></font>
+
+353
+00:11:21,130 --> 00:11:21,920
+<font face="Verdana" size="42"><b>I'm jealous of it.</b></font>
+
+354
+00:11:21,920 --> 00:11:23,810
+<font face="Verdana" size="42"><b>My face is what I'm insecure about.</b></font>
+
+355
+00:11:23,810 --> 00:11:25,540
+<font face="Verdana" size="42"><b>Even though you're this cute!?</b></font>
+
+356
+00:11:26,200 --> 00:11:26,680
+<font face="Verdana" size="42"><b>Right?</b></font>
+
+357
+00:11:26,680 --> 00:11:27,180
+<font face="Verdana" size="42"><b>You're cute!</b></font>
+
+358
+00:11:27,180 --> 00:11:29,930
+<font face="Verdana" size="42"><b>Makes me want to just grab and throw her!</b></font>
+
+359
+00:11:30,120 --> 00:11:34,000
+<font face="Verdana" size="42"><b>Can we have everyone else return to their seats?
+- Ah, I want some!</b></font>
+
+360
+00:11:34,280 --> 00:11:37,010
+<font face="Verdana" size="42"><b>I'll go with the Chocolate Devotion!</b></font>
+
+361
+00:11:37,560 --> 00:11:39,010
+<font face="Verdana" size="42"><b>I want some!</b></font>
+
+362
+00:11:39,320 --> 00:11:49,820
+<font size="30"><b>{\an8}[T/N: This is also sung when buying 
+ice cream from Cold Stone.]</b></font>
+
+363
+00:11:50,810 --> 00:11:51,850
+<font face="Verdana" size="42"><b>Looks good!</b></font>
+
+364
+00:11:56,640 --> 00:11:57,010
+<font face="Verdana" size="42"><b>Oi!</b></font>
+
+365
+00:11:57,010 --> 00:11:57,700
+<font face="Verdana" size="34"><b>{\an5}She hasn't finished commenting, you know!</b></font>
+
+366
+00:11:57,700 --> 00:11:58,610
+<font face="Verdana" size="42"><b>Oi!</b></font>
+
+367
+00:11:58,610 --> 00:12:01,240
+<font face="Verdana" size="42"><b>Wakatsuki is giving her impressions about the dessert.</b></font>
+
+368
+00:12:01,240 --> 00:12:02,890
+<font face="Verdana" size="42"><b>With the worst possible timing.
+- Kazumin!</b></font>
+
+369
+00:12:03,640 --> 00:12:04,890
+<font face="Verdana" size="42"><b>You're the worst.</b></font>
+
+370
+00:12:04,890 --> 00:12:06,850
+<font face="Verdana" size="42"><b>You had to do it at the best part...</b></font>
+
+371
+00:12:06,850 --> 00:12:09,450
+<font face="Verdana" size="42"><b>Okay, Wakatsuki, have a bit and tell us what you think.
+- Okay.</b></font>
+
+372
+00:12:14,880 --> 00:12:16,500
+<font face="Verdana" size="42"><b>I'm sorry.</b></font>
+
+373
+00:12:17,640 --> 00:12:20,120
+<font face="Verdana" size="42"><b>Next we have Nishino's insecurity.</b></font>
+
+374
+00:12:20,120 --> 00:12:24,320
+<font face="Verdana" size="42"><b>And for the guessers we have Ito Marika, Fukagawa, Takayama and Nakada.</b></font>
+
+375
+00:12:24,680 --> 00:12:27,480
+<font face="Verdana" size="42"><b>Nishino's insecurity. Guess it right! Start!
+- Let's go!</b></font>
+
+376
+00:12:27,660 --> 00:12:28,680
+<font face="Verdana" size="42"><b>Push the button!</b></font>
+
+377
+00:12:28,680 --> 00:12:30,520
+<font face="Verdana" size="42"><b>Go for it!
+- I have no idea.</b></font>
+
+378
+00:12:30,700 --> 00:12:31,930
+<font face="Verdana" size="42"><b>If you say it, you'll win... Okay!</b></font>
+
+379
+00:12:31,930 --> 00:12:32,770
+<font face="Verdana" size="42"><b>Here we have Takayama!</b></font>
+
+380
+00:12:32,770 --> 00:12:34,570
+<font face="Verdana" size="42"><b>The fact that she cries very easily.</b></font>
+
+381
+00:12:34,780 --> 00:12:36,370
+<font face="Verdana" size="42"><b>Cries very easily....</b></font>
+
+382
+00:12:36,370 --> 00:12:37,290
+<font face="Verdana" size="42"><b>Wrong.</b></font>
+
+383
+00:12:37,290 --> 00:12:37,720
+<font face="Verdana" size="42"><b>What is it?</b></font>
+
+384
+00:12:37,720 --> 00:12:38,940
+<font face="Verdana" size="42"><b>Okay, Ito Marika.</b></font>
+
+385
+00:12:38,940 --> 00:12:40,760
+<font face="Verdana" size="42"><b>Being shy?</b></font>
+
+386
+00:12:42,500 --> 00:12:43,120
+<font face="Verdana" size="42"><b>Here's Takayama.</b></font>
+
+387
+00:12:43,120 --> 00:12:46,370
+<font face="Verdana" size="42"><b>When she smiles she gets dimples here on both sides.</b></font>
+
+388
+00:12:46,370 --> 00:12:47,320
+<font face="Verdana" size="42"><b>But isn't that cute?</b></font>
+
+389
+00:12:47,420 --> 00:12:48,180
+<font face="Verdana" size="42"><b>That's cute!</b></font>
+
+390
+00:12:48,180 --> 00:12:49,810
+<font face="Verdana" size="42"><b>She has it on both sides.</b></font>
+
+391
+00:12:49,810 --> 00:12:52,620
+<font face="Verdana" size="42"><b>Hint: it has nothing to do with her appearance.
+- What?</b></font>
+
+392
+00:12:52,930 --> 00:12:53,690
+<font face="Verdana" size="42"><b>What is it?</b></font>
+
+393
+00:12:53,690 --> 00:12:54,400
+<font face="Verdana" size="42"><b>Okay.</b></font>
+
+394
+00:12:54,900 --> 00:12:57,160
+<font face="Verdana" size="42"><b>Body odour?
+- What!?</b></font>
+
+395
+00:12:57,160 --> 00:12:59,460
+<font face="Verdana" size="42"><b>What is it about her body odour?
+- She has none.</b></font>
+
+396
+00:12:59,460 --> 00:12:59,510
+<font face="Verdana" size="42"><b>What's with her body odour?</b></font>
+
+397
+00:12:59,510 --> 00:13:01,840
+<font face="Verdana" size="34"><b>{\an5}Please don't just say whatever pops into your head.</b></font>
+
+398
+00:13:01,840 --> 00:13:03,320
+<font face="Verdana" size="42"><b>Oh, nothing, nothing.</b></font>
+
+399
+00:13:03,340 --> 00:13:03,810
+<font face="Verdana" size="42"><b>Yeah, but...</b></font>
+
+400
+00:13:03,860 --> 00:13:04,760
+<font face="Verdana" size="42"><b>What? I didn't say anything.</b></font>
+
+401
+00:13:04,760 --> 00:13:05,240
+<font face="Verdana" size="42"><b>But her body odour?</b></font>
+
+402
+00:13:05,240 --> 00:13:06,480
+<font face="Verdana" size="42"><b>Uh, nothing at all.</b></font>
+
+403
+00:13:06,730 --> 00:13:09,140
+<font face="Verdana" size="42"><b>Please don't push it down yourself.
+- Ah, I'm sorry.</b></font>
+
+404
+00:13:09,250 --> 00:13:10,370
+<font face="Verdana" size="42"><b>Hint:</b></font>
+
+405
+00:13:10,370 --> 00:13:12,080
+<font face="Verdana" size="42"><b>Hint: When she speaks...</b></font>
+
+406
+00:13:12,860 --> 00:13:14,080
+<font face="Verdana" size="42"><b>Okay, Takayama.</b></font>
+
+407
+00:13:14,140 --> 00:13:16,530
+<font face="Verdana" size="42"><b>She seems quiet, but...</b></font>
+
+408
+00:13:16,530 --> 00:13:18,370
+<font face="Verdana" size="42"><b>...but she really is funny...</b></font>
+
+409
+00:13:18,370 --> 00:13:20,200
+<font face="Verdana" size="42"><b>...and people don't get that.</b></font>
+
+410
+00:13:20,200 --> 00:13:21,680
+<font face="Verdana" size="42"><b>Too long!!</b></font>
+
+411
+00:13:22,700 --> 00:13:26,860
+<font face="Verdana" size="42"><b>If no one guesses correctly, there won't be any ice cream given.
+- No!</b></font>
+
+412
+00:13:27,080 --> 00:13:27,960
+<font face="Verdana" size="42"><b>Good luck!</b></font>
+
+413
+00:13:27,960 --> 00:13:29,220
+<font face="Verdana" size="42"><b>When she speaks...</b></font>
+
+414
+00:13:29,370 --> 00:13:30,340
+<font face="Verdana" size="42"><b>Here's Nakada.</b></font>
+
+415
+00:13:30,340 --> 00:13:33,450
+<font face="Verdana" size="42"><b>She speaks differently, like when she blogs and other times...</b></font>
+
+416
+00:13:34,340 --> 00:13:35,170
+<font face="Verdana" size="42"><b>That's not it.</b></font>
+
+417
+00:13:36,080 --> 00:13:37,820
+<font face="Verdana" size="42"><b>She speaks with a lisp.</b></font>
+
+418
+00:13:38,930 --> 00:13:40,080
+<font face="Verdana" size="42"><b>Not bad.</b></font>
+
+419
+00:13:40,080 --> 00:13:41,100
+<font face="Verdana" size="42"><b>Not a bad guess.</b></font>
+
+420
+00:13:41,100 --> 00:13:42,860
+<font face="Verdana" size="42"><b>She can't speak very clearly.</b></font>
+
+421
+00:13:42,860 --> 00:13:44,860
+<font face="Verdana" size="42"><b>Ah, not bad.
+- What?</b></font>
+
+422
+00:13:44,860 --> 00:13:45,650
+<font face="Verdana" size="42"><b>What is it?</b></font>
+
+423
+00:13:46,240 --> 00:13:46,880
+<font face="Verdana" size="42"><b>Go ahead.</b></font>
+
+424
+00:13:46,880 --> 00:13:49,060
+<font face="Verdana" size="42"><b>She speaks with an Osaka accent?</b></font>
+
+425
+00:13:49,100 --> 00:13:50,600
+<font face="Verdana" size="42"><b>Ah! You've gone colder, I think.</b></font>
+
+426
+00:13:52,050 --> 00:13:52,980
+<font face="Verdana" size="42"><b>Okay, Takayama.</b></font>
+
+427
+00:13:52,980 --> 00:13:55,610
+<font face="Verdana" size="42"><b>She can't say the things she wants to.</b></font>
+
+428
+00:13:56,020 --> 00:13:56,810
+<font face="Verdana" size="42"><b>That's wrong.
+- What?</b></font>
+
+429
+00:13:56,810 --> 00:13:59,780
+<font face="Verdana" size="42"><b>When she speaks, her mouth...</b></font>
+
+430
+00:13:59,780 --> 00:14:01,480
+<font face="Verdana" size="42"><b>When she speaks, her mouth...</b></font>
+
+431
+00:14:01,480 --> 00:14:02,090
+<font face="Verdana" size="42"><b>Takayama.</b></font>
+
+432
+00:14:02,090 --> 00:14:04,360
+<font face="Verdana" size="42"><b>When she speaks, her mouth gets dry.</b></font>
+
+433
+00:14:05,620 --> 00:14:06,720
+<font face="Verdana" size="42"><b>What!?
+- Nope.</b></font>
+
+434
+00:14:07,490 --> 00:14:08,640
+<font face="Verdana" size="42"><b>Okay, Fukagawa.</b></font>
+
+435
+00:14:08,640 --> 00:14:12,040
+<font face="Verdana" size="42"><b>Her mouth stays small when she speaks?</b></font>
+
+436
+00:14:12,200 --> 00:14:13,200
+<font face="Verdana" size="42"><b>Which means?</b></font>
+
+437
+00:14:13,730 --> 00:14:14,540
+<font face="Verdana" size="42"><b>Time's up!</b></font>
+
+438
+00:14:17,010 --> 00:14:17,640
+<font face="Verdana" size="42"><b>I want to eat some!</b></font>
+
+439
+00:14:17,640 --> 00:14:18,970
+<font face="Verdana" size="42"><b>Time's up!</b></font>
+
+440
+00:14:19,160 --> 00:14:19,810
+<font face="Verdana" size="42"><b>I had no idea.</b></font>
+
+441
+00:14:19,810 --> 00:14:21,100
+<font face="Verdana" size="42"><b>Okay, here's the answer.</b></font>
+
+442
+00:14:21,100 --> 00:14:23,720
+<font face="Verdana" size="42"><b>When I speak, my mouth doesn't move.
+- Yeah.</b></font>
+
+443
+00:14:24,180 --> 00:14:25,720
+<font face="Verdana" size="42"><b>What!?</b></font>
+
+444
+00:14:25,720 --> 00:14:28,840
+<font face="Verdana" size="42"><b>You really think that? I really don't think that's the case, though.
+- No...</b></font>
+
+445
+00:14:29,080 --> 00:14:31,620
+<font face="Verdana" size="42"><b>Whenever I see myself on TV...
+- Her mouth is moving.</b></font>
+
+446
+00:14:31,620 --> 00:14:34,410
+<font face="Verdana" size="42"><b>...the shape of my mouth doesn't change.</b></font>
+
+447
+00:14:34,970 --> 00:14:37,900
+<font face="Verdana" size="42"><b>And... like with Ikuchan, her mouth goes like...</b></font>
+
+448
+00:14:37,900 --> 00:14:39,140
+<font face="Verdana" size="42"><b>It moves quite a bit, right?
+- Yeah.</b></font>
+
+449
+00:14:39,140 --> 00:14:42,820
+<font face="Verdana" size="42"><b>My mouth always stays horizontal.
+- Oh, now that you mention it.</b></font>
+
+450
+00:14:42,820 --> 00:14:44,090
+<font face="Verdana" size="42"><b>And I really don't like that.</b></font>
+
+451
+00:14:44,090 --> 00:14:46,860
+<font face="Verdana" size="42"><b>But that's fine.
+- Yeah, shouldn't be worrying about that.</b></font>
+
+452
+00:14:47,820 --> 00:14:50,330
+<font face="Verdana" size="42"><b>Next we have Hashimoto's insecurity.</b></font>
+
+453
+00:14:50,330 --> 00:14:54,730
+<font face="Verdana" size="42"><b>The guessers are Fukagawa, Matsumura, Shiraishi and Hoshino.</b></font>
+
+454
+00:14:55,010 --> 00:14:58,060
+<font face="Verdana" size="42"><b>Do the participants have any thoughts? Any confident ones?</b></font>
+
+455
+00:14:58,980 --> 00:15:02,170
+<font face="Verdana" size="42"><b>Well, she's seems like one with a mature insecurity.
+- Oh, yeah.</b></font>
+
+456
+00:15:02,360 --> 00:15:03,520
+<font face="Verdana" size="42"><b>It's written down.
+- Okay!</b></font>
+
+457
+00:15:03,650 --> 00:15:06,980
+<font face="Verdana" size="42"><b>Please show it to just us.</b></font>
+
+458
+00:15:07,160 --> 00:15:08,880
+<font face="Verdana" size="42"><b>I see...</b></font>
+
+459
+00:15:08,880 --> 00:15:10,690
+<font face="Verdana" size="42"><b>I wonder what it is.</b></font>
+
+460
+00:15:10,690 --> 00:15:13,580
+<font face="Verdana" size="42"><b>I see. It has to do with her appearance.
+- Appearance?</b></font>
+
+461
+00:15:14,340 --> 00:15:18,360
+<font face="Verdana" size="42"><b>Let's get rolling. What's Hashimoto's insecurity? Quiz, start!</b></font>
+
+462
+00:15:19,100 --> 00:15:20,360
+<font face="Verdana" size="42"><b>Here we have Matsumura.</b></font>
+
+463
+00:15:20,500 --> 00:15:23,090
+<font face="Verdana" size="42"><b>Her make-up looks gaudy.</b></font>
+
+464
+00:15:23,940 --> 00:15:25,380
+<font face="Verdana" size="42"><b>Really?</b></font>
+
+465
+00:15:25,380 --> 00:15:26,460
+<font face="Verdana" size="42"><b>She always says that.</b></font>
+
+466
+00:15:26,460 --> 00:15:27,620
+<font face="Verdana" size="42"><b>Okay, Shiraishi.</b></font>
+
+467
+00:15:27,620 --> 00:15:30,040
+<font face="Verdana" size="42"><b>Her posture being too perfect?</b></font>
+
+468
+00:15:30,800 --> 00:15:32,480
+<font face="Verdana" size="42"><b>But that's a good thing, right?</b></font>
+
+469
+00:15:32,480 --> 00:15:33,570
+<font face="Verdana" size="42"><b>She doesn't seem to think so.</b></font>
+
+470
+00:15:33,570 --> 00:15:34,120
+<font face="Verdana" size="42"><b>Fukagawa.</b></font>
+
+471
+00:15:34,120 --> 00:15:36,530
+<font face="Verdana" size="42"><b>She has a very prominent nose.</b></font>
+
+472
+00:15:36,530 --> 00:15:36,530
+<font size="20"><b>{\an5}<font size="30">Correct Answer!</font></b></font>
+
+473
+00:15:36,530 --> 00:15:36,530
+<font size="20"><b>{\an5}<font size="30">Correct Answer!</font></b></font>
+
+474
+00:15:36,530 --> 00:15:36,530
+<font size="20"><b>{\an5}<font size="30"><font color="#caab27">Correct Answer!</font></font></b></font>
+
+475
+00:15:36,530 --> 00:15:36,530
+<font size="20"><b>{\an5}<font size="30"><font color="#e2c93e">Correct Answer!</font></font></b></font>
+
+476
+00:15:36,530 --> 00:15:39,870
+<font size="20"><b>{\an5}<font size="30"><font color="#f1e756">Correct Answer!</font></font></b></font>
+
+477
+00:15:39,880 --> 00:15:41,290
+<font face="Verdana" size="42"><b>What!? No way!</b></font>
+
+478
+00:15:41,290 --> 00:15:42,800
+<font face="Verdana" size="42"><b>It's fine, though.</b></font>
+
+479
+00:15:42,980 --> 00:15:45,300
+<font face="Verdana" size="42"><b>She has a prominent nose.
+- In what way!?</b></font>
+
+480
+00:15:45,780 --> 00:15:47,340
+<font face="Verdana" size="42"><b>It's perfectly fine!</b></font>
+
+481
+00:15:47,360 --> 00:15:48,200
+<font face="Verdana" size="42"><b>I'm jealous of it!</b></font>
+
+482
+00:15:48,200 --> 00:15:51,330
+<font face="Verdana" size="42"><b>It's way too big compared to my face.</b></font>
+
+483
+00:15:51,330 --> 00:15:52,210
+<font face="Verdana" size="42"><b>Your nose?
+- My nose.</b></font>
+
+484
+00:15:52,210 --> 00:15:55,840
+<font face="Verdana" size="42"><b>There's nothing wrong with having a prominent nose, right?
+- Yeah.</b></font>
+
+485
+00:15:55,840 --> 00:15:59,860
+<font face="Verdana" size="42"><b>The size of everyone else's nose perfectly matches their face.</b></font>
+
+486
+00:15:59,960 --> 00:16:02,850
+<font face="Verdana" size="42"><b>Oh she does say a lot about people's noses.</b></font>
+
+487
+00:16:02,850 --> 00:16:04,360
+<font face="Verdana" size="42"><b>Like, "You have a nicely shaped nose."
+- Yeah.</b></font>
+
+488
+00:16:04,360 --> 00:16:07,140
+<font face="Verdana" size="42"><b>Well, I can't tell. I think it's perfetly fine.</b></font>
+
+489
+00:16:07,140 --> 00:16:08,650
+<font face="Verdana" size="42"><b>Her nose is real cute.</b></font>
+
+490
+00:16:08,890 --> 00:16:12,160
+<font face="Verdana" size="42"><b>But it seems that when you put make-up on you end up looking gaudy, right?</b></font>
+
+491
+00:16:12,650 --> 00:16:13,320
+<font face="Verdana" size="42"><b>No, no!</b></font>
+
+492
+00:16:13,330 --> 00:16:15,340
+<font face="Verdana" size="42"><b>Yeah, that's why my make-up today is light.</b></font>
+
+493
+00:16:15,340 --> 00:16:18,300
+<font face="Verdana" size="42"><b>Really? But you do seem gaudy, was what someone said, right?</b></font>
+
+494
+00:16:18,300 --> 00:16:20,280
+<font face="Verdana" size="42"><b>No, that's not true!</b></font>
+
+495
+00:16:20,280 --> 00:16:21,730
+<font face="Verdana" size="42"><b>It wasn't me!</b></font>
+
+496
+00:16:21,730 --> 00:16:21,940
+<font face="Verdana" size="42"><b>"It wasn't me?</b></font>
+
+497
+00:16:21,940 --> 00:16:23,720
+<font face="Verdana" size="34"><b>{\an5}It was you.</b></font>
+
+498
+00:16:23,720 --> 00:16:26,100
+<font face="Verdana" size="42"><b>Okay, Fukugawa got it right.
+- Yes.</b></font>
+
+499
+00:16:26,100 --> 00:16:28,810
+<font face="Verdana" size="42"><b>Please go receive your reward.
+- Ah, so lucky.</b></font>
+
+500
+00:16:28,940 --> 00:16:31,820
+<font face="Verdana" size="42"><b>Can the others please return to their seats?</b></font>
+
+501
+00:16:32,180 --> 00:16:33,820
+<font face="Verdana" size="42"><b>The arrangement of her teeth!</b></font>
+
+502
+00:16:34,180 --> 00:16:35,320
+<font face="Verdana" size="42"><b>Whaaat?</b></font>
+
+503
+00:16:35,620 --> 00:16:39,890
+<font face="Verdana" size="42"><b>Coming up... The members say all they have to say to Takayama!!</b></font>
+
+504
+00:16:39,930 --> 00:16:39,930
+<font size="20"><b>{\an5}<font color="#21eafe">m 0 0 l 180 0 l 180 27 l 0 27</font></b></font>
+
+505
+00:16:39,930 --> 00:16:39,930
+<font size="20"><b>{\an5}<font face="Times New Roman"><font size="28"><font color="#000000">Ikoma Rina</font></font></font></b></font>
+
+506
+00:16:39,930 --> 00:16:39,930
+<font size="20"><b>{\an5}<font color="#21eafe">m 0 0 l 225 0 l 225 27 l 0 27</font></b></font>
+
+507
+00:16:39,930 --> 00:16:39,930
+<font size="20"><b>{\an5}<font face="Times New Roman"><font size="28"><font color="#000000">Matsumura Sayuri</font></font></font></b></font>
+
+508
+00:16:39,930 --> 00:16:39,930
+<font size="20"><b>{\an5}<font color="#21eafe">m 0 0 l 200 0 l 200 27 l 0 27</font></b></font>
+
+509
+00:16:39,930 --> 00:16:39,930
+<font size="20"><b>{\an5}<font face="Times New Roman"><font size="28"><font color="#000000">Shiraishi Mai</font></font></font></b></font>
+
+510
+00:16:39,930 --> 00:16:39,930
+<font size="20"><b>{\an5}<font color="#21eafe">m 0 0 l 180 0 l 180 27 l 0 27</font></b></font>
+
+511
+00:16:39,930 --> 00:16:41,580
+<font size="20"><b>{\an5}<font face="Times New Roman"><font size="28"><font color="#000000">Sakurai Reika</font></font></font></b></font>
+
+512
+00:16:41,580 --> 00:16:45,280
+<font face="Verdana" size="42"><b>Quiz on insecurities. For the last one we have Takayama.</b></font>
+
+513
+00:16:45,280 --> 00:16:47,880
+<font face="Verdana" size="42"><b>And we have these 4 members as the guessers.</b></font>
+
+514
+00:16:48,360 --> 00:16:52,410
+<font face="Verdana" size="42"><b>Okay, time for the quiz on Takayama's insecurity. Start!</b></font>
+
+515
+00:16:53,450 --> 00:16:54,570
+<font face="Verdana" size="42"><b>Oh, here's Matsumura.</b></font>
+
+516
+00:16:54,730 --> 00:16:58,680
+<font face="Verdana" size="42"><b>Up until now she believed that she was fair-skinned, but Maiyan is in fact the fair-skinned one.</b></font>
+
+517
+00:16:59,810 --> 00:17:02,580
+<font face="Verdana" size="42"><b>That's a good one.</b></font>
+
+518
+00:17:02,650 --> 00:17:03,860
+<font face="Verdana" size="42"><b>Her ability to speak clearly.</b></font>
+
+519
+00:17:03,860 --> 00:17:05,290
+<font face="Verdana" size="42"><b>Is bad?
+- Yeah.</b></font>
+
+520
+00:17:05,740 --> 00:17:06,280
+<font face="Verdana" size="42"><b>Nope.</b></font>
+
+521
+00:17:06,280 --> 00:17:07,280
+<font face="Verdana" size="42"><b>That is true.</b></font>
+
+522
+00:17:07,280 --> 00:17:08,200
+<font face="Verdana" size="42"><b>Okay, Shiraishi.</b></font>
+
+523
+00:17:08,200 --> 00:17:09,680
+<font face="Verdana" size="42"><b>Square shoulders.</b></font>
+
+524
+00:17:09,680 --> 00:17:11,210
+<font face="Verdana" size="42"><b>That too is true.</b></font>
+
+525
+00:17:13,380 --> 00:17:14,770
+<font face="Verdana" size="42"><b>Okay, Matsumura.</b></font>
+
+526
+00:17:14,940 --> 00:17:17,780
+<font face="Verdana" size="42"><b>She has a hard time preparing her bangs.</b></font>
+
+527
+00:17:17,810 --> 00:17:19,460
+<font face="Verdana" size="42"><b>Ah, that's not it.</b></font>
+
+528
+00:17:20,300 --> 00:17:21,600
+<font face="Verdana" size="42"><b>Will Sakurai have a chance?</b></font>
+
+529
+00:17:21,600 --> 00:17:22,400
+<font face="Verdana" size="42"><b>Ah, here she is.</b></font>
+
+530
+00:17:22,400 --> 00:17:24,500
+<font face="Verdana" size="42"><b>Her eyes being small.</b></font>
+
+531
+00:17:24,500 --> 00:17:25,850
+<font face="Verdana" size="42"><b>"Her eyes being small."</b></font>
+
+532
+00:17:25,850 --> 00:17:26,200
+<font face="Verdana" size="42"><b>Okay.</b></font>
+
+533
+00:17:26,200 --> 00:17:28,640
+<font face="Verdana" size="42"><b>She has thin-shaped eyes.
+- Thin-shaped eyes.</b></font>
+
+534
+00:17:28,640 --> 00:17:29,690
+<font face="Verdana" size="42"><b>Oh, but...</b></font>
+
+535
+00:17:29,880 --> 00:17:31,800
+<font face="Verdana" size="42"><b>Yes?
+- Is it with her eyes?</b></font>
+
+536
+00:17:31,800 --> 00:17:32,530
+<font face="Verdana" size="42"><b>Huh?</b></font>
+
+537
+00:17:32,530 --> 00:17:33,290
+<font face="Verdana" size="42"><b>What about her eyes?</b></font>
+
+538
+00:17:33,290 --> 00:17:34,730
+<font face="Verdana" size="42"><b>Her eyes...
+- Her eyes...</b></font>
+
+539
+00:17:34,730 --> 00:17:38,740
+<font face="Verdana" size="42"><b>Her eyes... are kinda intense-looking.
+- Her eyes are intense-looking.</b></font>
+
+540
+00:17:40,660 --> 00:17:42,860
+<font face="Verdana" size="42"><b>The fact that she has double eyelids.
+- Double eyelids!</b></font>
+
+541
+00:17:42,860 --> 00:17:45,690
+<font face="Verdana" size="42"><b>Sorry, but it has nothing to with her eyes.
+- What? No way!</b></font>
+
+542
+00:17:45,700 --> 00:17:47,140
+<font face="Verdana" size="42"><b>Not her eyes.</b></font>
+
+543
+00:17:47,460 --> 00:17:48,770
+<font face="Verdana" size="42"><b>Nothing with her eyes!</b></font>
+
+544
+00:17:48,920 --> 00:17:49,810
+<font face="Verdana" size="42"><b>Here's Matsumura.</b></font>
+
+545
+00:17:49,810 --> 00:17:51,900
+<font face="Verdana" size="42"><b>She easily gets those smile lines.</b></font>
+
+546
+00:17:51,900 --> 00:17:53,600
+<font face="Verdana" size="42"><b>That's true, but wrong.</b></font>
+
+547
+00:17:53,600 --> 00:17:54,730
+<font face="Verdana" size="42"><b>Not her smile lines.</b></font>
+
+548
+00:17:54,860 --> 00:17:55,740
+<font face="Verdana" size="42"><b>What could it be?</b></font>
+
+549
+00:17:55,740 --> 00:17:56,290
+<font face="Verdana" size="42"><b>Shiraishi.</b></font>
+
+550
+00:17:56,290 --> 00:17:58,460
+<font face="Verdana" size="42"><b>She's bothered by her frizz.
+- Ah, there's that. But it's wrong.</b></font>
+
+551
+00:17:58,460 --> 00:18:00,120
+<font face="Verdana" size="42"><b>The hair that sticks up?
+- Yeah.</b></font>
+
+552
+00:18:00,120 --> 00:18:01,260
+<font face="Verdana" size="42"><b>Nope.</b></font>
+
+553
+00:18:01,260 --> 00:18:02,290
+<font face="Verdana" size="42"><b>This insecurity can't be fixed.</b></font>
+
+554
+00:18:02,290 --> 00:18:03,880
+<font face="Verdana" size="42"><b>I've got it! I've got it! Um...</b></font>
+
+555
+00:18:03,880 --> 00:18:05,610
+<font face="Verdana" size="42"><b>She has a stiff back.</b></font>
+
+556
+00:18:05,610 --> 00:18:07,820
+<font face="Verdana" size="42"><b>There's that, but that's not the one.</b></font>
+
+557
+00:18:08,600 --> 00:18:09,960
+<font face="Verdana" size="42"><b>Well, I do have a stiff back.</b></font>
+
+558
+00:18:09,960 --> 00:18:11,120
+<font face="Verdana" size="42"><b>Her nervous laugh.</b></font>
+
+559
+00:18:11,120 --> 00:18:12,540
+<font face="Verdana" size="42"><b>Ah, that's not it.
+- What?</b></font>
+
+560
+00:18:12,540 --> 00:18:16,200
+<font face="Verdana" size="42"><b>Nervous laughter... that might be the closest one yet.
+- Uh, yeah.</b></font>
+
+561
+00:18:16,370 --> 00:18:17,040
+<font face="Verdana" size="42"><b>Come now.</b></font>
+
+562
+00:18:17,300 --> 00:18:17,970
+<font face="Verdana" size="42"><b>Ikoma.</b></font>
+
+563
+00:18:17,970 --> 00:18:19,840
+<font face="Verdana" size="42"><b>The arrangement of her teeth.
+- Arrangement of her teeth.</b></font>
+
+564
+00:18:19,840 --> 00:18:20,740
+<font face="Verdana" size="42"><b>Whaaat?
+- What's it about her teeth?</b></font>
+
+565
+00:18:20,740 --> 00:18:22,370
+<font face="Verdana" size="42"><b>She has a bad set of teeth!</b></font>
+
+566
+00:18:23,720 --> 00:18:25,290
+<font face="Verdana" size="42"><b>Oh, is it really?</b></font>
+
+567
+00:18:25,290 --> 00:18:26,320
+<font face="Verdana" size="42"><b>Yeah, it is.</b></font>
+
+568
+00:18:26,320 --> 00:18:28,320
+<font face="Verdana" size="42"><b>But it's not.
+- Yeah, it's not.</b></font>
+
+569
+00:18:28,540 --> 00:18:29,330
+<font face="Verdana" size="42"><b>Okay, next.</b></font>
+
+570
+00:18:29,330 --> 00:18:29,970
+<font face="Verdana" size="42"><b>Shiraishi.</b></font>
+
+571
+00:18:29,970 --> 00:18:32,290
+<font face="Verdana" size="42"><b>She sneezes like a middle-aged man.
+- Ah, that's not it.</b></font>
+
+572
+00:18:32,290 --> 00:18:32,940
+<font face="Verdana" size="42"><b>Nope.</b></font>
+
+573
+00:18:32,940 --> 00:18:34,640
+<font face="Verdana" size="42"><b>It's not that she sneezes like a middle-aged man.</b></font>
+
+574
+00:18:35,690 --> 00:18:37,260
+<font face="Verdana" size="42"><b>This part of her... is weird.</b></font>
+
+575
+00:18:37,260 --> 00:18:39,560
+<font face="Verdana" size="42"><b>AHH! That's so mean!
+- Too far.</b></font>
+
+576
+00:18:39,700 --> 00:18:41,690
+<font face="Verdana" size="42"><b>What? How is it weird?</b></font>
+
+577
+00:18:41,690 --> 00:18:44,140
+<font face="Verdana" size="42"><b>Kazumin keeps saying, "This part of me sticks out...</b></font>
+
+578
+00:18:44,140 --> 00:18:45,770
+<font face="Verdana" size="42"><b>...right? It's gross, isn't it?"</b></font>
+
+579
+00:18:45,770 --> 00:18:46,980
+<font face="Verdana" size="42"><b>That part is weird?</b></font>
+
+580
+00:18:47,250 --> 00:18:48,160
+<font face="Verdana" size="42"><b>I see.</b></font>
+
+581
+00:18:48,160 --> 00:18:50,530
+<font face="Verdana" size="42"><b>Which part of her would she be unconfident about?</b></font>
+
+582
+00:18:50,610 --> 00:18:51,660
+<font face="Verdana" size="42"><b>The fact that her hands are big.</b></font>
+
+583
+00:18:51,660 --> 00:18:53,780
+<font face="Verdana" size="42"><b>That is true, but that's not it either.
+- Big hands?</b></font>
+
+584
+00:18:54,320 --> 00:18:55,320
+<font face="Verdana" size="42"><b>Hint? Hint?</b></font>
+
+585
+00:18:55,320 --> 00:18:56,160
+<font face="Verdana" size="42"><b>The hint is...</b></font>
+
+586
+00:18:56,160 --> 00:18:58,160
+<font face="Verdana" size="42"><b>It's between these parts.</b></font>
+
+587
+00:18:58,450 --> 00:19:00,160
+<font face="Verdana" size="42"><b>It's around this area, under the nose.</b></font>
+
+588
+00:19:01,340 --> 00:19:01,820
+<font face="Verdana" size="42"><b>Okay, Shiraishi.</b></font>
+
+589
+00:19:01,820 --> 00:19:03,090
+<font face="Verdana" size="42"><b>Her philtrum is deep?</b></font>
+
+590
+00:19:03,090 --> 00:19:04,290
+<font face="Verdana" size="42"><b>A deep philtrum.
+- Nope.</b></font>
+
+591
+00:19:04,290 --> 00:19:06,800
+<font face="Verdana" size="42"><b>It's surprisingly not that kind of thing.</b></font>
+
+592
+00:19:06,880 --> 00:19:08,380
+<font face="Verdana" size="42"><b>When she smiles her chin disappears from sight.</b></font>
+
+593
+00:19:08,380 --> 00:19:10,260
+<font face="Verdana" size="42"><b>When she smiles her chin disappears?</b></font>
+
+594
+00:19:10,260 --> 00:19:12,440
+<font face="Verdana" size="42"><b>It's still there.</b></font>
+
+595
+00:19:12,660 --> 00:19:14,580
+<font face="Verdana" size="42"><b>It's in this region.</b></font>
+
+596
+00:19:14,690 --> 00:19:15,300
+<font face="Verdana" size="42"><b>What is it?</b></font>
+
+597
+00:19:15,300 --> 00:19:17,320
+<font face="Verdana" size="42"><b>She personally dislikes the shape of her nose.</b></font>
+
+598
+00:19:17,320 --> 00:19:18,560
+<font face="Verdana" size="42"><b>Her nose...</b></font>
+
+599
+00:19:18,560 --> 00:19:19,520
+<font face="Verdana" size="42"><b>Yeah, I don't like my nose.</b></font>
+
+600
+00:19:19,520 --> 00:19:22,890
+<font face="Verdana" size="42"><b>Okay, everyone? It's not just the outside, there's stuff inside this region as well.</b></font>
+
+601
+00:19:22,890 --> 00:19:23,300
+<font face="Verdana" size="42"><b>Inside?</b></font>
+
+602
+00:19:23,360 --> 00:19:25,160
+<font face="Verdana" size="42"><b>I'm not sure, but the mole over here.</b></font>
+
+603
+00:19:26,420 --> 00:19:27,880
+<font face="Verdana" size="42"><b>She hates the mole there?</b></font>
+
+604
+00:19:27,880 --> 00:19:28,420
+<font face="Verdana" size="42"><b>She does.</b></font>
+
+605
+00:19:28,420 --> 00:19:30,640
+<font face="Verdana" size="42"><b>You hate it?
+- But, like...</b></font>
+
+606
+00:19:31,520 --> 00:19:35,360
+<font face="Verdana" size="42"><b>Whenever she laughs, she opens her mouth too wide and reveals the insides.</b></font>
+
+607
+00:19:35,410 --> 00:19:36,980
+<font face="Verdana" size="42"><b>You don't see that much.</b></font>
+
+608
+00:19:38,040 --> 00:19:39,140
+<font face="Verdana" size="42"><b>That's wrong!</b></font>
+
+609
+00:19:39,640 --> 00:19:40,770
+<font face="Verdana" size="42"><b>She has large tonsils?</b></font>
+
+610
+00:19:40,770 --> 00:19:41,570
+<font face="Verdana" size="42"><b>Ah!!</b></font>
+
+611
+00:19:41,570 --> 00:19:43,650
+<font face="Verdana" size="42"><b>Yeah, they are big, but yeah...</b></font>
+
+612
+00:19:43,650 --> 00:19:45,650
+<font face="Verdana" size="42"><b>That guess was the closest so far!</b></font>
+
+613
+00:19:45,650 --> 00:19:46,240
+<font face="Verdana" size="42"><b>What is it?</b></font>
+
+614
+00:19:46,240 --> 00:19:48,720
+<font face="Verdana" size="42"><b>She... has an Adam's apple!</b></font>
+
+615
+00:19:48,720 --> 00:19:50,540
+<font face="Verdana" size="42"><b>Ah... I don't have any!</b></font>
+
+616
+00:19:50,540 --> 00:19:51,880
+<font face="Verdana" size="42"><b>Everyone has one.</b></font>
+
+617
+00:19:52,820 --> 00:19:54,340
+<font face="Verdana" size="42"><b>Nope, no Adam's apple, right?</b></font>
+
+618
+00:19:54,340 --> 00:19:54,840
+<font face="Verdana" size="42"><b>Go ahead.</b></font>
+
+619
+00:19:54,840 --> 00:19:57,410
+<font face="Verdana" size="42"><b>Her throat easily gets hurt.
+- Oh, that is true.</b></font>
+
+620
+00:19:57,410 --> 00:20:01,440
+<font face="Verdana" size="42"><b>But, that's not it.</b></font>
+
+621
+00:20:01,440 --> 00:20:01,690
+<font face="Verdana" size="42"><b>Sakurai.</b></font>
+
+622
+00:20:01,700 --> 00:20:03,210
+<font face="Verdana" size="42"><b>She can't produce her natural voice.</b></font>
+
+623
+00:20:05,170 --> 00:20:06,650
+<font face="Verdana" size="42"><b>That's real close!</b></font>
+
+624
+00:20:06,650 --> 00:20:08,080
+<font face="Verdana" size="42"><b>Her natural voice is weird!</b></font>
+
+625
+00:20:09,810 --> 00:20:10,900
+<font face="Verdana" size="42"><b>In what way...</b></font>
+
+626
+00:20:10,900 --> 00:20:12,120
+<font face="Verdana" size="42"><b>...is her natural voice weird?</b></font>
+
+627
+00:20:12,120 --> 00:20:13,070
+<font face="Verdana" size="42"><b>Her natural voice is deep and weird.</b></font>
+
+628
+00:20:13,070 --> 00:20:13,070
+<font size="20"><b>{\an5}<font size="30">Correct Answer!</font></b></font>
+
+629
+00:20:13,070 --> 00:20:13,070
+<font size="20"><b>{\an5}<font size="30">Correct Answer!</font></b></font>
+
+630
+00:20:13,070 --> 00:20:13,070
+<font size="20"><b>{\an5}<font size="30"><font color="#caab27">Correct Answer!</font></font></b></font>
+
+631
+00:20:13,070 --> 00:20:13,070
+<font size="20"><b>{\an5}<font size="30"><font color="#e2c93e">Correct Answer!</font></font></b></font>
+
+632
+00:20:13,070 --> 00:20:14,050
+<font size="20"><b>{\an5}<font size="30"><font color="#f1e756">Correct Answer!</font></font></b></font>
+
+633
+00:20:14,050 --> 00:20:15,860
+<font face="Verdana" size="42"><b>That's it!</b></font>
+
+634
+00:20:15,980 --> 00:20:17,580
+<font face="Verdana" size="42"><b>Please show us what you wrote.</b></font>
+
+635
+00:20:17,580 --> 00:20:19,100
+<font face="Verdana" size="42"><b>My natural voice is deep.</b></font>
+
+636
+00:20:19,100 --> 00:20:20,610
+<font face="Verdana" size="42"><b>That is her insecurity.</b></font>
+
+637
+00:20:20,610 --> 00:20:22,120
+<font face="Verdana" size="42"><b>But she has a great voice!</b></font>
+
+638
+00:20:22,120 --> 00:20:22,960
+<font face="Verdana" size="42"><b>That's not true.</b></font>
+
+639
+00:20:22,960 --> 00:20:24,960
+<font face="Verdana" size="42"><b>My natural voice is incredibly deep.
+- I see.</b></font>
+
+640
+00:20:24,960 --> 00:20:27,860
+<font face="Verdana" size="42"><b>When I went up for candidacy for the student council in junior high...</b></font>
+
+641
+00:20:27,860 --> 00:20:29,960
+<font face="Verdana" size="42"><b>...my voice was so deep...</b></font>
+
+642
+00:20:29,960 --> 00:20:30,810
+<font face="Verdana" size="42"><b>...that it was surprising.</b></font>
+
+643
+00:20:30,810 --> 00:20:31,410
+<font face="Verdana" size="42"><b>Let us hear it.</b></font>
+
+644
+00:20:31,410 --> 00:20:33,020
+<font face="Verdana" size="42"><b>Natural voice... What voice do you have now?</b></font>
+
+645
+00:20:33,020 --> 00:20:35,980
+<font face="Verdana" size="42"><b>Right now I'm talking with a produced voice...</b></font>
+
+646
+00:20:35,980 --> 00:20:36,640
+<font face="Verdana" size="42"><b>Then, show us.</b></font>
+
+647
+00:20:36,640 --> 00:20:38,250
+<font face="Verdana" size="42"><b>If I were to speak in my natural voice...</b></font>
+
+648
+00:20:38,740 --> 00:20:40,620
+<font face="Verdana" size="42"><b>It really tires my throat, though.</b></font>
+
+649
+00:20:41,220 --> 00:20:42,180
+<font face="Verdana" size="42"><b>I'm Takayama Kazumi.</b></font>
+
+650
+00:20:42,220 --> 00:20:43,420
+<font face="Verdana" size="42"><b>It's like that.</b></font>
+
+651
+00:20:43,810 --> 00:20:44,540
+<font face="Verdana" size="42"><b>Your name?
+- "I'm Takayama Kazumi."</b></font>
+
+652
+00:20:44,540 --> 00:20:45,820
+<font face="Verdana" size="42"><b>Hello, I'm Takayama Kazumi.</b></font>
+
+653
+00:20:45,820 --> 00:20:47,820
+<font face="Verdana" size="42"><b>Really?
+- Yeah, it's really deep.</b></font>
+
+654
+00:20:47,820 --> 00:20:50,720
+<font face="Verdana" size="42"><b>But that other one sounded like the weird one.
+- "I'm Takayama Kazumi!"</b></font>
+
+655
+00:20:51,020 --> 00:20:51,610
+<font face="Verdana" size="42"><b>No...</b></font>
+
+656
+00:20:51,610 --> 00:20:52,180
+<font face="Verdana" size="42"><b>Your natural voice...</b></font>
+
+657
+00:20:52,180 --> 00:20:53,700
+<font face="Verdana" size="42"><b>My natural voice is weird.</b></font>
+
+658
+00:20:53,700 --> 00:20:56,650
+<font face="Verdana" size="42"><b>I'm not sure how to say this... but the future seems tough for you.</b></font>
+
+659
+00:20:56,650 --> 00:20:57,170
+<font face="Verdana" size="42"><b>Yeah...</b></font>
+
+660
+00:20:57,170 --> 00:21:01,050
+<font face="Verdana" size="42"><b>You'll have to be burdened with that.
+- Yeah.</b></font>
+
+661
+00:21:01,050 --> 00:21:05,900
+<font face="Verdana" size="42"><b>Coming up next... we'll be having that CM song being shown for the first time!!</b></font>
+
+662
+00:23:35,100 --> 00:23:39,930
+<font face="Verdana" size="42"><b>Next time on NogiDoko, we have the members lecturing all over the place about stars.</b></font>
+
+663
+00:23:40,280 --> 00:23:41,650
+<font size="20"><b>{\an5}<font face="Times New Roman"><font size="28">Monday 29th, April Pacifico Yokohama 
+ 5th Single Kobetsu Handshake Event</font></font></b></font>
+
+664
+00:23:41,650 --> 00:23:46,370
+<font face="Verdana" size="42"><b>From Ando Mikumo, who announced her graduation from Nogizaka the other day...</b></font>
+
+665
+00:23:46,650 --> 00:23:50,050
+<font face="Verdana" size="42"><b>...we have a message of thanks to her fans.</b></font>
+
+666
+00:23:50,260 --> 00:23:50,260
+<font size="20"><b>{\an5}m 0 0 l 200 0 l 200 45 l 0 45</b></font>
+
+667
+00:23:50,260 --> 00:23:50,650
+<font size="20"><b>{\an5}<font face="Times New Roman"><font size="30"><font color="#000000">Ando Mikumo</font></font></font></b></font>
+
+668
+00:23:50,650 --> 00:23:54,520
+<font face="Verdana" size="42"><b>Hailing from Shonan, 100 times energetic! I'm Ando Mikumo a.k.a Anchanman!</b></font>
+
+669
+00:23:54,520 --> 00:23:59,200
+<font face="Verdana" size="42"><b>I have announced that I'm going to graduate from Nogizaka.</b></font>
+
+670
+00:23:59,300 --> 00:24:02,620
+<font face="Verdana" size="42"><b>From now on I won't be a Nogizaka member anymore,</b></font>
+
+671
+00:24:02,620 --> 00:24:06,660
+<font face="Verdana" size="42"><b>But I'm going to do my best on my own to move forward.</b></font>
+
+672
+00:24:06,660 --> 00:24:08,780
+<font face="Verdana" size="42"><b>So please keep supporting me!</b></font>
+
+673
+00:24:08,780 --> 00:24:11,320
+<font face="Verdana" size="42"><b>I love you all! Thank you so much!</b></font>
+
+674
+00:24:12,540 --> 00:24:15,980
+<font face="Verdana" size="42"><b>Please keep up your support for her!</b></font>
+
+675
+00:24:15,980 --> 00:24:18,650
+<font face="Verdana" size="42"><b>Thank you all so much!</b></font>
+
+676
+00:24:20,250 --> 00:24:21,850
+<font face="Verdana" size="42"><b>The lecture on stars!</b></font>
+
+677
+00:24:22,370 --> 00:24:26,100
+<font face="Verdana" size="42"><b>Next week, we'll be having Nogizaka46's Stars Lecture!</b></font>
+
+678
+00:24:26,720 --> 00:24:29,000
+<font face="Verdana" size="42"><b>Realising that you should aim to be a star in the entertainment industry,</b></font>
+
+679
+00:24:29,000 --> 00:24:33,840
+<font face="Verdana" size="42"><b>we should be learning about the profiles of the big stars accurately.</b></font>
+
+680
+00:24:34,920 --> 00:24:36,740
+<font face="Verdana" size="42"><b>But by continuously forgetting the details...</b></font>
+
+681
+00:24:36,740 --> 00:24:38,810
+<font face="Verdana" size="42"><b>will a new star be born?</b></font>
+
+682
+00:24:38,810 --> 00:24:45,500
+<font size="30"><b>{\an8}[In order to become a star you've got to learn from the stars themselves!!]
+[The Nogizaka members present their Star Lectures all over the place!]</b></font>
+
+683
+00:24:45,500 --> 00:24:45,970
+<font face="Verdana" size="42"><b>Panda.</b></font>
+
+684
+00:24:46,410 --> 00:24:47,450
+<font face="Verdana" size="42"><b>Giant Panda.</b></font>
+
+685
+00:24:47,740 --> 00:24:49,120
+<font face="Verdana" size="42"><b>Antonio Inoki!</b></font>
+
+686
+00:24:49,140 --> 00:24:50,740
+<font face="Verdana" size="42"><b>I have no idea what you're saying.</b></font>
+
+687
+00:24:51,380 --> 00:24:52,740
+<font face="Verdana" size="42"><b>Ready, and...</b></font>
+
+688
+00:24:53,010 --> 00:24:54,660
+<font face="Verdana" size="42"><b>Komanechi!!!</b></font>
+
+689
+00:24:55,460 --> 00:25:00,020
+<font face="Verdana" size="42"><b>With such confidence in incorrect details, what'll become of the stars' profiles!?</b></font>
+

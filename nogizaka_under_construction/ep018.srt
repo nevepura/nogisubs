@@ -1,0 +1,3618 @@
+1
+00:00:00,000 --> 00:00:01,770
+<font face="Calibri" size="18">{\an7}m 0 0 l 0 27 l 2 27 l 2 0 l 0 0 m 2 0 l -4 0 l -4 6 l 16 6 l 16 4 l -2 4 l -2 2 l 0 2 m 2 2 m 16 0 l 16 27 l 18 27 l 18 -1 l 16 -1 m 22 0 l 22 0 l 24 0 l 24 11 l 19 11 l 19 9 l 22 9 l 22 2 l 15 2 l 15 0 m 6 18 l 6 12 l 12 12 l 12 14 l 8 14 l 8 18 l 6 18 m 12 18 l 12 20 l 6 20 l 6 18 l 10 18 l 10 14 l 12 14 l 12 18 m 5 7 l 8 9 l 7 10 l 4 8 l 5 7 m 10 9 l 10 9 l 13 7 l 14 8 l 11 10 l 10 9 m 3 24 b 3 24 3 23 3 23 b 7 21 11 21 15 23 b 15 23 15 25 15 25 b 11 23 7 23 3 25 
+<b>MasToppu.blogspot.co.id</b></font>
+
+2
+00:00:01,770 --> 00:00:01,770
+<font face="Courier" size="24"><b>DEKIRU TV with Maaya!</b></font>
+
+3
+00:00:01,770 --> 00:00:05,000
+<font face="Courier" size="20"><i>{\an8}DEKIRU = I can do it</i></font>
+
+4
+00:00:05,530 --> 00:00:06,840
+<font size="18">{\an9}[Ikoma]: What is this?</font>
+
+5
+00:00:06,840 --> 00:00:10,860
+<font face="Courier" size="24"><b>In this segment, Maaya will show many things she can do.</b></font>
+
+6
+00:00:10,860 --> 00:00:16,620
+<font face="Courier" size="24"><b>On Dekiru TV with Maaya this time,
+we have guests who will assist me. Here they are!</b></font>
+
+7
+00:00:16,620 --> 00:00:18,810
+<font size="18">{\an9}[Ikoma]: I wonder who's the guest</font>
+
+8
+00:00:18,810 --> 00:00:20,370
+<font face="Courier" size="24"><b>Hello everyone!</b></font>
+
+9
+00:00:20,370 --> 00:00:20,370
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#007ebf">CHUUEI</font></b></font>
+
+10
+00:00:20,370 --> 00:00:20,370
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#007ebf">TAKIUE SHINICHIRO</font></b></font>
+
+11
+00:00:20,370 --> 00:00:20,440
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#007ebf">GUEST: NAGAREBOSHI</font></b></font>
+
+12
+00:00:20,440 --> 00:00:21,310
+<font size="18">{\an9}[Ikoma}: Eehh!! Good!</font>
+
+13
+00:00:21,310 --> 00:00:23,370
+<font face="Courier" size="24"><b>We're Nagareboshi, Takiue and
+- Chuuei!</b></font>
+
+14
+00:00:23,370 --> 00:00:27,290
+<font face="Courier" size="24"><b>That guy looks weak~ 
+and I'm Chuuei~</b></font>
+
+15
+00:00:27,290 --> 00:00:28,770
+<font face="Courier" size="24"><b>Banana-san~</b></font>
+
+16
+00:00:28,970 --> 00:00:28,970
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}ROPE JUMPING SKILL</b></font>
+
+17
+00:00:28,970 --> 00:00:28,970
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font size="26"><font color="#29e2db">DEKIRU TV</font></font></b></font>
+
+18
+00:00:28,970 --> 00:00:28,970
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font size="22">with</font></b></font>
+
+19
+00:00:28,970 --> 00:00:29,280
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#ff01d0">MAAYA</font></b></font>
+
+20
+00:00:29,280 --> 00:00:33,810
+<font face="Courier" size="24"><b>The first thing Wada Maaya will exhibit
+is rope jumping.</b></font>
+
+21
+00:00:33,810 --> 00:00:36,170
+<font face="Courier" size="24"><b>How will you do it?
+- How?</b></font>
+
+22
+00:00:36,170 --> 00:00:37,760
+<font face="Courier" size="24"><b>Cross jumping twice.
+- Cross jumping twice?</b></font>
+
+23
+00:00:37,760 --> 00:00:39,130
+<font size="18">{\an9}[Matsumura]: What? Amazing!</font>
+
+24
+00:00:39,130 --> 00:00:44,020
+<font face="Courier" size="24"><b>Jumping like this?
+- Yes. Like that, but the twice version.</b></font>
+
+25
+00:00:44,260 --> 00:00:44,260
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}CROSS JUMPING TWICE</b></font>
+
+26
+00:00:44,260 --> 00:00:44,260
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font size="26"><font color="#29e2db">DEKIRU TV</font></font></b></font>
+
+27
+00:00:44,260 --> 00:00:44,260
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font size="22">with</font></b></font>
+
+28
+00:00:44,260 --> 00:00:44,880
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#ff01d0">MAAYA</font></b></font>
+
+29
+00:00:44,880 --> 00:00:48,960
+<font face="Courier" size="24"><b>So let's watch the cross jumping twice!</b></font>
+
+30
+00:00:53,920 --> 00:00:56,030
+<font size="18">{\an9}[Shitara]: Wow, great! [Marika]: Great!</font>
+
+31
+00:00:56,140 --> 00:00:57,970
+<font face="Courier" size="24"><b>Woah, impressive! 
+- She can do it!</b></font>
+
+32
+00:00:57,970 --> 00:00:58,990
+<font face="Courier" size="24"><b>Something fell there. It's like...</b></font>
+
+33
+00:00:58,990 --> 00:00:59,040
+<font size="18">{\an9}[Matsumura]: Amazing!</font>
+
+34
+00:00:59,040 --> 00:01:00,030
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}FALLEN LIP BALM</b></font>
+
+35
+00:01:00,030 --> 00:01:00,650
+<font size="18">{\an9}[Ikoma]: Lip balm?</font>
+
+36
+00:01:00,650 --> 00:01:03,080
+<font face="Courier" size="24"><b>There's something there. Your lip balm!</b></font>
+
+37
+00:01:03,080 --> 00:01:05,840
+<font face="Courier" size="24"><b>It's even fell! 
+- Yes!</b></font>
+
+38
+00:01:05,840 --> 00:01:05,840
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}S</b></font>
+
+39
+00:01:05,840 --> 00:01:05,840
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}U</b></font>
+
+40
+00:01:05,840 --> 00:01:05,840
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}C</b></font>
+
+41
+00:01:05,840 --> 00:01:05,840
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}C</b></font>
+
+42
+00:01:05,840 --> 00:01:05,840
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}E</b></font>
+
+43
+00:01:05,840 --> 00:01:05,840
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}S</b></font>
+
+44
+00:01:05,840 --> 00:01:05,910
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}S</b></font>
+
+45
+00:01:05,910 --> 00:01:08,410
+<font face="Courier" size="24"><b>But it was impressive!
+- It sure was.</b></font>
+
+46
+00:01:08,760 --> 00:01:10,090
+<font face="Courier" size="24"><b>So you actually can do it?
+- Yes!</b></font>
+
+47
+00:01:10,280 --> 00:01:10,280
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}KARATE SKILL</b></font>
+
+48
+00:01:10,280 --> 00:01:10,280
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font size="26"><font color="#29e2db">DEKIRU TV</font></font></b></font>
+
+49
+00:01:10,280 --> 00:01:10,280
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font size="22">with</font></b></font>
+
+50
+00:01:10,280 --> 00:01:10,810
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#ff01d0">MAAYA</font></b></font>
+
+51
+00:01:10,810 --> 00:01:12,520
+<font face="Courier" size="24"><b>The next thing she will do,</b></font>
+
+52
+00:01:12,520 --> 00:01:15,020
+<font face="Courier" size="24"><b>She did this for seven years,
+KARATE!</b></font>
+
+53
+00:01:15,020 --> 00:01:18,720
+<font face="Courier" size="24"><b>I've trained since I was five
+until twelve.</b></font>
+
+54
+00:01:18,720 --> 00:01:20,720
+<font face="Courier" size="24"><b>That was quite some time.
+- Yup!</b></font>
+
+55
+00:01:20,720 --> 00:01:21,990
+<font face="Courier" size="24"><b>This is like my specialty.</b></font>
+
+56
+00:01:22,780 --> 00:01:26,830
+<font face="Courier" size="24"><b>Here she has a challenge to knock
+the paper balloon off</b></font>
+
+57
+00:01:26,830 --> 00:01:29,840
+<font face="Courier" size="24"><b>held by Chuuei who's scared
+of high kick technique.</b></font>
+
+58
+00:01:30,120 --> 00:01:32,240
+<font face="Courier" size="24"><b>And here we go, please!</b></font>
+
+59
+00:01:32,860 --> 00:01:33,720
+<font face="Courier" size="24"><b>Yaa!!!</b></font>
+
+60
+00:01:33,720 --> 00:01:37,440
+<font face="Courier" size="24"><b>Aaaaa!!! Incredible! Perfect!</b></font>
+
+61
+00:01:38,680 --> 00:01:39,440
+<font face="Courier" size="24"><b>Yaa!!!</b></font>
+
+62
+00:01:39,440 --> 00:01:40,830
+<font face="Courier" size="24"><b>Aaaaa!!! Amazing!</b></font>
+
+63
+00:01:40,830 --> 00:01:42,810
+<font size="18">{\an9}[Takayama & Matsumura]: Incredible!</font>
+
+64
+00:01:42,810 --> 00:01:44,080
+<font size="18">{\an9}[Ikoma]: Her legs can reach there.</font>
+
+65
+00:01:44,080 --> 00:01:44,080
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}S</b></font>
+
+66
+00:01:44,080 --> 00:01:44,080
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}U</b></font>
+
+67
+00:01:44,080 --> 00:01:44,080
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}C</b></font>
+
+68
+00:01:44,080 --> 00:01:44,080
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}C</b></font>
+
+69
+00:01:44,080 --> 00:01:44,080
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}E</b></font>
+
+70
+00:01:44,080 --> 00:01:44,080
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}S</b></font>
+
+71
+00:01:44,080 --> 00:01:48,150
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}S</b></font>
+
+72
+00:01:48,390 --> 00:01:48,390
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}PIANO SKILL</b></font>
+
+73
+00:01:48,390 --> 00:01:48,390
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font size="26"><font color="#29e2db">DEKIRU TV</font></font></b></font>
+
+74
+00:01:48,390 --> 00:01:48,390
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font size="22">with</font></b></font>
+
+75
+00:01:48,390 --> 00:01:48,570
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#ff01d0">MAAYA</font></b></font>
+
+76
+00:01:48,570 --> 00:01:51,070
+<font face="Courier" size="24"><b>DEKIRU TV with Wada Maaya.
+Next, PIANO!</b></font>
+
+77
+00:01:51,070 --> 00:01:52,620
+<font size="18">{\an9}[Shitara]: You can play piano?</font>
+
+78
+00:01:53,130 --> 00:01:54,690
+<font face="Courier" size="24"><b>You play piano?
+- Yeah!</b></font>
+
+79
+00:01:54,690 --> 00:01:59,030
+<font face="Courier" size="24"><b>How long have you been doing this? 
+- Since I was two until thirteen!</b></font>
+
+80
+00:01:59,030 --> 00:02:00,570
+<font face="Courier" size="24"><b>You invested quite amount of time!</b></font>
+
+81
+00:02:00,570 --> 00:02:02,570
+<font face="Courier" size="24"><b>You surely practiced hard all those time, huh?</b></font>
+
+82
+00:02:02,570 --> 00:02:05,160
+<font face="Courier" size="24"><b>Of course!
+- I see.</b></font>
+
+83
+00:02:05,160 --> 00:02:05,960
+<font size="18">{\an9}[Shitara]: Quite some time!</font>
+
+84
+00:02:05,960 --> 00:02:07,170
+<font face="Courier" size="24"><b>You're quite busy, huh?</b></font>
+
+85
+00:02:07,170 --> 00:02:07,630
+<font face="Courier" size="24"><b>Yes, that's true. After school,
+I practiced immediately.</b></font>
+
+86
+00:02:07,630 --> 00:02:09,210
+<font size="18">{\an9}[Shitara]: Routinely?</font>
+
+87
+00:02:10,490 --> 00:02:14,610
+<font face="Courier" size="24"><b>But in Nogizaka alone, is there someone
+who good at piano? - Of course there is!</b></font>
+
+88
+00:02:14,610 --> 00:02:18,050
+<font face="Courier" size="24"><b>I see.
+- Because I have never been talked about,</b></font>
+
+89
+00:02:18,680 --> 00:02:21,980
+<font face="Courier" size="24"><b>today I want to show it.
+- Understood!</b></font>
+
+90
+00:02:22,430 --> 00:02:26,790
+<font face="Courier" size="24"><b>But there's a particularity
+in her piano play!</b></font>
+
+91
+00:02:27,070 --> 00:02:29,240
+<font face="Courier" size="24"><b>I can only play the intro.</b></font>
+
+92
+00:02:29,560 --> 00:02:30,460
+<font face="Courier" size="24"><b>Only the intro? - Yes! 
+Eh? You can't do the whole song?</b></font>
+
+93
+00:02:30,460 --> 00:02:32,360
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}INTRO SPECIALIST</b></font>
+
+94
+00:02:32,560 --> 00:02:32,560
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}SONG'S INTRO</b></font>
+
+95
+00:02:32,560 --> 00:02:32,560
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font size="24">[BUTTERFLY] - KIMURA KAERA</font></b></font>
+
+96
+00:02:32,560 --> 00:02:32,560
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font size="26"><font color="#29e2db">DEKIRU TV</font></font></b></font>
+
+97
+00:02:32,560 --> 00:02:32,560
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font size="22">with</font></b></font>
+
+98
+00:02:32,560 --> 00:02:33,280
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#ff01d0">MAAYA</font></b></font>
+
+99
+00:02:33,280 --> 00:02:36,120
+<font face="Courier" size="24"><b>Let's see how this Intro Specialist Pianist
+plays <i>Butterfly</i>.</b></font>
+
+100
+00:02:36,120 --> 00:02:37,210
+<font size="18">{\an9}[Chiharu]: This is good!</font>
+
+101
+00:02:37,900 --> 00:02:38,080
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5} <font face="Arial Rounded MT Bold"><font size="16">[BUTTERFLY] - KIMURA KAERA</font></font></b></font>
+
+102
+00:02:38,080 --> 00:02:39,230
+<font face="Courier" size="24"><b>Go ahead!</b></font>
+
+103
+00:02:42,720 --> 00:02:45,210
+<font size="18">{\an9}[Himura]: Very good! [Shitara]: Good!</font>
+
+104
+00:02:45,660 --> 00:02:47,210
+<font size="18">{\an9}[Shitara]: Oh, very nice!</font>
+
+105
+00:02:50,150 --> 00:02:50,180
+<font face="Courier" size="24"><b>Bbbaaa... no, no, wait a sec!</b></font>
+
+106
+00:02:50,180 --> 00:02:52,030
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}JUST UP TO THIS PART</b></font>
+
+107
+00:02:52,030 --> 00:02:52,920
+<font size="18">{\an9}[Shitara]: Why? Why didn't you continue?</font>
+
+108
+00:02:52,920 --> 00:02:55,210
+<font face="Courier" size="24"><b>- Why was that kinda unclear?
+You're finished?
+- I can't play the whole song!</b></font>
+
+109
+00:02:55,210 --> 00:02:56,250
+<font size="18">{\an9}[Himura]: This is interesting!</font>
+
+110
+00:02:56,250 --> 00:02:58,440
+<font face="Courier" size="24"><b>Were you not interested in continuing?
+- Just a little bit more and you're going into the lyric.</b></font>
+
+111
+00:02:58,440 --> 00:03:00,200
+<font size="18">{\an9}[Shitara]: He was going to say "<i>Butterfly</i>.."</font>
+
+112
+00:03:00,200 --> 00:03:02,360
+<font face="Courier" size="24"><b>You're bored with what comes next?
+- Yeah, that's right!</b></font>
+
+113
+00:03:02,560 --> 00:03:02,560
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}SONG'S INTRO</b></font>
+
+114
+00:03:02,560 --> 00:03:02,560
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font size="24">[HANAMIZUKI] - HITOTO YO</font></b></font>
+
+115
+00:03:02,560 --> 00:03:02,560
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font size="26"><font color="#29e2db">DEKIRU TV</font></font></b></font>
+
+116
+00:03:02,560 --> 00:03:02,560
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font size="22">with</font></b></font>
+
+117
+00:03:02,560 --> 00:03:03,160
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#ff01d0">MAAYA</font></b></font>
+
+118
+00:03:03,160 --> 00:03:05,700
+<font face="Courier" size="24"><b>Then, let us hear the intro from next song.</b></font>
+
+119
+00:03:05,700 --> 00:03:06,690
+<font size="18">{\an9}[Himura]: Oh, this is good.</font>
+
+120
+00:03:07,900 --> 00:03:10,520
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5} <font face="Arial Rounded MT Bold"><font size="16">[HANAMIZUKI] - HITOTO YO</font></font></b></font>
+
+121
+00:03:10,520 --> 00:03:11,930
+<font size="18">{\an9}[Shitara]: Oh, she's great!</font>
+
+122
+00:03:11,930 --> 00:03:12,570
+<font face="Courier" size="24"><b>Nice. Very nice.</b></font>
+
+123
+00:03:12,570 --> 00:03:14,570
+<font size="18">{\an9}[Shitara]: Very nice!</font>
+
+124
+00:03:19,560 --> 00:03:20,890
+<font size="18">{\an9}[Shitara]: Oh, amazing!</font>
+
+125
+00:03:25,850 --> 00:03:26,570
+<font face="Courier" size="24"><b>Hu~</b></font>
+
+126
+00:03:27,150 --> 00:03:27,220
+<font face="Courier" size="24"><b>Eh? Eh?</b></font>
+
+127
+00:03:27,220 --> 00:03:29,760
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}WAS ABOUT TO SINGING</b></font>
+
+128
+00:03:29,760 --> 00:03:30,890
+<font face="Courier" size="24"><b>Don't make the "<i>It's over</i>!" expression like that. 
+That's scary!  - I can only play the intro.</b></font>
+
+129
+00:03:30,890 --> 00:03:32,890
+<font size="18">{\an9}[Himura]: Interesting</font>
+
+130
+00:03:34,330 --> 00:03:36,760
+<font face="Courier" size="24"><b>So whatever it is, you can only play intro.</b></font>
+
+131
+00:03:36,760 --> 00:03:39,390
+<font face="Courier" size="24"><b>Yes! Just the intro.
+- Just the intro? - Yup!</b></font>
+
+132
+00:03:39,390 --> 00:03:40,890
+<font size="18">{\an9}[Shitara]: Eehh??!!</font>
+
+133
+00:03:41,420 --> 00:03:42,230
+<font size="18">{\an9}[Chiharu]: Impressive!</font>
+
+134
+00:03:42,230 --> 00:03:44,970
+<font face="Courier" size="24"><b>A genius who can cure
+stress with piano.</b></font>
+
+135
+00:03:44,970 --> 00:03:47,340
+<font face="Courier" size="24"><b>You surely can play "<i>Kimi no Na wa Kibou</i>".</b></font>
+
+136
+00:03:47,340 --> 00:03:48,920
+<font face="Courier" size="24"><b>"<i>Kimi no Na wa Kibou</i>"?</b></font>
+
+137
+00:03:48,920 --> 00:03:49,270
+<font size="18">{\an9}[Himura]: This is good</font>
+
+138
+00:03:49,270 --> 00:03:49,680
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5} <font face="Arial Rounded MT Bold"><font size="16">[KIMI NO NA WA KIBOU] - NOGIZAKA46</font></font></b></font>
+
+139
+00:03:49,680 --> 00:03:54,510
+<font face="Courier" size="24"><b>Do it!
+ - You must know the melody!</b></font>
+
+140
+00:03:54,510 --> 00:03:54,970
+<font face="Courier" size="24"><b>Can you do it?</b></font>
+
+141
+00:03:54,970 --> 00:03:56,120
+<font size="18">{\an9}[Himura]: Surely she can do this!</font>
+
+142
+00:03:56,430 --> 00:03:58,120
+<font size="18">{\an9}[Himura]: Can you?</font>
+
+143
+00:03:59,320 --> 00:03:59,550
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font size="16">THE HOPE IS GONE</font></b></font>
+
+144
+00:03:59,550 --> 00:04:00,990
+<font size="18">{\an9}[Shitara]: That's different!</font>
+
+145
+00:04:00,990 --> 00:04:02,120
+<font face="Courier" size="24"><b>Really different from the beginning.</b></font>
+
+146
+00:04:02,120 --> 00:04:02,120
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}F</b></font>
+
+147
+00:04:02,120 --> 00:04:02,120
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}A</b></font>
+
+148
+00:04:02,120 --> 00:04:02,120
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}I</b></font>
+
+149
+00:04:02,120 --> 00:04:04,890
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}L</b></font>
+
+150
+00:04:05,090 --> 00:04:05,090
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}MENTION 15 NAMES OF SHOGUN TOKUGAWA</b></font>
+
+151
+00:04:05,090 --> 00:04:05,090
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font size="26"><font color="#29e2db">DEKIRU TV</font></font></b></font>
+
+152
+00:04:05,090 --> 00:04:05,090
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font size="22">with</font></b></font>
+
+153
+00:04:05,090 --> 00:04:05,090
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#ff01d0">MAAYA</font></b></font>
+
+154
+00:04:05,090 --> 00:04:05,660
+<font face="Courier" size="20"><i>{\an8}Shogun Tokugawa was a military leadership system, built by Tokugawa Ieyasu around 1603-1868. (Wikipedia)</i></font>
+
+155
+00:04:05,660 --> 00:04:09,180
+<font face="Courier" size="24"><b>Next challenge, a skill to
+mention 15 names of Shogun Tokugawa.</b></font>
+
+156
+00:04:09,180 --> 00:04:10,930
+<font size="18">{\an9}[Himura]: Extraordinary! [Akimoto]: Amazing!</font>
+
+157
+00:04:10,930 --> 00:04:10,930
+<font face="Arial Rounded MT Bold" size="18">{\an5}IEYASU</font>
+
+158
+00:04:10,930 --> 00:04:11,050
+<font face="Arial Rounded MT Bold" size="18">{\an5}HIDETADA</font>
+
+159
+00:04:11,050 --> 00:04:14,970
+<font size="24"><b>Here we go. Can we start this?
+- Alright! - Please!</b></font>
+
+160
+00:04:14,970 --> 00:04:16,370
+<font size="24"><b><i>Ieyasu</i>, <i>Hidetada</i>,...</b></font>
+
+161
+00:04:16,370 --> 00:04:18,190
+<font face="Arial Rounded MT Bold" size="18">{\an5}IEMITSU</font>
+
+162
+00:04:18,190 --> 00:04:19,340
+<font size="24"><b><i>Ieyasu</i>, <i>Hidetada</i>, <i>Iemitsu</i>,...</b></font>
+
+163
+00:04:19,340 --> 00:04:19,370
+<font face="Arial Rounded MT Bold" size="18">{\an5}IEMITSU</font>
+
+164
+00:04:19,370 --> 00:04:19,370
+<font face="Arial Rounded MT Bold" size="18">{\an5}IEYASU</font>
+
+165
+00:04:19,370 --> 00:04:19,370
+<font face="Arial Rounded MT Bold" size="18">{\an5}HIDETADA</font>
+
+166
+00:04:19,370 --> 00:04:20,970
+<font face="Arial Rounded MT Bold" size="18">{\an5}IETSUNA</font>
+
+167
+00:04:20,970 --> 00:04:24,980
+<font size="24"><b><i>Ietsune</i>, <i>tsune</i>, eh, <i>tsuna</i>?</b></font>
+
+168
+00:04:25,120 --> 00:04:26,750
+<font size="24"><b>"<i>Ito</i>" in its left "<i>Oka</i>",</b></font>
+
+169
+00:04:26,750 --> 00:04:26,750
+<font face="Arial Rounded MT Bold" size="18">{\an5}HIDETADA</font>
+
+170
+00:04:26,750 --> 00:04:26,750
+<font face="Arial Rounded MT Bold" size="18">{\an5}IEMITSU</font>
+
+171
+00:04:26,750 --> 00:04:26,750
+<font face="Arial Rounded MT Bold" size="18">{\an5}IETSUNA</font>
+
+172
+00:04:26,750 --> 00:04:29,050
+<font face="Arial Rounded MT Bold" size="18">{\an5}TSUNAYOSHI</font>
+
+173
+00:04:29,050 --> 00:04:33,370
+<font size="24"><b>Unexpected, so you can't read the kanji?
+ - You remember it from the characters? - Yes!</b></font>
+
+174
+00:04:33,370 --> 00:04:37,360
+<font size="24"><b>Next, "<i>Tsuna</i>", like that,
+then there's "<i>Yoshi</i>",</b></font>
+
+175
+00:04:37,360 --> 00:04:37,360
+<font face="Arial Rounded MT Bold" size="18">{\an5}IEMITSU</font>
+
+176
+00:04:37,360 --> 00:04:37,360
+<font face="Arial Rounded MT Bold" size="18">{\an5}IETSUNA</font>
+
+177
+00:04:37,360 --> 00:04:37,360
+<font face="Arial Rounded MT Bold" size="18">{\an5}TSUNAYOSHI</font>
+
+178
+00:04:37,360 --> 00:04:38,990
+<font face="Arial Rounded MT Bold" size="18">{\an5}IENOBU</font>
+
+179
+00:04:38,990 --> 00:04:40,680
+<font size="24"><b>"<i>Tsunayoshi</i>", then "<i>Ie</i>..."</b></font>
+
+180
+00:04:40,680 --> 00:04:41,950
+<font size="18">{\an9}[Shitara]: If you use <i>Tsuna</i> here, it's gonna be <i>Tsunaie</i> right?</font>
+
+181
+00:04:41,950 --> 00:04:43,830
+<font size="24"><b>Only "<i>Tsunayoshi</i>" has the "<i>Tsuna</i>".</b></font>
+
+182
+00:04:43,830 --> 00:04:45,830
+<font size="24"><b>Come on, try harder!</b></font>
+
+183
+00:04:45,830 --> 00:04:47,070
+<font size="24"><b>"<i>Ie</i>..." what?</b></font>
+
+184
+00:04:47,070 --> 00:04:49,920
+<font size="24"><b>It's almost come out here (head)!
+- Almost remember?</b></font>
+
+185
+00:04:50,040 --> 00:04:51,970
+<font size="24"><b>She pointed here, usually it's "<i>It's almost
+come out (throat)</i>!"</b></font>
+
+186
+00:04:51,970 --> 00:04:52,870
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}IT'S FROM THE MOUTH</b></font>
+
+187
+00:04:52,870 --> 00:04:55,570
+<font size="24"><b>This is impressive because it came from her head!</b></font>
+
+188
+00:04:56,190 --> 00:04:57,570
+<font size="24"><b>"<i>Ie</i>.." - Yeah?</b></font>
+
+189
+00:04:57,570 --> 00:05:00,480
+<font size="24"><b>Ah, yes! It has to be "<i>Ie...Ieyoro</i>"!</b></font>
+
+190
+00:05:00,480 --> 00:05:00,510
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}YORO?</b></font>
+
+191
+00:05:00,510 --> 00:05:00,670
+<font size="24"><b>It's "<i>Ieyoro</i>"!
+- "<i>Ieyoro</i>"? Like "<i>Yoro</i>" in "<i>Yoroshiku</i>"?</b></font>
+
+192
+00:05:00,670 --> 00:05:02,110
+<font size="18">{\an9}[Himura]: <i>Ieyoro</i>?!</font>
+
+193
+00:05:02,110 --> 00:05:04,180
+<font size="18">{\an9}[Shitara]: <i>Ieyoro</i> from <i>Yoroshiku</i>?</font>
+
+194
+00:05:04,180 --> 00:05:04,180
+<font face="Arial Rounded MT Bold" size="18">{\an5}IETSUNA</font>
+
+195
+00:05:04,180 --> 00:05:04,180
+<font face="Arial Rounded MT Bold" size="18">{\an5}TSUNAYOSHI</font>
+
+196
+00:05:04,180 --> 00:05:04,180
+<font face="Arial Rounded MT Bold" size="18">{\an5}IENOBU</font>
+
+197
+00:05:04,180 --> 00:05:04,320
+<font face="Arial Rounded MT Bold" size="18">{\an5}IETSUGU</font>
+
+198
+00:05:04,320 --> 00:05:06,550
+<font size="24"><b>You remember "<i>Ieyoro</i>" from that?
+- "<i>Ieyoro</i>", then...</b></font>
+
+199
+00:05:06,550 --> 00:05:08,990
+<font size="24"><b>Eh? This is a different "<i>Yoro</i>" with "<i>Yoroshiku</i>",</b></font>
+
+200
+00:05:08,990 --> 00:05:08,990
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font size="16"><font color="#000000">IE<font color="#1427d7"> YORO</font></font></font></b></font>
+
+201
+00:05:08,990 --> 00:05:09,520
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font size="16"><font color="#000000">IE<font color="#e61d18"> NOBU</font></font></font></b></font>
+
+202
+00:05:09,520 --> 00:05:11,680
+<font size="24"><b>The character is different, you read it wrong!</b></font>
+
+203
+00:05:11,680 --> 00:05:13,030
+<font size="18">{\an9}[Shitara]: It is similar!</font>
+
+204
+00:05:13,030 --> 00:05:13,900
+<font size="24"><b>Then "<i>Ie</i>" with "<i>Kei</i>" from "<i>Chuukei</i> (connecting)".</b></font>
+
+205
+00:05:13,900 --> 00:05:15,680
+<font size="24"><b>- What a unique way of remembering!</b></font>
+
+206
+00:05:15,680 --> 00:05:16,730
+<font size="18">{\an9}[Shitara]: Huh? Why was that so messy?</font>
+
+207
+00:05:16,730 --> 00:05:16,730
+<font face="Arial Rounded MT Bold" size="18">{\an5}TSUNAYOSHI</font>
+
+208
+00:05:16,730 --> 00:05:16,730
+<font face="Arial Rounded MT Bold" size="18">{\an5}IENOBU</font>
+
+209
+00:05:16,730 --> 00:05:16,730
+<font face="Arial Rounded MT Bold" size="18">{\an5}IETSUGU</font>
+
+210
+00:05:16,730 --> 00:05:17,060
+<font face="Arial Rounded MT Bold" size="18">{\an5}YOSHIMUNE</font>
+
+211
+00:05:17,060 --> 00:05:18,240
+<font size="24"><b>- Really! - So, his name...</b></font>
+
+212
+00:05:18,240 --> 00:05:20,160
+<font size="18">{\an9}[Takayama]: Amazing! 
+[Nanamin]: She remembers using that!</font>
+
+213
+00:05:20,160 --> 00:05:23,940
+<font size="24"><b>"<i>Ie...kei</i>"? - Clearly not!
+ Ah "<i>Iekei</i>", - "<i>Ietsugu</i>".</b></font>
+
+214
+00:05:23,940 --> 00:05:26,170
+<font size="24"><b>"<i>Ietsugu</i>",
+- "<i>Iekei</i>" is a ramen shop!</b></font>
+
+215
+00:05:26,170 --> 00:05:26,590
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}A HEAVY FOOD</b></font>
+
+216
+00:05:26,590 --> 00:05:26,920
+<font size="24"><b>Keep going!
+- "<i>Yoshimune</i>"</b></font>
+
+217
+00:05:26,920 --> 00:05:27,440
+<font size="18">{\an9}[Shitara]: Iekei!</font>
+
+218
+00:05:27,440 --> 00:05:27,440
+<font face="Arial Rounded MT Bold" size="18">{\an5}IENOBU</font>
+
+219
+00:05:27,440 --> 00:05:27,440
+<font face="Arial Rounded MT Bold" size="18">{\an5}IETSUGU</font>
+
+220
+00:05:27,440 --> 00:05:27,440
+<font face="Arial Rounded MT Bold" size="18">{\an5}YOSHIMUNE</font>
+
+221
+00:05:27,440 --> 00:05:29,210
+<font face="Arial Rounded MT Bold" size="18">{\an5}IESHIGE</font>
+
+222
+00:05:29,210 --> 00:05:30,360
+<font size="24"><b>"<i>Ieomo</i>"</b></font>
+
+223
+00:05:30,360 --> 00:05:31,080
+<font size="18">{\an9}[Shitara]: Ieomo?!</font>
+
+224
+00:05:31,080 --> 00:05:31,610
+<font size="24"><b>That "<i>Ieshige</i>"!
+ - "<i>Ieshige</i>",</b></font>
+
+225
+00:05:31,610 --> 00:05:31,610
+<font face="Arial Rounded MT Bold" size="18">{\an5}IETSUGU</font>
+
+226
+00:05:31,610 --> 00:05:31,610
+<font face="Arial Rounded MT Bold" size="18">{\an5}YOSHIMUNE</font>
+
+227
+00:05:31,610 --> 00:05:31,610
+<font face="Arial Rounded MT Bold" size="18">{\an5}IESHIGE</font>
+
+228
+00:05:31,610 --> 00:05:31,640
+<font face="Arial Rounded MT Bold" size="18">{\an5}IEHARU</font>
+
+229
+00:05:31,640 --> 00:05:33,260
+<font size="18">{\an9}[Matsumura]: Amazing!</font>
+
+230
+00:05:33,260 --> 00:05:36,250
+<font size="24"><b>Because "<i>Ie</i>(house)" "<i>Omo</i>(broken)" so "<i>Naoru</i> (fixed)".
+ Ah, "Ienaoru".</b></font>
+
+231
+00:05:36,250 --> 00:05:37,080
+<font size="24"><b>"<i>Ie..Nao</i>"  - "<i>Ieharu</i>"
+"<i>Ieharu</i>",</b></font>
+
+232
+00:05:37,080 --> 00:05:37,120
+<font size="18">{\an9}[Himura]: Great!
+[Shitara]: She can imagine it like that</font>
+
+233
+00:05:37,120 --> 00:05:37,120
+<font face="Arial Rounded MT Bold" size="18">{\an5}YOSHIMUNE</font>
+
+234
+00:05:37,120 --> 00:05:37,120
+<font face="Arial Rounded MT Bold" size="18">{\an5}IESHIGE</font>
+
+235
+00:05:37,120 --> 00:05:37,120
+<font face="Arial Rounded MT Bold" size="18">{\an5}IEHARU</font>
+
+236
+00:05:37,120 --> 00:05:38,410
+<font face="Arial Rounded MT Bold" size="18">{\an5}IENARI</font>
+
+237
+00:05:38,410 --> 00:05:42,190
+<font size="24"><b>"<i>Ie</i>" with "<i>Sai</i>" like in "<i>Saitou</i>"</b></font>
+
+238
+00:05:42,190 --> 00:05:45,120
+<font size="24"><b>This one? - Combined?
+Right.</b></font>
+
+239
+00:05:45,120 --> 00:05:45,720
+<font size="24"><b>So "<i>Ienari</i>" 
+- "<i>Ienari</i>",</b></font>
+
+240
+00:05:45,720 --> 00:05:45,720
+<font face="Arial Rounded MT Bold" size="18">{\an5}IESHIGE</font>
+
+241
+00:05:45,720 --> 00:05:45,720
+<font face="Arial Rounded MT Bold" size="18">{\an5}IEHARU</font>
+
+242
+00:05:45,720 --> 00:05:45,720
+<font face="Arial Rounded MT Bold" size="18">{\an5}IENARI</font>
+
+243
+00:05:45,720 --> 00:05:47,120
+<font face="Arial Rounded MT Bold" size="18">{\an5}IEYOSHI</font>
+
+244
+00:05:47,120 --> 00:05:48,360
+<font size="24"><b>"<i>Ie</i>.." with... Ah! That, that, that!</b></font>
+
+245
+00:05:48,360 --> 00:05:51,160
+<font size="24"><b>- Amazing, she only remembers "<i>Ie</i>" and
+then connects it from there.</b></font>
+
+246
+00:05:51,440 --> 00:05:53,900
+<font size="24"><b>He had a poor life, but... Ah!</b></font>
+
+247
+00:05:53,900 --> 00:05:57,640
+<font size="24"><b>Hold on!
+- He went to Keiou University! Means "<i>Ie</i>"
+plus "<i>Kei</i>" from "<i>Keiou</i>".</b></font>
+
+248
+00:05:57,640 --> 00:05:58,040
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font size="16">SCHOOL AND WORK</font></b></font>
+
+249
+00:05:58,040 --> 00:06:00,040
+<font size="24"><b>Hold on, something's wrong.
+- Something's wrong!</b></font>
+
+250
+00:06:00,040 --> 00:06:02,120
+<font size="24"><b>Please don't change the history
+of Tokugawa Clan as you wish!</b></font>
+
+251
+00:06:02,120 --> 00:06:05,810
+<font size="24"><b>"<i>Even he was poor, but he went to
+Keiou University</i>", Shogun like that didn't exist!</b></font>
+
+252
+00:06:05,810 --> 00:06:06,040
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}A SUPER POOR SHOGUN</b></font>
+
+253
+00:06:06,040 --> 00:06:09,610
+<font size="24"><b>- It's like that so I remember.
+So that's why he went to Keiou University.</b></font>
+
+254
+00:06:09,610 --> 00:06:11,610
+<font size="24"><b>"<i>Ie</i>..", with "<i>Kei</i>" like in "<i>Keiou</i>",</b></font>
+
+255
+00:06:11,610 --> 00:06:12,450
+<font size="24"><b>That "<i>Ieyoshi</i>"!
+- "<i>Ieyoshi</i>",</b></font>
+
+256
+00:06:12,450 --> 00:06:12,450
+<font face="Arial Rounded MT Bold" size="18">{\an5}IEHARU</font>
+
+257
+00:06:12,450 --> 00:06:12,450
+<font face="Arial Rounded MT Bold" size="18">{\an5}IENARI</font>
+
+258
+00:06:12,450 --> 00:06:12,450
+<font face="Arial Rounded MT Bold" size="18">{\an5}IEYOSHI</font>
+
+259
+00:06:12,450 --> 00:06:14,120
+<font face="Arial Rounded MT Bold" size="18">{\an5}IESADA</font>
+
+260
+00:06:14,120 --> 00:06:15,610
+<font size="24"><b>And then...</b></font>
+
+261
+00:06:16,350 --> 00:06:17,610
+<font size="24"><b>Umm...</b></font>
+
+262
+00:06:17,840 --> 00:06:19,260
+<font size="24"><b>Then the character in "<i>Sadamaru</i> (assigned)".
+- That's "<i>Iesada</i>"! - "<i>Iesada</i>",</b></font>
+
+263
+00:06:19,260 --> 00:06:19,830
+<font size="18">{\an9}[Himura]: I see!</font>
+
+264
+00:06:19,830 --> 00:06:19,830
+<font face="Arial Rounded MT Bold" size="18">{\an5}IENARI</font>
+
+265
+00:06:19,830 --> 00:06:19,830
+<font face="Arial Rounded MT Bold" size="18">{\an5}IEYOSHI</font>
+
+266
+00:06:19,830 --> 00:06:19,830
+<font face="Arial Rounded MT Bold" size="18">{\an5}IESADA</font>
+
+267
+00:06:19,830 --> 00:06:21,260
+<font face="Arial Rounded MT Bold" size="18">{\an5}IEMOCHI</font>
+
+268
+00:06:21,260 --> 00:06:22,630
+<font size="24"><b>Then "<i>Iemochi</i>",</b></font>
+
+269
+00:06:22,630 --> 00:06:22,630
+<font face="Arial Rounded MT Bold" size="18">{\an5}IEYOSHI</font>
+
+270
+00:06:22,630 --> 00:06:22,630
+<font face="Arial Rounded MT Bold" size="18">{\an5}IESADA</font>
+
+271
+00:06:22,630 --> 00:06:22,630
+<font face="Arial Rounded MT Bold" size="18">{\an5}IEMOCHI</font>
+
+272
+00:06:22,630 --> 00:06:23,210
+<font face="Arial Rounded MT Bold" size="18">{\an5}YOSHINOBU</font>
+
+273
+00:06:23,210 --> 00:06:23,880
+<font size="24"><b>This one guy was amazing,
+a guy with broken teeth.</b></font>
+
+274
+00:06:23,880 --> 00:06:25,230
+<font size="24"><b>- Last one!</b></font>
+
+275
+00:06:26,670 --> 00:06:26,670
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font size="12"><font color="#000000">TOKUGAWA IEMOCHI</font></font></b></font>
+
+276
+00:06:26,670 --> 00:06:26,670
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#58abd1">m 0 0 l 0 0 l 17 0 l 17 7 l 0 7 </font></b></font>
+
+277
+00:06:26,670 --> 00:06:27,230
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font size="16">He said to be dead in his twenties,
+because he loved sweets which made his teeth broken.</font></b></font>
+
+278
+00:06:27,230 --> 00:06:29,230
+<font size="24"><b>Eh? Is there any some kind of information like that?</b></font>
+
+279
+00:06:29,230 --> 00:06:31,160
+<font size="24"><b>We learned lot of new things about these leaders.</b></font>
+
+280
+00:06:31,160 --> 00:06:31,980
+<font size="18">{\an9}[Ikoma]: Now that's a new trivia!</font>
+
+281
+00:06:31,980 --> 00:06:34,370
+<font size="24"><b>You're maniac with this thing.</b></font>
+
+282
+00:06:34,370 --> 00:06:37,130
+<font size="24"><b>This feels like she's giving them a curse or something.</b></font>
+
+283
+00:06:37,130 --> 00:06:43,480
+<font size="24"><b>Go on!
+- And lastly, because he successfully accepted into Keiou, 
+he "<i>Yorokobu</i> (thankful)!</b></font>
+
+284
+00:06:43,480 --> 00:06:45,320
+<font size="24"><b>And how do you call him?
+- "<i>Kei..yoro</i>"!</b></font>
+
+285
+00:06:45,320 --> 00:06:47,450
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}[YORO] AGAIN</b></font>
+
+286
+00:06:47,450 --> 00:06:47,880
+<font size="24"><b>That's like "<i>Keidoro</i> (cop & thief)".
+- There was no such man in <i>Shitoku</i> history.</b></font>
+
+287
+00:06:47,880 --> 00:06:50,890
+<font size="18">{\an9}[Shitara]: She said she can!
+[Himura]: What's with this girl?</font>
+
+288
+00:06:50,890 --> 00:06:53,960
+<font face="Courier" size="24"><b>So you made up a story
+to be able to remember it easier?</b></font>
+
+289
+00:06:54,060 --> 00:06:56,600
+<font face="Courier" size="24"><b>Exactly, with story...
+- Like "<i>Ie</i> (house)" that "<i>Omo</i> (broken)",</b></font>
+
+290
+00:06:56,600 --> 00:06:57,930
+<font size="24"><b>"<i>Ie</i> (house)" that "<i>Omo</i> (broken)",</b></font>
+
+291
+00:06:57,930 --> 00:06:57,930
+<font face="Arial Rounded MT Bold" size="18">{\an5}YOSHIMUNE</font>
+
+292
+00:06:57,930 --> 00:06:57,930
+<font face="Arial Rounded MT Bold" size="18">{\an5}IESHIGE</font>
+
+293
+00:06:57,930 --> 00:06:58,600
+<font face="Arial Rounded MT Bold" size="18">{\an5}IEHARU</font>
+
+294
+00:06:58,600 --> 00:07:01,600
+<font size="24"><b>Since it's broken, then it has to be "<i>Nao</i> (fix)", 
+so "<i>Ienao</i>".</b></font>
+
+295
+00:07:01,600 --> 00:07:01,600
+<font face="Arial Rounded MT Bold" size="18">{\an5}YOSHIMUNE</font>
+
+296
+00:07:01,600 --> 00:07:01,600
+<font face="Arial Rounded MT Bold" size="18">{\an5}IESHIGE</font>
+
+297
+00:07:01,600 --> 00:07:01,600
+<font face="Arial Rounded MT Bold" size="18">{\an5}IEHARU</font>
+
+298
+00:07:01,600 --> 00:07:03,370
+<font face="Arial Rounded MT Bold" size="18">{\an5}IENARI</font>
+
+299
+00:07:03,370 --> 00:07:07,160
+<font size="24"><b>And someone who lives there is
+Saito-san, so I took "<i>Sai</i>".</b></font>
+
+300
+00:07:07,160 --> 00:07:07,570
+<font size="18">{\an9}[Takayama]: Ah, good!
+[Matsumura]: Amazing!</font>
+
+301
+00:07:07,570 --> 00:07:07,570
+<font face="Arial Rounded MT Bold" size="18">{\an5}IESHIGE</font>
+
+302
+00:07:07,570 --> 00:07:07,570
+<font face="Arial Rounded MT Bold" size="18">{\an5}IEHARU</font>
+
+303
+00:07:07,570 --> 00:07:07,570
+<font face="Arial Rounded MT Bold" size="18">{\an5}IENARI</font>
+
+304
+00:07:07,570 --> 00:07:08,190
+<font face="Arial Rounded MT Bold" size="18">{\an5}IEYOSHI</font>
+
+305
+00:07:08,190 --> 00:07:11,580
+<font size="24"><b>Then since he's poor,</b></font>
+
+306
+00:07:11,580 --> 00:07:15,640
+<font size="24"><b>I thought his parents advised him
+to study harder,</b></font>
+
+307
+00:07:15,640 --> 00:07:16,720
+<font size="24"><b>so he may went to Keiou University, so "<i>Iekei</i>".</b></font>
+
+308
+00:07:16,720 --> 00:07:16,720
+<font face="Arial Rounded MT Bold" size="18">{\an5}IEHARU</font>
+
+309
+00:07:16,720 --> 00:07:16,720
+<font face="Arial Rounded MT Bold" size="18">{\an5}IENARI</font>
+
+310
+00:07:16,720 --> 00:07:16,720
+<font face="Arial Rounded MT Bold" size="18">{\an5}IEYOSHI</font>
+
+311
+00:07:16,720 --> 00:07:18,460
+<font face="Arial Rounded MT Bold" size="18">{\an5}IESADA</font>
+
+312
+00:07:18,460 --> 00:07:21,290
+<font size="24"><b>And finally he's "<i>Sadamatta</i> (decided)" to be accepted
+into Keiou.</b></font>
+
+313
+00:07:21,290 --> 00:07:21,290
+<font face="Arial Rounded MT Bold" size="18">{\an5}IENARI</font>
+
+314
+00:07:21,290 --> 00:07:21,290
+<font face="Arial Rounded MT Bold" size="18">{\an5}IEYOSHI</font>
+
+315
+00:07:21,290 --> 00:07:21,290
+<font face="Arial Rounded MT Bold" size="18">{\an5}IESADA</font>
+
+316
+00:07:21,290 --> 00:07:22,550
+<font face="Arial Rounded MT Bold" size="18">{\an5}IEMOCHI</font>
+
+317
+00:07:22,550 --> 00:07:25,000
+<font size="24"><b>Decided to be accepted succesfully,
+"<i>Sadamatta</i>" - "<i>Sadamatta</i>"?</b></font>
+
+318
+00:07:25,000 --> 00:07:28,990
+<font size="24"><b>Then "<i>Shi</i>", which one is that?
+- Maybe it's from "<i>Shikeru</i> (rich)",</b></font>
+
+319
+00:07:29,360 --> 00:07:30,330
+<font size="24"><b>"<i>Shi</i>..."
+- That, "<i>Iemochi</i>"</b></font>
+
+320
+00:07:30,330 --> 00:07:30,330
+<font face="Arial Rounded MT Bold" size="18">{\an5}IEYOSHI</font>
+
+321
+00:07:30,330 --> 00:07:30,330
+<font face="Arial Rounded MT Bold" size="18">{\an5}IESADA</font>
+
+322
+00:07:30,330 --> 00:07:30,330
+<font face="Arial Rounded MT Bold" size="18">{\an5}IEMOCHI</font>
+
+323
+00:07:30,330 --> 00:07:30,990
+<font face="Arial Rounded MT Bold" size="18">{\an5}YOSHINOBU</font>
+
+324
+00:07:30,990 --> 00:07:34,400
+<font size="24"><b>Right, after it's been decided, here I can only
+remember about broken teeth.</b></font>
+
+325
+00:07:34,400 --> 00:07:35,170
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font size="16">UNRELATED STORY</font></b></font>
+
+326
+00:07:35,170 --> 00:07:35,310
+<font size="24"><b>Why that?
+- I guess since it was his habit.</b></font>
+
+327
+00:07:35,310 --> 00:07:37,580
+<font size="18">{\an9}[Himura]: Why?</font>
+
+328
+00:07:37,580 --> 00:07:38,200
+<font size="18">{\an9}[Shitara]: Why did she think about this?</font>
+
+329
+00:07:38,200 --> 00:07:39,950
+<font size="24"><b>Suddenly the story takes a different turn here.
+ - Yes, and lastly...</b></font>
+
+330
+00:07:39,950 --> 00:07:40,470
+<font size="18">{\an9}[Himura]: Menarik sekali, ya!</font>
+
+331
+00:07:40,470 --> 00:07:40,470
+<font face="Arial Rounded MT Bold" size="18">{\an5}IESADA</font>
+
+332
+00:07:40,470 --> 00:07:40,470
+<font face="Arial Rounded MT Bold" size="18">{\an5}IEMOCHI</font>
+
+333
+00:07:40,470 --> 00:07:42,940
+<font face="Arial Rounded MT Bold" size="18">{\an5}YOSHINOBU</font>
+
+334
+00:07:42,940 --> 00:07:43,940
+<font size="24"><b>"<i>Yoro</i>..." that, since he got accepted by Keiou, 
+he's "<i>Yorokobu</i> (thankful)". - I see.</b></font>
+
+335
+00:07:43,940 --> 00:07:43,940
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}F</b></font>
+
+336
+00:07:43,940 --> 00:07:43,940
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}A</b></font>
+
+337
+00:07:43,940 --> 00:07:43,940
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}I</b></font>
+
+338
+00:07:43,940 --> 00:07:48,550
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}L</b></font>
+
+339
+00:07:49,550 --> 00:07:51,580
+<font face="Courier" size="24"><b>Then she also sharpened pencil
+beautifully with scissor.</b></font>
+
+340
+00:07:51,580 --> 00:07:53,580
+<font size="18">{\an9}[Ikoma]: She can do this too!</font>
+
+341
+00:07:53,580 --> 00:07:54,120
+<font size="18">{\an9}[Himura]: Can she?</font>
+
+342
+00:07:54,120 --> 00:07:55,590
+<font face="Courier" size="24"><b>But this thing is not suited
+for the segment on this TV.</b></font>
+
+343
+00:07:55,590 --> 00:07:55,590
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}S</b></font>
+
+344
+00:07:55,590 --> 00:07:55,590
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}U</b></font>
+
+345
+00:07:55,590 --> 00:07:55,590
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}C</b></font>
+
+346
+00:07:55,590 --> 00:07:55,590
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}C</b></font>
+
+347
+00:07:55,590 --> 00:07:55,590
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}E</b></font>
+
+348
+00:07:55,590 --> 00:07:55,590
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}S</b></font>
+
+349
+00:07:55,590 --> 00:07:57,210
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}S</b></font>
+
+350
+00:07:57,210 --> 00:07:59,120
+<font size="18">{\an9}[Shitara]: This is bad
+[Himura]: Why do we have to look at this?</font>
+
+351
+00:07:59,120 --> 00:07:59,500
+<font face="Courier" size="20"><i>{\an8}Gindango = food made from rice flour,
+greased with sauce from Gingko peanut</i></font>
+
+352
+00:07:59,500 --> 00:08:03,500
+<font face="Courier" size="24"><b>There's a moment where she ate <i>Gindango</i> with
+a very delicious way more than anyone.</b></font>
+
+353
+00:08:03,500 --> 00:08:04,600
+<font face="Courier" size="24"><b>Since it's not that interesting to be shown in front of camera,
+then this segment is over!</b></font>
+
+354
+00:08:04,600 --> 00:08:04,600
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}S</b></font>
+
+355
+00:08:04,600 --> 00:08:04,600
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}U</b></font>
+
+356
+00:08:04,600 --> 00:08:04,600
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}C</b></font>
+
+357
+00:08:04,600 --> 00:08:04,600
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}C</b></font>
+
+358
+00:08:04,600 --> 00:08:04,600
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}E</b></font>
+
+359
+00:08:04,600 --> 00:08:04,600
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}S</b></font>
+
+360
+00:08:04,600 --> 00:08:07,870
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}S</b></font>
+
+361
+00:08:14,220 --> 00:08:16,140
+<font face="Courier" size="24"><b>NOGIZAKA KOUJICHUU</b></font>
+
+362
+00:08:16,250 --> 00:08:16,270
+<font face="Courier" size="24"><b>Alright Nogizaka Koujichuu is starting,</b></font>
+
+363
+00:08:16,270 --> 00:08:16,270
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#f1ed12">BANANAMAN</font></b></font>
+
+364
+00:08:16,270 --> 00:08:16,270
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#2b2a24">HIMURA YUKI</font></b></font>
+
+365
+00:08:16,270 --> 00:08:19,340
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#2b2a24">SHITARA OSAMU</font></b></font>
+
+366
+00:08:19,480 --> 00:08:22,680
+<font face="Courier" size="24"><b>and here are the present members today.
+- <i>Onegaishimasu</i>~</b></font>
+
+367
+00:08:24,680 --> 00:08:25,820
+<font face="Courier" size="24"><b>This time it's Wada.
+- Yes, <i>Onegaishimasu</i>.</b></font>
+
+368
+00:08:25,820 --> 00:08:27,240
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#090007">WADA MAAYA</font></b></font>
+
+369
+00:08:27,240 --> 00:08:30,690
+<font face="Courier" size="24"><b>This time Wada did a
+"<i>I can do it if I'm serious</i>" segment? - Yes!</b></font>
+
+370
+00:08:31,040 --> 00:08:31,960
+<font face="Courier" size="24"><b>What was that?</b></font>
+
+371
+00:08:31,960 --> 00:08:31,960
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#2d2d28">m 145 -10 l -46 -10 l -46 4 l 145 4</font></b></font>
+
+372
+00:08:31,960 --> 00:08:32,690
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}SUPER UNIQUE VTR</b></font>
+
+373
+00:08:32,690 --> 00:08:33,930
+<font face="Courier" size="24"><b>Why were you that relaxed?</b></font>
+
+374
+00:08:33,930 --> 00:08:37,700
+<font face="Courier" size="24"><b>It's like, since everyone think
+I can't do it</b></font>
+
+375
+00:08:37,700 --> 00:08:41,280
+<font face="Courier" size="24"><b>I see.
+- I want to say "<i>I can't do it</i>" with that VTR...</b></font>
+
+376
+00:08:41,280 --> 00:08:45,570
+<font face="Courier" size="24"><b>The way you remember Tokugawa names was
+very interesting. - Ah, really?</b></font>
+
+377
+00:08:45,570 --> 00:08:48,110
+<font face="Courier" size="24"><b>The way to remember like that,
+did you make it yourself?</b></font>
+
+378
+00:08:48,110 --> 00:08:52,640
+<font face="Courier" size="24"><b>I made my own story
+to be able to remember all those names.</b></font>
+
+379
+00:08:52,640 --> 00:08:54,640
+<font face="Courier" size="24"><b>Then there's also piano.</b></font>
+
+380
+00:08:54,850 --> 00:08:54,850
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#2d2d28">m 145 -10 l -46 -10 l -46 4 l 145 4</font></b></font>
+
+381
+00:08:54,850 --> 00:08:55,850
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}JUST THE INTRO</b></font>
+
+382
+00:08:55,850 --> 00:08:56,810
+<font face="Courier" size="24"><b>What was that?</b></font>
+
+383
+00:08:56,810 --> 00:09:00,680
+<font face="Courier" size="24"><b>It was actually pretty good, but it's only the intro.  
+- Actually you can, why wouldn't you continue?</b></font>
+
+384
+00:09:00,680 --> 00:09:05,390
+<font face="Courier" size="24"><b>When you're about to finish you can, like, slow it down. 
+- Ah right. There's that way.</b></font>
+
+385
+00:09:09,600 --> 00:09:13,070
+<font face="Courier" size="24"><b>Like that. 
+- Right, right. "<i>I am done</i>~~!",
+<b>you can say it to anyone.</b></b></font>
+
+386
+00:09:13,070 --> 00:09:13,070
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#2d2d28">m 145 -10 l -46 -10 l -46 4 l 145 4</font></b></font>
+
+387
+00:09:13,070 --> 00:09:13,600
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}READY TO GET LAUGHED AT</b></font>
+
+388
+00:09:13,600 --> 00:09:15,320
+<font face="Courier" size="24"><b>You also played slowly.</b></font>
+
+389
+00:09:15,920 --> 00:09:17,870
+<font face="Courier" size="24"><b>Today too... 
+- Yes!</b></font>
+
+390
+00:09:17,870 --> 00:09:21,970
+<font face="Courier" size="24"><b>We will do a lot of things
+related to this topic. - Okay!</b></font>
+
+391
+00:09:21,970 --> 00:09:23,970
+<font face="Courier" size="24"><b>Himura-san, - Yes!
+Please!</b></font>
+
+392
+00:09:23,970 --> 00:09:29,750
+<font face="Courier" size="24"><b>If we're serious, don't you think we can do it?
+NOGIZAKA CHALLENGE!</b></font>
+
+393
+00:09:32,190 --> 00:09:34,720
+<font face="Courier" size="24"><b>No matter who wants to do it or not</b></font>
+
+394
+00:09:34,720 --> 00:09:38,860
+<font face="Courier" size="24"><b>We will find out, are the members
+can they do it if they're serious?</b></font>
+
+395
+00:09:39,100 --> 00:09:44,460
+<font face="Courier" size="24"><b>The said members will do
+one challenge without practice beforehand in the studio!</b></font>
+
+396
+00:09:45,530 --> 00:09:45,660
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font size="24"> <font color="#070105">IKOMA RINA</font></font></b></font>
+
+397
+00:09:45,660 --> 00:09:46,930
+<font face="Courier" size="24"><b>If you're serious, you can do it!
+First turn, Ikoma.</b></font>
+
+398
+00:09:46,930 --> 00:09:46,930
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#ffd102">NOGIZAKA CHALLENGE</font></b></font>
+
+399
+00:09:46,930 --> 00:09:49,700
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#ffd102">IF WE'RE SERIOUS, WE CAN DO IT FOR SURE</font></b></font>
+
+400
+00:09:49,720 --> 00:09:51,570
+<font face="Courier" size="24"><b>What Ikoma wants to do is...</b></font>
+
+401
+00:09:51,570 --> 00:09:52,100
+<font face="Courier" size="24"><b>Perhaps I can do <i>Saka Agari</i> now...</b></font>
+
+402
+00:09:52,100 --> 00:09:53,570
+<font face="Courier" size="20"><i>{\an8}Saka Agari = an exercise to lift our body
+using horizontal bar</i></font>
+
+403
+00:09:53,570 --> 00:09:53,570
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#fdd002">THINGS THAT SURELY CAN BE DONE IF WE'RE SERIOUS</font></b></font>
+
+404
+00:09:53,570 --> 00:09:55,070
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font size="26"><font color="#663500"> SAKA AGARI</font></font></b></font>
+
+405
+00:09:55,070 --> 00:09:58,480
+<font face="Courier" size="24"><b>Couldn't you do it before?
+- I never could.</b></font>
+
+406
+00:09:58,680 --> 00:10:00,650
+<font face="Courier" size="24"><b>Not even once?
+- Not even once.</b></font>
+
+407
+00:10:00,650 --> 00:10:04,450
+<font face="Courier" size="24"><b>But since I entered Nogizaka, maybe
+my muscles are defined a little bit.</b></font>
+
+408
+00:10:04,450 --> 00:10:06,750
+<font face="Courier" size="24"><b>That's why maybe I can do
+<i>Saka Agari</i>.</b></font>
+
+409
+00:10:07,120 --> 00:10:07,290
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font size="24"> <font color="#070105">IKOMA RINA</font></font></b></font>
+
+410
+00:10:07,290 --> 00:10:08,490
+<font face="Courier" size="24"><b>Can she successfully do it?
+Here's the Saka Agari challenge.</b></font>
+
+411
+00:10:08,490 --> 00:10:11,690
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#683200">SAKA AGARI CHALLENGE</font></b></font>
+
+412
+00:10:11,690 --> 00:10:13,690
+<font face="Courier" size="24"><b>Give your best!
+- Do you believe you can do it?</b></font>
+
+413
+00:10:13,690 --> 00:10:16,190
+<font face="Courier" size="24"><b>Yosh!
+- Do you wear pants under your skirt?</b></font>
+
+414
+00:10:16,190 --> 00:10:19,530
+<font face="Courier" size="24"><b>Ah, she just lifted it like that.
+- Don't worry, everything is safe.</b></font>
+
+415
+00:10:20,720 --> 00:10:23,640
+<font face="Courier" size="24"><b>There you go, the full spirited Ikoma.</b></font>
+
+416
+00:10:23,760 --> 00:10:25,640
+<font face="Courier" size="24"><b>Ready? - Yes!
+- You only have once chance.</b></font>
+
+417
+00:10:25,680 --> 00:10:30,490
+<font face="Courier" size="24"><b>"<i>If you're serious, you can do it</i>", one time challenge
+for Ikoma, Saka Agari. Please start!</b></font>
+
+418
+00:10:34,490 --> 00:10:35,410
+<font face="Courier" size="24"><b>Aaa~~!!!</b></font>
+
+419
+00:10:35,410 --> 00:10:36,920
+<font face="Courier" size="24"><b>Careful! Careful!</b></font>
+
+420
+00:10:37,870 --> 00:10:41,590
+<font face="Courier" size="24"><b>Unexpectedly Ikoma let her hands
+go when she did Saka Agari.</b></font>
+
+421
+00:10:41,880 --> 00:10:46,760
+<font face="Courier" size="24"><b>Something every ten years old kids
+can do, but she...</b></font>
+
+422
+00:10:47,770 --> 00:10:50,000
+<font face="Courier" size="24"><b>Okay, finished~</b></font>
+
+423
+00:10:50,220 --> 00:10:52,000
+<font face="Courier" size="24"><b>Why did you let your hand go?</b></font>
+
+424
+00:10:52,640 --> 00:10:55,100
+<font face="Courier" size="24"><b>Yeah why?
+- You clearly can't do it!</b></font>
+
+425
+00:10:55,420 --> 00:10:56,800
+<font face="Courier" size="24"><b>Ikoma can't do it at all!</b></font>
+
+426
+00:10:56,800 --> 00:10:59,280
+<font face="Courier" size="24"><b>Wada can you do Saka Agari?
+- I can!</b></font>
+
+427
+00:10:59,280 --> 00:11:02,710
+<font face="Courier" size="24"><b>Really? - Yes! 
+- Alright, this you surely can do it. - Yes.</b></font>
+
+428
+00:11:02,710 --> 00:11:05,370
+<font face="Courier" size="24"><b>Can you?
+- I don't know. Yeah probably.</b></font>
+
+429
+00:11:05,740 --> 00:11:05,960
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font size="24"> <font color="#070105">WADA MAAYA</font></font></b></font>
+
+430
+00:11:05,960 --> 00:11:07,150
+<font face="Courier" size="24"><b>Sudden challenge today, Wada will do
+Saka Agari challenge once too.</b></font>
+
+431
+00:11:07,150 --> 00:11:10,450
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#683200">SAKA AGARI CHALLENGE</font></b></font>
+
+432
+00:11:10,460 --> 00:11:13,190
+<font face="Courier" size="24"><b>- There you go, Maaya!
+Wada, Saka Agari challenge once.
+- I'll start!</b></font>
+
+433
+00:11:13,190 --> 00:11:15,190
+<font face="Courier" size="24"><b>Start? You okay?
+ - Here I go!</b></font>
+
+434
+00:11:15,870 --> 00:11:17,190
+<font face="Courier" size="24"><b>Okay!</b></font>
+
+435
+00:11:18,790 --> 00:11:18,790
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#2d2d28">m 145 -10 l -46 -10 l -46 4 l 145 4</font></b></font>
+
+436
+00:11:18,790 --> 00:11:20,280
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}SPASTIC FEET UP IN THE AIR</b></font>
+
+437
+00:11:20,280 --> 00:11:24,560
+<font face="Courier" size="24"><b>You can't do it!
+- Feet movement like that
+is not how you do Saka Agari!</b></font>
+
+438
+00:11:24,560 --> 00:11:27,680
+<font face="Courier" size="24"><b>Try to not move your legs.
+- Once more! Here I go!</b></font>
+
+439
+00:11:29,070 --> 00:11:29,070
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#2d2d28">m 145 -10 l -46 -10 l -46 4 l 145 4</font></b></font>
+
+440
+00:11:29,070 --> 00:11:30,190
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}CAN'T STOP</b></font>
+
+441
+00:11:30,190 --> 00:11:33,210
+<font face="Courier" size="24"><b>Eh? You can't stop? 
+- Again!</b></font>
+
+442
+00:11:33,210 --> 00:11:35,210
+<font face="Courier" size="24"><b>So I can't do it.</b></font>
+
+443
+00:11:36,600 --> 00:11:38,680
+<font face="Courier" size="24"><b>Can you?
+- I can't.</b></font>
+
+444
+00:11:38,680 --> 00:11:42,010
+<font face="Courier" size="24"><b>Could you do it before?
+- I did it few times but...</b></font>
+
+445
+00:11:42,330 --> 00:11:44,810
+<font face="Courier" size="24"><b>I was using that climbing board.</b></font>
+
+446
+00:11:44,810 --> 00:11:48,450
+<font face="Courier" size="24"><b>No, of course you could do it with that.
+If you wanna use that...</b></font>
+
+447
+00:11:48,450 --> 00:11:50,560
+<font face="Courier" size="24"><b>You can just use
+those people in black.</b></font>
+
+448
+00:11:50,560 --> 00:11:50,560
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#2d2d28">m 145 -10 l -46 -10 l -46 4 l 145 4</font></b></font>
+
+449
+00:11:50,560 --> 00:11:51,310
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}STEPPING ON STAFF</b></font>
+
+450
+00:11:51,310 --> 00:11:52,990
+<font face="Courier" size="24"><b>That's not allowed!</b></font>
+
+451
+00:11:53,240 --> 00:12:08,490
+<font face="Courier" size="24"><b>CONVERTED FROM INDO SUBTITLE
+ORIGINAL SUB BY MasToppu.blogspot.co.id
+USE IT AT YOUR OWN RISK</b></font>
+
+452
+00:12:08,490 --> 00:12:10,780
+<font face="Courier" size="24"><b>If we're talking about bar like this,
+of course there's Higuchi. - Right!</b></font>
+
+453
+00:12:10,780 --> 00:12:10,780
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#2d2d28">m 145 -10 l -46 -10 l -46 4 l 145 4</font></b></font>
+
+454
+00:12:10,780 --> 00:12:12,510
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}HORIZONTAL BAR GIRL</b></font>
+
+455
+00:12:12,510 --> 00:12:16,490
+<font face="Courier" size="24"><b>Yeah.
+- Higuchi surely spins forward.</b></font>
+
+456
+00:12:16,490 --> 00:12:19,890
+<font face="Courier" size="24"><b>Spins forward with my feet.  - That's your specialty?
+Yes!  - I wanna see!</b></font>
+
+457
+00:12:19,890 --> 00:12:21,450
+<font face="Courier" size="24"><b>What's with this girl?</b></font>
+
+458
+00:12:21,450 --> 00:12:23,120
+<font face="Courier" size="24"><b>You were quite scary when you did it!</b></font>
+
+459
+00:12:23,120 --> 00:12:23,990
+<font face="Courier" size="24"><b>- Scary?</b></font>
+
+460
+00:12:24,360 --> 00:12:24,830
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font size="24"> <font color="#070105">HIGUCHI  HINA</font></font></b></font>
+
+461
+00:12:24,830 --> 00:12:25,760
+<font face="Courier" size="24"><b>Thing Higuchi can do with horizontal bar.
+Her specialty, spinning forward with her feet!</b></font>
+
+462
+00:12:25,760 --> 00:12:30,060
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#683200">SPIN FORWARD WITH HER FEET CHALLENGE</font></b></font>
+
+463
+00:12:30,680 --> 00:12:32,040
+<font face="Courier" size="24"><b>She went forward smiling!</b></font>
+
+464
+00:12:32,040 --> 00:12:33,370
+<font face="Courier" size="24"><b>Oh! Oh!</b></font>
+
+465
+00:12:33,370 --> 00:12:35,370
+<font face="Courier" size="24"><b>Oh, that's good!
+- So quick. Great! She can do this!</b></font>
+
+466
+00:12:35,370 --> 00:12:37,570
+<font face="Courier" size="24"><b>- Here I go!
+Careful!</b></font>
+
+467
+00:12:37,570 --> 00:12:40,410
+<font face="Courier" size="24"><b>Beware, do not let your hands go. 
+- Yes!</b></font>
+
+468
+00:12:40,410 --> 00:12:43,880
+<font face="Courier" size="24"><b>Alright, Higuchi will spin with her feet. Start!</b></font>
+
+469
+00:12:46,240 --> 00:12:46,850
+<font face="Courier" size="24"><b>This is some scary stuff!
+ -  No! - She's pushing herself!</b></font>
+
+470
+00:12:46,850 --> 00:12:46,850
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#2d2d28">m 145 -10 l -46 -10 l -46 4 l 145 4</font></b></font>
+
+471
+00:12:46,850 --> 00:12:48,680
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}SO MUCH EFFORT</b></font>
+
+472
+00:12:48,680 --> 00:12:51,310
+<font face="Courier" size="24"><b>Almost there! 
+- Stop!</b></font>
+
+473
+00:12:51,310 --> 00:12:54,620
+<font face="Courier" size="24"><b>Come on, pull! Ah...</b></font>
+
+474
+00:12:56,050 --> 00:12:59,260
+<font face="Courier" size="24"><b>Wait, don't you think she couldn't do it?
+That was scary.</b></font>
+
+475
+00:12:59,260 --> 00:13:02,810
+<font face="Courier" size="24"><b>Ah, so frightening! That's like a ghost or something!</b></font>
+
+476
+00:13:03,230 --> 00:13:06,160
+<font face="Courier" size="24"><b>So scary!
+- Why... when she lifted her body up
+she looked like she's desperate.</b></font>
+
+477
+00:13:06,160 --> 00:13:06,160
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#2d2d28">m 145 -10 l -46 -10 l -46 4 l 145 4</font></b></font>
+
+478
+00:13:06,160 --> 00:13:07,430
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}GHOST PHOTO?</b></font>
+
+479
+00:13:07,430 --> 00:13:09,950
+<font face="Courier" size="24"><b>You looked like she's in pain there.
+- You couldn't keep spinning?</b></font>
+
+480
+00:13:09,950 --> 00:13:12,200
+<font face="Courier" size="24"><b>It was the best I can do.</b></font>
+
+481
+00:13:12,200 --> 00:13:12,300
+<font face="Courier" size="24"><b>It was the best?
+- Yup!</b></font>
+
+482
+00:13:12,300 --> 00:13:12,300
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#2d2d28">m 145 -10 l -46 -10 l -46 4 l 145 4</font></b></font>
+
+483
+00:13:12,300 --> 00:13:13,810
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}A PERFECT PERFORMANCE</b></font>
+
+484
+00:13:13,810 --> 00:13:17,550
+<font face="Courier" size="24"><b>So this is what you can do?  - Yeah!
+ - Scary, she transformed when she lift her body.</b></font>
+
+485
+00:13:17,550 --> 00:13:20,380
+<font face="Courier" size="24"><b>Can you do Saka Agari? - I can!
+- She looks confident.</b></font>
+
+486
+00:13:20,380 --> 00:13:20,480
+<font face="Courier" size="24"><b>Eegh!
+ - That's scary, scary!</b></font>
+
+487
+00:13:20,480 --> 00:13:22,850
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#000000">UEISHOGGH</font></b></font>
+
+488
+00:13:22,910 --> 00:13:22,910
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#2d2d28">m 145 -10 l -46 -10 l -46 4 l 145 4</font></b></font>
+
+489
+00:13:22,910 --> 00:13:23,100
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}SUPER UNIQUE STYLE</b></font>
+
+490
+00:13:23,100 --> 00:13:25,160
+<font face="Courier" size="24"><b>That was dreadful.</b></font>
+
+491
+00:13:25,160 --> 00:13:27,520
+<font face="Courier" size="24"><b>Eh? That was not like Higuchi's character.</b></font>
+
+492
+00:13:27,520 --> 00:13:30,660
+<font face="Courier" size="24"><b>She said "<i>Naghh-yat</i>!" just now.</b></font>
+
+493
+00:13:30,660 --> 00:13:30,660
+<font face="Courier" size="24"><b>Scary~!
+- Like "<i>Wazzat</i>" . - I'm done!</b></font>
+
+494
+00:13:30,660 --> 00:13:30,660
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#2d2d28">m 145 -10 l -46 -10 l -46 4 l 145 4
+</font></b></font>
+
+495
+00:13:30,660 --> 00:13:33,130
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}EXAGGERATING</b></font>
+
+496
+00:13:33,130 --> 00:13:37,160
+<font face="Courier" size="24"><b>I can do "<i>Kururinpa</i>" too.  - I thought you have to wear hat 
+ to do "<i>Kururinpa</i>" - Not that <i>Kururinpa</i>!</b></font>
+
+497
+00:13:37,160 --> 00:13:37,160
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#2d2d28">m 145 -10 l -46 -10 l -46 4 l 145 4
+</font></b></font>
+
+498
+00:13:37,160 --> 00:13:37,240
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}©UESHIMA RYUHEI</b></font>
+
+499
+00:13:37,240 --> 00:13:38,130
+<font face="Courier" size="24"><b>Just like what Ueshima-san does?
+That one?</b></font>
+
+500
+00:13:38,130 --> 00:13:39,340
+<font face="Courier" size="20"><i>{\an8}Ueshima Ryuhei = a member of Dachou Club trio</i></font>
+
+501
+00:13:39,340 --> 00:13:40,560
+<font face="Courier" size="24"><b>What is "<i>Kururinpa</i>"?
+Please elaborate!</b></font>
+
+502
+00:13:40,560 --> 00:13:41,820
+<font face="Courier" size="24"><b>- Try to do it, this is going to be scary!</b></font>
+
+503
+00:13:41,820 --> 00:13:43,600
+<font face="Courier" size="24"><b>Scary, scary, what are you doing?</b></font>
+
+504
+00:13:43,600 --> 00:13:43,600
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#2d2d28">m 145 -10 l -46 -10 l -46 4 l 145 4
+</font></b></font>
+
+505
+00:13:43,600 --> 00:13:44,000
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}MYSTERIOUS MOVE</b></font>
+
+506
+00:13:44,000 --> 00:13:48,240
+<font face="Courier" size="24"><b>- That's so scary!
+Hold on! That's dangerous!</b></font>
+
+507
+00:13:48,240 --> 00:13:50,570
+<font face="Courier" size="24"><b>Please explain it first how you do it!</b></font>
+
+508
+00:13:50,570 --> 00:13:50,710
+<font face="Courier" size="24"><b>Explain it first! Just one explanation!</b></font>
+
+509
+00:13:50,710 --> 00:13:50,710
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#2d2d28">m 145 -10 l -46 -10 l -46 4 l 145 4</font></b></font>
+
+510
+00:13:50,710 --> 00:13:53,880
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font size="18">CONTINUES WITHOUT TALKS</font></b></font>
+
+511
+00:13:53,880 --> 00:13:56,150
+<font face="Courier" size="24"><b>No, no, why would you do it immediately?</b></font>
+
+512
+00:13:56,150 --> 00:13:58,410
+<font face="Courier" size="24"><b>That's scary!
+- Why did you go <i>Kururinpa</i> just like that!</b></font>
+
+513
+00:13:58,860 --> 00:14:00,950
+<font face="Courier" size="24"><b>What are you doing?
+Don't let your hands go!</b></font>
+
+514
+00:14:00,950 --> 00:14:03,560
+<font face="Courier" size="24"><b>What will she do?
+- Are you okay? Can you do it?</b></font>
+
+515
+00:14:03,560 --> 00:14:06,430
+<font face="Courier" size="24"><b>How is it?
+- Please say "<i>Kururinpa</i>".</b></font>
+
+516
+00:14:06,430 --> 00:14:06,430
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#2d2d28">m 145 -10 l -46 -10 l -46 4 l 145 4
+</font></b></font>
+
+517
+00:14:06,430 --> 00:14:06,530
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}HAZY INFORMATION</b></font>
+
+518
+00:14:06,530 --> 00:14:08,530
+<font face="Courier" size="24"><b>Nope, nope. Is this fine?</b></font>
+
+519
+00:14:08,860 --> 00:14:11,500
+<font face="Courier" size="24"><b>That's dangerous!
+- She's going to do it again!  - Please be careful!</b></font>
+
+520
+00:14:11,500 --> 00:14:13,500
+<font face="Courier" size="24"><b>It's gonna be ok as long as you
+don't let your hands go. - Yes!</b></font>
+
+521
+00:14:13,500 --> 00:14:15,500
+<font face="Courier" size="24"><b>Alright, here's "<i>Kururinpa</i>"!</b></font>
+
+522
+00:14:15,500 --> 00:14:17,500
+<font face="Courier" size="24"><b><i>Kururin</i>...
+ - Eh?</b></font>
+
+523
+00:14:17,500 --> 00:14:18,940
+<font face="Courier" size="24"><b>AAAHH!!!</b></font>
+
+524
+00:14:18,940 --> 00:14:18,940
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#2d2d28">m 145 -10 l -46 -10 l -46 4 l 145 4</font></b></font>
+
+525
+00:14:18,940 --> 00:14:19,500
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}FINALLY FELL...</b></font>
+
+526
+00:14:19,500 --> 00:14:22,330
+<font face="Courier" size="24"><b>For real? That's dangerous!
+- How scary! Enough please!</b></font>
+
+527
+00:14:22,330 --> 00:14:25,010
+<font face="Courier" size="24"><b>Why...?
+ <font color="#cb1811">STOP,DON'T DO IT AS YOU WISH!</font></b></font>
+
+528
+00:14:25,010 --> 00:14:25,010
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#2d2d28">m 145 -10 l -46 -10 l -46 4 l 145 4</font></b></font>
+
+529
+00:14:25,010 --> 00:14:25,380
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}NOT ALLOWED TO PLAY ANYMORE</b></font>
+
+530
+00:14:25,380 --> 00:14:27,380
+<font face="Courier" size="24"><b>Careful! It's enough!</b></font>
+
+531
+00:14:27,790 --> 00:14:29,580
+<font face="Courier" size="24"><b>What were you doing?
+- What's a <i>Kururinpa</i> even?</b></font>
+
+532
+00:14:29,580 --> 00:14:31,580
+<font face="Courier" size="24"><b>How does one do <i>Kururinpa</i> correctly?</b></font>
+
+533
+00:14:31,580 --> 00:14:35,390
+<font face="Courier" size="24"><b>How? Oh please stop!
+- From here, then to back.</b></font>
+
+534
+00:14:35,660 --> 00:14:38,820
+<font face="Courier" size="24"><b>Your hands here, then sit.
+- That's what you did! - Yeah!</b></font>
+
+535
+00:14:38,820 --> 00:14:42,430
+<font face="Courier" size="24"><b>- So she did it? 
+So you could do it just now?
+Basically it was like that?  - Yes!</b></font>
+
+536
+00:14:42,430 --> 00:14:42,490
+<font face="Courier" size="24"><b>Ah! Amazing!</b></font>
+
+537
+00:14:42,490 --> 00:14:42,490
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#2d2d28">m 145 -10 l -46 -10 l -46 4 l 145 4</font></b></font>
+
+538
+00:14:42,490 --> 00:14:44,930
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}SUCCEED, BUT...</b></font>
+
+539
+00:14:45,600 --> 00:14:49,960
+<font face="Courier" size="24"><b>Is there no one here can keep spinning like that?</b></font>
+
+540
+00:14:49,960 --> 00:14:51,960
+<font face="Courier" size="24"><b>I can spin sideways, you know.</b></font>
+
+541
+00:14:52,380 --> 00:14:52,500
+<font face="Courier" size="24"><b>Scary!
+- That's unquestionably dangerous! Pretty dangerous!</b></font>
+
+542
+00:14:52,500 --> 00:14:52,500
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#2d2d28">m 145 -10 l -46 -10 l -46 4 l 145 4</font></b></font>
+
+543
+00:14:52,500 --> 00:14:55,070
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}LOOKED DANGEROUS</b></font>
+
+544
+00:14:55,310 --> 00:14:57,000
+<font face="Courier" size="24"><b>Yeah!
+- No, please don't do it!</b></font>
+
+545
+00:14:57,000 --> 00:14:59,740
+<font face="Courier" size="24"><b>I can spin like this.
+- Just one spin?</b></font>
+
+546
+00:14:59,740 --> 00:15:04,000
+<font face="Courier" size="24"><b>One? No, I can keep spinning!  - What a lie!
+Really!  - You ready?</b></font>
+
+547
+00:15:04,280 --> 00:15:04,780
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font size="24"> <font color="#070105">MATSUMURA  SAYURI</font></font></b></font>
+
+548
+00:15:04,780 --> 00:15:05,680
+<font face="Courier" size="24"><b>Now let us see, the infinity sideways spinning!</b></font>
+
+549
+00:15:05,680 --> 00:15:09,490
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#663302">SIDEWAY SPINNING CHALLENGE</font></b></font>
+
+550
+00:15:09,520 --> 00:15:12,650
+<font face="Courier" size="24"><b>Side spinning technique.
+- Yeah, same method.</b></font>
+
+551
+00:15:12,650 --> 00:15:12,860
+<font face="Courier" size="24"><b>Ah, guess I can do this.</b></font>
+
+552
+00:15:12,860 --> 00:15:13,830
+<font face="Courier" size="24"><b>Watch out!</b></font>
+
+553
+00:15:14,570 --> 00:15:17,980
+<font face="Courier" size="24"><b>What kind of technique is this? - From here...
+- That?  - From there?</b></font>
+
+554
+00:15:17,980 --> 00:15:21,530
+<font face="Courier" size="24"><b>Alright Matsumura, just don't
+release your grip.  - Yes!  - Go ahead!</b></font>
+
+555
+00:15:21,880 --> 00:15:24,270
+<font face="Courier" size="24"><b>No, no, no!
+- Why?</b></font>
+
+556
+00:15:24,270 --> 00:15:24,270
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#2d2d28">m 145 -10 l -46 -10 l -46 4 l 145 4</font></b></font>
+
+557
+00:15:24,270 --> 00:15:25,000
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font size="16">CAN'T FIGHT THE GRAVITY</font></b></font>
+
+558
+00:15:25,000 --> 00:15:28,540
+<font face="Courier" size="24"><b>Stop, stop, stop! Please stop!</b></font>
+
+559
+00:15:28,540 --> 00:15:30,540
+<font face="Courier" size="24"><b>Stop!
+- I wonder.</b></font>
+
+560
+00:15:30,540 --> 00:15:32,380
+<font face="Courier" size="24"><b>You looked like a pig being spitroasted just now!</b></font>
+
+561
+00:15:32,380 --> 00:15:32,380
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#2d2d28">m 145 -10 l -46 -10 l -46 4 l 145 4</font></b></font>
+
+562
+00:15:32,380 --> 00:15:32,540
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}NAME OF THE TECHNIQUE [PIG SPITROAST]</b></font>
+
+563
+00:15:32,540 --> 00:15:34,680
+<font face="Courier" size="24"><b>Done~~!!!
+- Was that a pig spitroast technique?</b></font>
+
+564
+00:15:34,680 --> 00:15:37,280
+<font face="Courier" size="24"><b>That was over the top!</b></font>
+
+565
+00:15:37,740 --> 00:15:40,890
+<font face="Courier" size="24"><b>You clearly couldn't do it! 
+- Apparently yeah!  - Why?</b></font>
+
+566
+00:15:41,000 --> 00:15:42,840
+<font face="Courier" size="24"><b><font color="#cb1811">YOU CAN'T JUST HAVE A SHOWTIME LIKE THAT!</font></b></font>
+
+567
+00:15:43,960 --> 00:15:45,890
+<font face="Courier" size="24"><b><font color="#cb1811">DON'T GO "<i>AH, THIS SEEMS GOOD FOR TV</i>"!</font></b></font>
+
+568
+00:15:45,890 --> 00:15:46,630
+<font face="Courier" size="24"><b>- Ah, this is interesting!</b></font>
+
+569
+00:15:46,930 --> 00:15:47,320
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font size="24"> <font color="#070105">SAITO  CHIHARU</font></font></b></font>
+
+570
+00:15:47,320 --> 00:15:48,330
+<font face="Courier" size="24"><b>Next member who will receive a challenge,
+Saito Chiharu.</b></font>
+
+571
+00:15:48,330 --> 00:15:48,330
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#ffd102">NOGIZAKA CHALLENGE</font></b></font>
+
+572
+00:15:48,330 --> 00:15:51,130
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#ffd102">IF WE'RE SERIOUS, WE CAN DO IT FOR SURE</font></b></font>
+
+573
+00:15:51,150 --> 00:15:55,800
+<font face="Courier" size="24"><b>What can you do?
+- Rope jumping with my own technique.</b></font>
+
+574
+00:15:55,800 --> 00:15:55,800
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#fdd002">THINGS THAT SURELY CAN BE DONE IF WE'RE SERIOUS</font></b></font>
+
+575
+00:15:55,800 --> 00:15:56,990
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font size="26"><font color="#663500"> HER OWN ROPE JUMPING TRICK</font></font></b></font>
+
+576
+00:15:56,990 --> 00:15:59,260
+<font face="Courier" size="24"><b>Many members said about their own technique this time.</b></font>
+
+577
+00:15:59,260 --> 00:16:00,340
+<font face="Courier" size="24"><b>We saw a lot of original moves today.</b></font>
+
+578
+00:16:00,340 --> 00:16:01,760
+<font face="Courier" size="24"><b>- What do you mean by your own technique?</b></font>
+
+579
+00:16:01,760 --> 00:16:05,380
+<font face="Courier" size="24"><b>No need to jump.
+This is a rope jumping without jumping.</b></font>
+
+580
+00:16:05,380 --> 00:16:07,600
+<font face="Courier" size="24"><b>You made this technique yourself?
+- Uh huh!</b></font>
+
+581
+00:16:07,600 --> 00:16:09,630
+<font face="Courier" size="24"><b>Is there a name for this move?
+- No.</b></font>
+
+582
+00:16:09,630 --> 00:16:11,630
+<font face="Courier" size="24"><b>Give it then.</b></font>
+
+583
+00:16:11,630 --> 00:16:13,660
+<font face="Courier" size="24"><b>Like Saito's technique... 
+- Okay then.</b></font>
+
+584
+00:16:13,660 --> 00:16:16,620
+<font face="Courier" size="24"><b>Happi...
+Happi-Tan?</b></font>
+
+585
+00:16:16,620 --> 00:16:16,690
+<font face="Courier" size="24"><b>Happi-Tan is good! That's it then!
+- Why Happi-Tan?</b></font>
+
+586
+00:16:16,690 --> 00:16:16,690
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#2d2d28">m 145 -10 l -46 -10 l -46 4 l 145 4</font></b></font>
+
+587
+00:16:16,690 --> 00:16:19,390
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font size="16">A FULL EXQUISITE NAME</font></b></font>
+
+588
+00:16:19,390 --> 00:16:20,000
+<font face="Courier" size="24"><b>Okay, Happi-Tan.
+- Happi-Tan.</b></font>
+
+589
+00:16:20,000 --> 00:16:21,100
+<font face="Courier" size="24"><b>Simple, isn't it.</b></font>
+
+590
+00:16:21,390 --> 00:16:21,560
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font size="24"> <font color="#070105">SAITO  CHIHARU</font></font></b></font>
+
+591
+00:16:21,560 --> 00:16:22,760
+<font face="Courier" size="24"><b>A challenge with her own
+technique, Happi-Tan.</b></font>
+
+592
+00:16:22,760 --> 00:16:25,060
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#673202">HER OWN TRICK CHALLENGE
+(HAPPI-TAN)</font></b></font>
+
+593
+00:16:27,030 --> 00:16:29,030
+<font face="Courier" size="24"><b>Eh? Impressive!</b></font>
+
+594
+00:16:29,030 --> 00:16:31,530
+<font face="Courier" size="24"><b>That was impressive! - Hold on.
+- Great!</b></font>
+
+595
+00:16:31,530 --> 00:16:34,170
+<font face="Courier" size="24"><b>Woah, amazing! What is this? Amazing!</b></font>
+
+596
+00:16:34,360 --> 00:16:36,680
+<font face="Courier" size="24"><b>What? How did she do it?</b></font>
+
+597
+00:16:36,680 --> 00:16:39,750
+<font face="Courier" size="24"><b>What is this? How?
+- What is this Happi-Tan?</b></font>
+
+598
+00:16:39,750 --> 00:16:41,880
+<font face="Courier" size="24"><b>How do you do that?
+- How?</b></font>
+
+599
+00:16:41,880 --> 00:16:42,750
+<font face="Courier" size="24"><b>Please do it slowly.</b></font>
+
+600
+00:16:42,750 --> 00:16:43,750
+<font face="Courier" size="24"><b>- We want to see the slow version.</b></font>
+
+601
+00:16:43,750 --> 00:16:45,750
+<font face="Courier" size="24"><b>- There,
+this side.</b></font>
+
+602
+00:16:45,750 --> 00:16:47,750
+<font face="Courier" size="24"><b>Then cross, ah, aaahh!!!
+- Then you cross it!</b></font>
+
+603
+00:16:47,750 --> 00:16:50,660
+<font face="Courier" size="24"><b>Swing the rope at back.
+- Back.</b></font>
+
+604
+00:16:50,660 --> 00:16:52,890
+<font face="Courier" size="24"><b>I see!
+- Right, it's like avoiding it.</b></font>
+
+605
+00:16:52,890 --> 00:16:53,660
+<font face="Courier" size="24"><b>She didn't get hit at all!</b></font>
+
+606
+00:16:53,660 --> 00:16:54,430
+<font face="Courier" size="24"><b>Match it with the footworks.</b></font>
+
+607
+00:16:54,430 --> 00:16:56,430
+<font face="Courier" size="24"><b>And if you do it quickly.</b></font>
+
+608
+00:16:56,430 --> 00:16:57,520
+<font face="Courier" size="24"><b>It suits the name.</b></font>
+
+609
+00:16:57,520 --> 00:16:59,520
+<font face="Courier" size="24"><b>Amazing!</b></font>
+
+610
+00:16:59,520 --> 00:17:00,880
+<font face="Courier" size="24"><b>That was amazing!</b></font>
+
+611
+00:17:00,880 --> 00:17:02,730
+<font face="Courier" size="24"><b>Eh? It was unpredictably incredible.
+- Really?</b></font>
+
+612
+00:17:02,730 --> 00:17:02,730
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#2d2d28">m 145 -10 l -46 -10 l -46 4 l 145 4</font></b></font>
+
+613
+00:17:02,730 --> 00:17:03,160
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font size="18">CAPABILITY APPROVED</font></b></font>
+
+614
+00:17:03,160 --> 00:17:06,220
+<font face="Courier" size="24"><b>That was Happi-Tan.
+- Yay!!!  - Great!</b></font>
+
+615
+00:17:06,220 --> 00:17:08,810
+<font face="Courier" size="24"><b>Do you think most members here can't do it?</b></font>
+
+616
+00:17:08,810 --> 00:17:10,810
+<font face="Courier" size="24"><b>Higuchi can do Happi-Tan too!  - Huh?!</b></font>
+
+617
+00:17:10,810 --> 00:17:13,810
+<font face="Courier" size="24"><b>You also can do Happi-Tan?
+- This screams danger if she's the one who do it.</b></font>
+
+618
+00:17:14,110 --> 00:17:14,240
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font size="24"> <font color="#070105">HIGUCHI  HINA</font></font></b></font>
+
+619
+00:17:14,240 --> 00:17:15,510
+<font face="Courier" size="24"><b>Unexpectedly aside from horizontal bar, Higuchi
+also has the same rope jumping technique.</b></font>
+
+620
+00:17:15,510 --> 00:17:18,780
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#663302">DOING SAITOU CHIHARU'S TRICK CHALLENGE</font></b></font>
+
+621
+00:17:18,840 --> 00:17:21,740
+<font face="Courier" size="24"><b>She's dangerous!</b></font>
+
+622
+00:17:21,740 --> 00:17:21,750
+<font face="Courier" size="24"><b>Not bad!!!</b></font>
+
+623
+00:17:21,750 --> 00:17:21,750
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#2d2d28">m 145 -10 l -46 -10 l -46 4 l 145 4</font></b></font>
+
+624
+00:17:21,750 --> 00:17:23,100
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font size="16">OLD HABITS DIE HARD</font></b></font>
+
+625
+00:17:23,100 --> 00:17:26,020
+<font face="Courier" size="24"><b>She did it more recklessly! 
+- That's like...  - Amazing!</b></font>
+
+626
+00:17:26,020 --> 00:17:28,430
+<font face="Courier" size="24"><b>So what was that? Why could you do her technique?</b></font>
+
+627
+00:17:28,430 --> 00:17:30,880
+<font face="Courier" size="24"><b>Back when elementary school...
+- Happi-Tan? - Did you do it?</b></font>
+
+628
+00:17:30,880 --> 00:17:33,390
+<font face="Courier" size="24"><b>On sport festival...
+ - What's the name?</b></font>
+
+629
+00:17:34,190 --> 00:17:35,800
+<font face="Courier" size="24"><b>Happ... something like that...</b></font>
+
+630
+00:17:35,800 --> 00:17:37,440
+<font face="Courier" size="24"><b>That was Happi-Tan just now!</b></font>
+
+631
+00:17:37,440 --> 00:17:37,440
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#2d2d28">m 145 -10 l -46 -10 l -46 4 l 145 4</font></b></font>
+
+632
+00:17:37,440 --> 00:17:37,470
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}HAPPI-TAN TOO?</b></font>
+
+633
+00:17:37,470 --> 00:17:39,910
+<font face="Courier" size="24"><b>In the end, it's still Happi-Tan!</b></font>
+
+634
+00:17:39,910 --> 00:17:41,600
+<font face="Courier" size="24"><b>Why Happi-Tan too?</b></font>
+
+635
+00:17:41,600 --> 00:17:43,600
+<font face="Courier" size="24"><b>So there are many Happi-Tans.</b></font>
+
+636
+00:17:44,040 --> 00:17:47,980
+<font face="Courier" size="24"><b>But the moves are different a little bit.
+- Kinda scary.</b></font>
+
+637
+00:17:48,160 --> 00:17:51,870
+<font face="Courier" size="24"><b>She was doing it more crudely.
+- Perhaps that's what makes her scary!</b></font>
+
+638
+00:17:52,800 --> 00:17:57,180
+<font face="Courier" size="24"><b>Even her character seems calm,
+but she can do it crudely!</b></font>
+
+639
+00:17:57,180 --> 00:17:58,510
+<font face="Courier" size="24"><b>- Yeah that's right.</b></font>
+
+640
+00:17:59,470 --> 00:18:04,860
+<font face="Courier" size="24"><b>After this, a tragedy guaranteed to be recorded in history.
+The Weirdest Robot Dance.</b></font>
+
+641
+00:18:06,530 --> 00:18:07,200
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font size="24"> <font color="#070105">WAKATSUKI  YUMI</font></font></b></font>
+
+642
+00:18:07,200 --> 00:18:07,930
+<font face="Courier" size="24"><b>Next, the challenger of
+"<i>If you're serious then you can do it</i>", is Wakatsuki.</b></font>
+
+643
+00:18:07,930 --> 00:18:07,930
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#ffd102">NOGIZAKA CHALLENGE</font></b></font>
+
+644
+00:18:07,930 --> 00:18:11,400
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#ffd102">IF WE'RE SERIOUS, WE CAN DO IT FOR SURE</font></b></font>
+
+645
+00:18:11,630 --> 00:18:13,170
+<font face="Courier" size="24"><b>I've never done it but
+I guess I can do this. - Yes!</b></font>
+
+646
+00:18:13,170 --> 00:18:14,270
+<font face="Courier" size="24"><b>- Never?</b></font>
+
+647
+00:18:14,730 --> 00:18:16,090
+<font face="Courier" size="24"><b>- Surely you can if you're serious.</b></font>
+
+648
+00:18:16,090 --> 00:18:17,580
+<font face="Courier" size="24"><b>So what's that?
+ - Well...</b></font>
+
+649
+00:18:17,580 --> 00:18:19,580
+<font face="Courier" size="24"><b>That is...Robot Dance.</b></font>
+
+650
+00:18:19,850 --> 00:18:19,850
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#fdd002">THINGS THAT SURELY CAN BE DONE IF WE'RE SERIOUS</font></b></font>
+
+651
+00:18:19,850 --> 00:18:20,400
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font size="26"><font color="#663500"> ROBOT DANCE</font></font></b></font>
+
+652
+00:18:20,400 --> 00:18:22,680
+<font face="Courier" size="24"><b>You seem to have a strong will, but...</b></font>
+
+653
+00:18:23,180 --> 00:18:25,150
+<font face="Courier" size="24"><b>Honestly this will be hurt.</b></font>
+
+654
+00:18:25,150 --> 00:18:28,950
+<font face="Courier" size="24"><b>Oh, so you wanna do it.
+- I know the technique. - Technique?</b></font>
+
+655
+00:18:28,950 --> 00:18:33,060
+<font face="Courier" size="24"><b>I've never do this but my dance teacher
+always says...   - What does she say?</b></font>
+
+656
+00:18:33,060 --> 00:18:35,390
+<font face="Courier" size="24"><b>"<i>Many things to be remembered</i>".
+- Many?</b></font>
+
+657
+00:18:35,690 --> 00:18:35,790
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font size="24"> <font color="#070105">WAKATSUKI  YUMI</font></font></b></font>
+
+658
+00:18:35,790 --> 00:18:37,100
+<font face="Courier" size="24"><b>And here's Robot Dance challenge
+accompanied with Taiyou Knock.</b></font>
+
+659
+00:18:37,100 --> 00:18:37,100
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#653300">ROBOT DANCE CHALLENGE</font></b></font>
+
+660
+00:18:37,100 --> 00:18:40,870
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#6e3104">TAIYOU KNOCK</font></b></font>
+
+661
+00:18:41,020 --> 00:18:43,340
+<font face="Courier" size="24"><b>Alright, please play the music!</b></font>
+
+662
+00:18:44,090 --> 00:18:45,340
+<font face="Courier" size="24"><b>Robot Dance?</b></font>
+
+663
+00:18:45,920 --> 00:18:47,580
+<font face="Courier" size="24"><b>This?
+- This?</b></font>
+
+664
+00:18:47,760 --> 00:18:48,460
+<font face="Courier" size="24"><b>Go ahead!</b></font>
+
+665
+00:18:50,750 --> 00:18:52,780
+<font face="Courier" size="24"><b>She, she, this...</b></font>
+
+666
+00:18:52,780 --> 00:18:54,580
+<font face="Courier" size="24"><b>Wait, wait!
+- No, no!</b></font>
+
+667
+00:18:54,580 --> 00:18:54,580
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#2d2d28">m 145 -10 l -46 -10 l -46 4 l 145 4</font></b></font>
+
+668
+00:18:54,580 --> 00:18:55,280
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}THERE'S THE TRAGEDY</b></font>
+
+669
+00:18:55,280 --> 00:18:58,680
+<font face="Courier" size="24"><b>Please stop the music! - This is embarassing!
+- Why? - What?</b></font>
+
+670
+00:18:58,680 --> 00:19:02,430
+<font face="Courier" size="24"><b>Was the music wrong?
+- The moves are more like this.</b></font>
+
+671
+00:19:02,430 --> 00:19:06,200
+<font face="Courier" size="24"><b>Of course since the start position
+you couldn't enter properly!</b></font>
+
+672
+00:19:06,200 --> 00:19:07,760
+<font face="Courier" size="24"><b>Was that because of no sound? Then you can use
+"<i>Gii-gacha, gii-gacha</i>".</b></font>
+
+673
+00:19:07,760 --> 00:19:09,660
+<font face="Courier" size="24"><b>- I thought so too.</b></font>
+
+674
+00:19:09,660 --> 00:19:10,930
+<font face="Courier" size="24"><b>- Try to say "<i>Gii-gacha</i>".</b></font>
+
+675
+00:19:10,930 --> 00:19:10,930
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#2d2d28">m 145 -10 l -46 -10 l -46 4 l 145 4</font></b></font>
+
+676
+00:19:10,930 --> 00:19:12,250
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}ROBOT VOICE ADVICE</b></font>
+
+677
+00:19:12,250 --> 00:19:15,830
+<font face="Courier" size="24"><b>That's because it's robot!
+- Since it's robot, it has to be like that.</b></font>
+
+678
+00:19:15,830 --> 00:19:17,830
+<font face="Courier" size="24"><b>You shouldn't smile either, because you are a robot.</b></font>
+
+679
+00:19:17,830 --> 00:19:20,340
+<font face="Courier" size="24"><b>Please start it by sitting down. Sit down first!</b></font>
+
+680
+00:19:20,340 --> 00:19:21,390
+<font face="Courier" size="24"><b>Don't just stand there like a robot.</b></font>
+
+681
+00:19:21,390 --> 00:19:23,410
+<font face="Courier" size="24"><b>- Great!</b></font>
+
+682
+00:19:23,480 --> 00:19:23,900
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#f3f3f3">WAKATSUKI  YUMI</font></b></font>
+
+683
+00:19:23,900 --> 00:19:24,440
+<font face="Courier" size="24"><b>The hardest challenge to be a robot
+started from sitting down.</b></font>
+
+684
+00:19:24,440 --> 00:19:28,410
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#9bf139">BY BECOMING A REAL ROBOT TRIES TO DO A ROBOT DANCE ONCE MORE</font></b></font>
+
+685
+00:19:33,740 --> 00:19:34,540
+<font face="Courier" size="24"><b>Sneeze?</b></font>
+
+686
+00:19:34,540 --> 00:19:35,930
+<font face="Courier" size="24"><b>Sneeze.
+- Like a sneeze?</b></font>
+
+687
+00:19:35,930 --> 00:19:38,560
+<font face="Courier" size="24"><b>It's like Nanamin's sneeze.
+- Yeah.</b></font>
+
+688
+00:19:38,560 --> 00:19:41,360
+<font face="Courier" size="24"><b>So ordinary!
+- Did someone sneeze? - So cold.</b></font>
+
+689
+00:19:41,820 --> 00:19:43,360
+<font face="Courier" size="24"><b>Sneeze!</b></font>
+
+690
+00:19:44,320 --> 00:19:45,730
+<font face="Courier" size="24"><b>She's not stopping!</b></font>
+
+691
+00:19:47,030 --> 00:19:48,410
+<font face="Courier" size="24"><b><font color="#ffffff">WHY DOES IT HAVE TO BE LIKE THIS!</font></b></font>
+
+692
+00:19:48,410 --> 00:19:48,600
+<font face="Courier" size="24"><b>You brought this upon yourself.</b></font>
+
+693
+00:19:48,600 --> 00:19:48,600
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#2d2d28">m 145 -10 l -46 -10 l -46 4 l 145 4</font></b></font>
+
+694
+00:19:48,600 --> 00:19:50,360
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}GETTING HURT ONCE AGAIN</b></font>
+
+695
+00:19:50,360 --> 00:19:52,470
+<font face="Courier" size="24"><b>You said you can do it!</b></font>
+
+696
+00:19:52,470 --> 00:19:52,470
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#2d2d28">m 145 -10 l -46 -10 l -46 4 l 145 4</font></b></font>
+
+697
+00:19:52,470 --> 00:19:53,520
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font size="14">GETTING HURT BECAUSE OF HERSELF</font></b></font>
+
+698
+00:19:53,520 --> 00:19:56,710
+<font face="Courier" size="24"><b>Sinve you said you can.</b></font>
+
+699
+00:19:56,710 --> 00:20:00,270
+<font face="Courier" size="24"><b>You did say that right?
+- What's that?  - What?</b></font>
+
+700
+00:20:00,270 --> 00:20:03,320
+<font face="Courier" size="24"><b>What's a Robot Dance Music?</b></font>
+
+701
+00:20:03,550 --> 00:20:05,450
+<font face="Courier" size="24"><b>Like Star Wars' music.</b></font>
+
+702
+00:20:05,450 --> 00:20:07,450
+<font face="Courier" size="24"><b>Okay let's make the music.</b></font>
+
+703
+00:20:18,030 --> 00:20:20,570
+<font face="Courier" size="24"><b>Wait a sec, that's wrong,
+that seems like a wrong person!</b></font>
+
+704
+00:20:20,570 --> 00:20:20,570
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#2d2d28">m 145 -10 l -46 -10 l -46 4 l 145 4</font></b></font>
+
+705
+00:20:20,570 --> 00:20:22,720
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font size="18">ANOTHER TRAGEDY YET AGAIN</font></b></font>
+
+706
+00:20:22,720 --> 00:20:25,140
+<font face="Courier" size="24"><b>That's dangerous! Like a messed up person!</b></font>
+
+707
+00:20:25,140 --> 00:20:29,410
+<font face="Courier" size="24"><b>Why?   - Her face from here like
+a very messed up person!</b></font>
+
+708
+00:20:29,410 --> 00:20:29,410
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#2d2d28">m 145 -10 l -46 -10 l -46 4 l 145 4</font></b></font>
+
+709
+00:20:29,410 --> 00:20:30,890
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}REALLY NOT CLEAR</b></font>
+
+710
+00:20:30,890 --> 00:20:32,330
+<font face="Courier" size="24"><b>Nooo!!!</b></font>
+
+711
+00:20:32,540 --> 00:20:34,210
+<font face="Courier" size="24"><b>Can the others do it too?</b></font>
+
+712
+00:20:34,210 --> 00:20:37,340
+<font face="Courier" size="24"><b>I can do ASIMO.  - ASIMO?</b></font>
+
+713
+00:20:37,340 --> 00:20:38,680
+<font face="Courier" size="24"><b>I can copy its walking manner.</b></font>
+
+714
+00:20:38,680 --> 00:20:39,850
+<font face="Courier" size="24"><b>- Really?</b></font>
+
+715
+00:20:40,000 --> 00:20:42,350
+<font face="Courier" size="24"><b>That's quite good. That too is a robot.</b></font>
+
+716
+00:20:42,350 --> 00:20:44,700
+<font face="Courier" size="24"><b>- Aahh~~!
+Ok, ok. Please do it.</b></font>
+
+717
+00:20:44,970 --> 00:20:45,690
+<font face="Courier" size="24"><b>Plese you do it! Can you do it?  - Yeah!</b></font>
+
+718
+00:20:45,690 --> 00:20:46,930
+<font face="Courier" size="24"><b>- Try to do it!</b></font>
+
+719
+00:20:47,530 --> 00:20:48,930
+<font face="Courier" size="24"><b>- Do it now!</b></font>
+
+720
+00:20:48,930 --> 00:20:49,930
+<font face="Courier" size="24"><b>Alright, ASIMO's walking manner. Go ahead!</b></font>
+
+721
+00:20:49,930 --> 00:20:51,930
+<font face="Courier" size="24"><b>- Its waking manner.</b></font>
+
+722
+00:20:53,480 --> 00:20:56,830
+<font face="Courier" size="24"><b>Okay Ikoma, are you going to do it?</b></font>
+
+723
+00:20:56,830 --> 00:20:56,970
+<font face="Courier" size="24"><b>Okay she's going to do it now!
+Ikoma-san, give your best!</b></font>
+
+724
+00:20:56,970 --> 00:20:56,970
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#2d2d28">m 145 -10 l -46 -10 l -46 4 l 145 4</font></b></font>
+
+725
+00:20:56,970 --> 00:21:02,090
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}NOT CLEAR</b></font>
+
+726
+00:21:02,090 --> 00:21:05,760
+<font face="Courier" size="24"><b>Alright, Ikoma-san is going to do it!
+- Okay, where do you wanna start from? There?  - This!</b></font>
+
+727
+00:21:05,760 --> 00:21:08,410
+<font face="Courier" size="24"><b>No, but just now...
+- Ikoma-san please prepare yourself!</b></font>
+
+728
+00:21:08,410 --> 00:21:10,730
+<font face="Courier" size="24"><b>Please!
+- So it's from there first? Go ahead!</b></font>
+
+729
+00:21:10,730 --> 00:21:12,680
+<font face="Courier" size="24"><b>Okay Ikoma, so now it's changed from there?</b></font>
+
+730
+00:21:12,680 --> 00:21:12,680
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#2d2d28">m 145 -10 l -46 -10 l -46 4 l 145 4
+</font></b></font>
+
+731
+00:21:12,680 --> 00:21:13,550
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}STILL NOT CLEAR</b></font>
+
+732
+00:21:13,550 --> 00:21:15,710
+<font face="Courier" size="24"><b>Where do you want to start from?
+- There?  - But...</b></font>
+
+733
+00:21:15,710 --> 00:21:17,800
+<font face="Courier" size="24"><b><font color="#b8eef7">IF IT'S NOT HERE, ASIMO CAN'T SHOW ITSELF OFF!</font></b></font>
+
+734
+00:21:17,800 --> 00:21:19,290
+<font face="Courier" size="24"><b>That's enough, please have a seat.</b></font>
+
+735
+00:21:19,290 --> 00:21:19,290
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#2d2d28">m 145 -10 l -46 -10 l -46 4 l 145 4</font></b></font>
+
+736
+00:21:19,290 --> 00:21:19,800
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}ASIMO EXPLODED</b></font>
+
+737
+00:21:19,800 --> 00:21:21,800
+<font face="Courier" size="24"><b>Okay, please go back to your seat.</b></font>
+
+738
+00:21:21,800 --> 00:21:25,400
+<font face="Courier" size="24"><b>Everyone can be a robot too, right?
+- Of course they can.</b></font>
+
+739
+00:21:25,400 --> 00:21:28,830
+<font face="Courier" size="24"><b>Himetan, for example. Can you?
+- Himetan, do it.  - I can't.</b></font>
+
+740
+00:21:28,830 --> 00:21:31,880
+<font face="Courier" size="24"><b>Try to go "<i>Wii-gacha</i>".
+- Do "<i>Wii-gacha</i>" then Himetan-Beam.</b></font>
+
+741
+00:21:31,970 --> 00:21:32,510
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#f3f3f3">NAKAMOTO HIMEKA</font></b></font>
+
+742
+00:21:32,510 --> 00:21:32,940
+<font face="Courier" size="24"><b>That means, it's time for Himetan-Robo to make her appearance.</b></font>
+
+743
+00:21:32,940 --> 00:21:36,380
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#9bf139"><font size="28">HERE COMES THE HIMETAN ROBOT</font></font></b></font>
+
+744
+00:21:37,020 --> 00:21:38,210
+<font face="Courier" size="24"><b>Wii~~Gacha~</b></font>
+
+745
+00:21:39,580 --> 00:21:42,210
+<font face="Courier" size="24"><b>Her legs were stepping so lightly.
+- Not a human's legs?</b></font>
+
+746
+00:21:42,210 --> 00:21:44,750
+<font face="Courier" size="24"><b>Ah, nice, very nice.
+- So cute.</b></font>
+
+747
+00:21:45,720 --> 00:21:50,460
+<font face="Courier" size="24"><b><font color="#fed401">HIMETAN   BE~AM</font></b></font>
+
+748
+00:21:50,460 --> 00:21:52,020
+<font face="Courier" size="24"><b>What an "<i>amazing</i>" robot.</b></font>
+
+749
+00:21:52,020 --> 00:21:52,020
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#2d2d28">m 145 -10 l -46 -10 l -46 4 l 145 4</font></b></font>
+
+750
+00:21:52,020 --> 00:21:52,460
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}EMBARASSING TRAGEDY</b></font>
+
+751
+00:21:52,460 --> 00:21:54,460
+<font face="Courier" size="24"><b>Must be awakened for sure if there's a robot like this.</b></font>
+
+752
+00:21:55,040 --> 00:21:56,460
+<font face="Courier" size="24"><b>Tentu sajalah,</b></font>
+
+753
+00:21:56,720 --> 00:22:00,470
+<font face="Courier" size="24"><b>You did it!  - I wonder why after their robot acts
+are done, they just stared here?</b></font>
+
+754
+00:22:00,470 --> 00:22:00,470
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#2d2d28">m 145 -10 l -46 -10 l -46 4 l 145 4</font></b></font>
+
+755
+00:22:00,470 --> 00:22:01,260
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}THE REGRET OF AN EMBARASSED ROBOT</b></font>
+
+756
+00:22:01,260 --> 00:22:04,440
+<font face="Courier" size="24"><b>Why?
+- Your stares are scary.</b></font>
+
+757
+00:22:04,440 --> 00:22:07,970
+<font face="Courier" size="24"><b>Everyone did it.
+Wakatsuki was also a target!</b></font>
+
+758
+00:22:07,970 --> 00:22:10,280
+<font face="Courier" size="24"><b>Why?
+- Hashimoto, you can be a robot too, right?</b></font>
+
+759
+00:22:10,280 --> 00:22:10,280
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#2d2d28">m 145 -10 l -46 -10 l -46 4 l 145 4</font></b></font>
+
+760
+00:22:10,280 --> 00:22:11,150
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}THE ROBOT TERROR BEGINS</b></font>
+
+761
+00:22:11,150 --> 00:22:12,730
+<font face="Courier" size="24"><b>Now that surely you can.
+- Can you?</b></font>
+
+762
+00:22:12,730 --> 00:22:15,450
+<font face="Courier" size="24"><b>Nanamin can be a flexible robot.</b></font>
+
+763
+00:22:15,840 --> 00:22:17,450
+<font face="Courier" size="24"><b>She's good at that.  - Ah, you did this before?</b></font>
+
+764
+00:22:17,450 --> 00:22:18,320
+<font face="Courier" size="24"><b>For example in rehearsal.
+- You've done this before!</b></font>
+
+765
+00:22:18,320 --> 00:22:18,320
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#2d2d28">m 145 -10 l -46 -10 l -46 4 l 145 4</font></b></font>
+
+766
+00:22:18,320 --> 00:22:19,450
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}EXPERIENCED</b></font>
+
+767
+00:22:19,450 --> 00:22:20,920
+<font face="Courier" size="24"><b>Actually, you can do it!
+- Yeah!</b></font>
+
+768
+00:22:20,990 --> 00:22:21,840
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#f3f3f3">HASHIMOTO NANAMI</font></b></font>
+
+769
+00:22:21,840 --> 00:22:21,950
+<font face="Courier" size="24"><b>HASIMO, a better robot compared to
+ASIMO will appear.</b></font>
+
+770
+00:22:21,950 --> 00:22:26,260
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#9bf139"><font size="28">HERE COMES THE HASIMO</font></font></b></font>
+
+771
+00:22:27,240 --> 00:22:28,860
+<font face="Courier" size="24"><b>Wiii-Gacha...</b></font>
+
+772
+00:22:30,170 --> 00:22:30,860
+<font face="Courier" size="24"><b>Ehegh!</b></font>
+
+773
+00:22:32,570 --> 00:22:34,410
+<font face="Courier" size="24"><b>Gasha~</b></font>
+
+774
+00:22:34,410 --> 00:22:35,500
+<font face="Courier" size="24"><b>Ga~Sha!</b></font>
+
+775
+00:22:36,320 --> 00:22:37,800
+<font face="Courier" size="24"><b>This is a one sorrowful robot.
+- She's so sad.</b></font>
+
+776
+00:22:37,800 --> 00:22:37,800
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#2d2d28">m 145 -10 l -46 -10 l -46 4 l 145 4</font></b></font>
+
+777
+00:22:37,800 --> 00:22:39,320
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}GOES TO CRYING MODE?</b></font>
+
+778
+00:22:39,320 --> 00:22:41,550
+<font face="Courier" size="24"><b>She's also desperate.  - This is an old school robot.
+- Extra sad.</b></font>
+
+779
+00:22:41,550 --> 00:22:44,040
+<font face="Courier" size="24"><b>A robot in a forlorn scene.
+- Her hands flexibly swings.</b></font>
+
+780
+00:22:45,080 --> 00:22:47,980
+<font face="Courier" size="24"><b>Oh, her hands are opened. Here we go!</b></font>
+
+781
+00:22:49,410 --> 00:22:49,410
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#2d2d28">m 145 -10 l -46 -10 l -46 4 l 145 4</font></b></font>
+
+782
+00:22:49,410 --> 00:22:51,000
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}HASIMO SWINGING AROUND</b></font>
+
+783
+00:22:51,000 --> 00:22:52,580
+<font face="Courier" size="24"><b>Oh, good, pretty good!</b></font>
+
+784
+00:22:52,580 --> 00:22:54,810
+<font face="Courier" size="24"><b>Ah, neat, she's happy now!</b></font>
+
+785
+00:22:54,810 --> 00:22:57,390
+<font face="Courier" size="24"><b>She transformed! - Eh?
+- Spinning!</b></font>
+
+786
+00:22:57,390 --> 00:22:59,160
+<font face="Courier" size="24"><b>Wooaaah!!!
+- Very great!</b></font>
+
+787
+00:22:59,160 --> 00:22:59,160
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#2d2d28">m 145 -10 l -46 -10 l -46 4 l 145 4</font></b></font>
+
+788
+00:22:59,160 --> 00:22:59,960
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}HASIMO SPINNING AROUND</b></font>
+
+789
+00:22:59,960 --> 00:23:01,530
+<font face="Courier" size="24"><b>Ah, cool, cool!</b></font>
+
+790
+00:23:01,530 --> 00:23:03,530
+<font face="Courier" size="24"><b>She looks cool! - Great!</b></font>
+
+791
+00:23:03,530 --> 00:23:05,530
+<font face="Courier" size="24"><b>Say "<i>Gasha</i>"!
+- Good!</b></font>
+
+792
+00:23:06,320 --> 00:23:07,530
+<font face="Courier" size="24"><b>Gasha! (swallows)</b></font>
+
+793
+00:23:08,840 --> 00:23:09,530
+<font face="Courier" size="24"><b>Good!</b></font>
+
+794
+00:23:09,980 --> 00:23:13,470
+<font face="Courier" size="24"><b>Ghasa! 
+- Ah, it's over! That was a good one!</b></font>
+
+795
+00:23:13,470 --> 00:23:16,440
+<font face="Courier" size="24"><b>That was so good!
+- Don't stare, don't stare!!</b></font>
+
+796
+00:23:16,440 --> 00:23:19,140
+<font face="Courier" size="24"><b>Why did you stare here?
+- Why are you crying?</b></font>
+
+797
+00:23:19,870 --> 00:23:22,380
+<font face="Courier" size="24"><b>For the last performance,
+what about Hoshino?</b></font>
+
+798
+00:23:22,380 --> 00:23:22,380
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#2d2d28">m 145 -10 l -46 -10 l -46 4 l 145 4</font></b></font>
+
+799
+00:23:22,380 --> 00:23:22,890
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font size="18">THE ROBOT SHOW STILL CONTINUES</font></b></font>
+
+800
+00:23:22,890 --> 00:23:25,450
+<font face="Courier" size="24"><b>Hoshino is the last, since everyone did it.</b></font>
+
+801
+00:23:25,450 --> 00:23:28,950
+<font face="Courier" size="24"><b>Can you do it? Don't be in a hurry.
+Take your time.</b></font>
+
+802
+00:23:28,950 --> 00:23:31,120
+<font face="Courier" size="24"><b>Face... her face is telling us she doesn't want to do it!</b></font>
+
+803
+00:23:31,120 --> 00:23:33,640
+<font face="Courier" size="24"><b>She looks more tenseful compared with
+that <i>Backflip</i> back then.</b></font>
+
+804
+00:23:33,640 --> 00:23:37,280
+<font face="Courier" size="24"><b>Try to do "<i>Wiin-Gasha</i>", then go there,
+since there's your favorite bread there.</b></font>
+
+805
+00:23:37,280 --> 00:23:38,030
+<font face="Courier" size="24"><b>- Then you eat it.</b></font>
+
+806
+00:23:38,130 --> 00:23:38,800
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#f3f3f3">HOSHINO MINAMI</font></b></font>
+
+807
+00:23:38,800 --> 00:23:39,100
+<font face="Courier" size="24"><b>Next we have the bread lover robot, HOSIMO.</b></font>
+
+808
+00:23:39,100 --> 00:23:43,070
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#9bf139"><font size="28">HERE COMES THE HOSIMO</font></font></b></font>
+
+809
+00:23:43,440 --> 00:23:44,830
+<font face="Courier" size="24"><b>She'll enter.</b></font>
+
+810
+00:23:44,830 --> 00:23:46,830
+<font face="Courier" size="24"><b>Gasha!<font face="Symbol"></font></b></font>
+
+811
+00:23:48,120 --> 00:23:49,930
+<font face="Courier" size="24"><b>There's a bread in front of you.
+- Gasha!<font face="Symbol"></font></b></font>
+
+812
+00:23:49,930 --> 00:23:51,930
+<font face="Courier" size="24"><b>Gasha! Gasha!<font face="Symbol"></font></b></font>
+
+813
+00:23:52,670 --> 00:23:53,930
+<font face="Courier" size="24"><b>Gasha!<font face="Symbol"></font></b></font>
+
+814
+00:23:54,220 --> 00:23:55,420
+<font face="Courier" size="24"><b>Gasha!<font face="Symbol"></font></b></font>
+
+815
+00:23:56,320 --> 00:23:58,650
+<font face="Courier" size="24"><b><i>Paku'</i> (chewing sound effect)</b></font>
+
+816
+00:23:59,820 --> 00:23:59,820
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}<font color="#2d2d28">m 145 -10 l -46 -10 l -46 4 l 145 4</font></b></font>
+
+817
+00:23:59,820 --> 00:24:01,120
+<font face="Arial Rounded MT Bold" size="20"><b>{\an5}HOSIMO ANGRY</b></font>
+
+818
+00:24:01,120 --> 00:24:05,020
+<font face="Courier" size="24"><b>Suddenly she stared like that!
+- Sorry Minami-chan!</b></font>
+
+819
+00:24:05,160 --> 00:24:07,020
+<font face="Courier" size="24"><b>Hoshino stared.</b></font>
+
+820
+00:24:09,020 --> 00:24:13,400
+<font face="Courier" size="24"><b>After this, Senbatsu members for the 13rd single
+will be chosen!</b></font>
+
+821
+00:24:15,790 --> 00:24:20,400
+<font face="Courier" size="24"><b>"<i>Manatsu no Zenkoku</i>" Tour 2015
+finally enters the second phase.</b></font>
+
+822
+00:24:20,400 --> 00:24:24,680
+<font face="Courier" size="24"><b>Will be held in Osaka and Tokyo.
+Let's see it until the end!</b></font>
+
+823
+00:24:26,090 --> 00:24:30,480
+<font face="Courier" size="24"><b>DVD "Nogizakatte, Doko?" Part 2 has been released.</b></font>
+
+824
+00:24:30,480 --> 00:24:34,540
+<font face="Courier" size="24"><b>For more information, please
+visit Nogizaka46's official website.</b></font>
+
+825
+00:24:34,540 --> 00:24:35,690
+<font face="Courier" size="24"><b>Alright, let's close the show with robot style.  - Okay!
+Go ahead.</b></font>
+
+826
+00:24:35,690 --> 00:24:37,890
+<font face="Courier" size="24"><b>CONVERTED FROM INDO SUBTITLE
+ORIGINAL SUB BY MasToppu.blogspot.co.id
+USE IT AT YOUR OWN RISK</b></font>
+
+827
+00:24:37,890 --> 00:24:39,890
+<font face="Courier" size="24"><b>Wii~~n~Gasha!</b></font>
+
+828
+00:24:39,890 --> 00:24:42,990
+<font face="Courier" size="24"><b>Wii~Gasha. Wii~~Gasha.</b></font>
+
+829
+00:24:43,320 --> 00:24:46,410
+<font face="Courier" size="24"><b>Good bye. 
+- Come one say good bye. Good bye!</b></font>
+
+830
+00:24:46,410 --> 00:24:48,410
+<font face="Courier" size="24"><b>Spin your hands!</b></font>
+
+831
+00:24:48,910 --> 00:24:50,240
+<font face="Courier" size="24"><b>Great! So great!</b></font>
+
+832
+00:24:50,720 --> 00:24:55,210
+<font face="Courier" size="24"><b>I'm going to announce the
+Senbatsu members for the 13rd single.</b></font>
+
+833
+00:24:55,580 --> 00:24:59,440
+<font face="Courier" size="24"><b>And in the end,
+the ONE who be the center IS...</b></font>
+
