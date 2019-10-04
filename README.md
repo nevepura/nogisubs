@@ -1,4 +1,4 @@
-# nogisubs
+# nogisubs: Nogizaka46 subtitles collection
 ## Contents
 Here there are many subtitles of some of Nogizaka46 tv shows. Which ones?
 * *Nogizakatte, doko?*
