@@ -1,0 +1,2066 @@
+1
+00:00:03,560 --> 00:00:09,750
+<font face="Arial Rounded MT Bold" size="46">Tonight's Nogidoko, members take a test to check their idol aptitude!!</font>
+
+2
+00:00:09,750 --> 00:00:12,190
+<font face="Arial Rounded MT Bold" size="46">Scary, scary, scary!!</font>
+
+3
+00:00:14,330 --> 00:00:18,050
+<font face="Arial Rounded MT Bold" size="46">Members uproar! Innovative answers galore!</font>
+
+4
+00:00:18,050 --> 00:00:19,740
+<font face="Arial Rounded MT Bold" size="46">What did you just say?</font>
+
+5
+00:00:22,960 --> 00:00:27,150
+<font face="Arial Rounded MT Bold" size="46">And an unexpected past of a member surfaces</font>
+
+6
+00:00:29,850 --> 00:00:33,870
+<font face="Arial Rounded MT Bold" size="46">Will anyone unsuited to be an idol surface!?</font>
+
+7
+00:00:55,660 --> 00:00:57,020
+<font face="Arial Rounded MT Bold" size="46">DON~!</font>
+
+8
+00:00:57,560 --> 00:01:00,330
+<font face="Arial Rounded MT Bold" size="46">Nogidoko has began, we're your hosts Bananaman!</font>
+
+9
+00:01:00,330 --> 00:01:03,210
+<font face="Arial Rounded MT Bold" size="46">We will be in your care!</font>
+
+10
+00:01:04,670 --> 00:01:08,080
+<font face="Arial Rounded MT Bold" size="46">And for today's guests .. there is none present today ..</font>
+
+11
+00:01:08,080 --> 00:01:10,160
+<font face="Arial Rounded MT Bold" size="46">We are present! We are here!</font>
+
+12
+00:01:10,160 --> 00:01:12,140
+<font face="Arial Rounded MT Bold" size="46">A significant number of us are right here!</font>
+
+13
+00:01:12,810 --> 00:01:13,610
+<font face="Arial Rounded MT Bold" size="46">They have appeared</font>
+
+14
+00:01:13,610 --> 00:01:14,900
+<font face="Arial Rounded MT Bold" size="46">Er .. you all are Bokunchi right?</font>
+
+15
+00:01:14,900 --> 00:01:14,900
+<font face="Arial Rounded MT Bold" size="38"><b>{\an8}A play on this comedian trio's group name</b></font>
+
+16
+00:01:14,900 --> 00:01:16,450
+<font face="Arial Rounded MT Bold" size="46">We are Wagaya!!</font>
+
+17
+00:01:16,560 --> 00:01:18,090
+<font face="Arial Rounded MT Bold" size="46">They are Wagaya!</font>
+
+18
+00:01:21,430 --> 00:01:24,920
+<font face="Arial Rounded MT Bold" size="46">It seems like the members has changed yet again</font>
+
+19
+00:01:25,020 --> 00:01:28,000
+<font face="Arial Rounded MT Bold" size="46">Last week around 5 new girls appeared on the show but ..</font>
+
+20
+00:01:28,000 --> 00:01:30,450
+<font face="Arial Rounded MT Bold" size="46">This week the lineup has changed again</font>
+
+21
+00:01:30,450 --> 00:01:32,170
+<font face="Arial Rounded MT Bold" size="46">Those who have switched in please raise your hand</font>
+
+22
+00:01:32,170 --> 00:01:34,240
+<font face="Arial Rounded MT Bold" size="46">The lineup has changed alright</font>
+
+23
+00:01:34,250 --> 00:01:38,680
+<font face="Arial Rounded MT Bold" size="46">The senbatsu lineup would change frequently</font>
+
+24
+00:01:38,680 --> 00:01:40,080
+<font face="Arial Rounded MT Bold" size="46">The lineup changes every week</font>
+
+25
+00:01:40,530 --> 00:01:44,790
+<font face="Arial Rounded MT Bold" size="46">First of all, a self introduction for the 4 girls who has been selected for the 1st time</font>
+
+26
+00:01:44,860 --> 00:01:48,900
+<font face="Arial Rounded MT Bold" size="46">Born and raised in Osaka, 2nd year of high school, I'm Nishino Nanase</font>
+
+27
+00:01:48,900 --> 00:01:51,680
+<font face="Arial Rounded MT Bold" size="46">Since I love drawing, erm ..</font>
+
+28
+00:01:51,690 --> 00:01:56,210
+<font face="Arial Rounded MT Bold" size="46">If there is a request, I can draw almost anything on the spot</font>
+
+29
+00:01:56,340 --> 00:01:57,810
+<font face="Arial Rounded MT Bold" size="46">You must have done something for this moment?</font>
+
+30
+00:01:57,810 --> 00:01:58,750
+<font face="Arial Rounded MT Bold" size="46">I didnt ..</font>
+
+31
+00:01:59,260 --> 00:02:03,320
+<font face="Arial Rounded MT Bold" size="46">It seems like a trend to say you didn't do anything when asked if you did something</font>
+
+32
+00:02:03,430 --> 00:02:05,000
+<font face="Arial Rounded MT Bold" size="46">It happens often</font>
+
+33
+00:02:05,740 --> 00:02:09,020
+<font face="Arial Rounded MT Bold" size="46">From Hokkaido, 18 years old, I'm Hashimoto Nanami</font>
+
+34
+00:02:09,020 --> 00:02:11,420
+<font face="Arial Rounded MT Bold" size="46">Lately I have started growing leeks</font>
+
+35
+00:02:11,420 --> 00:02:14,640
+<font face="Arial Rounded MT Bold" size="46">I will try my best with all I've got. I'll be in your care</font>
+
+36
+00:02:14,640 --> 00:02:17,410
+<font face="Arial Rounded MT Bold" size="46">You don't seem to have any spirit on you ...</font>
+
+37
+00:02:17,650 --> 00:02:20,530
+<font face="Arial Rounded MT Bold" size="46">I've recently came from Oita prefecture</font>
+
+38
+00:02:20,530 --> 00:02:22,910
+<font face="Arial Rounded MT Bold" size="46">Leaving that aside, I love eating</font>
+
+39
+00:02:22,910 --> 00:02:23,550
+<font face="Arial Rounded MT Bold" size="46">I'll do my best! I'll be in your care!</font>
+
+40
+00:02:23,550 --> 00:02:25,870
+<font face="Arial Rounded MT Bold" size="38"><b>{\an8}Hakata dialect</b></font>
+
+41
+00:02:25,870 --> 00:02:27,750
+<font face="Arial Rounded MT Bold" size="46">Oh! Ganbaru-ken!</font>
+
+42
+00:02:29,730 --> 00:02:32,050
+<font face="Arial Rounded MT Bold" size="46">You didn't mention your name at all ..</font>
+
+43
+00:02:32,430 --> 00:02:34,280
+<font face="Arial Rounded MT Bold" size="46">All you did was self-appeal!</font>
+
+44
+00:02:34,410 --> 00:02:39,720
+<font face="Arial Rounded MT Bold" size="46">Hello! From Hiroshima, 13 years old, 1st year of middle school, I'm Wada Maaya!</font>
+
+45
+00:02:39,720 --> 00:02:44,860
+<font face="Arial Rounded MT Bold" size="46">I have yet receive a cute nickname like the others so please give me a nickname!</font>
+
+46
+00:02:44,860 --> 00:02:45,610
+<font face="Arial Rounded MT Bold" size="46">Bye ~</font>
+
+47
+00:02:48,640 --> 00:02:50,920
+<font face="Arial Rounded MT Bold" size="46">Are you learning english?</font>
+
+48
+00:02:50,920 --> 00:02:51,820
+<font face="Arial Rounded MT Bold" size="46">No I'm not!</font>
+
+49
+00:02:54,250 --> 00:03:00,610
+<font face="Arial Rounded MT Bold" size="46">And this time, to check how suited are the members as idols</font>
+
+50
+00:03:00,610 --> 00:03:04,500
+<font face="Arial Rounded MT Bold" size="46">All 33 members take on an idol aptitude test!!</font>
+
+51
+00:03:04,500 --> 00:03:07,870
+<font face="Arial Rounded MT Bold" size="46">The results would be announced in the studio!</font>
+
+52
+00:03:08,430 --> 00:03:12,210
+<font face="Arial Rounded MT Bold" size="46">The 1st section of the idol aptitude test is this!</font>
+
+53
+00:03:13,550 --> 00:03:15,250
+<font face="Arial Rounded MT Bold" size="46">General Knowledge Test!</font>
+
+54
+00:03:17,020 --> 00:03:20,960
+<font face="Arial Rounded MT Bold" size="46">An idol needs to have a certain amount of general knowledge</font>
+
+55
+00:03:21,110 --> 00:03:23,310
+<font face="Arial Rounded MT Bold" size="46">How much general knowledge they have</font>
+
+56
+00:03:23,310 --> 00:03:25,850
+<font face="Arial Rounded MT Bold" size="46">And also to witness the birth of "innovative" answers!</font>
+
+57
+00:03:25,850 --> 00:03:28,540
+<font face="Arial Rounded MT Bold" size="46">1st of all, the general knowledge test!</font>
+
+58
+00:03:28,900 --> 00:03:32,080
+<font face="Arial Rounded MT Bold" size="46">Of course if you can answer the question its great</font>
+
+59
+00:03:32,090 --> 00:03:37,500
+<font face="Arial Rounded MT Bold" size="46">But when you can't answer it, it would fall on how you answer it to make it good for variety</font>
+
+60
+00:03:37,740 --> 00:03:40,270
+<font face="Arial Rounded MT Bold" size="46">We are also looking for that</font>
+
+61
+00:03:40,590 --> 00:03:42,680
+<font face="Arial Rounded MT Bold" size="46">Also find out the baka of the group right?</font>
+
+62
+00:03:43,790 --> 00:03:47,810
+<font face="Arial Rounded MT Bold" size="46">For that part, please make sure you guys prepare for that later okay?</font>
+
+63
+00:03:50,330 --> 00:03:52,600
+<font face="Arial Rounded MT Bold" size="46">Didn't I say so? For the sake of variety</font>
+
+64
+00:03:52,600 --> 00:03:56,030
+<font face="Arial Rounded MT Bold" size="46">The right way to answer a question wrongly .. there might be a chance later</font>
+
+65
+00:03:56,030 --> 00:03:57,770
+<font face="Arial Rounded MT Bold" size="46">You guys should get ready</font>
+
+66
+00:03:58,220 --> 00:03:59,880
+<font face="Arial Rounded MT Bold" size="46">Then, shall we get going?</font>
+
+67
+00:03:59,880 --> 00:04:02,180
+<font face="Arial Rounded MT Bold" size="46">If you tell me at this point of time, I'll get nervous ..</font>
+
+68
+00:04:02,670 --> 00:04:04,520
+<font face="Arial Rounded MT Bold" size="46">What you have just said didn't enter my ears</font>
+
+69
+00:04:07,390 --> 00:04:11,910
+<font face="Arial Rounded MT Bold" size="46">1st of all, the announcement of the member who got the best score in the test!</font>
+
+70
+00:04:13,200 --> 00:04:14,120
+<font face="Arial Rounded MT Bold" size="46">Nakamoto</font>
+
+71
+00:04:18,620 --> 00:04:19,470
+<font face="Arial Rounded MT Bold" size="46">Thank you very much</font>
+
+72
+00:04:19,650 --> 00:04:22,070
+<font face="Arial Rounded MT Bold" size="46">You weren't stellar at sports</font>
+
+73
+00:04:22,290 --> 00:04:23,000
+<font face="Arial Rounded MT Bold" size="46">You are better at intellectual stuff right?</font>
+
+74
+00:04:23,000 --> 00:04:23,700
+<font face="Arial Rounded MT Bold" size="46">Thats right!</font>
+
+75
+00:04:23,700 --> 00:04:25,940
+<font face="Arial Rounded MT Bold" size="46">Shes the brainy type</font>
+
+76
+00:04:25,940 --> 00:04:31,300
+<font face="Arial Rounded MT Bold" size="46">Shall we take a look at the questions? First things first, the 1st question is this</font>
+
+77
+00:04:31,300 --> 00:04:31,300
+<font size="20"><b>{\an5}<font size="30"><font color="#000000">泥臭い can also be intepreted as Unrefined</font></font></b></font>
+
+78
+00:04:31,300 --> 00:04:32,390
+<font size="20"><b>{\an5}<font size="30"><font color="#c80e20">Answer: 'Soil' Prime Minister</font></font></b></font>
+
+79
+00:04:32,390 --> 00:04:40,010
+<font face="Arial Rounded MT Bold" size="46">Prime Minister Noda who was elected this September, what has he been called that is similar to the odor of mud?</font>
+
+80
+00:04:40,010 --> 00:04:41,090
+<font face="Arial Rounded MT Bold" size="46">It just happened recently right</font>
+
+81
+00:04:41,090 --> 00:04:42,800
+<font face="Arial Rounded MT Bold" size="46">What was he called?</font>
+
+82
+00:04:42,800 --> 00:04:45,130
+<font face="Arial Rounded MT Bold" size="46">First up, Matsumura</font>
+
+83
+00:04:45,920 --> 00:04:48,640
+<font face="Arial Rounded MT Bold" size="46">This is Matsumura's answer</font>
+
+84
+00:04:50,180 --> 00:04:52,010
+<font face="Arial Rounded MT Bold" size="46">Correct!</font>
+
+85
+00:04:52,280 --> 00:04:54,770
+<font face="Arial Rounded MT Bold" size="46">You knew this?</font>
+
+86
+00:04:54,770 --> 00:04:56,730
+<font face="Arial Rounded MT Bold" size="46">Yes, I heard it from the news</font>
+
+87
+00:04:58,000 --> 00:04:59,600
+<font face="Arial Rounded MT Bold" size="46">Ahh, thats good to hear</font>
+
+88
+00:04:59,600 --> 00:05:02,600
+<font face="Arial Rounded MT Bold" size="46">Then, lets go with Wada next</font>
+
+89
+00:05:02,630 --> 00:05:04,080
+<font face="Arial Rounded MT Bold" size="38"><b>{\an8}Nattou is fermented soybeans</b></font>
+
+90
+00:05:04,080 --> 00:05:04,110
+<font face="Arial Rounded MT Bold" size="46">Nattou</font>
+
+91
+00:05:04,110 --> 00:05:05,810
+<font face="Arial Rounded MT Bold" size="46">Nattou Prime Minister?!</font>
+
+92
+00:05:05,810 --> 00:05:08,920
+<font face="Arial Rounded MT Bold" size="46">But if you consider stickiness of the nattou into account with the question ..</font>
+
+93
+00:05:08,920 --> 00:05:09,790
+<font face="Arial Rounded MT Bold" size="46">Is that what you meant?</font>
+
+94
+00:05:09,790 --> 00:05:09,790
+<font face="Arial Rounded MT Bold" size="46">I didn't know how to read the kanji of 泥臭い</font>
+
+95
+00:05:09,790 --> 00:05:12,090
+<font face="Arial Rounded MT Bold" size="38"><b>{\an8}泥臭い: Unrefined</b></font>
+
+96
+00:05:13,060 --> 00:05:15,790
+<font face="Arial Rounded MT Bold" size="46">I didn't read the Kanji of Doro (Mud) and only read the Kanji of Kusai (Smelly)</font>
+
+97
+00:05:15,790 --> 00:05:17,730
+<font face="Arial Rounded MT Bold" size="46">And I thought the answer would be nattou</font>
+
+98
+00:05:17,800 --> 00:05:19,330
+<font face="Arial Rounded MT Bold" size="46">Well, you couldn't read the Kanji right?</font>
+
+99
+00:05:19,760 --> 00:05:22,010
+<font face="Arial Rounded MT Bold" size="46">Ah, you haven't been taught the Kanji for Mud since you're still in year 1 of middle school</font>
+
+100
+00:05:23,060 --> 00:05:25,340
+<font face="Arial Rounded MT Bold" size="46">Yeahs, I haven't learnt it</font>
+
+101
+00:05:25,450 --> 00:05:26,450
+<font face="Arial Rounded MT Bold" size="46">Etou</font>
+
+102
+00:05:26,450 --> 00:05:27,700
+<font face="Arial Rounded MT Bold" size="46">here</font>
+
+103
+00:05:27,700 --> 00:05:28,770
+<font face="Arial Rounded MT Bold" size="46">Etou's answer</font>
+
+104
+00:05:30,160 --> 00:05:31,940
+<font face="Arial Rounded MT Bold" size="46">Dustcloth Prime Minister</font>
+
+105
+00:05:32,050 --> 00:05:35,430
+<font face="Arial Rounded MT Bold" size="46">Well, the answer was derived from dirtiness</font>
+
+106
+00:05:35,490 --> 00:05:37,620
+<font face="Arial Rounded MT Bold" size="46">The odor of mud .. the dirtiness of mud</font>
+
+107
+00:05:37,620 --> 00:05:39,620
+<font face="Arial Rounded MT Bold" size="46">Its the odor of mud</font>
+
+108
+00:05:39,620 --> 00:05:41,220
+<font face="Arial Rounded MT Bold" size="46">They have different meanings!</font>
+
+109
+00:05:41,220 --> 00:05:43,560
+<font face="Arial Rounded MT Bold" size="46">Because that was the only hint available</font>
+
+110
+00:05:43,560 --> 00:05:44,780
+<font face="Arial Rounded MT Bold" size="46">Using that as a hint right?</font>
+
+111
+00:05:44,780 --> 00:05:46,800
+<font face="Arial Rounded MT Bold" size="46">I was thinking of writing the base of the shoe or dustcloth as the answer</font>
+
+112
+00:05:46,800 --> 00:05:48,600
+<font face="Arial Rounded MT Bold" size="46">Yeahs the base of shoes stink of mud!</font>
+
+113
+00:05:48,600 --> 00:05:51,160
+<font face="Arial Rounded MT Bold" size="46">Is that so? It differs from people to people!</font>
+
+114
+00:05:51,250 --> 00:05:52,320
+<font face="Arial Rounded MT Bold" size="46">-Shiraishi 
+ -here</font>
+
+115
+00:05:52,330 --> 00:05:54,130
+<font face="Arial Rounded MT Bold" size="46">Shiraishi's answer, here</font>
+
+116
+00:05:54,500 --> 00:05:55,700
+<font face="Arial Rounded MT Bold" size="46">The base of a shoe</font>
+
+117
+00:05:56,910 --> 00:05:58,900
+<font face="Arial Rounded MT Bold" size="46">Maybe you both were thinking the same thing</font>
+
+118
+00:05:58,900 --> 00:06:00,740
+<font face="Arial Rounded MT Bold" size="46">I see</font>
+
+119
+00:06:00,740 --> 00:06:02,440
+<font face="Arial Rounded MT Bold" size="46">Shiraishi do your shoes stink of mud?</font>
+
+120
+00:06:02,440 --> 00:06:04,290
+<font face="Arial Rounded MT Bold" size="46">Nonononono</font>
+
+121
+00:06:05,390 --> 00:06:06,900
+<font face="Arial Rounded MT Bold" size="46">Its smelly!</font>
+
+122
+00:06:08,230 --> 00:06:09,210
+<font face="Arial Rounded MT Bold" size="46">Is it smelly?</font>
+
+123
+00:06:09,320 --> 00:06:10,350
+<font face="Arial Rounded MT Bold" size="46">I'm just joking ~ <3</font>
+
+124
+00:06:10,350 --> 00:06:11,150
+<font face="Arial Rounded MT Bold" size="46">Forget it ..</font>
+
+125
+00:06:12,210 --> 00:06:13,840
+<font face="Arial Rounded MT Bold" size="46">You were a little disappointed back there</font>
+
+126
+00:06:16,450 --> 00:06:18,750
+<font face="Arial Rounded MT Bold" size="46">Shiraishi whats the smell of your own shoe?</font>
+
+127
+00:06:18,750 --> 00:06:20,030
+<font face="Arial Rounded MT Bold" size="46">I have never smelt it</font>
+
+128
+00:06:20,160 --> 00:06:21,790
+<font face="Arial Rounded MT Bold" size="46">She went like "I have never smelt it"</font>
+
+129
+00:06:24,900 --> 00:06:31,000
+<font face="Arial Rounded MT Bold" size="46">Next question, which famous person said this phrase "The earth is blue"?</font>
+
+130
+00:06:31,000 --> 00:06:35,220
+<font face="Arial Rounded MT Bold" size="46">The answer is Yuri Gagarin, an astronaut, but ..</font>
+
+131
+00:06:35,370 --> 00:06:37,930
+<font face="Arial Rounded MT Bold" size="46">Lets look at Shiraishi's answer</font>
+
+132
+00:06:40,570 --> 00:06:41,160
+<font face="Arial Rounded MT Bold" size="46">Kanpei Hazama-san</font>
+
+133
+00:06:41,160 --> 00:06:43,480
+<font face="Arial Rounded MT Bold" size="46">He ran the marathon right?</font>
+
+134
+00:06:43,480 --> 00:06:45,310
+<font face="Arial Rounded MT Bold" size="46">The earth is blue</font>
+
+135
+00:06:45,310 --> 00:06:50,850
+<font face="Arial Rounded MT Bold" size="46">I thought the person circled the globe, and I thought the person was looking at planet Earth</font>
+
+136
+00:06:51,060 --> 00:06:53,990
+<font face="Arial Rounded MT Bold" size="46">Miyazawa Seira's answer</font>
+
+137
+00:06:54,820 --> 00:06:54,820
+<font face="Arial Rounded MT Bold" size="46">Oda Yuji-san</font>
+
+138
+00:06:54,820 --> 00:06:56,400
+<font face="Arial Rounded MT Bold" size="38"><b>{\an8}An actor and singer</b></font>
+
+139
+00:06:57,680 --> 00:07:01,960
+<font face="Arial Rounded MT Bold" size="46">It was bluee!!</font>
+
+140
+00:07:03,970 --> 00:07:06,820
+<font face="Arial Rounded MT Bold" size="46">He said "Its awesome that I was born on this Earth"</font>
+
+141
+00:07:08,300 --> 00:07:12,240
+<font face="Arial Rounded MT Bold" size="46">Well then, shall you guys attempt this question?</font>
+
+142
+00:07:12,250 --> 00:07:15,990
+<font face="Arial Rounded MT Bold" size="46">But the answer has already been flashed!</font>
+
+143
+00:07:16,780 --> 00:07:20,500
+<font face="Arial Rounded MT Bold" size="46">Well then only Tsubokura will attempt this question</font>
+
+144
+00:07:20,500 --> 00:07:24,540
+<font face="Arial Rounded MT Bold" size="46">You don't necessarily have to be comical, if you know the correct answer you can just say it</font>
+
+145
+00:07:25,040 --> 00:07:31,010
+<font face="Arial Rounded MT Bold" size="46">Now then, who was the person who said this phrase?</font>
+
+146
+00:07:31,270 --> 00:07:32,500
+<font face="Arial Rounded MT Bold" size="46">Kosuerin</font>
+
+147
+00:07:34,170 --> 00:07:36,160
+<font face="Arial Rounded MT Bold" size="46">Kosuerin-chan??</font>
+
+148
+00:07:36,580 --> 00:07:37,980
+<font face="Arial Rounded MT Bold" size="46">Wrong wrong</font>
+
+149
+00:07:37,980 --> 00:07:38,640
+<font face="Arial Rounded MT Bold" size="46">Gagarin</font>
+
+150
+00:07:38,640 --> 00:07:40,140
+<font face="Arial Rounded MT Bold" size="46">Ahh! Gaga .. I only remembered rin</font>
+
+151
+00:07:40,140 --> 00:07:41,540
+<font face="Arial Rounded MT Bold" size="46">You got the rin part correct</font>
+
+152
+00:07:41,540 --> 00:07:42,890
+<font face="Arial Rounded MT Bold" size="46">Ahh .. I see!</font>
+
+153
+00:07:42,890 --> 00:07:42,890
+<font size="20"><b>{\an5}<font size="30"><font color="#000000">The CEO of Apple Inc, Steve _____?</font></font></b></font>
+
+154
+00:07:42,890 --> 00:07:43,790
+<font size="20"><b>{\an5}<font size="30"><font color="#c80e20">Answer: Steve Jobs</font></font></b></font>
+
+155
+00:07:43,790 --> 00:07:49,020
+<font face="Arial Rounded MT Bold" size="46">Next question, the CEO of Apple Inc, Steve who?</font>
+
+156
+00:07:49,020 --> 00:07:51,880
+<font face="Arial Rounded MT Bold" size="46">The correct answer is Steve Jobs but ..</font>
+
+157
+00:07:52,030 --> 00:07:54,020
+<font face="Arial Rounded MT Bold" size="46">First up, Ikoma</font>
+
+158
+00:07:54,280 --> 00:07:55,200
+<font face="Arial Rounded MT Bold" size="46">Here is her answer</font>
+
+159
+00:07:56,960 --> 00:07:59,460
+<font face="Arial Rounded MT Bold" size="46">Steve Jobs, correct answer!</font>
+
+160
+00:07:59,600 --> 00:08:01,860
+<font face="Arial Rounded MT Bold" size="46">I got it correct!</font>
+
+161
+00:08:03,080 --> 00:08:07,740
+<font face="Arial Rounded MT Bold" size="46">For this question out of all 33 members, only Ikoma got it correct</font>
+
+162
+00:08:07,740 --> 00:08:09,100
+<font face="Arial Rounded MT Bold" size="46">Ikoma you did it!</font>
+
+163
+00:08:09,100 --> 00:08:10,360
+<font face="Arial Rounded MT Bold" size="46">This can't be!</font>
+
+164
+00:08:11,320 --> 00:08:14,030
+<font face="Arial Rounded MT Bold" size="46">You can't do sports, maybe you are the study type?</font>
+
+165
+00:08:14,100 --> 00:08:15,720
+<font face="Arial Rounded MT Bold" size="46">That might be true ~</font>
+
+166
+00:08:17,680 --> 00:08:17,680
+<font face="Arial Rounded MT Bold" size="38"><b>{\an8}Rola is a Vivi model known for her unique way of speaking</b></font>
+
+167
+00:08:17,680 --> 00:08:20,680
+<font face="Arial Rounded MT Bold" size="46">She spoked like Rola</font>
+
+168
+00:08:20,780 --> 00:08:24,460
+<font face="Arial Rounded MT Bold" size="46">Here is Hatanaka's answer</font>
+
+169
+00:08:25,790 --> 00:08:27,990
+<font face="Arial Rounded MT Bold" size="46">Err .. Steve Lemon!</font>
+
+170
+00:08:28,100 --> 00:08:29,700
+<font face="Arial Rounded MT Bold" size="46">Steve Lemon!</font>
+
+171
+00:08:29,830 --> 00:08:32,120
+<font face="Arial Rounded MT Bold" size="46">Was it due to the company being named Apple?</font>
+
+172
+00:08:32,120 --> 00:08:33,290
+<font face="Arial Rounded MT Bold" size="46">Yes thats it, erm</font>
+
+173
+00:08:33,290 --> 00:08:35,270
+<font face="Arial Rounded MT Bold" size="46">Apple in japanese is Ringo right?</font>
+
+174
+00:08:35,270 --> 00:08:37,600
+<font face="Arial Rounded MT Bold" size="46">And apple belongs to the fruits family</font>
+
+175
+00:08:37,600 --> 00:08:39,880
+<font face="Arial Rounded MT Bold" size="46">when I thought of fruits, Lemon came to my mind</font>
+
+176
+00:08:40,520 --> 00:08:41,520
+<font face="Arial Rounded MT Bold" size="46">So I wrote Lemon down</font>
+
+177
+00:08:41,520 --> 00:08:43,950
+<font face="Arial Rounded MT Bold" size="46">So you wrote Steve Lemon as the answer right?</font>
+
+178
+00:08:43,950 --> 00:08:45,270
+<font face="Arial Rounded MT Bold" size="46">Next, Nishino</font>
+
+179
+00:08:45,270 --> 00:08:47,560
+<font face="Arial Rounded MT Bold" size="46">Nishino's answer, here it is</font>
+
+180
+00:08:49,220 --> 00:08:50,990
+<font face="Arial Rounded MT Bold" size="46">Stevenson</font>
+
+181
+00:08:51,660 --> 00:08:53,890
+<font face="Arial Rounded MT Bold" size="46">Ahh .. answers like these are good for variety</font>
+
+182
+00:08:54,670 --> 00:08:56,060
+<font face="Arial Rounded MT Bold" size="46">This answer is awesome</font>
+
+183
+00:08:56,060 --> 00:08:58,110
+<font face="Arial Rounded MT Bold" size="46">This is? Stevenson?</font>
+
+184
+00:08:58,110 --> 00:08:59,530
+<font face="Arial Rounded MT Bold" size="46">Such a person exists right?</font>
+
+185
+00:08:59,530 --> 00:09:02,240
+<font face="Arial Rounded MT Bold" size="46">Well, if we searched, we would probably find someone called Stevenson</font>
+
+186
+00:09:02,800 --> 00:09:07,050
+<font face="Arial Rounded MT Bold" size="46">No one comes to mind when I think of the name Stevenson</font>
+
+187
+00:09:08,100 --> 00:09:09,960
+<font face="Arial Rounded MT Bold" size="46">Because I didn't know who was Stevenson ..</font>
+
+188
+00:09:09,960 --> 00:09:14,190
+<font face="Arial Rounded MT Bold" size="46">Because you didn't know who was he, you wrote him down as the answer? Opposite style of answering?</font>
+
+189
+00:09:14,190 --> 00:09:15,980
+<font face="Arial Rounded MT Bold" size="46">Lets move on, Takayama</font>
+
+190
+00:09:15,980 --> 00:09:17,460
+<font face="Arial Rounded MT Bold" size="46">Takayama's answer, here!</font>
+
+191
+00:09:18,730 --> 00:09:21,400
+<font face="Arial Rounded MT Bold" size="46">Steven Spielberg</font>
+
+192
+00:09:23,440 --> 00:09:25,200
+<font face="Arial Rounded MT Bold" size="46">You went and ended the name with 'n'</font>
+
+193
+00:09:25,200 --> 00:09:27,820
+<font face="Arial Rounded MT Bold" size="46">You added an 'n' consonant into the answer?</font>
+
+194
+00:09:28,040 --> 00:09:30,960
+<font face="Arial Rounded MT Bold" size="46">In comparison, Nakada's answer, here</font>
+
+195
+00:09:31,830 --> 00:09:34,010
+<font face="Arial Rounded MT Bold" size="46">Stevenberg</font>
+
+196
+00:09:34,550 --> 00:09:36,020
+<font face="Arial Rounded MT Bold" size="46">Stevenberg?!</font>
+
+197
+00:09:36,130 --> 00:09:40,760
+<font face="Arial Rounded MT Bold" size="46">Were you intending to write Steven Spielberg or someone that name contains 'Berg'?</font>
+
+198
+00:09:40,760 --> 00:09:44,900
+<font face="Arial Rounded MT Bold" size="46">I wanted to write Steven Spielberg but ..</font>
+
+199
+00:09:44,900 --> 00:09:48,480
+<font face="Arial Rounded MT Bold" size="46">I didn't know how, so I just wrote what I think it was spelled as and it ended up as Stevenberg</font>
+
+200
+00:09:48,480 --> 00:09:51,180
+<font face="Arial Rounded MT Bold" size="46">You just renamed Steven Spielberg</font>
+
+201
+00:09:51,180 --> 00:09:53,000
+<font face="Arial Rounded MT Bold" size="46">Everyone just added a 'n' consonant at the end eh?</font>
+
+202
+00:09:53,000 --> 00:09:54,340
+<font face="Arial Rounded MT Bold" size="46">Well there aren't really many Steves ..</font>
+
+203
+00:09:54,340 --> 00:09:56,400
+<font face="Arial Rounded MT Bold" size="46">They probably thought the answer wouldn't start with Steve</font>
+
+204
+00:09:56,400 --> 00:09:56,870
+<font face="Arial Rounded MT Bold" size="46">They definitely thought the 'n' consonant needed to be included</font>
+
+205
+00:09:56,870 --> 00:10:00,700
+<font face="Arial Rounded MT Bold" size="46">They thought the answer would definitely not contain 'Steve'</font>
+
+206
+00:10:00,700 --> 00:10:03,010
+<font face="Arial Rounded MT Bold" size="46">Answers also went all the way to 'Steven'</font>
+
+207
+00:10:03,010 --> 00:10:03,930
+<font face="Arial Rounded MT Bold" size="46">Now, Himura-san</font>
+
+208
+00:10:04,060 --> 00:10:04,910
+<font face="Arial Rounded MT Bold" size="46">Yes?</font>
+
+209
+00:10:06,530 --> 00:10:08,400
+<font face="Arial Rounded MT Bold" size="46">But the answer already appeared</font>
+
+210
+00:10:08,400 --> 00:10:13,300
+<font face="Arial Rounded MT Bold" size="46">Who is the CEO of Apple Inc? Steve what?</font>
+
+211
+00:10:13,700 --> 00:10:16,820
+<font face="Arial Rounded MT Bold" size="46">Steve .. Williams!</font>
+
+212
+00:10:18,470 --> 00:10:19,550
+<font face="Arial Rounded MT Bold" size="46">Hes a pro wrestler!</font>
+
+213
+00:10:19,550 --> 00:10:20,690
+<font face="Arial Rounded MT Bold" size="46">Terry Gordy's tag team partner</font>
+
+214
+00:10:20,690 --> 00:10:23,160
+<font face="Arial Rounded MT Bold" size="46">Oh thats Terry Gordy!</font>
+
+215
+00:10:23,400 --> 00:10:23,600
+<font face="Arial Rounded MT Bold" size="46">You made that up right?</font>
+
+216
+00:10:23,600 --> 00:10:26,460
+<font face="Arial Rounded MT Bold" size="46">Well we don't know about that right?</font>
+
+217
+00:10:26,460 --> 00:10:28,530
+<font face="Arial Rounded MT Bold" size="46">You whispered to me asking me if it went alright</font>
+
+218
+00:10:28,620 --> 00:10:30,300
+<font face="Arial Rounded MT Bold" size="46">It went alright, thank you</font>
+
+219
+00:10:30,710 --> 00:10:31,960
+<font face="Arial Rounded MT Bold" size="46">Well then, Tsubokura</font>
+
+220
+00:10:31,960 --> 00:10:32,660
+<font face="Arial Rounded MT Bold" size="46">Ehhh?!</font>
+
+221
+00:10:34,100 --> 00:10:36,000
+<font face="Arial Rounded MT Bold" size="46">Well of course you should answer it</font>
+
+222
+00:10:36,900 --> 00:10:39,560
+<font face="Arial Rounded MT Bold" size="46">The CEO of Apple Inc, is Steve who?</font>
+
+223
+00:10:39,560 --> 00:10:40,810
+<font face="Arial Rounded MT Bold" size="46">Steve Fuon</font>
+
+224
+00:10:43,560 --> 00:10:45,370
+<font face="Arial Rounded MT Bold" size="46">You know, you're interesting!</font>
+
+225
+00:10:46,000 --> 00:10:48,410
+<font face="Arial Rounded MT Bold" size="46">No, Himura-san you're the interesting one!</font>
+
+226
+00:10:48,640 --> 00:10:50,110
+<font face="Arial Rounded MT Bold" size="46">You're amazing!</font>
+
+227
+00:10:50,260 --> 00:10:52,230
+<font face="Arial Rounded MT Bold" size="46">Next! Lets move on to the next question</font>
+
+228
+00:10:53,880 --> 00:10:58,550
+<font face="Arial Rounded MT Bold" size="46">Next question, Kato Cha, who married a lady 45 years his junior</font>
+
+229
+00:10:58,550 --> 00:11:01,340
+<font face="Arial Rounded MT Bold" size="46">Sakai Maasaki who married a lady 22 years his junior</font>
+
+230
+00:11:01,340 --> 00:11:01,340
+<font face="Arial Rounded MT Bold" size="46">This style of marriage, which recently became popular, is called 'Toshi no Sakon'</font>
+
+231
+00:11:01,340 --> 00:11:06,410
+<font face="Arial Rounded MT Bold" size="38"><b>{\an8}Toshi no Sakon: When the age difference between couples is larger than the age of the lady herself</b></font>
+
+232
+00:11:06,980 --> 00:11:08,280
+<font face="Arial Rounded MT Bold" size="46">Matsumura!</font>
+
+233
+00:11:08,280 --> 00:11:10,360
+<font face="Arial Rounded MT Bold" size="46">Matsumura's answer, here</font>
+
+234
+00:11:12,060 --> 00:11:14,680
+<font face="Arial Rounded MT Bold" size="46">Yabakon</font>
+
+235
+00:11:14,690 --> 00:11:16,100
+<font face="Arial Rounded MT Bold" size="46">What did you mean by this answer?</font>
+
+236
+00:11:16,100 --> 00:11:19,310
+<font face="Arial Rounded MT Bold" size="46">Due to the vast gap between the couple's ages, they might go 'Thats bad!' .. I guess?</font>
+
+237
+00:11:21,040 --> 00:11:22,990
+<font face="Arial Rounded MT Bold" size="46">I meant it in a good way</font>
+
+238
+00:11:22,990 --> 00:11:24,660
+<font face="Arial Rounded MT Bold" size="46">Like 'Thats bad' ~</font>
+
+239
+00:11:25,190 --> 00:11:27,400
+<font face="Arial Rounded MT Bold" size="46">Thats bad eh?</font>
+
+240
+00:11:27,530 --> 00:11:30,310
+<font face="Arial Rounded MT Bold" size="46">This buzzword is popular</font>
+
+241
+00:11:30,310 --> 00:11:31,690
+<font face="Arial Rounded MT Bold" size="46">So I capitalized on it</font>
+
+242
+00:11:31,690 --> 00:11:34,370
+<font face="Arial Rounded MT Bold" size="46">Hashimoto's answer</font>
+
+243
+00:11:35,740 --> 00:11:38,010
+<font face="Arial Rounded MT Bold" size="46">Care (Nursing)</font>
+
+244
+00:11:38,010 --> 00:11:38,660
+<font face="Arial Rounded MT Bold" size="46">This is a little over the top ..</font>
+
+245
+00:11:38,660 --> 00:11:40,530
+<font face="Arial Rounded MT Bold" size="46">This is a little disrespectful</font>
+
+246
+00:11:40,530 --> 00:11:43,160
+<font face="Arial Rounded MT Bold" size="46">The way you answered this question</font>
+
+247
+00:11:43,160 --> 00:11:45,140
+<font face="Arial Rounded MT Bold" size="46">Hes in the pink of health</font>
+
+248
+00:11:45,140 --> 00:11:46,010
+<font face="Arial Rounded MT Bold" size="46">Then, Tsubokura</font>
+
+249
+00:11:46,010 --> 00:11:46,700
+<font face="Arial Rounded MT Bold" size="46">Yes?</font>
+
+250
+00:11:47,700 --> 00:11:49,000
+<font face="Arial Rounded MT Bold" size="46">You're good at this</font>
+
+251
+00:11:49,000 --> 00:11:52,000
+<font face="Arial Rounded MT Bold" size="46">You're blessed by the stars today eh?</font>
+
+252
+00:11:52,000 --> 00:11:54,040
+<font face="Arial Rounded MT Bold" size="46">You're someone who belongs to this kind of variety</font>
+
+253
+00:11:54,120 --> 00:12:00,160
+<font face="Arial Rounded MT Bold" size="46">What do you call someone who marries a lady way below his age? What Kon?</font>
+
+254
+00:12:00,160 --> 00:12:02,420
+<font face="Arial Rounded MT Bold" size="46">Someone-who-captures-young-ladies-kon</font>
+
+255
+00:12:03,510 --> 00:12:05,100
+<font face="Arial Rounded MT Bold" size="46">Which is the incorrect answer</font>
+
+256
+00:12:05,710 --> 00:12:08,090
+<font face="Arial Rounded MT Bold" size="46">That isn't the correct answer right?</font>
+
+257
+00:12:08,090 --> 00:12:08,800
+<font face="Arial Rounded MT Bold" size="46">Yatabe</font>
+
+258
+00:12:08,800 --> 00:12:10,870
+<font face="Arial Rounded MT Bold" size="46">Yatabe has the right answer</font>
+
+259
+00:12:10,870 --> 00:12:13,580
+<font face="Arial Rounded MT Bold" size="46">What do you call a person who marries a lady way below his age?</font>
+
+260
+00:12:13,830 --> 00:12:15,500
+<font face="Arial Rounded MT Bold" size="46">"Tea Ceremony of the Year"</font>
+
+261
+00:12:24,650 --> 00:12:28,280
+<font face="Arial Rounded MT Bold" size="46">Construct a sentence using the following phrase. The phrase is: To trip someone up</font>
+
+262
+00:12:28,280 --> 00:12:30,860
+<font face="Arial Rounded MT Bold" size="38"><b>{\an8}The habit some people have of grabbing onto small mistakes made by another person and correcting them, a nitpicker</b></font>
+
+263
+00:12:31,300 --> 00:12:32,960
+<font face="Arial Rounded MT Bold" size="46">Lets take a look at Ikoma's answer</font>
+
+264
+00:12:35,690 --> 00:12:41,210
+<font face="Arial Rounded MT Bold" size="46">Sorry, but could you pass me that plate that has the fried squid? I want to eat that.</font>
+
+265
+00:12:43,600 --> 00:12:44,530
+<font face="Arial Rounded MT Bold" size="46">You wanted to eat that right?</font>
+
+266
+00:12:44,530 --> 00:12:44,720
+<font face="Arial Rounded MT Bold" size="46">The last part was cute</font>
+
+267
+00:12:44,720 --> 00:12:46,560
+<font face="Arial Rounded MT Bold" size="46">This is hilarious!</font>
+
+268
+00:12:46,560 --> 00:12:48,560
+<font face="Arial Rounded MT Bold" size="46">The last part about you wanting to eat the fried squid was cute</font>
+
+269
+00:12:48,560 --> 00:12:51,180
+<font face="Arial Rounded MT Bold" size="46">This is almost totally correct right?</font>
+
+270
+00:12:51,350 --> 00:12:54,310
+<font face="Arial Rounded MT Bold" size="46">In another context this is correct</font>
+
+271
+00:12:54,430 --> 00:12:58,060
+<font face="Arial Rounded MT Bold" size="46">The next question is this</font>
+
+272
+00:12:58,150 --> 00:13:01,030
+<font face="Arial Rounded MT Bold" size="46">Make a sentence using the phrase "A piece of cake"</font>
+
+273
+00:13:01,170 --> 00:13:02,020
+<font face="Arial Rounded MT Bold" size="46">Oh, a piece of cake huh</font>
+
+274
+00:13:02,170 --> 00:13:03,180
+<font face="Arial Rounded MT Bold" size="46">Shiraishi</font>
+
+275
+00:13:05,300 --> 00:13:10,020
+<font face="Arial Rounded MT Bold" size="46">A piece of cake, grandma out in the fields with a scythe collecting the tea leafs</font>
+
+276
+00:13:12,370 --> 00:13:13,540
+<font face="Arial Rounded MT Bold" size="46">This is funny!</font>
+
+277
+00:13:13,600 --> 00:13:15,650
+<font face="Arial Rounded MT Bold" size="46">This is interesting!</font>
+
+278
+00:13:15,650 --> 00:13:17,190
+<font face="Arial Rounded MT Bold" size="46">What do you mean by this sentence?</font>
+
+279
+00:13:17,190 --> 00:13:23,470
+<font face="Arial Rounded MT Bold" size="46">I thought it was a grandma growing tea leafs out in the fields</font>
+
+280
+00:13:23,470 --> 00:13:27,800
+<font face="Arial Rounded MT Bold" size="46">And she uses the scythe to harvest the tea leafs .. I don't know ..</font>
+
+281
+00:13:28,330 --> 00:13:31,540
+<font face="Arial Rounded MT Bold" size="46">You meant the collection action of the tea leafs?</font>
+
+282
+00:13:31,540 --> 00:13:32,680
+<font face="Arial Rounded MT Bold" size="46">Ahh so thats what it meant</font>
+
+283
+00:13:32,680 --> 00:13:34,480
+<font face="Arial Rounded MT Bold" size="46">Oh, collecting the tea leafs, I see what you meant</font>
+
+284
+00:13:37,920 --> 00:13:38,950
+<font face="Arial Rounded MT Bold" size="46">This isn't something to cheer about!</font>
+
+285
+00:13:39,060 --> 00:13:42,250
+<font face="Arial Rounded MT Bold" size="46">You've got it wrong you know, even though you Yay-ed</font>
+
+286
+00:13:43,140 --> 00:13:45,330
+<font face="Arial Rounded MT Bold" size="46">Next is the test of imagination!</font>
+
+287
+00:13:45,440 --> 00:13:50,010
+<font face="Arial Rounded MT Bold" size="46">Complete the Senryu which starts with "The truth is"</font>
+
+288
+00:13:50,250 --> 00:13:51,740
+<font face="Arial Rounded MT Bold" size="46">Nagashima</font>
+
+289
+00:13:55,050 --> 00:13:58,220
+<font face="Arial Rounded MT Bold" size="46">The truth is, it would be bad if I do not slim down. But I still ate.</font>
+
+290
+00:13:58,220 --> 00:13:59,820
+<font face="Arial Rounded MT Bold" size="46">But you continued to eat despite that!</font>
+
+291
+00:13:59,990 --> 00:14:04,140
+<font face="Arial Rounded MT Bold" size="46">Instead of "But I want to eat" you said "Thats why I ate"</font>
+
+292
+00:14:04,140 --> 00:14:05,410
+<font face="Arial Rounded MT Bold" size="46">But you still ate!</font>
+
+293
+00:14:05,560 --> 00:14:10,000
+<font face="Arial Rounded MT Bold" size="46">To be fat is really unsightful you know</font>
+
+294
+00:14:10,130 --> 00:14:12,340
+<font face="Arial Rounded MT Bold" size="46">You are not one to talk!</font>
+
+295
+00:14:13,600 --> 00:14:17,500
+<font face="Arial Rounded MT Bold" size="46">But its the truth, if you're fat, there isn't any good outcomes</font>
+
+296
+00:14:21,970 --> 00:14:25,000
+<font face="Arial Rounded MT Bold" size="46">Next up is the test of the member's expressiveness</font>
+
+297
+00:14:25,300 --> 00:14:30,480
+<font face="Arial Rounded MT Bold" size="46">The girls have to draw something based on the given topic to express themselves, only relying on what they remember of it</font>
+
+298
+00:14:31,300 --> 00:14:35,500
+<font face="Arial Rounded MT Bold" size="46">For the first theme, this is the task</font>
+
+299
+00:14:35,780 --> 00:14:37,910
+<font face="Arial Rounded MT Bold" size="46">A kangaroo!</font>
+
+300
+00:14:37,910 --> 00:14:41,310
+<font face="Arial Rounded MT Bold" size="46">They need to hold back while drawing this</font>
+
+301
+00:14:41,310 --> 00:14:42,990
+<font face="Arial Rounded MT Bold" size="46">No one shouldn't draw this wrongly</font>
+
+302
+00:14:43,110 --> 00:14:45,120
+<font face="Arial Rounded MT Bold" size="46">Well then, first up, Nishino</font>
+
+303
+00:14:45,620 --> 00:14:48,310
+<font face="Arial Rounded MT Bold" size="46">Nishino you are good at art right?</font>
+
+304
+00:14:48,310 --> 00:14:50,910
+<font face="Arial Rounded MT Bold" size="46">Nishino's drawing, here</font>
+
+305
+00:14:52,920 --> 00:14:56,210
+<font face="Arial Rounded MT Bold" size="46">You're good!</font>
+
+306
+00:14:56,210 --> 00:14:58,300
+<font face="Arial Rounded MT Bold" size="46">The drawing is good and cute too!</font>
+
+307
+00:14:58,300 --> 00:15:01,000
+<font face="Arial Rounded MT Bold" size="46">This is really good!</font>
+
+308
+00:15:01,260 --> 00:15:02,640
+<font face="Arial Rounded MT Bold" size="46">Whats the noticing point of this drawing?</font>
+
+309
+00:15:02,640 --> 00:15:03,870
+<font face="Arial Rounded MT Bold" size="46">Its large legs</font>
+
+310
+00:15:05,300 --> 00:15:07,780
+<font face="Arial Rounded MT Bold" size="46">She also drew the baby in the mother Kangaroo's pouch</font>
+
+311
+00:15:07,780 --> 00:15:10,800
+<font face="Arial Rounded MT Bold" size="46">In the pocket right?</font>
+
+312
+00:15:10,800 --> 00:15:13,240
+<font face="Arial Rounded MT Bold" size="46">You're good at this, really</font>
+
+313
+00:15:13,240 --> 00:15:16,040
+<font face="Arial Rounded MT Bold" size="46">It looks cute too</font>
+
+314
+00:15:16,470 --> 00:15:18,950
+<font face="Arial Rounded MT Bold" size="46">Next up, Hashimoto</font>
+
+315
+00:15:19,680 --> 00:15:22,480
+<font face="Arial Rounded MT Bold" size="46">Hashimoto, you seem like you are good at art</font>
+
+316
+00:15:22,480 --> 00:15:25,140
+<font face="Arial Rounded MT Bold" size="46">You seem like you are able to calmly observe objects</font>
+
+317
+00:15:25,140 --> 00:15:26,560
+<font face="Arial Rounded MT Bold" size="46">Well then lets take a look, here</font>
+
+318
+00:15:30,300 --> 00:15:30,930
+<font face="Arial Rounded MT Bold" size="46">What is this?!</font>
+
+319
+00:15:30,940 --> 00:15:33,240
+<font face="Arial Rounded MT Bold" size="46">What is this!</font>
+
+320
+00:15:33,240 --> 00:15:34,320
+<font face="Arial Rounded MT Bold" size="46">Where does it's legs bend at?</font>
+
+321
+00:15:34,320 --> 00:15:36,980
+<font face="Arial Rounded MT Bold" size="46">Scary scary scary scary!!</font>
+
+322
+00:15:37,880 --> 00:15:39,820
+<font face="Arial Rounded MT Bold" size="46">It looks like its carrying its child in a bucket!?</font>
+
+323
+00:15:41,570 --> 00:15:44,260
+<font face="Arial Rounded MT Bold" size="46">Actually, I study in an arts university</font>
+
+324
+00:15:44,560 --> 00:15:45,390
+<font face="Arial Rounded MT Bold" size="46">Say what?</font>
+
+325
+00:15:45,390 --> 00:15:46,570
+<font face="Arial Rounded MT Bold" size="46">What did you say?!</font>
+
+326
+00:15:46,570 --> 00:15:47,230
+<font face="Arial Rounded MT Bold" size="46">I study in an arts university</font>
+
+327
+00:15:47,230 --> 00:15:48,270
+<font face="Arial Rounded MT Bold" size="46">ARTS UNIVERSITY?!</font>
+
+328
+00:15:48,270 --> 00:15:49,270
+<font face="Arial Rounded MT Bold" size="46">Please stop going!</font>
+
+329
+00:15:49,270 --> 00:15:50,390
+<font face="Arial Rounded MT Bold" size="46">You're kidding me right?</font>
+
+330
+00:15:50,390 --> 00:15:51,780
+<font face="Arial Rounded MT Bold" size="46">You study in an arts university?!</font>
+
+331
+00:15:51,870 --> 00:15:53,870
+<font face="Arial Rounded MT Bold" size="46">What do you study in university?</font>
+
+332
+00:15:53,880 --> 00:15:55,310
+<font face="Arial Rounded MT Bold" size="46">Spatial Design</font>
+
+333
+00:15:56,180 --> 00:16:00,890
+<font face="Arial Rounded MT Bold" size="46">You don't seem to be capturing any spatial design in this</font>
+
+334
+00:16:00,890 --> 00:16:02,150
+<font face="Arial Rounded MT Bold" size="46">If I have a design template</font>
+
+335
+00:16:02,150 --> 00:16:03,730
+<font face="Arial Rounded MT Bold" size="46">So if you have a template, you're good at it?</font>
+
+336
+00:16:03,730 --> 00:16:05,040
+<font face="Arial Rounded MT Bold" size="46">Well, average ..</font>
+
+337
+00:16:05,040 --> 00:16:08,300
+<font face="Arial Rounded MT Bold" size="46">So your drawing becomes like that if you don't have a template</font>
+
+338
+00:16:08,410 --> 00:16:11,690
+<font face="Arial Rounded MT Bold" size="46">This would be good as a T-Shirt design</font>
+
+339
+00:16:11,840 --> 00:16:13,420
+<font face="Arial Rounded MT Bold" size="46">Next up, Ikoma!</font>
+
+340
+00:16:13,550 --> 00:16:16,070
+<font face="Arial Rounded MT Bold" size="46">Ikoma's kangaroo, lets take a look!</font>
+
+341
+00:16:18,510 --> 00:16:20,400
+<font face="Arial Rounded MT Bold" size="46">It looks like its talking</font>
+
+342
+00:16:20,400 --> 00:16:21,610
+<font face="Arial Rounded MT Bold" size="46">Its saying something</font>
+
+343
+00:16:21,770 --> 00:16:24,300
+<font face="Arial Rounded MT Bold" size="46">What is it saying?</font>
+
+344
+00:16:24,390 --> 00:16:26,800
+<font face="Arial Rounded MT Bold" size="46">Its saying "Teriku Teriku"</font>
+
+345
+00:16:26,800 --> 00:16:27,990
+<font face="Arial Rounded MT Bold" size="46">Teriku teriku?</font>
+
+346
+00:16:27,990 --> 00:16:30,840
+<font face="Arial Rounded MT Bold" size="46">It has an adam's apple</font>
+
+347
+00:16:31,120 --> 00:16:34,150
+<font face="Arial Rounded MT Bold" size="46">When you zoom out and look at the entire picture</font>
+
+348
+00:16:34,150 --> 00:16:35,590
+<font face="Arial Rounded MT Bold" size="46">It seems like theres a nest</font>
+
+349
+00:16:36,170 --> 00:16:38,320
+<font face="Arial Rounded MT Bold" size="46">Inside the nest, it seems like</font>
+
+350
+00:16:38,320 --> 00:16:41,650
+<font face="Arial Rounded MT Bold" size="46">there are 2 baby kangaroos that look the same as the father kangaroo</font>
+
+351
+00:16:44,050 --> 00:16:47,550
+<font face="Arial Rounded MT Bold" size="46">They are similar as the father kangaroo, crying out Teriku teriku</font>
+
+352
+00:16:47,720 --> 00:16:49,520
+<font face="Arial Rounded MT Bold" size="46">Is it the kangaroo's children?</font>
+
+353
+00:16:49,520 --> 00:16:50,640
+<font face="Arial Rounded MT Bold" size="46">They are the kangaroo's children</font>
+
+354
+00:16:50,640 --> 00:16:51,100
+<font face="Arial Rounded MT Bold" size="46">They are the kangaroo's children right?</font>
+
+355
+00:16:51,100 --> 00:16:51,840
+<font face="Arial Rounded MT Bold" size="46">Yes they are</font>
+
+356
+00:16:51,840 --> 00:16:55,000
+<font face="Arial Rounded MT Bold" size="46">But the one in the father kangaroo's pouch is different!</font>
+
+357
+00:16:55,160 --> 00:16:56,320
+<font face="Arial Rounded MT Bold" size="46">Its a rabbit!</font>
+
+358
+00:16:56,320 --> 00:16:57,800
+<font face="Arial Rounded MT Bold" size="46">Its cute!</font>
+
+359
+00:16:57,800 --> 00:17:00,600
+<font face="Arial Rounded MT Bold" size="46">-This is different from the others right? 
+-This is a rabbit stuffed toy</font>
+
+360
+00:17:00,600 --> 00:17:01,890
+<font face="Arial Rounded MT Bold" size="46">Stuffed toy?!</font>
+
+361
+00:17:01,890 --> 00:17:03,920
+<font face="Arial Rounded MT Bold" size="46">Why did you draw a stuffed toy inside the kangaroo's pouch?</font>
+
+362
+00:17:03,920 --> 00:17:07,690
+<font face="Arial Rounded MT Bold" size="46">I wanted to draw it's child but ended up drawing a rabbit</font>
+
+363
+00:17:07,690 --> 00:17:08,500
+<font face="Arial Rounded MT Bold" size="46">I see</font>
+
+364
+00:17:08,500 --> 00:17:10,380
+<font face="Arial Rounded MT Bold" size="46">You wanted to draw the child but ended up drawing a rabbit right ~ ?</font>
+
+365
+00:17:15,500 --> 00:17:18,400
+<font face="Arial Rounded MT Bold" size="46">The task to draw a kangaroo turned out like this, lets move on to the next task</font>
+
+366
+00:17:18,400 --> 00:17:20,280
+<font face="Arial Rounded MT Bold" size="46">The next task is this!</font>
+
+367
+00:17:22,450 --> 00:17:25,010
+<font face="Arial Rounded MT Bold" size="46">Ahh .. well this is difficult I guess, who knows?</font>
+
+368
+00:17:25,010 --> 00:17:26,660
+<font face="Arial Rounded MT Bold" size="46">Would they know about this?</font>
+
+369
+00:17:26,660 --> 00:17:28,940
+<font face="Arial Rounded MT Bold" size="46">First up, Nishino!</font>
+
+370
+00:17:29,030 --> 00:17:32,450
+<font face="Arial Rounded MT Bold" size="46">First of all, lets take a look at Nishino's Sphinx</font>
+
+371
+00:17:32,450 --> 00:17:33,300
+<font face="Arial Rounded MT Bold" size="46">Here it is!</font>
+
+372
+00:17:35,780 --> 00:17:37,630
+<font face="Arial Rounded MT Bold" size="46">Wow its good!</font>
+
+373
+00:17:38,730 --> 00:17:39,560
+<font face="Arial Rounded MT Bold" size="46">Its a little scary</font>
+
+374
+00:17:39,560 --> 00:17:43,800
+<font face="Arial Rounded MT Bold" size="46">Its face looks a little manly but you've managed to capture the main features of the Sphinx</font>
+
+375
+00:17:43,800 --> 00:17:45,350
+<font face="Arial Rounded MT Bold" size="46">I can tell its the Sphinx</font>
+
+376
+00:17:45,350 --> 00:17:46,240
+<font face="Arial Rounded MT Bold" size="46">You're good at drawing</font>
+
+377
+00:17:46,400 --> 00:17:49,120
+<font face="Arial Rounded MT Bold" size="46">Next, shall we look at art student Hashimoto's drawing?</font>
+
+378
+00:17:49,120 --> 00:17:50,350
+<font face="Arial Rounded MT Bold" size="46">Well, you do belong to an arts university</font>
+
+379
+00:17:50,350 --> 00:17:51,360
+<font face="Arial Rounded MT Bold" size="46">Please draw this well</font>
+
+380
+00:17:51,360 --> 00:17:53,120
+<font face="Arial Rounded MT Bold" size="46">Hashimoto's sphinx, here</font>
+
+381
+00:17:58,160 --> 00:18:00,540
+<font face="Arial Rounded MT Bold" size="46">What is this?!</font>
+
+382
+00:18:00,550 --> 00:18:03,270
+<font face="Arial Rounded MT Bold" size="46">This looks like it has been drawing by a little boy</font>
+
+383
+00:18:03,420 --> 00:18:06,020
+<font face="Arial Rounded MT Bold" size="46">Next up is .. Ikuta</font>
+
+384
+00:18:07,030 --> 00:18:07,790
+<font face="Arial Rounded MT Bold" size="46">Ikuta's Sphinx</font>
+
+385
+00:18:07,790 --> 00:18:10,010
+<font face="Arial Rounded MT Bold" size="46">Ikuta seems to be able to pull this off</font>
+
+386
+00:18:10,010 --> 00:18:11,090
+<font face="Arial Rounded MT Bold" size="46">Lets take a look, here</font>
+
+387
+00:18:18,230 --> 00:18:22,430
+<font face="Arial Rounded MT Bold" size="46">Whats the blobby thing at the bottom?!</font>
+
+388
+00:18:22,430 --> 00:18:24,790
+<font face="Arial Rounded MT Bold" size="46">I wonder whats that disgusting thing</font>
+
+389
+00:18:24,790 --> 00:18:26,710
+<font face="Arial Rounded MT Bold" size="46">What the hell is this!</font>
+
+390
+00:18:26,850 --> 00:18:31,070
+<font face="Arial Rounded MT Bold" size="46">I thought my drawing was good so I added the legs below</font>
+
+391
+00:18:31,070 --> 00:18:33,360
+<font face="Arial Rounded MT Bold" size="46">Ughhh .. this is disgusting!!</font>
+
+392
+00:18:33,360 --> 00:18:36,960
+<font face="Arial Rounded MT Bold" size="46">This Sphinx looks like it could walk at a very fast speed!</font>
+
+393
+00:18:38,250 --> 00:18:42,120
+<font face="Arial Rounded MT Bold" size="46">It seems like this Sphinx has traveled from that distant pyramid in the picture</font>
+
+394
+00:18:44,810 --> 00:18:47,600
+<font face="Arial Rounded MT Bold" size="46">But this picture is still considered acceptable</font>
+
+395
+00:18:47,600 --> 00:18:48,650
+<font face="Arial Rounded MT Bold" size="46">EHHH?!</font>
+
+396
+00:18:48,650 --> 00:18:50,600
+<font face="Arial Rounded MT Bold" size="46">Lets take a look at Eto's picture</font>
+
+397
+00:18:50,800 --> 00:18:51,640
+<font face="Arial Rounded MT Bold" size="46">Here it is!</font>
+
+398
+00:18:54,700 --> 00:18:57,000
+<font face="Arial Rounded MT Bold" size="46">This is the Merlion right!?</font>
+
+399
+00:18:57,400 --> 00:18:58,640
+<font face="Arial Rounded MT Bold" size="46">The Sphinx went to Singapore!</font>
+
+400
+00:18:58,860 --> 00:19:01,550
+<font face="Arial Rounded MT Bold" size="46">Its the Merlion right?</font>
+
+401
+00:19:01,550 --> 00:19:03,960
+<font face="Arial Rounded MT Bold" size="46">I thought the Merlion was the Sphinx</font>
+
+402
+00:19:05,120 --> 00:19:07,290
+<font face="Arial Rounded MT Bold" size="46">-I thought it was something of that structure 
+ -But you know what a pyramid is</font>
+
+403
+00:19:07,290 --> 00:19:10,350
+<font face="Arial Rounded MT Bold" size="46">I know that the Sphinx is from Egypt</font>
+
+404
+00:19:10,350 --> 00:19:14,530
+<font face="Arial Rounded MT Bold" size="46">Still .. But still this can be considered as the Sphinx</font>
+
+405
+00:19:14,530 --> 00:19:17,960
+<font face="Arial Rounded MT Bold" size="46">Nononono, its completely out!</font>
+
+406
+00:19:18,050 --> 00:19:21,100
+<font face="Arial Rounded MT Bold" size="46">Next, Shiraishi's Sphinx is this!</font>
+
+407
+00:19:24,400 --> 00:19:26,110
+<font face="Arial Rounded MT Bold" size="46">What what what is this?!</font>
+
+408
+00:19:27,130 --> 00:19:28,790
+<font face="Arial Rounded MT Bold" size="46">What is this!?</font>
+
+409
+00:19:28,790 --> 00:19:30,890
+<font face="Arial Rounded MT Bold" size="46">This looks like the ghost of Nami Hie</font>
+
+410
+00:19:31,050 --> 00:19:32,000
+<font face="Arial Rounded MT Bold" size="46">What is this!</font>
+
+411
+00:19:32,000 --> 00:19:32,900
+<font face="Arial Rounded MT Bold" size="46">Its a ghost ~</font>
+
+412
+00:19:32,900 --> 00:19:34,160
+<font face="Arial Rounded MT Bold" size="46">What is its state of position?</font>
+
+413
+00:19:34,160 --> 00:19:35,800
+<font face="Arial Rounded MT Bold" size="46">This position</font>
+
+414
+00:19:35,960 --> 00:19:37,800
+<font face="Arial Rounded MT Bold" size="46">Its turned around with its back facing the front?</font>
+
+415
+00:19:38,000 --> 00:19:41,430
+<font face="Arial Rounded MT Bold" size="46">Even the eyes are totally white, what does it stand for?</font>
+
+416
+00:19:41,590 --> 00:19:42,870
+<font face="Arial Rounded MT Bold" size="46">Because I was in a rush</font>
+
+417
+00:19:42,870 --> 00:19:43,830
+<font face="Arial Rounded MT Bold" size="46">In a rush?</font>
+
+418
+00:19:44,340 --> 00:19:46,010
+<font face="Arial Rounded MT Bold" size="46">Its unfair for you to say that!</font>
+
+419
+00:19:46,010 --> 00:19:49,990
+<font face="Arial Rounded MT Bold" size="46">Its unfair to say that! You shouldn't be rushing!</font>
+
+420
+00:19:51,200 --> 00:19:52,500
+<font face="Arial Rounded MT Bold" size="46">Rushing through a test?</font>
+
+421
+00:19:52,500 --> 00:19:53,520
+<font face="Arial Rounded MT Bold" size="46">Theres no such thing as that</font>
+
+422
+00:19:53,520 --> 00:19:56,070
+<font face="Arial Rounded MT Bold" size="46">Only you took a long time to complete the test?</font>
+
+423
+00:19:59,340 --> 00:20:03,040
+<font face="Arial Rounded MT Bold" size="46">This design can also be turned into a T-Shirt</font>
+
+424
+00:20:03,130 --> 00:20:06,600
+<font face="Arial Rounded MT Bold" size="46">But .. this is still considered good</font>
+
+425
+00:20:06,600 --> 00:20:10,470
+<font face="Arial Rounded MT Bold" size="46">Nonono, it can't be!</font>
+
+426
+00:20:10,470 --> 00:20:11,560
+<font face="Arial Rounded MT Bold" size="46">Wada Maaya</font>
+
+427
+00:20:13,310 --> 00:20:16,300
+<font face="Arial Rounded MT Bold" size="46">Lets look at Wada Maaya's picture</font>
+
+428
+00:20:16,300 --> 00:20:17,040
+<font face="Arial Rounded MT Bold" size="46">You're kidding me</font>
+
+429
+00:20:17,040 --> 00:20:18,870
+<font face="Arial Rounded MT Bold" size="46">The Sphinx, here it is</font>
+
+430
+00:20:23,180 --> 00:20:24,850
+<font face="Arial Rounded MT Bold" size="46">What the hell is this?!</font>
+
+431
+00:20:24,940 --> 00:20:27,200
+<font face="Arial Rounded MT Bold" size="46">You crossed the border! WOAHHH!</font>
+
+432
+00:20:27,300 --> 00:20:28,300
+<font face="Arial Rounded MT Bold" size="46">You totally ditched the topic</font>
+
+433
+00:20:28,300 --> 00:20:29,500
+<font face="Arial Rounded MT Bold" size="46">You ditched the topic totally</font>
+
+434
+00:20:29,500 --> 00:20:32,800
+<font face="Arial Rounded MT Bold" size="46">This isn't like those history observers studying about the Sphinx right?</font>
+
+435
+00:20:32,800 --> 00:20:34,420
+<font face="Arial Rounded MT Bold" size="46">This is supposed to be the Sphinx right?</font>
+
+436
+00:20:34,420 --> 00:20:36,220
+<font face="Arial Rounded MT Bold" size="46">This is Sphinx's older brother perhaps?</font>
+
+437
+00:20:36,220 --> 00:20:37,660
+<font face="Arial Rounded MT Bold" size="46">You did a good job looking at it</font>
+
+438
+00:20:39,130 --> 00:20:43,070
+<font face="Arial Rounded MT Bold" size="46">Look at the bottom part of this picture of the "Sphinx"</font>
+
+439
+00:20:43,070 --> 00:20:45,220
+<font face="Arial Rounded MT Bold" size="46">This person is reading a book</font>
+
+440
+00:20:47,800 --> 00:20:50,860
+<font face="Arial Rounded MT Bold" size="46">Neapolitan is written on the cover of the book 
+ Carbonara is also written on the cover</font>
+
+441
+00:20:50,860 --> 00:20:55,290
+<font face="Arial Rounded MT Bold" size="46">This person looks like he's really studying about pasta</font>
+
+442
+00:20:55,290 --> 00:20:59,310
+<font face="Arial Rounded MT Bold" size="46">But the book's title is "Sphinx"</font>
+
+443
+00:20:59,440 --> 00:21:01,750
+<font face="Arial Rounded MT Bold" size="46">Is the book about Sphinx or what?!</font>
+
+444
+00:21:01,750 --> 00:21:04,330
+<font face="Arial Rounded MT Bold" size="46">What is this about? I really want to hear what is this all about</font>
+
+445
+00:21:04,330 --> 00:21:06,960
+<font face="Arial Rounded MT Bold" size="46">What is this? Does this persons have any relations to pasta?</font>
+
+446
+00:21:07,120 --> 00:21:08,320
+<font face="Arial Rounded MT Bold" size="46">He is the person who created pasta</font>
+
+447
+00:21:08,320 --> 00:21:11,430
+<font face="Arial Rounded MT Bold" size="46">The person who created pasta, Sphinx-san?</font>
+
+448
+00:21:11,550 --> 00:21:12,880
+<font face="Arial Rounded MT Bold" size="46">This is amazing ..</font>
+
+449
+00:21:12,880 --> 00:21:15,410
+<font face="Arial Rounded MT Bold" size="46">Interesting drawing right?</font>
+
+450
+00:21:15,410 --> 00:21:19,040
+<font face="Arial Rounded MT Bold" size="46">I would love it if everyone's drawings were turned into an animation</font>
+
+451
+00:21:19,040 --> 00:21:21,480
+<font face="Arial Rounded MT Bold" size="46">Ahh that? We didn't do that!</font>
+
+452
+00:21:22,840 --> 00:21:24,190
+<font face="Arial Rounded MT Bold" size="46">Perhaps I said too much?</font>
+
+453
+00:21:24,190 --> 00:21:25,650
+<font face="Arial Rounded MT Bold" size="46">Sugiyama</font>
+
+454
+00:21:30,120 --> 00:21:33,870
+<font face="Arial Rounded MT Bold" size="46">Next topic is an ideal pet to have</font>
+
+455
+00:21:33,870 --> 00:21:38,310
+<font face="Arial Rounded MT Bold" size="46">The members think of a pet they wish to keep and express it in through a drawing</font>
+
+456
+00:21:39,010 --> 00:21:41,900
+<font face="Arial Rounded MT Bold" size="46">For this topic, we will also start off with Nishino</font>
+
+457
+00:21:42,290 --> 00:21:45,360
+<font face="Arial Rounded MT Bold" size="46">Nishino's ideal pet, here!</font>
+
+458
+00:21:46,350 --> 00:21:50,180
+<font face="Arial Rounded MT Bold" size="46">Wow .. amazing!</font>
+
+459
+00:21:50,180 --> 00:21:52,660
+<font face="Arial Rounded MT Bold" size="46">Seriously you're good at this!</font>
+
+460
+00:21:52,660 --> 00:21:55,200
+<font face="Arial Rounded MT Bold" size="46">It looks like its actually moving</font>
+
+461
+00:21:55,200 --> 00:22:00,890
+<font face="Arial Rounded MT Bold" size="46">What is this? There are some petals swirling around it</font>
+
+462
+00:22:00,890 --> 00:22:04,530
+<font face="Arial Rounded MT Bold" size="46">When you go near it, it would emit a nice smell</font>
+
+463
+00:22:04,530 --> 00:22:05,600
+<font face="Arial Rounded MT Bold" size="46">Ahh I get it ..</font>
+
+464
+00:22:05,600 --> 00:22:07,460
+<font face="Arial Rounded MT Bold" size="46">This pet is not a dog or something similar to it?</font>
+
+465
+00:22:07,460 --> 00:22:09,520
+<font face="Arial Rounded MT Bold" size="46">Its closer to a deer or something like that?</font>
+
+466
+00:22:09,520 --> 00:22:10,000
+<font face="Arial Rounded MT Bold" size="46">Yes</font>
+
+467
+00:22:10,940 --> 00:22:16,430
+<font face="Arial Rounded MT Bold" size="46">In the future, I'm not sure what but when Nogizaka46 is having live tours, you could design the tour T-Shirts</font>
+
+468
+00:22:17,140 --> 00:22:19,760
+<font face="Arial Rounded MT Bold" size="46">Do it, you have the talent for it</font>
+
+469
+00:22:19,760 --> 00:22:20,700
+<font face="Arial Rounded MT Bold" size="46">Wada</font>
+
+470
+00:22:22,340 --> 00:22:22,340
+<font face="Arial Rounded MT Bold" size="46">Woah, erm .. is this Hirano Remi!?</font>
+
+471
+00:22:22,340 --> 00:22:25,910
+<font face="Arial Rounded MT Bold" size="38"><b>{\an8}Hirano Remi is an actress</b></font>
+
+472
+00:22:26,040 --> 00:22:29,770
+<font face="Arial Rounded MT Bold" size="46">Ahh! This looks like Hirano Remi!</font>
+
+473
+00:22:30,670 --> 00:22:32,640
+<font face="Arial Rounded MT Bold" size="46">Its this small</font>
+
+474
+00:22:32,640 --> 00:22:34,090
+<font face="Arial Rounded MT Bold" size="46">Oh, this pet is miniature in size</font>
+
+475
+00:22:34,090 --> 00:22:35,890
+<font face="Arial Rounded MT Bold" size="46">What is its size? Around 10cm?</font>
+
+476
+00:22:36,240 --> 00:22:37,190
+<font face="Arial Rounded MT Bold" size="46">Its 5cm tall</font>
+
+477
+00:22:37,190 --> 00:22:39,120
+<font face="Arial Rounded MT Bold" size="46">Ohh, how does its voice sound like?</font>
+
+478
+00:22:39,120 --> 00:22:40,400
+<font face="Arial Rounded MT Bold" size="46">Its voice is very low pitched</font>
+
+479
+00:22:40,400 --> 00:22:43,090
+<font face="Arial Rounded MT Bold" size="46">Low?! Shouldn't its voice be high pitched instead?</font>
+
+480
+00:22:43,090 --> 00:22:44,180
+<font face="Arial Rounded MT Bold" size="46">It seems like it would have a high pitched voice</font>
+
+481
+00:22:44,180 --> 00:22:45,880
+<font face="Arial Rounded MT Bold" size="46">The topmost button seems like its ..</font>
+
+482
+00:22:45,880 --> 00:22:49,150
+<font face="Arial Rounded MT Bold" size="46">The topmost button is attached onto its skin</font>
+
+483
+00:22:51,500 --> 00:22:53,060
+<font face="Arial Rounded MT Bold" size="46">Ehhh 8metres tall!?</font>
+
+484
+00:22:53,750 --> 00:22:57,830
+<font face="Arial Rounded MT Bold" size="46">Right after this, a shocking piece of work makes its appearance!?</font>
+
+485
+00:22:58,400 --> 00:22:59,600
+<font face="Arial Rounded MT Bold" size="46">Theres still more</font>
+
+486
+00:22:59,600 --> 00:23:00,230
+<font face="Arial Rounded MT Bold" size="46">EHHH!?</font>
+
+487
+00:23:00,260 --> 00:23:02,300
+<font face="Arial Rounded MT Bold" size="46">Takayama's drawing, here it is</font>
+
+488
+00:23:05,730 --> 00:23:09,800
+<font face="Arial Rounded MT Bold" size="46">This doesn't come through ..</font>
+
+489
+00:23:10,160 --> 00:23:11,570
+<font face="Arial Rounded MT Bold" size="46">Its 8 metres!?</font>
+
+490
+00:23:11,570 --> 00:23:13,410
+<font face="Arial Rounded MT Bold" size="46">EHHH 8 METRES!?</font>
+
+491
+00:23:13,800 --> 00:23:16,560
+<font face="Arial Rounded MT Bold" size="46">I really wanted to keep a toy poodle, but</font>
+
+492
+00:23:16,560 --> 00:23:19,060
+<font face="Arial Rounded MT Bold" size="46">I now live at my hometown</font>
+
+493
+00:23:19,060 --> 00:23:22,850
+<font face="Arial Rounded MT Bold" size="46">Its quite tedious traveling to Tokyo</font>
+
+494
+00:23:22,850 --> 00:23:26,090
+<font face="Arial Rounded MT Bold" size="46">I wanted a vehicle for traveling so I mixed them together</font>
+
+495
+00:23:26,220 --> 00:23:27,680
+<font face="Arial Rounded MT Bold" size="46">You will ride this 8m toy poodle to work?</font>
+
+496
+00:23:27,830 --> 00:23:29,840
+<font face="Arial Rounded MT Bold" size="46">Yes, I'll come to work in this</font>
+
+497
+00:23:29,980 --> 00:23:32,400
+<font face="Arial Rounded MT Bold" size="46">Is the current color of its fur okay?</font>
+
+498
+00:23:32,400 --> 00:23:35,090
+<font face="Arial Rounded MT Bold" size="46">Yes, something blueish</font>
+
+499
+00:23:35,270 --> 00:23:37,270
+<font face="Arial Rounded MT Bold" size="46">Something blueish ~</font>
+
+500
+00:23:37,580 --> 00:23:39,600
+<font face="Arial Rounded MT Bold" size="46">Last up, Hashimoto!</font>
+
+501
+00:23:39,600 --> 00:23:42,410
+<font face="Arial Rounded MT Bold" size="46">-Well, she should not disappoint us here 
+ -You are from an arts university after all</font>
+
+502
+00:23:45,380 --> 00:23:50,380
+<font face="Arial Rounded MT Bold" size="46">Right after this, finally the unveiling of art student Hashimoto's atrocious pet!?</font>
+
+503
+00:23:51,350 --> 00:23:53,190
+<font face="Arial Rounded MT Bold" size="46">Last up, Hashimoto</font>
+
+504
+00:23:53,190 --> 00:23:55,840
+<font face="Arial Rounded MT Bold" size="46">-Well, she should not disappoint us here 
+ -You are from an arts university after all</font>
+
+505
+00:23:55,840 --> 00:24:01,010
+<font face="Arial Rounded MT Bold" size="46">Here it is</font>
+
+506
+00:24:01,010 --> 00:24:04,650
+<font face="Arial Rounded MT Bold" size="46">What is this? Do you want an old man that looks like that?</font>
+
+507
+00:24:04,650 --> 00:24:05,990
+<font face="Arial Rounded MT Bold" size="46">No, its size is miniature</font>
+
+508
+00:24:05,990 --> 00:24:07,220
+<font face="Arial Rounded MT Bold" size="46">Ahh, the size is miniature right?</font>
+
+509
+00:24:07,440 --> 00:24:09,080
+<font face="Arial Rounded MT Bold" size="46">Would it be able to talk?</font>
+
+510
+00:24:09,080 --> 00:24:10,900
+<font face="Arial Rounded MT Bold" size="46">It would just stay in one corner</font>
+
+511
+00:24:11,410 --> 00:24:13,870
+<font face="Arial Rounded MT Bold" size="46">Its a pet that would just do its own thing without talking?</font>
+
+512
+00:24:14,010 --> 00:24:17,060
+<font face="Arial Rounded MT Bold" size="46">It already looks like that ..</font>
+
+513
+00:24:19,390 --> 00:24:24,730
+<font face="Arial Rounded MT Bold" size="46">In the next episode, the events that unfolded at Nogizaka's Meet-And-Greet Session would be revealed!</font>
+
+514
+00:24:26,680 --> 00:24:31,940
+<font face="Arial Rounded MT Bold" size="46">We are Nogizaka46! Have you already checked our official website?</font>
+
+515
+00:24:33,000 --> 00:24:37,780
+<font face="Arial Rounded MT Bold" size="46">The profiles are of course, about member's this-and-that, a variety of information are up!!</font>
+
