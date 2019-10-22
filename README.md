@@ -11,6 +11,7 @@ You can find more subs online; you can also find many episodes already subbed.
 
 ## Sources
 I haven't made the subs myself. Tere are communities and individuals who take care of it. A few names:
+Good Enough English subs, 
 [IkomaSubs](https://ikomasubs.wordpress.com/),
 [Qelopin](http://qelopin.blogspot.com/),
 AIDOL,
