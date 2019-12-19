@@ -1,0 +1,2183 @@
+1
+00:00:07,920 --> 00:00:08,720
+<font size="46"><b><font size="60">DON!</font></b></font>
+
+2
+00:00:08,720 --> 00:00:12,850
+<font size="46"><b>Okay, we've started, we're the hosts of Nogizaka Under Construction, Bananaman.</b></font>
+
+3
+00:00:13,600 --> 00:00:16,800
+<font size="46"><b>And here are Nogizaka-chan!</b></font>
+
+4
+00:00:23,650 --> 00:00:25,080
+<font size="46"><b>Alright then, Himura-san.</b></font>
+
+5
+00:00:25,080 --> 00:00:25,500
+<font size="46"><b>Yes.</b></font>
+
+6
+00:00:25,500 --> 00:00:27,370
+<font size="46"><b>Please announce our activity for today!</b></font>
+
+7
+00:00:27,370 --> 00:00:33,580
+<font size="46"><b>We want tell Hashimoto Nanami about this! The Nogizaka Unfortunate Stories Grand Prix!</b></font>
+
+8
+00:00:36,860 --> 00:00:43,280
+<font size="46"><b>As stated, this time, we have here someone who loves unfortunate stories even more than her daily three meals.</b></font>
+
+9
+00:00:46,780 --> 00:00:52,030
+<font size="46"><b>In the past, when Ikuta suffered a broken bone and couldn't participate in their hit campaign prayer...</b></font>
+
+10
+00:00:52,030 --> 00:00:56,770
+<font size="46"><b>Hashimoto, who loves unfortunate stories, was found heartily laughing by herself.</b></font>
+
+11
+00:00:58,270 --> 00:01:01,050
+<font size="46"><b>Well, I do actually find these stories funny...</b></font>
+
+12
+00:01:01,050 --> 00:01:03,720
+<font size="46"><b>But I also think that precisely because it's unfortunate, if nobody laughs about these stories,</b></font>
+
+13
+00:01:03,720 --> 00:01:05,480
+<font size="46"><b>then they really become unfortunate... Right?</b></font>
+
+14
+00:01:05,480 --> 00:01:06,210
+<font size="46"><b>Ah, I see.</b></font>
+
+15
+00:01:06,490 --> 00:01:08,370
+<font size="46"><b>So it's laughter that wells up from kindness.</b></font>
+
+16
+00:01:08,370 --> 00:01:09,150
+<font size="46"><b>Really now?</b></font>
+
+17
+00:01:09,150 --> 00:01:09,740
+<font face="Arial Rounded MT Bold" size="44">Really now?</font>
+
+18
+00:01:09,740 --> 00:01:11,020
+<font size="46"><b>Really, really!</b></font>
+
+19
+00:01:11,020 --> 00:01:12,740
+<font size="46"><b>So, then, today...</b></font>
+
+20
+00:01:12,740 --> 00:01:15,890
+<font size="46"><b>We'll have members share their own unfortunate stories themselves.</b></font>
+
+21
+00:01:16,160 --> 00:01:18,890
+<font size="46"><b>And Hashimoto-sensei will judge whether or not these stories are to her liking.</b></font>
+
+22
+00:01:18,890 --> 00:01:20,470
+<font face="Arial Rounded MT Bold" size="44"><font face="Arial"><b><font color="#000000">Unfortunate Stories GP Judging Committee Chairperson
+Hashimoto Nanami</font></b></font></font>
+
+23
+00:01:20,470 --> 00:01:21,890
+<font size="46"><b>I see.</b></font>
+
+24
+00:01:22,190 --> 00:01:22,190
+<font face="Arial Rounded MT Bold" size="44"><font face="Arial"><b><font color="#0d96b2">{\an4}<font size="22">Unfortunate</font></font></b></font></font>
+
+25
+00:01:22,190 --> 00:01:22,190
+<font face="Arial Rounded MT Bold" size="44"><font face="Arial"><b><font color="#0d96b2">{\an6}<font size="22">Funny</font></font></b></font></font>
+
+26
+00:01:22,190 --> 00:01:22,190
+<font face="Arial Rounded MT Bold" size="44"><font face="Arial"><b><font color="#0d96b2">{\an4}<font size="22">Not Funny
+(Off-putting)</font></font></b></font></font>
+
+27
+00:01:22,190 --> 00:01:23,470
+<font face="Arial Rounded MT Bold" size="44"><font face="Arial"><b><font color="#0d96b2">{\an4}<font size="22">Not Unfortunate</font></font></b></font></font>
+
+28
+00:01:23,470 --> 00:01:29,140
+<font size="46"><b>Judging Committee Chairperson Hashimoto will judge whether or not an unfortunate story is funny using this chart...</b></font>
+
+29
+00:01:29,140 --> 00:01:33,740
+<font size="46"><b>And at the end, the funniest misfortune will be chosen as the MVF!</b></font>
+
+30
+00:01:34,220 --> 00:01:36,060
+<font size="46"><b>So the best one would be here, right?</b></font>
+
+31
+00:01:36,060 --> 00:01:37,210
+<font size="46"><b>Unfortunate and funny.</b></font>
+
+32
+00:01:37,210 --> 00:01:38,660
+<font size="46"><b>That's right, unfortunate and funny.</b></font>
+
+33
+00:01:38,660 --> 00:01:42,380
+<font size="46"><b>And the worst scenario would be that a story is both unfunny and not unfortunate.</b></font>
+
+34
+00:01:42,380 --> 00:01:43,520
+<font face="Arial Rounded MT Bold" size="44">Normal story.</font>
+
+35
+00:01:43,520 --> 00:01:45,680
+<font size="46"><b>So that would be a boring, normal story, huh.</b></font>
+
+36
+00:01:45,940 --> 00:01:47,500
+<font size="46"><b>That's the worst.</b></font>
+
+37
+00:01:47,920 --> 00:01:50,020
+<font size="46"><b>That's seriously the worst.</b></font>
+
+38
+00:01:50,020 --> 00:01:55,550
+<font size="46"><b>So what's important here is that... Your story should not put off Hashimoto-sensei even if it's unfortunate.</b></font>
+
+39
+00:01:55,550 --> 00:01:56,900
+<font size="46"><b>Like if it's just too unfortunate.</b></font>
+
+40
+00:01:56,900 --> 00:01:58,160
+<font size="46"><b>A merry story would be best.</b></font>
+
+41
+00:01:58,160 --> 00:01:59,380
+<font size="46"><b>So you'd prefer merry.</b></font>
+
+42
+00:01:59,380 --> 00:02:00,160
+<font size="46"><b>Yes.</b></font>
+
+43
+00:02:00,980 --> 00:02:03,980
+<font size="46"><b>Unfortunate Stories Grand Prix. Our top batter is Wada.</b></font>
+
+44
+00:02:03,980 --> 00:02:07,310
+<font size="46"><b>The title of her story is: Presents from Guam.</b></font>
+
+45
+00:02:07,310 --> 00:02:11,420
+<font size="46"><b>We went to Guam in March, right?</b></font>
+
+46
+00:02:11,420 --> 00:02:17,270
+<font size="46"><b>So then I got home and I thought I'd take out the things I bought and opened my luggage bag.</b></font>
+
+47
+00:02:17,270 --> 00:02:22,180
+<font size="46"><b>And then, I was surprised to find that my bag had become pure white.</b></font>
+
+48
+00:02:22,180 --> 00:02:24,450
+<font size="46"><b>I thought something must have gotten spilled.</b></font>
+
+49
+00:02:24,450 --> 00:02:25,220
+<font size="46"><b>When you opened it?</b></font>
+
+50
+00:02:25,220 --> 00:02:28,020
+<font size="46"><b>Yes. I thought "Scary~ Scary~".</b></font>
+
+51
+00:02:28,020 --> 00:02:28,460
+<font face="Arial Rounded MT Bold" size="44">Ghost story?</font>
+
+52
+00:02:28,460 --> 00:02:29,090
+<font size="46"><b>Huh?</b></font>
+
+53
+00:02:29,090 --> 00:02:30,400
+<font size="46"><b>Huh? Hm?</b></font>
+
+54
+00:02:30,400 --> 00:02:31,730
+<font size="46"><b>Was that Inagawa-san just now?</b></font>
+
+55
+00:02:31,730 --> 00:02:38,340
+<font size="46"><b>Then when I looked for what got spilled, it was the body cream I bought for myself.</b></font>
+
+56
+00:02:38,790 --> 00:02:41,800
+<font size="46"><b>There was really little left of it.</b></font>
+
+57
+00:02:42,180 --> 00:02:49,380
+<font size="46"><b>I wondered why... But then I thought I did want to try it, so one day, I looked at it. I wanted to know what it smelled like and all.</b></font>
+
+58
+00:02:49,380 --> 00:02:51,780
+<font size="46"><b>And then when I looked at it...</b></font>
+
+59
+00:02:51,780 --> 00:02:54,500
+<font size="46"><b>Tester. It was labeled "Tester".</b></font>
+
+60
+00:02:55,670 --> 00:02:58,010
+<font size="46"><b>So you ended up buying the tester.</b></font>
+
+61
+00:02:58,010 --> 00:03:01,450
+<font size="46"><b>I made a mistake and did I buy the tester?</b></font>
+
+62
+00:03:01,450 --> 00:03:03,160
+<font size="46"><b>Ah, wrong words.</b></font>
+
+63
+00:03:04,900 --> 00:03:06,160
+<font size="46"><b>Why a question?</b></font>
+
+64
+00:03:06,400 --> 00:03:09,170
+<font size="46"><b>"Did I buy it?" What happened?</b></font>
+
+65
+00:03:09,170 --> 00:03:10,440
+<font size="46"><b>That's funny.</b></font>
+
+66
+00:03:11,100 --> 00:03:14,110
+<font size="46"><b>Once in the middle of your story... Was that Inagawa-san? Inakawa Junji-san.</b></font>
+
+67
+00:03:14,110 --> 00:03:15,660
+<font size="46"><b>You said "Scary~", right?</b></font>
+
+68
+00:03:15,660 --> 00:03:19,300
+<font size="46"><b>Not "Scary~" but "Scary~ Scary~". You said it twice, right?</b></font>
+
+69
+00:03:19,300 --> 00:03:21,640
+<font size="46"><b>That's Inagawa-san's trademark line though.</b></font>
+
+70
+00:03:21,640 --> 00:03:22,760
+<font size="46"><b>I did it unconsciously...</b></font>
+
+71
+00:03:22,760 --> 00:03:23,660
+<font size="46"><b>Unconsciously, I see.</b></font>
+
+72
+00:03:23,660 --> 00:03:24,080
+<font size="46"><b>You alright?</b></font>
+
+73
+00:03:24,080 --> 00:03:24,540
+<font size="46"><b>Yes.</b></font>
+
+74
+00:03:25,640 --> 00:03:30,200
+<font size="46"><b>An unfortunate story from Guam... How will Hashimoto-sensei rate it?</b></font>
+
+75
+00:03:30,560 --> 00:03:33,880
+<font size="46"><b>Between funny and not, it would be on the funny side.</b></font>
+
+76
+00:03:34,260 --> 00:03:35,090
+<font size="46"><b>Around here...</b></font>
+
+77
+00:03:35,090 --> 00:03:36,930
+<font size="46"><b>Oh! That's kind of good, right?</b></font>
+
+78
+00:03:36,930 --> 00:03:37,720
+<font size="46"><b>Pretty good.</b></font>
+
+79
+00:03:37,720 --> 00:03:39,560
+<font size="46"><b>Yeah, this is a funny misfortune.</b></font>
+
+80
+00:03:41,390 --> 00:03:44,140
+<font size="46"><b>Unfortunate Stories Grand Prix. Next up is Ikuta.</b></font>
+
+81
+00:03:44,140 --> 00:03:47,770
+<font size="46"><b>The title is: Skating Lesson Tragedy.</b></font>
+
+82
+00:03:47,770 --> 00:03:51,410
+<font size="46"><b>This is a story from when I was in my second grade of elementary school.</b></font>
+
+83
+00:03:51,410 --> 00:03:55,910
+<font size="46"><b>At the time, the figure skater Asada Mao-chan was very popular.</b></font>
+
+84
+00:03:55,910 --> 00:03:58,470
+<font size="46"><b>I was little then and I admired her.</b></font>
+
+85
+00:03:58,470 --> 00:04:04,440
+<font size="46"><b>And then, with all that, there happened to be a poster in my hometown that said "Taking applications for skating classes".</b></font>
+
+86
+00:04:04,440 --> 00:04:07,930
+<font size="46"><b>So then I thought I wanted to try this and was going to do so with a friend.</b></font>
+
+87
+00:04:07,930 --> 00:04:15,450
+<font size="46"><b>So on the first day, my father was going to be taking me to that class on his bicycle.</b></font>
+
+88
+00:04:15,450 --> 00:04:16,500
+<font size="46"><b>So it was close?</b></font>
+
+89
+00:04:16,500 --> 00:04:17,410
+<font size="46"><b>Yes.</b></font>
+
+90
+00:04:17,410 --> 00:04:19,940
+<font size="46"><b>But I was really, really excited.</b></font>
+
+91
+00:04:19,940 --> 00:04:22,940
+<font size="46"><b>I was just so fired up and hyper.</b></font>
+
+92
+00:04:22,940 --> 00:04:24,980
+<font size="46"><b>The main focus would be this foot of mine here.</b></font>
+
+93
+00:04:24,980 --> 00:04:25,940
+<font size="46"><b>Focus on the foot.</b></font>
+
+94
+00:04:25,940 --> 00:04:30,200
+<font size="46"><b>Yes. So as I rode on the bike, I was going "I'm so excited~" and going like this excitedly on our way there.</b></font>
+
+95
+00:04:30,200 --> 00:04:33,790
+<font size="46"><b>And this foot here got pulled in with the wheel...</b></font>
+
+96
+00:04:33,790 --> 00:04:35,090
+<font size="46"><b>Ow, ow, ow!</b></font>
+
+97
+00:04:35,660 --> 00:04:36,720
+<font size="46"><b>She's laughing. She's laughing.</b></font>
+
+98
+00:04:36,720 --> 00:04:37,700
+<font face="Arial Rounded MT Bold" size="44">Good rating <font color="#f6a8c6">❤</font></font>
+
+99
+00:04:37,700 --> 00:04:38,500
+<font size="46"><b>She's laughing alright.</b></font>
+
+100
+00:04:38,500 --> 00:04:40,160
+<font size="46"><b>Is this the funny part?</b></font>
+
+101
+00:04:40,160 --> 00:04:42,060
+<font size="46"><b>And I then broke a bone in my foot.</b></font>
+
+102
+00:04:42,060 --> 00:04:42,880
+<font size="46"><b>Again?</b></font>
+
+103
+00:04:42,880 --> 00:04:43,540
+<font size="46"><b>Yes.</b></font>
+
+104
+00:04:43,540 --> 00:04:44,290
+<font size="46"><b>Broken bone again?</b></font>
+
+105
+00:04:44,290 --> 00:04:45,540
+<font size="46"><b>Not so much again as that was the original.</b></font>
+
+106
+00:04:45,540 --> 00:04:46,970
+<font size="46"><b>Ah, yes, I see.</b></font>
+
+107
+00:04:46,970 --> 00:04:48,400
+<font size="46"><b>She's laughing really hard.</b></font>
+
+108
+00:04:48,400 --> 00:04:52,160
+<font size="46"><b>Yes. So then, of course, I couldn't go attend the skating class.</b></font>
+
+109
+00:04:52,160 --> 00:04:56,840
+<font size="46"><b>And, from then on, well, I... I've never skated even once.</b></font>
+
+110
+00:04:57,750 --> 00:04:59,080
+<font size="46"><b>You've never skated since then.</b></font>
+
+111
+00:04:59,080 --> 00:05:00,570
+<font size="46"><b>Never.</b></font>
+
+112
+00:05:01,070 --> 00:05:04,240
+<font size="46"><b>It's pretty amazing to break your foot on your way to class.</b></font>
+
+113
+00:05:04,240 --> 00:05:05,350
+<font size="46"><b>Yes!</b></font>
+
+114
+00:05:05,350 --> 00:05:07,950
+<font size="46"><b>The more recent one where you dropped the detergent was your foot as well, right?</b></font>
+
+115
+00:05:07,950 --> 00:05:09,900
+<font size="46"><b>Oh, that one was toe.</b></font>
+
+116
+00:05:09,900 --> 00:05:13,730
+<font size="46"><b>And for this time... I mean for the original incident, it was my ankle.</b></font>
+
+117
+00:05:13,730 --> 00:05:15,720
+<font face="Arial Rounded MT Bold" size="44">Ankle Fracture</font>
+
+118
+00:05:15,720 --> 00:05:17,100
+<font size="46"><b>Which ankle?</b></font>
+
+119
+00:05:17,100 --> 00:05:17,920
+<font size="46"><b>The left one.</b></font>
+
+120
+00:05:17,920 --> 00:05:20,300
+<font size="46"><b>Was it a comminuted fracture for your left ankle?</b></font>
+
+121
+00:05:20,300 --> 00:05:24,090
+<font size="46"><b>It wasn't comminuted, but it somehow got broken...</b></font>
+
+122
+00:05:25,140 --> 00:05:26,530
+<font size="46"><b>Sounds painful, right?</b></font>
+
+123
+00:05:26,530 --> 00:05:27,370
+<font size="46"><b>Sounds terrible.</b></font>
+
+124
+00:05:27,370 --> 00:05:28,050
+<font size="46"><b>And you're laughing, right?</b></font>
+
+125
+00:05:28,050 --> 00:05:28,740
+<font size="46"><b>She's laughing.</b></font>
+
+126
+00:05:28,740 --> 00:05:32,620
+<font size="46"><b>In contrast, Nishino has been trying not to listen anymore.</b></font>
+
+127
+00:05:32,620 --> 00:05:34,750
+<font size="46"><b>I'm really bad with stories that involve pain.</b></font>
+
+128
+00:05:34,750 --> 00:05:36,120
+<font size="46"><b>So you're bad with painful stories.</b></font>
+
+129
+00:05:36,120 --> 00:05:36,980
+<font size="46"><b>It's hard to listen to, right?</b></font>
+
+130
+00:05:37,240 --> 00:05:39,580
+<font size="46"><b>Hashimoto-sensei, though, was laughing a lot.</b></font>
+
+131
+00:05:39,580 --> 00:05:42,450
+<font size="46"><b>She was already laughing even during the part where Ikuta was waving her legs.</b></font>
+
+132
+00:05:42,450 --> 00:05:42,450
+<font face="Arial Rounded MT Bold" size="44">Premonition of fracture</font>
+
+133
+00:05:42,450 --> 00:05:44,300
+<font size="46"><b>Like "Ah, she's gonna break her bone..."</b></font>
+
+134
+00:05:46,630 --> 00:05:48,460
+<font size="46"><b>How long did it take to heal?</b></font>
+
+135
+00:05:48,460 --> 00:05:51,460
+<font size="46"><b>Around one year.</b></font>
+
+136
+00:05:51,460 --> 00:05:53,100
+<font size="46"><b>I couldn't move freely for that long.</b></font>
+
+137
+00:05:53,100 --> 00:05:54,710
+<font size="46"><b>It took a year to heal.</b></font>
+
+138
+00:05:54,710 --> 00:05:58,020
+<font size="46"><b>So your foot got caught in a bike and it took a year to heal.</b></font>
+
+139
+00:05:58,740 --> 00:06:00,860
+<font size="46"><b>That long? It took that long?</b></font>
+
+140
+00:06:00,860 --> 00:06:04,510
+<font size="46"><b>Second grade is a time where kids want to move around a lot too. It was sad, wasn't it?</b></font>
+
+141
+00:06:06,450 --> 00:06:10,150
+<font size="46"><b>And what's more... My ankle broke into two pieces then.</b></font>
+
+142
+00:06:10,150 --> 00:06:12,200
+<font size="46"><b>Yes. So even now...</b></font>
+
+143
+00:06:12,200 --> 00:06:16,120
+<font size="46"><b>And maybe for the rest of my life, I'll have to live with 3 ankles.</b></font>
+
+144
+00:06:16,120 --> 00:06:17,060
+<font size="46"><b>3 ankles?</b></font>
+
+145
+00:06:17,990 --> 00:06:18,270
+<font face="Arial Rounded MT Bold" size="44">Hole IN one.</font>
+
+146
+00:06:18,270 --> 00:06:21,290
+<font size="46"><b>What? How can you have 3 ankles?</b></font>
+
+147
+00:06:21,290 --> 00:06:22,700
+<font size="46"><b>What do you mean by 3 ankles?</b></font>
+
+148
+00:06:22,700 --> 00:06:26,840
+<font size="46"><b>So, I have 2 ankles on my left and then 1 on my right.</b></font>
+
+149
+00:06:26,840 --> 00:06:28,120
+<font size="46"><b>Oh, that's what you meant.</b></font>
+
+150
+00:06:28,120 --> 00:06:29,900
+<font size="46"><b>Even though the normal total number of ankles is 2...</b></font>
+
+151
+00:06:29,900 --> 00:06:31,380
+<font size="46"><b>Ikuta-san, you have 3, right?</b></font>
+
+152
+00:06:31,380 --> 00:06:32,240
+<font size="46"><b>I have 3.</b></font>
+
+153
+00:06:32,240 --> 00:06:33,490
+<font size="46"><b>There are inner ankle bones too, though.</b></font>
+
+154
+00:06:33,490 --> 00:06:34,140
+<font size="46"><b>Oh, yeah.</b></font>
+
+155
+00:06:34,370 --> 00:06:35,420
+<font size="46"><b>True!</b></font>
+
+156
+00:06:35,420 --> 00:06:37,720
+<font size="46"><b>So... So then totaling them...</b></font>
+
+157
+00:06:37,720 --> 00:06:38,520
+<font size="46"><b>I have 5!</b></font>
+
+158
+00:06:38,520 --> 00:06:40,150
+<font size="46"><b>5 ankle bones!</b></font>
+
+159
+00:06:40,150 --> 00:06:41,080
+<font size="46"><b>Right.</b></font>
+
+160
+00:06:42,100 --> 00:06:46,420
+<font size="46"><b>Ikuta's unfortunate story. How will Hashimoto-sensei rate it?</b></font>
+
+161
+00:06:47,020 --> 00:06:49,640
+<font size="46"><b>It was really funny... So around here?</b></font>
+
+162
+00:06:50,230 --> 00:06:52,400
+<font size="46"><b>Oh, this is quite high!</b></font>
+
+163
+00:06:54,000 --> 00:06:55,110
+<font size="46"><b>Amazing.</b></font>
+
+164
+00:06:55,110 --> 00:06:59,770
+<font size="46"><b>But according to Hashimoto-sensei, there's still quite a way to go in terms of misfortune.</b></font>
+
+165
+00:06:59,770 --> 00:07:00,570
+<font size="46"><b>Not yet that unfortunate.</b></font>
+
+166
+00:07:00,570 --> 00:07:00,970
+<font size="46"><b>Not yet.</b></font>
+
+167
+00:07:00,970 --> 00:07:03,210
+<font size="46"><b>That's bad. Like how unfortunate would be the max?</b></font>
+
+168
+00:07:03,210 --> 00:07:04,230
+<font size="46"><b>Right?</b></font>
+
+169
+00:07:04,230 --> 00:07:06,100
+<font size="46"><b>The manager of Konjakuan was there.</b></font>
+
+170
+00:07:06,100 --> 00:07:06,100
+<font size="46"><b><font size="26">{\an8}<font face="Tahoma"> POJI-PEACE
+
+<font size="32"><b> ( ￣<font size="20">o<font size="32">￣ )</font></font></b></font></font></font></b></font>
+
+171
+00:07:06,100 --> 00:07:06,100
+<font size="46"><b>m 0 0 b -2 0 -4 0 -6 0 b -7 0 -8 0 -8 -2 b -8 -2 -8 -2 -8 -2 b -8 -3 -8 -4 -6 -4 b -4 -4 -2 -4 0 -4 b 2 -4 4 -4 6 -4 b 6 -5 6 -7 6 -8 b 6 -8 6 -8 6 -8 b 7 -10 9 -10 10 -9 b 10 -7 10 -7 10 -6 b 12 -4 13 -3 13 -2 b 13 6 13 4 13 7 b 12 8 10 8 8 8 b 7 8 6 8 5 8 b 4 8 3 8 1 7 b 0 5 0 3 0 2</b></font>
+
+172
+00:07:06,100 --> 00:07:09,230
+<font size="46"><b>m 0 0 b -2 0 -4 0 -6 0 b -7 0 -8 0 -8 -2 b -8 -2 -8 -2 -8 -2 b -8 -3 -8 -4 -6 -4 b -4 -4 -2 -4 0 -4 b 2 -4 4 -4 6 -4 b 6 -5 6 -7 6 -8 b 6 -8 6 -8 6 -8 b 7 -10 9 -10 10 -9 b 10 -7 10 -7 10 -6 b 12 -4 13 -3 13 -2 b 13 6 13 4 13 7 b 12 8 10 8 8 8 b 7 8 6 8 5 8 b 4 8 3 8 1 7 b 0 5 0 3 0 2</b></font>
+
+173
+00:07:09,230 --> 00:07:12,160
+<font size="46"><b>Why is it black? Why is it big?</b></font>
+
+174
+00:07:12,160 --> 00:07:13,340
+<font size="46"><b>I'd get asked that.</b></font>
+
+175
+00:07:13,340 --> 00:07:15,380
+<font size="46"><b>And why is the one asking stupid?</b></font>
+
+176
+00:07:15,380 --> 00:07:18,550
+<font size="46"><b>I got one that's even older.</b></font>
+
+177
+00:07:22,780 --> 00:07:25,530
+<font size="46"><b>Unfortunate stories grand prix. The third story is from Wakatsuki.</b></font>
+
+178
+00:07:25,530 --> 00:07:28,860
+<font size="46"><b>The title is: Rather Worn Out.</b></font>
+
+179
+00:07:28,860 --> 00:07:33,520
+<font size="46"><b>When you have siblings... You usually, well, get their stuff... Like hand-me-downs.</b></font>
+
+180
+00:07:33,520 --> 00:07:34,570
+<font size="46"><b>Yes, that happens.</b></font>
+
+181
+00:07:34,570 --> 00:07:39,530
+<font size="46"><b>I think most of us has some experience like that... However, my sister happens to be 8 years older.</b></font>
+
+182
+00:07:40,110 --> 00:07:45,010
+<font size="46"><b>So then, I get stuff from my sister who is 8 years older.</b></font>
+
+183
+00:07:45,010 --> 00:07:49,040
+<font size="46"><b>In elementary school, we use recorders right?</b></font>
+
+184
+00:07:49,040 --> 00:07:51,800
+<font size="46"><b>Normally, these recorders are black and white, right?</b></font>
+
+185
+00:07:51,800 --> 00:07:53,110
+<font size="46"><b>Yeah.</b></font>
+
+186
+00:07:53,110 --> 00:07:55,690
+<font size="46"><b>The one I had was pure white.</b></font>
+
+187
+00:07:57,120 --> 00:08:00,290
+<font size="46"><b>So then everyone else had a black and white one and only I had a pure white one.</b></font>
+
+188
+00:08:00,500 --> 00:08:02,460
+<font size="46"><b>That's a bad age to be different from everyone else, huh?</b></font>
+
+189
+00:08:02,460 --> 00:08:06,300
+<font size="46"><b>People around me would ask, "What happened to the black part?".</b></font>
+
+190
+00:08:06,300 --> 00:08:08,770
+<font size="46"><b>That's kind of stupid as well, though, there was never any black in the first place.</b></font>
+
+191
+00:08:08,770 --> 00:08:09,300
+<font size="46"><b>"What happened to the black part?"</b></font>
+
+192
+00:08:09,590 --> 00:08:13,550
+<font size="46"><b>"Is there no black part?" - It starts with those questions.</b></font>
+
+193
+00:08:13,550 --> 00:08:18,040
+<font size="46"><b>Next, back in elementary school, we had those arithmetic sets, didn't we?</b></font>
+
+194
+00:08:18,040 --> 00:08:19,640
+<font size="46"><b>Oh yeah, I remember!</b></font>
+
+195
+00:08:19,640 --> 00:08:21,580
+<font size="46"><b>Like a tool box of sorts.</b></font>
+
+196
+00:08:21,580 --> 00:08:24,020
+<font size="46"><b>Mine was a hand-me-down as well.</b></font>
+
+197
+00:08:24,020 --> 00:08:27,020
+<font size="46"><b>And, well, it was 8 years old...</b></font>
+
+198
+00:08:27,020 --> 00:08:28,720
+<font size="46"><b>So there were these sticks used for counting.</b></font>
+
+199
+00:08:28,720 --> 00:08:32,960
+<font size="46"><b>And we used these sticks to form shapes and stuff.</b></font>
+
+200
+00:08:32,960 --> 00:08:36,440
+<font size="46"><b>So, everyone else's was new, of course.</b></font>
+
+201
+00:08:36,440 --> 00:08:40,590
+<font size="46"><b>So their sticks could be put together, attached to each other...</b></font>
+
+202
+00:08:40,590 --> 00:08:43,770
+<font size="46"><b>But mine could only be lined up.</b></font>
+
+203
+00:08:43,770 --> 00:08:44,880
+<font face="Arial Rounded MT Bold" size="44">8-year gap.</font>
+
+204
+00:08:44,880 --> 00:08:46,380
+<font size="46"><b>They can't be attached.</b></font>
+
+205
+00:08:47,030 --> 00:08:47,830
+<font size="46"><b>Yes.</b></font>
+
+206
+00:08:47,830 --> 00:08:51,580
+<font size="46"><b>Then, of course, the teacher had the newest model as well.</b></font>
+
+207
+00:08:51,580 --> 00:08:55,510
+<font size="46"><b>"Alright everyone, why don't we take these sticks and form a 3-dimensional figure?"</b></font>
+
+208
+00:08:55,510 --> 00:08:56,680
+<font face="Arial Rounded MT Bold" size="44">A cruel question.</font>
+
+209
+00:08:56,680 --> 00:08:58,520
+<font size="46"><b>So 3D, huh?</b></font>
+
+210
+00:08:58,520 --> 00:09:02,180
+<font size="46"><b>They can't be attached to each other. They can't form 3D.</b></font>
+
+211
+00:09:02,180 --> 00:09:07,210
+<font size="46"><b>So I told the teacher that I could only do flat figures, and I ended up being the only one behind in class.</b></font>
+
+212
+00:09:07,210 --> 00:09:09,500
+<font size="46"><b>You should've just taped them together.</b></font>
+
+213
+00:09:09,500 --> 00:09:14,680
+<font size="46"><b>Yeah, that was my only choice. So, there was that.</b></font>
+
+214
+00:09:14,680 --> 00:09:15,600
+<font size="46"><b>Kind of heartbreaking.</b></font>
+
+215
+00:09:15,600 --> 00:09:17,670
+<font size="46"><b>She's reacting. Hashimoto-san's reacting.</b></font>
+
+216
+00:09:17,670 --> 00:09:19,140
+<font size="46"><b>She's laughing hard.</b></font>
+
+217
+00:09:19,140 --> 00:09:21,200
+<font size="46"><b>"That girl's stuck with flat figures!"</b></font>
+
+218
+00:09:21,200 --> 00:09:24,210
+<font size="46"><b>So aside from those, we had a sewing kit in elementary right?</b></font>
+
+219
+00:09:25,760 --> 00:09:28,100
+<font size="46"><b>My sewing scissors were clearly bigger than others.</b></font>
+
+220
+00:09:28,100 --> 00:09:31,310
+<font size="46"><b>It was all rusted and kind of black too.</b></font>
+
+221
+00:09:31,310 --> 00:09:35,340
+<font size="46"><b>And on top of that, it didn't match the size of my sewing kit so it would protrude out of the box.</b></font>
+
+222
+00:09:35,340 --> 00:09:37,320
+<font size="46"><b>It wouldn't fit.</b></font>
+
+223
+00:09:37,320 --> 00:09:42,690
+<font size="46"><b>So then, I got questions again. "Why is that black? Why is it big?".</b></font>
+
+224
+00:09:42,690 --> 00:09:44,870
+<font size="46"><b>And why is the one asking stupid?</b></font>
+
+225
+00:09:44,870 --> 00:09:46,020
+<font size="46"><b>What's with that person?</b></font>
+
+226
+00:09:46,020 --> 00:09:49,850
+<font size="46"><b>I replied "Ah, I don't know, but somehow it's big and black..."</b></font>
+
+227
+00:09:49,850 --> 00:09:54,010
+<font size="46"><b>But I thought the worst one was the Melodion one.</b></font>
+
+228
+00:09:54,010 --> 00:09:54,710
+<font size="46"><b>Melodion?</b></font>
+
+229
+00:09:54,710 --> 00:09:57,150
+<font size="46"><b>Oh, I guess that's not what it's usually called... I meant the key harmonica.</b></font>
+
+230
+00:09:57,150 --> 00:10:00,310
+<font size="46"><b>Oh... Ah, you mean pianica.</b></font>
+
+231
+00:10:00,310 --> 00:10:01,750
+<font size="46"><b>You call that melodion?</b></font>
+
+232
+00:10:01,750 --> 00:10:03,360
+<font size="46"><b>Yes, we call it melodion.</b></font>
+
+233
+00:10:03,360 --> 00:10:04,370
+<font size="46"><b>Seriously?</b></font>
+
+234
+00:10:04,370 --> 00:10:05,240
+<font size="46"><b>What the heck's a melodion?</b></font>
+
+235
+00:10:05,240 --> 00:10:05,750
+<font size="46"><b>Amazing, huh?</b></font>
+
+236
+00:10:05,980 --> 00:10:07,050
+<font size="46"><b>Yes, melodion.</b></font>
+
+237
+00:10:07,050 --> 00:10:07,560
+<font size="46"><b>Melodion.</b></font>
+
+238
+00:10:07,560 --> 00:10:09,080
+<font size="46"><b>You play it like this, right?</b></font>
+
+239
+00:10:09,080 --> 00:10:13,560
+<font size="46"><b>Yes. For the melodion, I probably got the one from my brother.</b></font>
+
+240
+00:10:13,560 --> 00:10:17,160
+<font size="46"><b>So, it had his name written at the back in large characters.</b></font>
+
+241
+00:10:17,160 --> 00:10:19,560
+<font size="46"><b>And when I looked at it more closely, the the part you put in your mouth had bite marks.</b></font>
+
+242
+00:10:19,560 --> 00:10:22,100
+<font size="46"><b>Ah! Inoue's making a face!</b></font>
+
+243
+00:10:22,100 --> 00:10:24,900
+<font size="46"><b>He was a guy, so I guess he bit it.</b></font>
+
+244
+00:10:25,140 --> 00:10:27,910
+<font size="46"><b>It had lots of bite marks.</b></font>
+
+245
+00:10:27,910 --> 00:10:32,740
+<font size="46"><b>I was quite troubled, and in the end, I did get a new one bought for me... Just the part here.</b></font>
+
+246
+00:10:32,740 --> 00:10:32,740
+<font face="Arial Rounded MT Bold" size="44">Limited to replacement parts.</font>
+
+247
+00:10:32,740 --> 00:10:35,280
+<font size="46"><b>Oh, so just that part? What about the main body?</b></font>
+
+248
+00:10:35,280 --> 00:10:38,020
+<font size="46"><b>Oh, well, the main part was still usable so I was told to just keep using it.</b></font>
+
+249
+00:10:38,020 --> 00:10:42,790
+<font size="46"><b>So then I became a middle school student. I went to the same middle school as my older sister.</b></font>
+
+250
+00:10:42,790 --> 00:10:44,290
+<font size="46"><b>So I wore my sister's uniform...</b></font>
+
+251
+00:10:44,290 --> 00:10:45,180
+<font size="46"><b>Eh? Your school uniform too?</b></font>
+
+252
+00:10:45,180 --> 00:10:45,790
+<font size="46"><b>Yes.</b></font>
+
+253
+00:10:45,790 --> 00:10:50,040
+<font size="46"><b>Well, 8 years have passed, so it was a bit different.</b></font>
+
+254
+00:10:50,420 --> 00:10:56,370
+<font size="46"><b>So during the opening ceremony, someone asked me... "Hey, the cloth of your uniform... Isn't it kinda' thin?"</b></font>
+
+255
+00:10:56,370 --> 00:10:56,980
+<font face="Arial Rounded MT Bold" size="44">The Nasty Classmate</font>
+
+256
+00:10:56,980 --> 00:11:00,760
+<font size="46"><b>That... That friend kinda keeps hitting the marks... What's up with him?</b></font>
+
+257
+00:11:00,760 --> 00:11:01,970
+<font size="46"><b>Is that the same person?</b></font>
+
+258
+00:11:01,970 --> 00:11:03,240
+<font size="46"><b>An awful person keeps appearing.</b></font>
+
+259
+00:11:03,240 --> 00:11:05,110
+<font size="46"><b>"Your buttons... Aren't they kinda' big?" - things like that.</b></font>
+
+260
+00:11:05,110 --> 00:11:07,160
+<font size="46"><b>So there were small changes?</b></font>
+
+261
+00:11:07,160 --> 00:11:10,600
+<font size="46"><b>Yeah, there were small changes, like whether there was a lining or not and all.</b></font>
+
+262
+00:11:10,600 --> 00:11:14,190
+<font size="46"><b>There were changes like that, and I kept getting asked about it.</b></font>
+
+263
+00:11:14,400 --> 00:11:15,730
+<font size="46"><b>You kept getting hand-me-downs huh.</b></font>
+
+264
+00:11:15,730 --> 00:11:16,460
+<font size="46"><b>So it's like that.</b></font>
+
+265
+00:11:16,460 --> 00:11:18,570
+<font size="46"><b>I guess that happens often when you have older siblings.</b></font>
+
+266
+00:11:18,570 --> 00:11:19,390
+<font size="46"><b>Yeah.</b></font>
+
+267
+00:11:19,390 --> 00:11:23,580
+<font size="46"><b>Back in elementary school, I also suddenly got a hand-me-down for my bag.</b></font>
+
+268
+00:11:24,230 --> 00:11:25,770
+<font size="46"><b>I didn't like it!</b></font>
+
+269
+00:11:26,360 --> 00:11:30,350
+<font size="46"><b>Everyone else had shiny new ones and only I got a used one.</b></font>
+
+270
+00:11:30,350 --> 00:11:35,480
+<font size="46"><b>I really didn't like it. So, even though I was a child, I cut this part here...</b></font>
+
+271
+00:11:36,000 --> 00:11:38,770
+<font size="46"><b>Cause, well, if it got damaged then I could get a new one, right?</b></font>
+
+272
+00:11:39,230 --> 00:11:42,750
+<font size="46"><b>And then I got an even older one from a relative!</b></font>
+
+273
+00:11:42,750 --> 00:11:45,180
+<font face="Arial Rounded MT Bold" size="44">Failed strategy.</font>
+
+274
+00:11:45,180 --> 00:11:46,520
+<font size="46"><b>Well, that's unfortunate!</b></font>
+
+275
+00:11:46,520 --> 00:11:47,460
+<font size="46"><b>It is.</b></font>
+
+276
+00:11:47,460 --> 00:11:49,520
+<font size="46"><b>That one just now is around here, right?</b></font>
+
+277
+00:11:49,520 --> 00:11:50,820
+<font size="46"><b>Here, right?</b></font>
+
+278
+00:11:50,820 --> 00:11:54,280
+<font size="46"><b>When I think about it now, it's really no big deal, but at that time, I just hated it.</b></font>
+
+279
+00:11:54,280 --> 00:11:55,440
+<font size="46"><b>Yeah.</b></font>
+
+280
+00:11:55,440 --> 00:11:56,660
+<font size="46"><b>Hand-me-downs.</b></font>
+
+281
+00:11:57,590 --> 00:12:02,670
+<font size="46"><b>Wakatsuki's unfortunate story. How will Hashimoto-sensei rate it?</b></font>
+
+282
+00:12:02,670 --> 00:12:04,140
+<font size="46"><b>Then...</b></font>
+
+283
+00:12:06,510 --> 00:12:09,480
+<font size="46"><b>So this is full... Is it higher?</b></font>
+
+284
+00:12:09,480 --> 00:12:10,520
+<font size="46"><b>A bit.</b></font>
+
+285
+00:12:10,520 --> 00:12:12,500
+<font size="46"><b>So a little bit higher than Ikuta? Oh, you did it.</b></font>
+
+286
+00:12:12,500 --> 00:12:14,680
+<font size="46"><b>The funny factor was really high.</b></font>
+
+287
+00:12:14,680 --> 00:12:16,380
+<font size="46"><b>Really high.</b></font>
+
+288
+00:12:16,380 --> 00:12:19,080
+<font size="46"><b>There are six years in elementary school, right?</b></font>
+
+289
+00:12:19,080 --> 00:12:21,540
+<font size="46"><b>There are teachers who are around for those entire six years, right?</b></font>
+
+290
+00:12:21,540 --> 00:12:22,290
+<font size="46"><b>Yes.</b></font>
+
+291
+00:12:22,290 --> 00:12:25,900
+<font size="46"><b>I guess there could've been teachers who kept seeing Wakatsuki from first grade...</b></font>
+
+292
+00:12:25,900 --> 00:12:28,720
+<font size="46"><b>And probably thought... "That girl's things are always old huh..."</b></font>
+
+293
+00:12:28,720 --> 00:12:31,670
+<font size="46"><b>There's an 8-year gap, after all.</b></font>
+
+294
+00:12:31,670 --> 00:12:34,610
+<font size="46"><b>"That girl keeps getting weird things."</b></font>
+
+295
+00:12:35,030 --> 00:12:36,020
+<font size="46"><b>Like that...</b></font>
+
+296
+00:12:36,020 --> 00:12:37,100
+<font size="46"><b>That's bad huh.</b></font>
+
+297
+00:12:37,100 --> 00:12:39,170
+<font size="46"><b>Teachers won't be thinking that, would they?</b></font>
+
+298
+00:12:39,170 --> 00:12:43,060
+<font size="46"><b>That teacher's the worst. Like, "That girl's things are always old."</b></font>
+
+299
+00:12:43,480 --> 00:12:47,040
+<font size="46"><b>"In various situations, there's always just this one girl who has a different thing."</b></font>
+
+300
+00:12:47,040 --> 00:12:48,710
+<font size="46"><b>That's some amazing laughter right there.</b></font>
+
+301
+00:12:48,710 --> 00:12:50,900
+<font size="46"><b>And it's quite old to boot.</b></font>
+
+302
+00:12:51,220 --> 00:12:52,530
+<font size="46"><b>That was funny.</b></font>
+
+303
+00:12:53,430 --> 00:12:56,280
+<font size="46"><b>Unfortunate stories grand prix. Next up is Takayama.</b></font>
+
+304
+00:12:56,280 --> 00:12:59,160
+<font size="46"><b>The title is: The Swing Incident.</b></font>
+
+305
+00:12:59,660 --> 00:13:03,130
+<font size="46"><b>Back in elementary... I think I was also in second grade at that time...</b></font>
+
+306
+00:13:03,130 --> 00:13:04,870
+<font size="46"><b>I was also? Ah...</b></font>
+
+307
+00:13:04,870 --> 00:13:07,410
+<font size="46"><b>Just like other members, around second grade.</b></font>
+
+308
+00:13:07,410 --> 00:13:07,870
+<font size="46"><b>Yes.</b></font>
+
+309
+00:13:07,870 --> 00:13:12,000
+<font size="46"><b>This is a story around that time. So, I was playing on the swings with my friend.</b></font>
+
+310
+00:13:12,000 --> 00:13:17,650
+<font size="46"><b>And there was another friend with us, just watching. There were only 2 swings.</b></font>
+
+311
+00:13:17,650 --> 00:13:21,480
+<font size="46"><b>So, just playing on the swings were kinda' not enough for us...</b></font>
+
+312
+00:13:21,480 --> 00:13:24,480
+<font size="46"><b>So, it has those rings, right? So, those rings...</b></font>
+
+313
+00:13:24,680 --> 00:13:25,460
+<font size="46"><b>The ones here?</b></font>
+
+314
+00:13:25,460 --> 00:13:26,460
+<font size="46"><b>Yes, those.</b></font>
+
+315
+00:13:26,460 --> 00:13:27,250
+<font size="46"><b>The links, you mean?</b></font>
+
+316
+00:13:27,500 --> 00:13:32,640
+<font size="46"><b>So we kinda' crumpled those links together, then let go.</b></font>
+
+317
+00:13:33,600 --> 00:13:34,930
+<font size="46"><b>Yeah, we did that too.</b></font>
+
+318
+00:13:34,930 --> 00:13:36,210
+<font size="46"><b>We did that!</b></font>
+
+319
+00:13:36,210 --> 00:13:37,240
+<font size="46"><b>It's like you roll them up.</b></font>
+
+320
+00:13:37,240 --> 00:13:37,930
+<font size="46"><b>Yeah.</b></font>
+
+321
+00:13:37,930 --> 00:13:39,360
+<font size="46"><b>Sure, we did that.</b></font>
+
+322
+00:13:39,360 --> 00:13:43,680
+<font size="46"><b>So we did that, crumpling them and letting go. And we had fun.</b></font>
+
+323
+00:13:43,680 --> 00:13:48,700
+<font size="46"><b>So then, somehow, only my swing went back to normal, and my friend's just stayed like that.</b></font>
+
+324
+00:13:49,110 --> 00:13:53,190
+<font size="46"><b>So we thought it would just get fixed and we went home, leaving it like that.</b></font>
+
+325
+00:13:53,190 --> 00:13:57,080
+<font size="46"><b>The next morning, during the morning assembly...</b></font>
+
+326
+00:13:57,080 --> 00:14:04,560
+<font size="46"><b>A teacher said "Everyone, I have something to talk about with you. Yesterday, the swing got broken."</b></font>
+
+327
+00:14:04,560 --> 00:14:06,860
+<font size="46"><b>"Did someone here do it?"</b></font>
+
+328
+00:14:06,860 --> 00:14:09,360
+<font size="46"><b>So then I thought "This is bad..."</b></font>
+
+329
+00:14:09,360 --> 00:14:10,480
+<font size="46"><b>You guys did it right?</b></font>
+
+330
+00:14:10,480 --> 00:14:14,010
+<font size="46"><b>I thought that was us, so, for the time being, I stood up.</b></font>
+
+331
+00:14:14,010 --> 00:14:14,610
+<font size="46"><b>Oh, how impressive.</b></font>
+
+332
+00:14:14,610 --> 00:14:17,420
+<font size="46"><b>So I stood up. So we were asked "Who broke it?"</b></font>
+
+333
+00:14:17,420 --> 00:14:19,840
+<font size="46"><b>It wasn't exactly me...</b></font>
+
+334
+00:14:19,840 --> 00:14:20,680
+<font size="46"><b>True.</b></font>
+
+335
+00:14:20,680 --> 00:14:24,480
+<font size="46"><b>I was thinking my friend should just say it, and fess up.</b></font>
+
+336
+00:14:24,480 --> 00:14:26,510
+<font size="46"><b>Then my friend got up...</b></font>
+
+337
+00:14:26,510 --> 00:14:28,560
+<font size="46"><b>"Kazumi-chan did it!"</b></font>
+
+338
+00:14:28,880 --> 00:14:30,520
+<font face="Arial Rounded MT Bold" size="44">The Unexpected Betrayal</font>
+
+339
+00:14:30,520 --> 00:14:31,610
+<font size="46"><b>You got betrayed.</b></font>
+
+340
+00:14:31,610 --> 00:14:34,350
+<font size="46"><b>Yeah she said it. Quite strongly too.</b></font>
+
+341
+00:14:34,350 --> 00:14:36,520
+<font size="46"><b>And I thought, "Seriously...?"</b></font>
+
+342
+00:14:36,520 --> 00:14:41,430
+<font size="46"><b>But, well, I thought I'd tell the truth and said "No, no, no, she did it."</b></font>
+
+343
+00:14:41,430 --> 00:14:42,610
+<font size="46"><b>Oh, so you said so? You talked back?</b></font>
+
+344
+00:14:42,610 --> 00:14:43,760
+<font size="46"><b>I did, I did.</b></font>
+
+345
+00:14:43,760 --> 00:14:48,650
+<font size="46"><b>Then, that friend said, "No! Kazumi-chan did it!"</b></font>
+
+346
+00:14:49,700 --> 00:14:51,180
+<font size="46"><b>So it became pointing battle.</b></font>
+
+347
+00:14:51,180 --> 00:14:52,130
+<font size="46"><b>Yeah.</b></font>
+
+348
+00:14:52,130 --> 00:14:53,020
+<font size="46"><b>You were kids, after all, huh.</b></font>
+
+349
+00:14:53,020 --> 00:14:58,710
+<font size="46"><b>After that, our teacher asked the other friend who was with us "Someone-kun, who did it?"</b></font>
+
+350
+00:14:58,710 --> 00:15:00,200
+<font size="46"><b>Oh no. Then it'll be that kid's testimony.</b></font>
+
+351
+00:15:00,200 --> 00:15:04,120
+<font size="46"><b>Yes. So then, that guy said, "I also saw Kazumi-chan do it!"</b></font>
+
+352
+00:15:04,420 --> 00:15:05,390
+<font face="Arial Rounded MT Bold" size="44">Innocent Crime</font>
+
+353
+00:15:05,390 --> 00:15:06,450
+<font size="46"><b>Why??</b></font>
+
+354
+00:15:06,450 --> 00:15:07,420
+<font size="46"><b>Why?</b></font>
+
+355
+00:15:07,420 --> 00:15:08,810
+<font size="46"><b>He said that!</b></font>
+
+356
+00:15:08,810 --> 00:15:09,890
+<font size="46"><b>Why would he say that?</b></font>
+
+357
+00:15:09,890 --> 00:15:12,610
+<font size="46"><b>Why would that boy... I mean he was watching, right?</b></font>
+
+358
+00:15:12,610 --> 00:15:19,060
+<font size="46"><b>Probably... I think he lost to that girl's intensity? Her intensity saying she absolutely didn't do it.</b></font>
+
+359
+00:15:19,060 --> 00:15:23,270
+<font size="46"><b>Then the teacher also said, "Kazumi-chan, you did it, didn't you?"</b></font>
+
+360
+00:15:24,110 --> 00:15:25,940
+<font size="46"><b>So, then, everyone was your enemy?</b></font>
+
+361
+00:15:25,940 --> 00:15:27,150
+<font size="46"><b>Yes. That's right.</b></font>
+
+362
+00:15:27,150 --> 00:15:34,180
+<font size="46"><b>I thought there was nothing else I could do, so I said, "I'm sorry, I did do it."</b></font>
+
+363
+00:15:34,710 --> 00:15:36,210
+<font size="46"><b>That's so sad...</b></font>
+
+364
+00:15:36,210 --> 00:15:39,950
+<font size="46"><b>So, back in elementary school, I thought, ah, this is how people who get false charges feel...</b></font>
+
+365
+00:15:39,950 --> 00:15:40,760
+<font face="Arial Rounded MT Bold" size="44">A victim of false charges?</font>
+
+366
+00:15:40,760 --> 00:15:43,060
+<font size="46"><b>You wouldn't really think that at that age...</b></font>
+
+367
+00:15:43,060 --> 00:15:43,650
+<font size="46"><b>Well...</b></font>
+
+368
+00:15:43,650 --> 00:15:46,060
+<font size="46"><b>Thinking about false charges at that age... pretty amazing.</b></font>
+
+369
+00:15:46,060 --> 00:15:47,760
+<font size="46"><b>Did you still get along with your friend after that?</b></font>
+
+370
+00:15:47,760 --> 00:15:48,900
+<font size="46"><b>Oh yeah, we get along very well.</b></font>
+
+371
+00:15:48,900 --> 00:15:49,570
+<font size="46"><b>Why?</b></font>
+
+372
+00:15:49,570 --> 00:15:50,400
+<font size="46"><b>We're really good friends.</b></font>
+
+373
+00:15:50,400 --> 00:15:51,140
+<font size="46"><b>Why?</b></font>
+
+374
+00:15:51,140 --> 00:15:57,320
+<font size="46"><b>Well, we've been together for many years, so our friendship couldn't really get broken over just a swing...</b></font>
+
+375
+00:15:57,320 --> 00:15:58,640
+<font size="46"><b>But she completely sold you out.</b></font>
+
+376
+00:15:58,640 --> 00:16:00,840
+<font size="46"><b>Well, I guess so...</b></font>
+
+377
+00:16:01,670 --> 00:16:05,740
+<font size="46"><b>Takayama's unfortunate story. How will it be rated?</b></font>
+
+378
+00:16:06,510 --> 00:16:07,550
+<font size="46"><b>Around here?</b></font>
+
+379
+00:16:07,550 --> 00:16:08,450
+<font size="46"><b>Oh, that's quite...?</b></font>
+
+380
+00:16:08,450 --> 00:16:09,510
+<font size="46"><b>Pretty high?</b></font>
+
+381
+00:16:10,280 --> 00:16:11,160
+<font size="46"><b>Pretty high, I guess?</b></font>
+
+382
+00:16:11,160 --> 00:16:12,520
+<font size="46"><b>Yes, yes.</b></font>
+
+383
+00:16:12,520 --> 00:16:13,580
+<font size="46"><b>Well, it was quite unfortunate.</b></font>
+
+384
+00:16:13,580 --> 00:16:18,870
+<font size="46"><b>Yes. To have experience a mini trial at second grade is quite something.</b></font>
+
+385
+00:16:18,870 --> 00:16:24,860
+<font size="46"><b>And everyone ended up becoming her enemy. Depending on the person, it could cause someone to lose trust in others.</b></font>
+
+386
+00:16:24,860 --> 00:16:29,530
+<font size="46"><b>I was really glad to hear that you still get along even now.</b></font>
+
+387
+00:16:29,530 --> 00:16:31,730
+<font size="46"><b>The manager of Konjakuan was there.</b></font>
+
+388
+00:16:31,730 --> 00:16:36,400
+<font size="46"><b>Coming up. Everyone breaks out in laughter while listening to Higuchi's unfortunate story.</b></font>
+
+389
+00:16:39,700 --> 00:16:42,440
+<font size="46"><b>Unfortunate Stories Grand Prix. Next up is Kawago.</b></font>
+
+390
+00:16:42,440 --> 00:16:44,960
+<font size="46"><b>The title is: "My Alma Matter"</b></font>
+
+391
+00:16:45,850 --> 00:16:48,850
+<font size="46"><b>Four years ago, my middle school got closed down.</b></font>
+
+392
+00:16:48,850 --> 00:16:50,220
+<font size="46"><b>Oh, so it's gone.</b></font>
+
+393
+00:16:50,220 --> 00:16:54,860
+<font size="46"><b>And in February this year, my elementary school got closed down.</b></font>
+
+394
+00:16:54,860 --> 00:16:55,660
+<font size="46"><b>Oh?</b></font>
+
+395
+00:16:55,660 --> 00:16:56,860
+<font size="46"><b>The end.</b></font>
+
+396
+00:16:56,860 --> 00:16:58,400
+<font face="Arial Rounded MT Bold" size="44">End.</font>
+
+397
+00:16:58,400 --> 00:16:59,390
+<font size="46"><b>So they're gone.</b></font>
+
+398
+00:16:59,390 --> 00:17:01,080
+<font size="46"><b>Yes, they're gone.</b></font>
+
+399
+00:17:01,420 --> 00:17:04,020
+<font size="46"><b>But, well, I guess the number of schools are decreasing right now.</b></font>
+
+400
+00:17:04,020 --> 00:17:05,560
+<font size="46"><b>Yes...</b></font>
+
+401
+00:17:06,160 --> 00:17:07,130
+<font size="46"><b>That's sad, huh?</b></font>
+
+402
+00:17:07,130 --> 00:17:07,900
+<font size="46"><b>It is.</b></font>
+
+403
+00:17:07,900 --> 00:17:08,870
+<font size="46"><b>Sad, huh?</b></font>
+
+404
+00:17:08,870 --> 00:17:09,970
+<font size="46"><b>Your alma matter full of memories...</b></font>
+
+405
+00:17:09,970 --> 00:17:15,440
+<font size="46"><b>And my kindergarten as well, it's planned to close down in the near future.</b></font>
+
+406
+00:17:16,640 --> 00:17:17,750
+<font size="46"><b>What's with that?</b></font>
+
+407
+00:17:17,750 --> 00:17:19,220
+<font size="46"><b>What will it be turned to?</b></font>
+
+408
+00:17:19,220 --> 00:17:22,180
+<font size="46"><b>I think it'll be a park or something like that.</b></font>
+
+409
+00:17:22,180 --> 00:17:23,660
+<font size="46"><b>So the building will be gone, huh?</b></font>
+
+410
+00:17:23,660 --> 00:17:25,680
+<font size="46"><b>Are there few children?</b></font>
+
+411
+00:17:25,680 --> 00:17:30,130
+<font size="46"><b>Yes. There really were only a few. I think there were seventeen of us.</b></font>
+
+412
+00:17:30,130 --> 00:17:32,860
+<font size="46"><b>Seventeen students for the entire elementary school.</b></font>
+
+413
+00:17:32,860 --> 00:17:34,370
+<font size="46"><b>For the entire school?</b></font>
+
+414
+00:17:34,370 --> 00:17:35,870
+<font size="46"><b>Yes, seventeen for the entire school.</b></font>
+
+415
+00:17:35,870 --> 00:17:38,860
+<font size="46"><b>Still. There are lots of other places with even less.</b></font>
+
+416
+00:17:38,860 --> 00:17:40,200
+<font size="46"><b>I guess that's a little early?</b></font>
+
+417
+00:17:40,200 --> 00:17:42,820
+<font size="46"><b>I guess it's a little early. Middle and elementary school, huh?</b></font>
+
+418
+00:17:42,820 --> 00:17:46,520
+<font size="46"><b>Oh, but, my hometown is really out in the sticks, it's Chichibu, Saitama.</b></font>
+
+419
+00:17:46,520 --> 00:17:50,880
+<font size="46"><b>So in our high school, students come from all over, and there was...</b></font>
+
+420
+00:17:51,270 --> 00:17:53,560
+<font size="46"><b>There was this guy from really deep in the mountains.</b></font>
+
+421
+00:17:53,560 --> 00:17:58,760
+<font size="46"><b>While we were in school, he said they would be moving and I asked "Why are you moving?" and he said "Ah, but I'll still be going to school."</b></font>
+
+422
+00:17:58,760 --> 00:18:01,340
+<font size="46"><b>He said, "My house is going to sink to the bottom of a dam."</b></font>
+
+423
+00:18:01,340 --> 00:18:03,290
+<font size="46"><b>Well, that does happen.</b></font>
+
+424
+00:18:03,290 --> 00:18:04,330
+<font size="46"><b>Yes, it does!</b></font>
+
+425
+00:18:04,330 --> 00:18:05,510
+<font size="46"><b>Right?</b></font>
+
+426
+00:18:05,510 --> 00:18:09,640
+<font size="46"><b>My mother's relative's house got sunk too.</b></font>
+
+427
+00:18:09,640 --> 00:18:13,040
+<font size="46"><b>So before it gets sunken, we usually go there to visit graves.</b></font>
+
+428
+00:18:13,040 --> 00:18:17,560
+<font size="46"><b>That's quite amazing, right? It's like, the entire place ends up at the bottom of the water.</b></font>
+
+429
+00:18:17,560 --> 00:18:18,660
+<font size="46"><b>It disappears.</b></font>
+
+430
+00:18:18,660 --> 00:18:21,420
+<font size="46"><b>Yes, from schools to graves.</b></font>
+
+431
+00:18:21,420 --> 00:18:22,810
+<font size="46"><b>Even graves?</b></font>
+
+432
+00:18:22,810 --> 00:18:26,800
+<font size="46"><b>Yes, the entire village, or entire town... Well, maybe not town...</b></font>
+
+433
+00:18:26,800 --> 00:18:27,790
+<font size="46"><b>The entire village is destroyed.</b></font>
+
+434
+00:18:28,910 --> 00:18:33,140
+<font size="46"><b>Kawago's sad unfortunate story. How will it be rated?</b></font>
+
+435
+00:18:33,790 --> 00:18:35,060
+<font size="46"><b>Around here, I guess.</b></font>
+
+436
+00:18:35,060 --> 00:18:35,840
+<font size="46"><b>I see, I see.</b></font>
+
+437
+00:18:35,840 --> 00:18:38,400
+<font size="46"><b>You were trying to put it on the other way.</b></font>
+
+438
+00:18:38,400 --> 00:18:41,170
+<font size="46"><b>It's not that unfortunate.</b></font>
+
+439
+00:18:41,170 --> 00:18:46,640
+<font size="46"><b>It's like Nagasaki is walking towards the future.</b></font>
+
+440
+00:18:46,640 --> 00:18:53,380
+<font size="46"><b>Well, it's indeed sad, but putting in feelings of wanting to move forward as well, that's where it is.</b></font>
+
+441
+00:18:53,380 --> 00:18:54,750
+<font size="46"><b>Oh. I see.</b></font>
+
+442
+00:18:56,100 --> 00:18:58,590
+<font size="46"><b>Unfortunate stories grand prix. The last entry is from Higuchi.</b></font>
+
+443
+00:18:58,590 --> 00:19:02,050
+<font size="46"><b>The title is: "Breaking Away from Loneliness"</b></font>
+
+444
+00:19:02,050 --> 00:19:06,280
+<font size="46"><b>This happened after a recording of Nogizaka Under Construction.</b></font>
+
+445
+00:19:06,280 --> 00:19:07,570
+<font size="46"><b>Oh, so this happened after recording.</b></font>
+
+446
+00:19:07,570 --> 00:19:12,550
+<font size="46"><b>Yes. I don't remember what we recorded that day.</b></font>
+
+447
+00:19:12,550 --> 00:19:17,070
+<font size="46"><b>But for me, I felt like I wasn't able to do it properly and got quite depressed.</b></font>
+
+448
+00:19:17,070 --> 00:19:21,820
+<font size="46"><b>I talked to the manager about it and everyone was going home.</b></font>
+
+449
+00:19:21,820 --> 00:19:24,290
+<font size="46"><b>What, something like that happened? What was that time?</b></font>
+
+450
+00:19:24,290 --> 00:19:29,080
+<font size="46"><b>So then, when we go home, we ride on a microbus and go home together.</b></font>
+
+451
+00:19:29,080 --> 00:19:31,090
+<font size="46"><b>So everyone else went down ahead of me.</b></font>
+
+452
+00:19:31,090 --> 00:19:37,060
+<font size="46"><b>I was talking to the manager and finally got my feelings in order and said thank you.</b></font>
+
+453
+00:19:37,270 --> 00:19:40,060
+<font size="46"><b>Then she said, "Well then, everyone's waiting for you so why don't you go home."</b></font>
+
+454
+00:19:40,060 --> 00:19:45,360
+<font size="46"><b>The manager was going to stay behind so I ran down the stairs alone.</b></font>
+
+455
+00:19:45,360 --> 00:19:48,370
+<font size="46"><b>And then, the moment I opened the door...</b></font>
+
+456
+00:19:48,370 --> 00:19:50,930
+<font size="46"><b>There was silence and it was totally empty.</b></font>
+
+457
+00:19:50,930 --> 00:19:51,370
+<font size="46"><b>Empty?</b></font>
+
+458
+00:19:51,610 --> 00:19:56,110
+<font size="46"><b>Well, it seems no one noticed that I wasn't on the bus and it left.</b></font>
+
+459
+00:19:56,110 --> 00:19:56,880
+<font face="Arial Rounded MT Bold" size="44">Got left behind.</font>
+
+460
+00:19:56,880 --> 00:19:57,700
+<font size="46"><b>Wait!</b></font>
+
+461
+00:19:57,700 --> 00:19:58,610
+<font size="46"><b>Ah...</b></font>
+
+462
+00:19:58,610 --> 00:20:02,880
+<font size="46"><b>So they left, and I thought "Ah, I got left behind..."</b></font>
+
+463
+00:20:03,510 --> 00:20:06,220
+<font size="46"><b>It was... just... tears started flowing out. The recording didn't go well too, and now I got left behind by the bus.</b></font>
+
+464
+00:20:06,220 --> 00:20:07,600
+<font size="46"><b><font color="#f4d5d5">You were just so sad.</font></b></font>
+
+465
+00:20:12,220 --> 00:20:13,960
+<font size="46"><b>It feels terrible to get left behind by the bus.</b></font>
+
+466
+00:20:13,960 --> 00:20:16,320
+<font size="46"><b>I thought "What a day..."</b></font>
+
+467
+00:20:16,320 --> 00:20:17,620
+<font size="46"><b>"What a day!"</b></font>
+
+468
+00:20:20,630 --> 00:20:24,980
+<font size="46"><b>Really, I just thought from the bottom of my being "What a day." and so I was crying, and...</b></font>
+
+469
+00:20:24,980 --> 00:20:26,300
+<font size="46"><b>So you cried right there?</b></font>
+
+470
+00:20:26,300 --> 00:20:28,410
+<font size="46"><b>Yes, but no one was there to help.</b></font>
+
+471
+00:20:28,410 --> 00:20:31,460
+<font size="46"><b>That's at the entrance of this studio right? So you cried there?</b></font>
+
+472
+00:20:31,460 --> 00:20:35,910
+<font size="46"><b>I did. Then from behind me, I heard a voice asking "What's wrong, Hina?"</b></font>
+
+473
+00:20:35,910 --> 00:20:36,730
+<font size="46"><b>Oh, who was it?</b></font>
+
+474
+00:20:36,730 --> 00:20:38,550
+<font size="46"><b>When I looked behind me...</b></font>
+
+475
+00:20:38,550 --> 00:20:40,190
+<font size="46"><b>The manager of Konjakuan was there.</b></font>
+
+476
+00:20:40,190 --> 00:20:41,940
+<font face="Arial Rounded MT Bold" size="44"><font face="Arial Black"><font size="33">Studio Restaurant
+<font size="38">Konjakuan's Manager</font></font></font></font>
+
+477
+00:20:41,940 --> 00:20:44,880
+<font size="46"><b>Oh, that guy. That guy's very kind.</b></font>
+
+478
+00:20:44,880 --> 00:20:46,220
+<font size="46"><b>Thank goodness.</b></font>
+
+479
+00:20:46,220 --> 00:20:48,130
+<font size="46"><b>The manager appears.</b></font>
+
+480
+00:20:48,130 --> 00:20:49,540
+<font size="46"><b>So he talked to you.</b></font>
+
+481
+00:20:49,540 --> 00:20:54,260
+<font size="46"><b>He asked while smiling what happened and why I was crying so much.</b></font>
+
+482
+00:20:54,260 --> 00:20:59,920
+<font size="46"><b>I said while crying that today, the recording didn't go well for me and I got left behind by the bus.</b></font>
+
+483
+00:20:59,920 --> 00:21:04,080
+<font size="46"><b>He got angry for me saying, "Really, why would they go and leave you?"</b></font>
+
+484
+00:21:04,080 --> 00:21:07,410
+<font size="46"><b>And he stayed and waited for the bus to come around again with me.</b></font>
+
+485
+00:21:07,410 --> 00:21:13,090
+<font size="46"><b>So then he stayed with me and saying "It's alright" and gave me 10 pieces of mitarashi dango.</b></font>
+
+486
+00:21:13,090 --> 00:21:13,940
+<font face="Arial Rounded MT Bold" size="44">The manager's kindness</font>
+
+487
+00:21:13,940 --> 00:21:15,450
+<font size="46"><b>That's great, right?</b></font>
+
+488
+00:21:15,450 --> 00:21:17,300
+<font size="46"><b>Mitarashi dango?</b></font>
+
+489
+00:21:18,700 --> 00:21:19,800
+<font size="46"><b>So he gave you some.</b></font>
+
+490
+00:21:19,800 --> 00:21:21,820
+<font size="46"><b>Yes. So that's my unfortunate story.</b></font>
+
+491
+00:21:23,200 --> 00:21:25,320
+<font size="46"><b>At the last part, it was a happy ending, right?</b></font>
+
+492
+00:21:25,320 --> 00:21:27,470
+<font size="46"><b>So funny!</b></font>
+
+493
+00:21:27,470 --> 00:21:28,760
+<font size="46"><b>So the bus came back, right?</b></font>
+
+494
+00:21:28,760 --> 00:21:30,490
+<font size="46"><b>Yes.</b></font>
+
+495
+00:21:30,980 --> 00:21:33,200
+<font size="46"><b>Higuchi's unfortunate story.</b></font>
+
+496
+00:21:33,200 --> 00:21:35,810
+<font size="46"><b>How will Hashimoto-sensei rate it?</b></font>
+
+497
+00:21:37,870 --> 00:21:39,480
+<font size="46"><b>Here.</b></font>
+
+498
+00:21:39,480 --> 00:21:40,740
+<font size="46"><b>Oh, there?</b></font>
+
+499
+00:21:40,740 --> 00:21:43,650
+<font size="46"><b>Oh so the misfortune factor is quite...</b></font>
+
+500
+00:21:43,650 --> 00:21:44,930
+<font size="46"><b>Oh, it's quite high?</b></font>
+
+501
+00:21:44,930 --> 00:21:46,650
+<font size="46"><b>The funny rating is quite high as well.</b></font>
+
+502
+00:21:46,860 --> 00:21:49,650
+<font size="46"><b>Members all have experiences of feeling down over recording sessions.</b></font>
+
+503
+00:21:49,920 --> 00:21:52,660
+<font size="46"><b>Oh. So like after these sessions?</b></font>
+
+504
+00:21:52,660 --> 00:21:57,000
+<font size="46"><b>During a time like that, being forgotten and getting left behind by everyone would really be quite a blow.</b></font>
+
+505
+00:21:57,000 --> 00:21:58,100
+<font size="46"><b><font color="#deb5b5">For sure.</font></b></font>
+
+506
+00:21:58,660 --> 00:22:00,170
+<font size="46"><b>That's just sad.</b></font>
+
+507
+00:22:01,540 --> 00:22:05,540
+<font size="46"><b>So who will shine with the laurel of the MVF?</b></font>
+
+508
+00:22:07,480 --> 00:22:12,420
+<font size="46"><b>Nogizaka Unfortunate Stories Grand Prix. All the entry unfortunate stories have been told.</b></font>
+
+509
+00:22:12,420 --> 00:22:17,800
+<font size="46"><b>The funniest unfortunate story... Who will shine as the MVF?</b></font>
+
+510
+00:22:18,320 --> 00:22:22,000
+<font size="46"><b>Nogizaka unfortunate stories grand prix's MVF is...</b></font>
+
+511
+00:22:23,000 --> 00:22:26,420
+<font size="46"><b>With the story "Rather Worn Out," it's Wakatsuki Yumi!</b></font>
+
+512
+00:22:30,440 --> 00:22:34,170
+<font size="46"><b>Wakatsuki. This is just as the chart indicated.</b></font>
+
+513
+00:22:34,170 --> 00:22:41,960
+<font size="46"><b>I could kind of feel that Wakatsuki spending her childhood always having to use old hand-me-downs kind of connects to how she is now...</b></font>
+
+514
+00:22:41,960 --> 00:22:43,700
+<font size="46"><b>It was really funny.</b></font>
+
+515
+00:22:43,700 --> 00:22:46,420
+<font size="46"><b>And being able to talk about it lightheartedly now is good, right?</b></font>
+
+516
+00:22:46,420 --> 00:22:47,310
+<font size="46"><b>Yes.</b></font>
+
+517
+00:22:47,310 --> 00:22:48,410
+<font size="46"><b>Right?</b></font>
+
+518
+00:22:48,410 --> 00:22:53,020
+<font size="46"><b>And, well, listening just now... All of the members' unfortunate stories are things I've experienced as well.</b></font>
+
+519
+00:22:53,020 --> 00:22:54,770
+<font size="46"><b>Oh so you could relate?</b></font>
+
+520
+00:22:54,770 --> 00:22:55,490
+<font size="46"><b>Iku-chan's too.</b></font>
+
+521
+00:22:55,490 --> 00:22:59,240
+<font size="46"><b>There was a time I was really excited after finishing preparations going "Swimming class starts tomorrow!"</b></font>
+
+522
+00:22:59,240 --> 00:23:06,230
+<font size="46"><b>On my way there, I got overly excited and raised one of my hands while riding and ended up doing a barrel roll.</b></font>
+
+523
+00:23:06,230 --> 00:23:10,210
+<font size="46"><b>And I broke this part here, and half of the bone went on top of the other half.</b></font>
+
+524
+00:23:11,150 --> 00:23:13,300
+<font size="46"><b>And I was told I couldn't go anymore the next time.</b></font>
+
+525
+00:23:13,300 --> 00:23:15,910
+<font size="46"><b>Oh, you broke your bone...</b></font>
+
+526
+00:23:15,910 --> 00:23:18,910
+<font size="46"><b>Because of that I just remembered now...</b></font>
+
+527
+00:23:19,360 --> 00:23:26,050
+<font size="46"><b>Back in kindergarten I got overly excited thinking that the next day was going to be our sports festival, and as I pedaled on my bike...</b></font>
+
+528
+00:23:26,050 --> 00:23:29,050
+<font size="46"><b>I ran into a light pole and fell over.</b></font>
+
+529
+00:23:29,050 --> 00:23:32,920
+<font size="46"><b>And I got hurt on this part here.</b></font>
+
+530
+00:23:32,920 --> 00:23:33,560
+<font size="46"><b>You got a cut?</b></font>
+
+531
+00:23:33,560 --> 00:23:36,130
+<font size="46"><b>It was more of a scratch.</b></font>
+
+532
+00:23:36,130 --> 00:23:42,250
+<font size="46"><b>So the next day, our class won, but in all of our photos I had this short mustache-like mark...</b></font>
+
+533
+00:23:43,750 --> 00:23:45,120
+<font size="46"><b>That's funny.</b></font>
+
+534
+00:23:45,740 --> 00:23:48,000
+<font size="46"><b>Himura-san, you broke your arm here right before your school trip right?</b></font>
+
+535
+00:23:48,000 --> 00:23:56,460
+<font size="46"><b>Uh, the day before my elementary school trip, I played tag with my friends, and well a kid named Oda-chan was it.</b></font>
+
+536
+00:23:56,460 --> 00:24:02,790
+<font size="46"><b>And that kid rubbed his nose like this and chased me doing a nasal mucus beam, and getting chased, I ran up to the top of the slide.</b></font>
+
+537
+00:24:02,790 --> 00:24:07,430
+<font size="46"><b>And Oda-chan kept chasing me doing this and I got scared, so I fell off from the slide.</b></font>
+
+538
+00:24:07,430 --> 00:24:13,110
+<font size="46"><b>And bang! And this part here got broken like this, and I got a cast like this...</b></font>
+
+539
+00:24:13,110 --> 00:24:16,440
+<font size="46"><b>And in all the photos where we did the peace sign I was like this.</b></font>
+
+540
+00:24:17,070 --> 00:24:19,640
+<font size="46"><b>All. All of my photos were like this.</b></font>
+
+541
+00:24:20,390 --> 00:24:22,210
+<font size="46"><b>It got recorded as memories.</b></font>
+
+542
+00:24:22,970 --> 00:24:22,970
+<font size="46"><b><font size="26">{\an8}<font face="Tahoma"> POJI-PEACE
+
+<font size="32"><b> ( ￣<font size="20">o<font size="32">￣ )</font></font></b></font></font></font></b></font>
+
+543
+00:24:22,970 --> 00:24:22,970
+<font size="46"><b>m 0 0 b -2 0 -4 0 -6 0 b -7 0 -8 0 -8 -2 b -8 -2 -8 -2 -8 -2 b -8 -3 -8 -4 -6 -4 b -4 -4 -2 -4 0 -4 b 2 -4 4 -4 6 -4 b 6 -5 6 -7 6 -8 b 6 -8 6 -8 6 -8 b 7 -10 9 -10 10 -9 b 10 -7 10 -7 10 -6 b 12 -4 13 -3 13 -2 b 13 6 13 4 13 7 b 12 8 10 8 8 8 b 7 8 6 8 5 8 b 4 8 3 8 1 7 b 0 5 0 3 0 2</b></font>
+
+544
+00:24:22,970 --> 00:24:37,660
+<font size="46"><b>m 0 0 b -2 0 -4 0 -6 0 b -7 0 -8 0 -8 -2 b -8 -2 -8 -2 -8 -2 b -8 -3 -8 -4 -6 -4 b -4 -4 -2 -4 0 -4 b 2 -4 4 -4 6 -4 b 6 -5 6 -7 6 -8 b 6 -8 6 -8 6 -8 b 7 -10 9 -10 10 -9 b 10 -7 10 -7 10 -6 b 12 -4 13 -3 13 -2 b 13 6 13 4 13 7 b 12 8 10 8 8 8 b 7 8 6 8 5 8 b 4 8 3 8 1 7 b 0 5 0 3 0 2</b></font>
+
