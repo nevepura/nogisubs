@@ -1,0 +1,2174 @@
+1
+00:00:30,080 --> 00:00:46,080
+<font face="Calibri" size="48"><b>Translation, Timing & Typeset by <font color="#fe81fd">DOZO</font></b></font>
+
+2
+00:00:48,800 --> 00:00:50,920
+<font face="Calibri" size="48"><b>Nogizakatte Doko is starting</b></font>
+
+3
+00:00:50,920 --> 00:00:52,920
+<font face="Calibri" size="48"><b>We're your hosts Bananaman, yoroshiku onegaishimasu</b></font>
+
+4
+00:00:52,920 --> 00:00:54,420
+<font face="Calibri" size="48"><b>- Yoroshiku onegaishimasu !</b></font>
+
+5
+00:00:54,420 --> 00:00:56,080
+<font face="Calibri" size="48"><b>And here are the members !</b></font>
+
+6
+00:00:56,080 --> 00:00:57,250
+<font face="Calibri" size="48"><b>yoroshiku onegaishimasu</b></font>
+
+7
+00:00:57,250 --> 00:01:01,220
+<font face="Calibri" size="48"><b>yoroshiku onegaishimasu</b></font>
+
+8
+00:01:01,220 --> 00:01:03,240
+<font face="Calibri" size="48"><b>Alright, let's introduce our guest for today</b></font>
+
+9
+00:01:03,240 --> 00:01:04,180
+<font face="Calibri" size="48"><b>It's Tsuka-chan !</b></font>
+
+10
+00:01:04,180 --> 00:01:05,380
+<font face="Calibri" size="48"><b>Yoroshiku onegaishimasu</b></font>
+
+11
+00:01:09,950 --> 00:01:11,050
+<font face="Calibri" size="48"><b>Shitara-san</b></font>
+
+12
+00:01:11,050 --> 00:01:12,180
+<font face="Calibri" size="48"><b><font size="55">Shitara-san</font></b></font>
+
+13
+00:01:12,180 --> 00:01:13,150
+<font face="Calibri" size="48"><b><font size="60">Shitara-san !!</font></b></font>
+
+14
+00:01:13,150 --> 00:01:14,310
+<font face="Calibri" size="48"><b>Don't start without me !</b></font>
+
+15
+00:01:14,310 --> 00:01:16,580
+<font face="Calibri" size="48"><b>I'm here too, you know ?</b></font>
+
+16
+00:01:16,580 --> 00:01:16,580
+<font face="Calibri" size="48"><b>It seems like Kaonashi has lost its way again !</b></font>
+
+17
+00:01:16,580 --> 00:01:19,150
+<font face="Calibri" size="48"><b>[ Note: The black faceless ghost from Spirited Away ]</b></font>
+
+18
+00:01:19,150 --> 00:01:19,150
+<font face="Comic Sans MS" size="35" color="#cb072e">Drunk Dragon</font>
+
+19
+00:01:19,150 --> 00:01:19,620
+<font face="Times New Roman" size="50" color="#000000"><b>Suzuki Taku</b></font>
+
+20
+00:01:19,620 --> 00:01:21,010
+<font face="Calibri" size="48"><b>Stop going "Ah~"</b></font>
+
+21
+00:01:21,010 --> 00:01:22,810
+<font face="Calibri" size="48"><b>Don't agree to it</b></font>
+
+22
+00:01:23,090 --> 00:01:24,860
+<font face="Calibri" size="48"><b>Forcing it like that is just rude</b></font>
+
+23
+00:01:25,550 --> 00:01:27,810
+<font face="Calibri" size="48"><b>Why are you guys doing it too !?</b></font>
+
+24
+00:01:27,810 --> 00:01:28,750
+<font face="Calibri" size="48"><b>What's up with you...</b></font>
+
+25
+00:01:28,750 --> 00:01:31,080
+<font face="Calibri" size="48"><b>It's the first time I heard you be so loud</b></font>
+
+26
+00:01:31,950 --> 00:01:32,550
+<font face="Calibri" size="48"><b>Yey !!</b></font>
+
+27
+00:01:32,550 --> 00:01:34,110
+<font face="Calibri" size="48"><b>Yeeey !!!</b></font>
+
+28
+00:01:34,110 --> 00:01:35,160
+<font face="Calibri" size="48"><b>Woah !</b></font>
+
+29
+00:01:35,160 --> 00:01:36,190
+<font face="Calibri" size="48"><b>That was good !</b></font>
+
+30
+00:01:36,190 --> 00:01:37,280
+<font face="Calibri" size="48"><b>You did it for real</b></font>
+
+31
+00:01:37,460 --> 00:01:38,620
+<font face="Calibri" size="48"><b>Very nice</b></font>
+
+32
+00:01:38,620 --> 00:01:39,230
+<font face="Calibri" size="48"><b>Impressive</b></font>
+
+33
+00:01:39,230 --> 00:01:41,430
+<font face="Calibri" size="48"><b>Himura, please announce today's agenda</b></font>
+
+34
+00:01:41,430 --> 00:01:41,430
+<font face="Calibri" size="48"><b>[ Note: An 80's drama in which the main character stutters ]</b></font>
+
+35
+00:01:41,430 --> 00:01:43,430
+<font face="Calibri" size="48"><b>in the style of Hadaka no Taishou</b></font>
+
+36
+00:01:44,150 --> 00:01:48,720
+<font face="Calibri" size="48"><b>Who's got a thing for Konto ?</b></font>
+
+37
+00:01:48,720 --> 00:01:51,880
+<font face="Calibri" size="48"><b>Nogizaka's Konto ability check !</b></font>
+
+38
+00:01:57,020 --> 00:01:57,610
+<font face="Calibri" size="48"><b>Seeing idols trying their hand at Konto on a tv show 
+is something that has existed for a long time</b></font>
+
+39
+00:01:57,610 --> 00:01:57,610
+<font size="20" color="#c80d21"><font color="#ead9fa">m 0 0 l 100 0 100 100 0 100</font></font>
+
+40
+00:01:57,610 --> 00:02:04,900
+<font face="Calibri" size="60"><b><font color="#000000">Search for idols who can do Konto
+Let's check who's got some Konto ability !</font></b></font>
+
+41
+00:02:04,900 --> 00:02:06,300
+<font face="Calibri" size="48"><b>AKB is pretty good at it too</b></font>
+
+42
+00:02:06,300 --> 00:02:07,610
+<font face="Calibri" size="48"><b>AKB does it too</b></font>
+
+43
+00:02:08,250 --> 00:02:08,250
+<font size="20" color="#c80d21"><font color="#eeddf9">m 0 0 l 100 0 100 100 0 100</font></font>
+
+44
+00:02:08,250 --> 00:02:08,890
+<font face="Calibri" size="60"><b><font size="45"><font color="#000000">Let's have Drunk Dragon show them the ropes.
+The members will challenge taking the role of Tsukaji or Suzuki!</font></font></b></font>
+
+45
+00:02:08,890 --> 00:02:13,350
+<font face="Calibri" size="48"><b>Drunk Dragon will show the members an example of a skit</b></font>
+
+46
+00:02:13,640 --> 00:02:17,410
+<font face="Calibri" size="48"><b>and they will try to play the part of either Tsukaji or Suzuki</b></font>
+
+47
+00:02:17,720 --> 00:02:20,550
+<font face="Calibri" size="48"><b>Let's see who's got a natural talent for Konto !</b></font>
+
+48
+00:02:21,580 --> 00:02:24,210
+<font face="Calibri" size="48"><b>So first could you please show them the example skit</b></font>
+
+49
+00:02:24,210 --> 00:02:24,860
+<font face="Calibri" size="48"><b>Yes</b></font>
+
+50
+00:02:24,970 --> 00:02:26,800
+<font face="Calibri" size="48"><b>Onegaishimasu</b></font>
+
+51
+00:02:28,190 --> 00:02:31,050
+<font face="Calibri" size="48"><b>Konto example n°1 "Shinkansen Announcer"</b></font>
+
+52
+00:02:35,090 --> 00:02:36,260
+<font face="Calibri" size="48"><b>What is it ?</b></font>
+
+53
+00:02:36,260 --> 00:02:40,550
+<font face="Calibri" size="48"><b>Dear customers, thank you for choosing to travel on our Shinkansen line</b></font>
+
+54
+00:02:40,850 --> 00:02:43,110
+<font face="Calibri" size="48"><b>Thank you, very, very much !</b></font>
+
+55
+00:02:43,110 --> 00:02:44,830
+<font face="Calibri" size="48"><b>Isn't he being way too thankful ?</b></font>
+
+56
+00:02:44,830 --> 00:02:48,610
+<font face="Calibri" size="48"><b>This is the Nozomi 365 line, gonna go from Tokyo to Shin-Osaka station</b></font>
+
+57
+00:02:48,610 --> 00:02:50,050
+<font face="Calibri" size="48"><b>Informal speech ?!</b></font>
+
+58
+00:02:50,050 --> 00:02:51,160
+<font face="Calibri" size="48"><b>That's rude</b></font>
+
+59
+00:02:51,160 --> 00:02:54,910
+<font face="Calibri" size="48"><b>We'll be stopping at Shinagawa, Shin-Yokohama....</b></font>
+
+60
+00:02:56,170 --> 00:02:57,150
+<font face="Calibri" size="48"><b>Umm...</b></font>
+
+61
+00:02:57,470 --> 00:03:01,220
+<font face="Calibri" size="48"><b>Shinagawa, Shin-Yokohama....</b></font>
+
+62
+00:03:01,880 --> 00:03:03,550
+<font face="Calibri" size="48"><b>And other wonderful stations</b></font>
+
+63
+00:03:04,560 --> 00:03:06,000
+<font face="Calibri" size="48"><b>Don't say it like you're doing great !</b></font>
+
+64
+00:03:06,290 --> 00:03:08,550
+<font face="Calibri" size="48"><b>Please be respectful to the other passengers on board</b></font>
+
+65
+00:03:08,820 --> 00:03:11,350
+<font face="Calibri" size="48"><b>Smoking is prohibited outside of the restaurant wagon</b></font>
+
+66
+00:03:11,350 --> 00:03:12,780
+<font face="Calibri" size="48"><b>Finally he says something useful</b></font>
+
+67
+00:03:12,780 --> 00:03:15,280
+<font face="Calibri" size="48"><b>Also, please never give up on your dreams !</b></font>
+
+68
+00:03:15,280 --> 00:03:17,280
+<font face="Calibri" size="48"><b>I'd rather not hear that sort of things from you</b></font>
+
+69
+00:03:17,280 --> 00:03:18,810
+<font face="Calibri" size="48"><b>Ah, the doors will be closing now</b></font>
+
+70
+00:03:18,810 --> 00:03:20,810
+<font face="Calibri" size="48"><b>They were open all this time !?</b></font>
+
+71
+00:03:20,810 --> 00:03:21,710
+<font face="Calibri" size="48"><b>Thank you very much</b></font>
+
+72
+00:03:25,390 --> 00:03:30,930
+<font face="Calibri" size="48"><b>I think it would be better if you could, um...</b></font>
+
+73
+00:03:30,930 --> 00:03:33,790
+<font face="Calibri" size="48"><b>Bring out the feel of a Shinkansen personnel a bit more</b></font>
+
+74
+00:03:34,550 --> 00:03:34,550
+<font size="20" color="#c80d21"><font color="#cf0921">m 0 0 l 100 0 100 100 0 100</font></font>
+
+75
+00:03:34,550 --> 00:03:35,180
+<font face="Calibri" size="60"><b><font size="45">Giving advice to the younger ones ?</font></b></font>
+
+76
+00:03:35,180 --> 00:03:36,530
+<font face="Calibri" size="48"><b>Are you a judge ?!</b></font>
+
+77
+00:03:39,140 --> 00:03:42,130
+<font face="Calibri" size="48"><b>Captain Sakurai will be the first to take on the challenge !</b></font>
+
+78
+00:03:45,760 --> 00:03:49,410
+<font face="Calibri" size="48"><b>Dear customers, thank you for choosing to travel on our Shinkansen line</b></font>
+
+79
+00:03:50,190 --> 00:03:52,210
+<font face="Calibri" size="48"><b>Thank you, very, very much !</b></font>
+
+80
+00:03:52,480 --> 00:03:54,750
+<font face="Calibri" size="48"><b>Isn't he being way too thankful ?</b></font>
+
+81
+00:03:55,850 --> 00:03:56,680
+<font face="Calibri" size="48"><b>Who was that ?</b></font>
+
+82
+00:03:57,060 --> 00:04:00,630
+<font face="Calibri" size="48"><b>We'll be stopping at Shinagawa, Shin-Yokohama....</b></font>
+
+83
+00:04:02,090 --> 00:04:02,900
+<font face="Calibri" size="48"><b>Umm...</b></font>
+
+84
+00:04:02,900 --> 00:04:05,130
+<font face="Calibri" size="48"><b>Shinagawa, Shin-Yokohama....</b></font>
+
+85
+00:04:06,300 --> 00:04:07,790
+<font face="Calibri" size="48"><b>And other wonderful stations</b></font>
+
+86
+00:04:08,610 --> 00:04:10,910
+<font face="Calibri" size="48"><b>He's avoiding the subject...</b></font>
+
+87
+00:04:13,090 --> 00:04:15,380
+<font face="Calibri" size="48"><b>Well then, please enjoy a comfortable travel across the skies</b></font>
+
+88
+00:04:15,380 --> 00:04:17,380
+<font face="Calibri" size="48"><b>This isn't a plane though...</b></font>
+
+89
+00:04:18,750 --> 00:04:20,180
+<font face="Calibri" size="48"><b>Ah, the doors will be closing now</b></font>
+
+90
+00:04:20,280 --> 00:04:21,780
+<font face="Calibri" size="48"><b>They were open !?</b></font>
+
+91
+00:04:22,240 --> 00:04:23,450
+<font face="Calibri" size="48"><b>That was good !</b></font>
+
+92
+00:04:26,980 --> 00:04:28,410
+<font face="Calibri" size="48"><b>So how was it ?</b></font>
+
+93
+00:04:28,410 --> 00:04:29,610
+<font face="Calibri" size="48"><b>It was pretty hard</b></font>
+
+94
+00:04:29,610 --> 00:04:31,150
+<font face="Calibri" size="48"><b>I couldn't think of anything to say</b></font>
+
+95
+00:04:31,150 --> 00:04:32,250
+<font face="Calibri" size="48"><b>You couldn't think of anything...</b></font>
+
+96
+00:04:32,250 --> 00:04:33,330
+<font face="Calibri" size="48"><b>Was it embarassing ?</b></font>
+
+97
+00:04:33,330 --> 00:04:36,100
+<font face="Calibri" size="48"><b>No I don't think it was that embarassing, but...</b></font>
+
+98
+00:04:36,100 --> 00:04:38,550
+<font face="Calibri" size="48"><b>I couldn't think of anything really clever to say</b></font>
+
+99
+00:04:38,550 --> 00:04:40,010
+<font face="Calibri" size="48"><b>What did you think of her ?</b></font>
+
+100
+00:04:40,010 --> 00:04:42,150
+<font face="Calibri" size="48"><b>Since she showed some good emotion</b></font>
+
+101
+00:04:42,150 --> 00:04:44,210
+<font face="Calibri" size="48"><b>It felt even better than when Suzuki does it</b></font>
+
+102
+00:04:44,210 --> 00:04:44,210
+<font size="20" color="#c80d21"><font color="#cf0921">m 0 0 l 100 0 100 100 0 100</font></font>
+
+103
+00:04:44,210 --> 00:04:45,520
+<font face="Calibri" size="60"><b><font size="48">Game over for Suzuki ?</font></b></font>
+
+104
+00:04:45,520 --> 00:04:46,650
+<font face="Calibri" size="48"><b>Replacing Suzuki !</b></font>
+
+105
+00:04:46,650 --> 00:04:47,620
+<font face="Calibri" size="48"><b>I just replaced Suzuki</b></font>
+
+106
+00:04:47,620 --> 00:04:49,390
+<font face="Calibri" size="48"><b>Don't replace me just like that</b></font>
+
+107
+00:04:50,670 --> 00:04:52,540
+<font face="Calibri" size="48"><b>Sakurai showed us some good emotions</b></font>
+
+108
+00:04:52,540 --> 00:04:54,540
+<font face="Calibri" size="48"><b>She fared alright !</b></font>
+
+109
+00:04:56,580 --> 00:05:00,380
+<font face="Calibri" size="48"><b>Next challenger will be Matsumura from the Kansai region</b></font>
+
+110
+00:05:00,380 --> 00:05:00,380
+<font face="Calibri" size="48"><b>I don't remember Tsuka-chan looking so much like a goby</b></font>
+
+111
+00:05:00,380 --> 00:05:02,880
+<font face="Calibri" size="48"><b>[ Note: A kind of fish ]</b></font>
+
+112
+00:05:03,250 --> 00:05:04,950
+<font face="Calibri" size="48"><b>His face is really something else</b></font>
+
+113
+00:05:04,950 --> 00:05:07,750
+<font face="Calibri" size="48"><b>His face is really weirding me out</b></font>
+
+114
+00:05:07,780 --> 00:05:08,680
+<font face="Calibri" size="48"><b>Did you guys say something ?</b></font>
+
+115
+00:05:08,810 --> 00:05:10,610
+<font face="Calibri" size="48"><b>We were saying your face is weird</b></font>
+
+116
+00:05:10,610 --> 00:05:11,410
+<font face="Calibri" size="48"><b>Oh okay...</b></font>
+
+117
+00:05:11,410 --> 00:05:12,510
+<font face="Calibri" size="48"><b>What ?!!</b></font>
+
+118
+00:05:18,650 --> 00:05:23,070
+<font face="Calibri" size="48"><b>Dear customers, thank you for choosing to travel on our Shinkansen line</b></font>
+
+119
+00:05:23,070 --> 00:05:25,680
+<font face="Calibri" size="48"><b>Thank you, very, very much</b></font>
+
+120
+00:05:25,680 --> 00:05:26,980
+<font face="Calibri" size="48"><b>Isn't he being way too thankful ?</b></font>
+
+121
+00:05:27,640 --> 00:05:31,880
+<font face="Calibri" size="48"><b>This is the Nozomi 365 line, gonna go from Tokyo to Shin-Osaka station</b></font>
+
+122
+00:05:31,880 --> 00:05:32,670
+<font face="Calibri" size="48"><b>Ah, Osaka...</b></font>
+
+123
+00:05:32,670 --> 00:05:34,350
+<font face="Calibri" size="48"><b>And informal speech !?</b></font>
+
+124
+00:05:34,350 --> 00:05:34,350
+<font size="20" color="#c80d21"><font color="#cf0921">m 0 0 l 100 0 100 100 0 100</font></font>
+
+125
+00:05:34,350 --> 00:05:34,350
+<font face="Calibri" size="60"><b><font size="55">Nori Tsukkomi !</font></b></font>
+
+126
+00:05:34,350 --> 00:05:35,650
+<font face="Calibri" size="48"><b>[ Note: Nori Tsukkomi - inserting quick & funny remarks in the midst of a conversation ]</b></font>
+
+127
+00:05:35,650 --> 00:05:39,390
+<font face="Calibri" size="48"><b>We'll be stopping at Shinagawa, Shin-Yokohama....</b></font>
+
+128
+00:05:41,060 --> 00:05:42,580
+<font face="Calibri" size="48"><b>And other wonderful stations</b></font>
+
+129
+00:05:42,580 --> 00:05:43,850
+<font face="Calibri" size="48"><b>He actually forgot !!</b></font>
+
+130
+00:05:45,310 --> 00:05:46,670
+<font face="Calibri" size="48"><b>Not bad !</b></font>
+
+131
+00:05:46,930 --> 00:05:48,450
+<font face="Calibri" size="48"><b>To the car in the front, please stop !</b></font>
+
+132
+00:05:48,540 --> 00:05:50,450
+<font face="Calibri" size="48"><b>What !? There's a car in front ?</b></font>
+
+133
+00:05:51,050 --> 00:05:52,250
+<font face="Calibri" size="48"><b>Don't stay there !</b></font>
+
+134
+00:05:54,450 --> 00:05:56,220
+<font face="Calibri" size="48"><b>So how was it ?</b></font>
+
+135
+00:05:56,370 --> 00:06:01,820
+<font face="Calibri" size="48"><b>I think I wasn't able to fully overcome my shyness</b></font>
+
+136
+00:06:01,820 --> 00:06:04,170
+<font face="Calibri" size="48"><b>During the slight ad-lib part</b></font>
+
+137
+00:06:04,170 --> 00:06:07,090
+<font face="Calibri" size="48"><b>She was going along and nodding to what I was saying</b></font>
+
+138
+00:06:07,340 --> 00:06:09,850
+<font face="Calibri" size="48"><b>This is something that Suzuki can't do</b></font>
+
+139
+00:06:10,510 --> 00:06:10,510
+<font size="20" color="#c80d21"><font color="#cf0921">m 0 0 l 100 0 100 100 0 100</font></font>
+
+140
+00:06:10,510 --> 00:06:10,680
+<font face="Calibri" size="60"><b><font size="50">Throwing punches at Suzuki yet again</font></b></font>
+
+141
+00:06:10,680 --> 00:06:12,610
+<font face="Calibri" size="48"><b>Yeah I can't do the 'hmm' in between sentences</b></font>
+
+142
+00:06:13,650 --> 00:06:14,470
+<font face="Calibri" size="48"><b>I can feel the Kansai roots...</b></font>
+
+143
+00:06:14,470 --> 00:06:15,850
+<font face="Calibri" size="48"><b>She was pretty good</b></font>
+
+144
+00:06:16,330 --> 00:06:17,610
+<font face="Calibri" size="48"><b>You did nori tsukkomi, right ?</b></font>
+
+145
+00:06:17,610 --> 00:06:18,460
+<font face="Calibri" size="48"><b>Yeah she did</b></font>
+
+146
+00:06:18,650 --> 00:06:19,840
+<font face="Calibri" size="48"><b>I think you were amazing</b></font>
+
+147
+00:06:19,840 --> 00:06:21,540
+<font face="Calibri" size="48"><b>Oh my, thank you very much</b></font>
+
+148
+00:06:22,420 --> 00:06:24,030
+<font face="Calibri" size="48"><b>I'm happy to hear it</b></font>
+
+149
+00:06:26,110 --> 00:06:27,710
+<font face="Calibri" size="48"><b>Matsumura showed us her tsukkomi abilities</b></font>
+
+150
+00:06:27,710 --> 00:06:29,940
+<font face="Calibri" size="48"><b>As expected of someone from Kansai !</b></font>
+
+151
+00:06:31,490 --> 00:06:33,690
+<font face="Calibri" size="48"><b>Following up, we'll see more of everyone's own sensitivity</b></font>
+
+152
+00:06:33,960 --> 00:06:35,710
+<font face="Calibri" size="48"><b>It's Takayama's turn !</b></font>
+
+153
+00:06:35,880 --> 00:06:39,980
+<font face="Calibri" size="48"><b>Dear customers, thank you for choosing to travel on our Shinkansen line</b></font>
+
+154
+00:06:40,530 --> 00:06:42,580
+<font face="Calibri" size="48"><b>Thank you, very, very much !</b></font>
+
+155
+00:06:42,580 --> 00:06:44,510
+<font face="Calibri" size="48"><b>Isn't he being way too thankful ?</b></font>
+
+156
+00:06:47,800 --> 00:06:52,350
+<font face="Calibri" size="48"><b>This is the Nozomi 365 line, gonna go from Tokyo to Shin-Osaka station</b></font>
+
+157
+00:06:52,490 --> 00:06:54,160
+<font face="Calibri" size="48"><b>Eh !? Informal speech ? Eh?</b></font>
+
+158
+00:06:56,560 --> 00:07:00,260
+<font face="Calibri" size="48"><b>We'll be stopping at Shinagawa, Shin-Yokohama....</b></font>
+
+159
+00:07:00,740 --> 00:07:01,600
+<font face="Calibri" size="48"><b>Umm...</b></font>
+
+160
+00:07:01,600 --> 00:07:03,230
+<font face="Calibri" size="48"><b>Shinagawa, Shin-Yokohama....</b></font>
+
+161
+00:07:03,230 --> 00:07:05,580
+<font face="Calibri" size="48"><b>- You can do it, you can do it !</b></font>
+
+162
+00:07:05,580 --> 00:07:06,960
+<font face="Calibri" size="48"><b>And other wonderful stations !</b></font>
+
+163
+00:07:07,540 --> 00:07:09,080
+<font face="Calibri" size="48"><b>Don't dodge the issue !</b></font>
+
+164
+00:07:12,030 --> 00:07:13,790
+<font face="Calibri" size="48"><b>Please give me back my wife !</b></font>
+
+165
+00:07:14,730 --> 00:07:16,030
+<font face="Calibri" size="48"><b>Hang in there !</b></font>
+
+166
+00:07:18,750 --> 00:07:19,720
+<font face="Calibri" size="48"><b>How was it ?</b></font>
+
+167
+00:07:19,850 --> 00:07:20,660
+<font face="Calibri" size="48"><b>Well...</b></font>
+
+168
+00:07:21,800 --> 00:07:24,940
+<font face="Calibri" size="48"><b>It's really hard to act natural</b></font>
+
+169
+00:07:25,450 --> 00:07:26,720
+<font face="Calibri" size="48"><b>But, um...</b></font>
+
+170
+00:07:27,920 --> 00:07:29,010
+<font face="Calibri" size="48"><b>I was nervous !</b></font>
+
+171
+00:07:29,010 --> 00:07:29,010
+<font size="20" color="#c80d21"><font color="#cf0921">m 0 0 l 100 0 100 100 0 100</font></font>
+
+172
+00:07:29,010 --> 00:07:33,320
+<font face="Calibri" size="60"><b><font size="50">It was nervousness, 
+after all.</font></b></font>
+
+173
+00:07:33,320 --> 00:07:34,270
+<font face="Calibri" size="48"><b>So you were nervous after all, huh</b></font>
+
+174
+00:07:34,270 --> 00:07:35,110
+<font face="Calibri" size="48"><b>I was</b></font>
+
+175
+00:07:35,110 --> 00:07:37,110
+<font face="Calibri" size="48"><b>Talk about being "so bad it's good"...</b></font>
+
+176
+00:07:37,880 --> 00:07:41,150
+<font face="Calibri" size="48"><b>But when I said "give me back my wife" near the end</b></font>
+
+177
+00:07:41,150 --> 00:07:43,150
+<font face="Calibri" size="48"><b>"Hang in there !"</b></font>
+
+178
+00:07:44,260 --> 00:07:46,880
+<font face="Calibri" size="48"><b>I think she might be more the boke type...</b></font>
+
+179
+00:07:48,350 --> 00:07:49,770
+<font face="Calibri" size="48"><b>That might be it</b></font>
+
+180
+00:07:49,770 --> 00:07:51,950
+<font face="Calibri" size="48"><b>The members retort a lot to things I say</b></font>
+
+181
+00:07:54,400 --> 00:07:57,040
+<font face="Calibri" size="48"><b>It seems she's leaning towards being a boke</b></font>
+
+182
+00:07:58,910 --> 00:08:01,700
+<font face="Calibri" size="48"><b>They've prepared some more konto skits for today, so...</b></font>
+
+183
+00:08:02,180 --> 00:08:02,180
+<font size="20" color="#c80d21"><font color="#cf0921">m 0 0 l 100 0 100 100 0 100</font></font>
+
+184
+00:08:02,180 --> 00:08:05,110
+<font face="Calibri" size="60"><b><font size="70">Thank you very much.</font></b></font>
+
+185
+00:08:09,760 --> 00:08:10,750
+<font face="Calibri" size="48"><b>It's here</b></font>
+
+186
+00:08:10,750 --> 00:08:12,390
+<font face="Calibri" size="48"><b>Tsukaji-style Jumbled up Kenpo</b></font>
+
+187
+00:08:12,390 --> 00:08:13,540
+<font face="Calibri" size="48"><b>*enters*</b></font>
+
+188
+00:08:14,150 --> 00:08:15,310
+<font face="Calibri" size="48"><b>Excuse me !</b></font>
+
+189
+00:08:15,310 --> 00:08:18,010
+<font face="Calibri" size="48"><b>Who the fuck just said the forbidden words "Excuse me" !!!</b></font>
+
+190
+00:08:18,010 --> 00:08:19,650
+<font face="Calibri" size="48"><b>So someone was here...</b></font>
+
+191
+00:08:22,700 --> 00:08:23,700
+<font face="Calibri" size="48"><b>What is it ?</b></font>
+
+192
+00:08:23,700 --> 00:08:25,700
+<font face="Calibri" size="48"><b>I already paid for the last 7 months of electricity</b></font>
+
+193
+00:08:25,700 --> 00:08:27,700
+<font face="Calibri" size="48"><b>I'm not from the electricity company</b></font>
+
+194
+00:08:27,700 --> 00:08:29,850
+<font face="Calibri" size="48"><b>And isn't electricity something you pay for each month ?</b></font>
+
+195
+00:08:29,850 --> 00:08:31,070
+<font face="Calibri" size="48"><b>But this is not what I'm here for</b></font>
+
+196
+00:08:31,070 --> 00:08:32,380
+<font face="Calibri" size="48"><b>I want to learn kenpo</b></font>
+
+197
+00:08:32,380 --> 00:08:32,960
+<font face="Calibri" size="48"><b>Oh, kenpo...</b></font>
+
+198
+00:08:33,330 --> 00:08:34,780
+<font face="Calibri" size="48"><b>Alright you're admitted</b></font>
+
+199
+00:08:34,780 --> 00:08:35,850
+<font face="Calibri" size="48"><b>Really ?</b></font>
+
+200
+00:08:35,850 --> 00:08:38,170
+<font face="Calibri" size="48"><b>Have I lied even once in my entire life ?</b></font>
+
+201
+00:08:38,720 --> 00:08:39,590
+<font face="Calibri" size="48"><b>Well..</b></font>
+
+202
+00:08:40,230 --> 00:08:42,300
+<font face="Calibri" size="48"><b>It's the first time we meet so I wouldn't know...</b></font>
+
+203
+00:08:42,660 --> 00:08:44,520
+<font face="Calibri" size="48"><b>Anyway, this is the Tsukaji-style Jumbled up Kenpo</b></font>
+
+204
+00:08:44,520 --> 00:08:45,780
+<font face="Calibri" size="48"><b>Starting with the first stance</b></font>
+
+205
+00:08:45,780 --> 00:08:47,410
+<font face="Calibri" size="48"><b>First stance !</b></font>
+
+206
+00:08:48,140 --> 00:08:49,370
+<font face="Calibri" size="48"><b>Second stance !</b></font>
+
+207
+00:08:50,210 --> 00:08:51,420
+<font face="Calibri" size="48"><b>Third stance !</b></font>
+
+208
+00:08:52,250 --> 00:08:52,830
+<font face="Calibri" size="48"><b>Fourth stance !</b></font>
+
+209
+00:08:59,140 --> 00:09:04,750
+<font face="Calibri" size="48"><b>Fifth stance !</b></font>
+
+210
+00:09:04,750 --> 00:09:05,900
+<font face="Calibri" size="48"><b>Alright now from the start !</b></font>
+
+211
+00:09:05,900 --> 00:09:06,460
+<font face="Calibri" size="48"><b>First !</b></font>
+
+212
+00:09:06,980 --> 00:09:07,560
+<font face="Calibri" size="48"><b>Second !</b></font>
+
+213
+00:09:08,150 --> 00:09:08,760
+<font face="Calibri" size="48"><b>Third !</b></font>
+
+214
+00:09:09,280 --> 00:09:09,920
+<font face="Calibri" size="48"><b>Fourth !</b></font>
+
+215
+00:09:12,730 --> 00:09:13,490
+<font face="Calibri" size="48"><b>Fifth !</b></font>
+
+216
+00:09:16,300 --> 00:09:17,320
+<font face="Calibri" size="48"><b>Fourth !</b></font>
+
+217
+00:09:19,620 --> 00:09:19,620
+<font face="Calibri" size="48"><b>Next person !</b></font>
+
+218
+00:09:19,620 --> 00:09:20,330
+<font face="Calibri" size="48"><b>[ Note: play on words with <i>kata</i>, can mean 'stance', 'person', 'something hard'...]</b></font>
+
+219
+00:09:20,330 --> 00:09:20,760
+<font face="Calibri" size="48"><b>What ?</b></font>
+
+220
+00:09:20,760 --> 00:09:21,610
+<font face="Calibri" size="48"><b>Next person !</b></font>
+
+221
+00:09:21,980 --> 00:09:23,520
+<font face="Calibri" size="48"><b>Next person !</b></font>
+
+222
+00:09:23,520 --> 00:09:23,950
+<font face="Calibri" size="48"><b>Next person !</b></font>
+
+223
+00:09:23,950 --> 00:09:25,160
+<font face="Calibri" size="48"><b>Next person !
+- Next person !</b></font>
+
+224
+00:09:25,160 --> 00:09:25,710
+<font face="Calibri" size="48"><b>That's hard !!</b></font>
+
+225
+00:09:25,710 --> 00:09:26,330
+<font face="Calibri" size="48"><b>What ?</b></font>
+
+226
+00:09:26,330 --> 00:09:27,600
+<font face="Calibri" size="48"><b>That's hard !</b></font>
+
+227
+00:09:28,580 --> 00:09:29,660
+<font face="Calibri" size="48"><b>That's hard !</b></font>
+
+228
+00:09:29,970 --> 00:09:30,990
+<font face="Calibri" size="48"><b>That's hard !</b></font>
+
+229
+00:09:31,170 --> 00:09:32,030
+<font face="Calibri" size="48"><b>That's hard !</b></font>
+
+230
+00:09:32,380 --> 00:09:33,860
+<font face="Calibri" size="48"><b>Stop that !!</b></font>
+
+231
+00:09:34,590 --> 00:09:36,260
+<font face="Calibri" size="48"><b>We're not doing stupid-style Kenpo !</b></font>
+
+232
+00:09:37,160 --> 00:09:38,400
+<font face="Calibri" size="48"><b>That was so random !!</b></font>
+
+233
+00:09:42,310 --> 00:09:47,480
+<font face="Calibri" size="48"><b>Since this skit is pretty fast-paced, I think they'll have a hard time inserting themselves</b></font>
+
+234
+00:09:48,410 --> 00:09:50,680
+<font face="Calibri" size="48"><b>I think the best here is to not get caught up in the flow too much, refrain yourself from saying out of place things</b></font>
+
+235
+00:09:50,680 --> 00:09:50,680
+<font size="20" color="#c80d21"><font color="#f9f2e1">m 0 0 l 100 0 100 100 0 100</font></font>
+
+236
+00:09:50,680 --> 00:09:53,450
+<font face="Calibri" size="60"><b><font color="#000000">Doing something weird like this is scary
+Can they do it while not going overboard ?</font></b></font>
+
+237
+00:09:53,450 --> 00:09:56,750
+<font face="Calibri" size="48"><b>So act like an apprentice, don't retort too strongly</b></font>
+
+238
+00:09:56,830 --> 00:09:57,860
+<font face="Calibri" size="48"><b>I see !</b></font>
+
+239
+00:09:59,210 --> 00:10:01,310
+<font face="Calibri" size="48"><b>I think they'll feel pretty embarassed when doing it</b></font>
+
+240
+00:10:01,650 --> 00:10:04,490
+<font face="Calibri" size="48"><b>But seeing them get embarassed can also make things more interesting</b></font>
+
+241
+00:10:04,490 --> 00:10:06,100
+<font face="Calibri" size="48"><b>That's right</b></font>
+
+242
+00:10:07,680 --> 00:10:09,200
+<font face="Calibri" size="48"><b>First up is one of the Seven Lucky Godesses</b></font>
+
+243
+00:10:09,200 --> 00:10:11,200
+<font face="Calibri" size="48"><b>It's Shiraishi's turn !</b></font>
+
+244
+00:10:11,450 --> 00:10:12,530
+<font face="Calibri" size="48"><b>What is it ?</b></font>
+
+245
+00:10:12,530 --> 00:10:14,330
+<font face="Calibri" size="48"><b>I already paid for the last 7 months of electricity</b></font>
+
+246
+00:10:14,330 --> 00:10:16,130
+<font face="Calibri" size="48"><b>No I'm not from the electricity company</b></font>
+
+247
+00:10:16,130 --> 00:10:18,460
+<font face="Calibri" size="48"><b>And isn't electricity something you pay for each month ?</b></font>
+
+248
+00:10:18,550 --> 00:10:18,550
+<font size="20" color="#c80d21"><font color="#cf0921">m 0 0 l 100 0 100 100 0 100</font></font>
+
+249
+00:10:18,550 --> 00:10:21,010
+<font face="Calibri" size="60"><b><font size="70">Friendly Tsukkomi</font></b></font>
+
+250
+00:10:22,560 --> 00:10:23,910
+<font face="Calibri" size="48"><b>Anyway, this is the Tsukaji-style Jumbled up Kenpo</b></font>
+
+251
+00:10:23,910 --> 00:10:25,080
+<font face="Calibri" size="48"><b>Starting with the first stance</b></font>
+
+252
+00:10:25,080 --> 00:10:26,400
+<font face="Calibri" size="48"><b>First stance !</b></font>
+
+253
+00:10:27,000 --> 00:10:27,730
+<font face="Calibri" size="48"><b>Second stance !</b></font>
+
+254
+00:10:28,640 --> 00:10:30,000
+<font face="Calibri" size="48"><b>Third stance !</b></font>
+
+255
+00:10:30,960 --> 00:10:32,120
+<font face="Calibri" size="48"><b>Fourth stance !</b></font>
+
+256
+00:10:38,720 --> 00:10:39,890
+<font face="Calibri" size="48"><b>Fifth stance !</b></font>
+
+257
+00:10:43,520 --> 00:10:44,720
+<font face="Calibri" size="48"><b>Alright now from the start !</b></font>
+
+258
+00:10:44,720 --> 00:10:45,560
+<font face="Calibri" size="48"><b>First one !</b></font>
+
+259
+00:10:46,600 --> 00:10:47,400
+<font face="Calibri" size="48"><b>Second !</b></font>
+
+260
+00:10:48,360 --> 00:10:49,120
+<font face="Calibri" size="48"><b>It's "Sei Sei" !!</b></font>
+
+261
+00:10:50,350 --> 00:10:51,250
+<font face="Calibri" size="48"><b>Third one !</b></font>
+
+262
+00:10:52,010 --> 00:10:52,860
+<font face="Calibri" size="48"><b>Third one !</b></font>
+
+263
+00:10:55,640 --> 00:10:56,530
+<font face="Calibri" size="48"><b>Fourth !</b></font>
+
+264
+00:10:58,580 --> 00:10:59,360
+<font face="Calibri" size="48"><b>Fourth one !</b></font>
+
+265
+00:10:59,420 --> 00:11:00,930
+<font face="Calibri" size="48"><b>Fifth one, fifth one !</b></font>
+
+266
+00:11:04,360 --> 00:11:05,070
+<font face="Calibri" size="48"><b>Fourth !</b></font>
+
+267
+00:11:06,980 --> 00:11:08,190
+<font face="Calibri" size="48"><b>T- That's hard !!</b></font>
+
+268
+00:11:08,790 --> 00:11:09,800
+<font face="Calibri" size="48"><b>H- Hard ?</b></font>
+
+269
+00:11:12,970 --> 00:11:14,250
+<font face="Calibri" size="48"><b>Stop that right now !!</b></font>
+
+270
+00:11:14,250 --> 00:11:15,970
+<font face="Calibri" size="48"><b>We're not doing stupid-style Kenpo !</b></font>
+
+271
+00:11:22,550 --> 00:11:24,250
+<font face="Calibri" size="48"><b>How was it ?</b></font>
+
+272
+00:11:25,410 --> 00:11:26,360
+<font face="Calibri" size="48"><b>It was fun !</b></font>
+
+273
+00:11:26,360 --> 00:11:27,210
+<font face="Calibri" size="48"><b>Ah you had fun</b></font>
+
+274
+00:11:27,890 --> 00:11:28,810
+<font face="Calibri" size="48"><b>What suprised me was,</b></font>
+
+275
+00:11:29,000 --> 00:11:31,460
+<font face="Calibri" size="48"><b>I felt like a weird adult being persuaded by someone</b></font>
+
+276
+00:11:31,460 --> 00:11:33,150
+<font face="Calibri" size="48"><b>Being like "You can't do this"</b></font>
+
+277
+00:11:33,400 --> 00:11:35,110
+<font face="Calibri" size="48"><b></b></font>
+
+278
+00:11:35,110 --> 00:11:37,960
+<font face="Calibri" size="48"><b>When she didn't know what to say 
+and went "uoooh!" that was funny too</b></font>
+
+279
+00:11:38,750 --> 00:11:42,310
+<font face="Calibri" size="48"><b>Did you feel a bit overwhelmed by Tsukaji's loudness ?</b></font>
+
+280
+00:11:42,310 --> 00:11:45,180
+<font face="Calibri" size="48"><b>Yeah I didn't really know how to react to it, so I went "oooh!!"</b></font>
+
+281
+00:11:47,010 --> 00:11:48,650
+<font face="Calibri" size="48"><b>Suzuki could you say something a bit harsh to her ?</b></font>
+
+282
+00:11:48,650 --> 00:11:48,650
+<font size="20" color="#c80d21"><font color="#cf0921">m 0 0 l 100 0 100 100 0 100</font></font>
+
+283
+00:11:48,650 --> 00:11:49,780
+<font face="Calibri" size="60"><b><font size="70">Does he dare to ?</font></b></font>
+
+284
+00:11:49,780 --> 00:11:50,800
+<font face="Calibri" size="48"><b>Something harsh ?</b></font>
+
+285
+00:11:51,240 --> 00:11:54,110
+<font face="Calibri" size="48"><b>Since you play the part too...</b></font>
+
+286
+00:11:54,390 --> 00:11:55,350
+<font face="Calibri" size="48"><b>What did you think of her ?</b></font>
+
+287
+00:11:55,350 --> 00:12:00,360
+<font face="Calibri" size="48"><b>You can tell she knows what he will say next</b></font>
+
+288
+00:12:00,360 --> 00:12:02,260
+<font face="Calibri" size="48"><b>Even though she did her best</b></font>
+
+289
+00:12:02,750 --> 00:12:02,750
+<font face="Calibri" size="48"><b>But it's true</b></font>
+
+290
+00:12:02,750 --> 00:12:02,750
+<font size="20" color="#c80d21"><font color="#cf0921">m 0 0 l 100 0 100 100 0 100</font></font>
+
+291
+00:12:02,750 --> 00:12:03,610
+<font face="Calibri" size="60"><b><font size="80">Real advice</font></b></font>
+
+292
+00:12:03,610 --> 00:12:04,710
+<font face="Calibri" size="48"><b>Yeah it's true</b></font>
+
+293
+00:12:05,150 --> 00:12:05,450
+<font face="Calibri" size="48"><b>Acting natural and innocent is very important</b></font>
+
+294
+00:12:05,450 --> 00:12:05,450
+<font size="20" color="#c80d21"><font color="#f9f2e1">m 0 0 l 100 0 100 100 0 100</font></font>
+
+295
+00:12:05,450 --> 00:12:06,730
+<font face="Calibri" size="60"><b><font size="50"><font color="#000000">Even though you know what's coming
+you need to act as if hearing it for the first time.</font></font></b></font>
+
+296
+00:12:06,730 --> 00:12:08,490
+<font face="Calibri" size="48"><b>Since it is something you've written yourself</b></font>
+
+297
+00:12:08,490 --> 00:12:13,050
+<font face="Calibri" size="48"><b>Act as if it's the first time, even though you know it all</b></font>
+
+298
+00:12:13,810 --> 00:12:14,740
+<font face="Calibri" size="48"><b>That's how it should be done</b></font>
+
+299
+00:12:14,740 --> 00:12:16,260
+<font face="Calibri" size="48"><b>Why'd do get so serious about it ?</b></font>
+
+300
+00:12:16,260 --> 00:12:17,520
+<font face="Calibri" size="48"><b>He asked me to !!</b></font>
+
+301
+00:12:19,870 --> 00:12:22,960
+<font face="Calibri" size="48"><b>Try to act it out less obviously !</b></font>
+
+302
+00:12:25,740 --> 00:12:28,930
+<font face="Calibri" size="48"><b>Next is the mysterious Saito Yuri</b></font>
+
+303
+00:12:31,410 --> 00:12:33,510
+<font face="Calibri" size="48"><b>There it was ! Tsukaji-style Jumbled Up Kenpo</b></font>
+
+304
+00:12:33,510 --> 00:12:33,510
+<font size="20" color="#c80d21"><font color="#cf0921">m 0 0 l 100 0 100 100 0 100</font></font>
+
+305
+00:12:33,510 --> 00:12:35,580
+<font face="Calibri" size="60"><b>Laid back style</b></font>
+
+306
+00:12:35,580 --> 00:12:36,680
+<font face="Calibri" size="48"><b>What is it ?</b></font>
+
+307
+00:12:36,680 --> 00:12:38,300
+<font face="Calibri" size="48"><b>I already paid for the last 7 months of electricity</b></font>
+
+308
+00:12:38,300 --> 00:12:40,780
+<font face="Calibri" size="48"><b>I'm not from the electricity company !
+Do I look like it !?</b></font>
+
+309
+00:12:40,780 --> 00:12:42,270
+<font face="Calibri" size="48"><b>Anyways !</b></font>
+
+310
+00:12:42,440 --> 00:12:45,960
+<font face="Calibri" size="48"><b>I want to learn the Jumbled up Kenpo !</b></font>
+
+311
+00:12:46,360 --> 00:12:47,710
+<font face="Calibri" size="48"><b>Oh, Kenpo...</b></font>
+
+312
+00:12:47,710 --> 00:12:48,160
+<font face="Calibri" size="48"><b>Yes !</b></font>
+
+313
+00:12:48,160 --> 00:12:49,520
+<font face="Calibri" size="48"><b>Alright, you're admitted !</b></font>
+
+314
+00:12:49,520 --> 00:12:50,770
+<font face="Calibri" size="48"><b>Really !? I'm so happy !</b></font>
+
+315
+00:12:50,770 --> 00:12:53,630
+<font face="Calibri" size="48"><b>Have I lied even once in my entire life ?</b></font>
+
+316
+00:12:53,730 --> 00:12:54,690
+<font face="Calibri" size="48"><b>Nope !</b></font>
+
+317
+00:12:55,110 --> 00:12:55,110
+<font size="20" color="#c80d21"><font color="#cf0921">m 0 0 l 100 0 100 100 0 100</font></font>
+
+318
+00:12:55,110 --> 00:12:58,310
+<font face="Calibri" size="60"><b><font size="40">Negative answer even though 
+it's their first meeting</font></b></font>
+
+319
+00:12:58,310 --> 00:13:00,990
+<font face="Calibri" size="48"><b>First stance !</b></font>
+
+320
+00:13:00,990 --> 00:13:01,790
+<font face="Calibri" size="48"><b>Second !</b></font>
+
+321
+00:13:02,650 --> 00:13:03,410
+<font face="Calibri" size="48"><b>Third !</b></font>
+
+322
+00:13:04,250 --> 00:13:04,920
+<font face="Calibri" size="48"><b>Fourth !</b></font>
+
+323
+00:13:08,950 --> 00:13:08,950
+<font size="20" color="#c80d21"><font color="#cf0921">m 0 0 l 100 0 100 100 0 100</font></font>
+
+324
+00:13:08,950 --> 00:13:10,530
+<font face="Calibri" size="60"><b><font size="100">Sexy moves</font></b></font>
+
+325
+00:13:10,530 --> 00:13:11,310
+<font face="Calibri" size="48"><b>First one !</b></font>
+
+326
+00:13:11,810 --> 00:13:12,510
+<font face="Calibri" size="48"><b>Second one !</b></font>
+
+327
+00:13:14,510 --> 00:13:15,320
+<font face="Calibri" size="48"><b>Third one !</b></font>
+
+328
+00:13:16,030 --> 00:13:17,010
+<font face="Calibri" size="48"><b>Fourth one !</b></font>
+
+329
+00:13:22,040 --> 00:13:22,980
+<font face="Calibri" size="48"><b>Stop it !!</b></font>
+
+330
+00:13:24,310 --> 00:13:26,050
+<font face="Calibri" size="48"><b>This isn't Stupid-style Kenpo !!</b></font>
+
+331
+00:13:26,050 --> 00:13:27,680
+<font face="Calibri" size="48"><b>Aren't you the one at fault !?</b></font>
+
+332
+00:13:32,250 --> 00:13:33,480
+<font face="Calibri" size="48"><b>How was it ?</b></font>
+
+333
+00:13:33,480 --> 00:13:34,610
+<font face="Calibri" size="48"><b>The "chotto" part was weird !</b></font>
+
+334
+00:13:34,800 --> 00:13:36,220
+<font face="Calibri" size="48"><b>The chotto was...</b></font>
+
+335
+00:13:36,220 --> 00:13:38,220
+<font face="Calibri" size="48"><b>Kind of erotic, wasn't it</b></font>
+
+336
+00:13:42,610 --> 00:13:44,700
+<font face="Calibri" size="48"><b>No way, I didn't do it like that !</b></font>
+
+337
+00:13:45,250 --> 00:13:46,370
+<font face="Calibri" size="48"><b>Fourth stance.</b></font>
+
+338
+00:13:48,680 --> 00:13:48,680
+<font size="20" color="#c80d21"><font color="#cf0921">m 0 0 l 100 0 100 100 0 100</font></font>
+
+339
+00:13:48,680 --> 00:13:50,130
+<font face="Calibri" size="60"><b><font size="120">Sexy trainee</font></b></font>
+
+340
+00:13:50,130 --> 00:13:51,300
+<font face="Calibri" size="48"><b>Isn't it exactly how you did it before !</b></font>
+
+341
+00:13:52,980 --> 00:13:56,220
+<font face="Calibri" size="48"><b>Right after, Ikuta Erika's talent for Konto is discovered !?</b></font>
+
+342
+00:13:58,640 --> 00:14:00,150
+<font face="Calibri" size="48"><b>This time</b></font>
+
+343
+00:14:00,380 --> 00:14:02,110
+<font face="Calibri" size="48"><b>you'll try to play Tsukaji's part</b></font>
+
+344
+00:14:02,110 --> 00:14:02,110
+<font size="20" color="#c80d21"><font color="#eee7e7">m 0 0 l 100 0 100 100 0 100</font></font>
+
+345
+00:14:02,110 --> 00:14:04,340
+<font face="Calibri" size="60"><b><font size="50"><font color="#000000">The members will challenge Tsukaji's Boke role !</font></font></b></font>
+
+346
+00:14:04,340 --> 00:14:05,940
+<font face="Calibri" size="48"><b>Do the skit with Suzuki</b></font>
+
+347
+00:14:11,000 --> 00:14:11,830
+<font face="Calibri" size="48"><b>Hey</b></font>
+
+348
+00:14:12,330 --> 00:14:12,860
+<font face="Calibri" size="48"><b>Hey you</b></font>
+
+349
+00:14:12,860 --> 00:14:13,360
+<font face="Calibri" size="48"><b>Yes ?</b></font>
+
+350
+00:14:13,520 --> 00:14:15,260
+<font face="Calibri" size="48"><b>We'll begin the interview in just a moment</b></font>
+
+351
+00:14:15,260 --> 00:14:17,750
+<font face="Calibri" size="48"><b>Even though it will be live, 
+there's no reason to be nervous</b></font>
+
+352
+00:14:17,750 --> 00:14:18,700
+<font face="Calibri" size="48"><b>No problem, I'm fine</b></font>
+
+353
+00:14:18,700 --> 00:14:20,120
+<font face="Calibri" size="48"><b>I'll just do a short intro and then I'm onto you</b></font>
+
+354
+00:14:20,120 --> 00:14:20,680
+<font face="Calibri" size="48"><b>- Understood</b></font>
+
+355
+00:14:20,680 --> 00:14:21,870
+<font face="Calibri" size="48"><b>Yoroshiku onegaishimasu</b></font>
+
+356
+00:14:21,870 --> 00:14:22,770
+<font face="Calibri" size="48"><b>Oh, we're going on-air already ?</b></font>
+
+357
+00:14:24,400 --> 00:14:25,950
+<font face="Calibri" size="48"><b>Good afternoon everyone !</b></font>
+
+358
+00:14:25,950 --> 00:14:29,100
+<font face="Calibri" size="48"><b>I'm here in Saitama prefecture, at Yamada middle school</b></font>
+
+359
+00:14:29,100 --> 00:14:31,920
+<font face="Calibri" size="48"><b>to visit the Japanese Game Research Club</b></font>
+
+360
+00:14:31,920 --> 00:14:35,920
+<font face="Calibri" size="48"><b>without further ado, let's have a word with the president of the club, Tsukaji-kun</b></font>
+
+361
+00:14:36,130 --> 00:14:40,480
+<font face="Calibri" size="48"><b>So, Tsukaji-kun, can you tell us what this club is about ?</b></font>
+
+362
+00:14:41,170 --> 00:14:42,050
+<font face="Calibri" size="48"><b>Yes.</b></font>
+
+363
+00:14:42,610 --> 00:14:46,170
+<font face="Calibri" size="48"><b>We, at the Japanese Games Research Club,</b></font>
+
+364
+00:14:46,170 --> 00:14:54,970
+<font face="Calibri" size="48"><b>Noticed the modern days trend of indoor entertainment such as video games, films, karaoke...</b></font>
+
+365
+00:14:55,800 --> 00:14:59,280
+<font face="Calibri" size="48"><b>So we looked back at how our ancestors used to entertain themselves</b></font>
+
+366
+00:14:59,280 --> 00:15:03,010
+<font face="Calibri" size="48"><b>In other words, enjoying outside activites is what we do</b></font>
+
+367
+00:15:04,720 --> 00:15:06,200
+<font face="Calibri" size="48"><b>As the saying goes:</b></font>
+
+368
+00:15:06,200 --> 00:15:08,200
+<font face="Calibri" size="48"><b>"In old things-"</b></font>
+
+369
+00:15:11,580 --> 00:15:13,340
+<font face="Calibri" size="48"><b>"In old things-"</b></font>
+
+370
+00:15:15,620 --> 00:15:16,600
+<font face="Calibri" size="48"><b>"In old things-"</b></font>
+
+371
+00:15:16,600 --> 00:15:17,620
+<font face="Calibri" size="48"><b>...</b></font>
+
+372
+00:15:17,620 --> 00:15:19,620
+<font face="Calibri" size="48"><b>And that's basically it</b></font>
+
+373
+00:15:22,550 --> 00:15:23,820
+<font face="Calibri" size="48"><b>Umm...</b></font>
+
+374
+00:15:23,820 --> 00:15:29,050
+<font face="Calibri" size="48"><b>It seems we couldn't hear everything because of a little problem with the microphone</b></font>
+
+375
+00:15:29,050 --> 00:15:32,110
+<font face="Calibri" size="48"><b>But I'm sure that he meant to say, "In old things, we find new knowledge"</b></font>
+
+376
+00:15:32,110 --> 00:15:34,600
+<font face="Calibri" size="48"><b>Can you tell us how they used to play, back in the days ?</b></font>
+
+377
+00:15:40,050 --> 00:15:40,740
+<font face="Calibri" size="48"><b>Yes</b></font>
+
+378
+00:15:40,740 --> 00:15:43,910
+<font face="Calibri" size="48"><b>We, at the Japanese Games Research Club,</b></font>
+
+379
+00:15:43,910 --> 00:15:47,250
+<font face="Calibri" size="48"><b>Noticed the modern days trend of indoor entertainment such as video games, films, karaoke...</b></font>
+
+380
+00:15:47,250 --> 00:15:48,110
+<font face="Calibri" size="48"><b>- You already said that...</b></font>
+
+381
+00:15:50,890 --> 00:15:53,900
+<font face="Calibri" size="48"><b>So we looked back at how our ancestors used to entertain themselves</b></font>
+
+382
+00:15:53,900 --> 00:15:56,910
+<font face="Calibri" size="48"><b>In other words, enjoying outside activites is what we do</b></font>
+
+383
+00:15:56,910 --> 00:15:58,300
+<font face="Calibri" size="48"><b>As the saying goes:</b></font>
+
+384
+00:15:58,300 --> 00:15:59,280
+<font face="Calibri" size="48"><b>In old things-</b></font>
+
+385
+00:15:59,520 --> 00:16:01,960
+<font face="Calibri" size="48"><b>we find new knowledge !</b></font>
+
+386
+00:16:04,560 --> 00:16:06,320
+<font face="Calibri" size="48"><b>I'm glad you managed to say it</b></font>
+
+387
+00:16:06,320 --> 00:16:07,730
+<font face="Calibri" size="48"><b>See you next week !</b></font>
+
+388
+00:16:07,730 --> 00:16:09,150
+<font face="Calibri" size="48"><b>Thank you very much</b></font>
+
+389
+00:16:11,930 --> 00:16:14,050
+<font face="Calibri" size="48"><b>So you'll be playing the role of Tsuka-chan</b></font>
+
+390
+00:16:14,050 --> 00:16:16,070
+<font face="Calibri" size="48"><b>Gotta pay attention to your face, the pauses...</b></font>
+
+391
+00:16:16,070 --> 00:16:16,710
+<font face="Calibri" size="48"><b>The way you talk...</b></font>
+
+392
+00:16:16,710 --> 00:16:18,940
+<font face="Calibri" size="48"><b>- And there's a lot of lines !</b></font>
+
+393
+00:16:19,500 --> 00:16:22,080
+<font face="Calibri" size="48"><b>Is there anything specific they should know beforehand ?</b></font>
+
+394
+00:16:22,080 --> 00:16:28,380
+<font face="Calibri" size="48"><b>You have to capture that emotionlessness, that feel of someone just reading text</b></font>
+
+395
+00:16:28,380 --> 00:16:31,420
+<font face="Calibri" size="48"><b>We've all seen these tv shows where they interview some random kid</b></font>
+
+396
+00:16:31,420 --> 00:16:33,420
+<font face="Calibri" size="48"><b>and he's obviously uncomfortable and acts weird</b></font>
+
+397
+00:16:33,420 --> 00:16:35,550
+<font face="Calibri" size="48"><b>I hope the members can portray that</b></font>
+
+398
+00:16:36,610 --> 00:16:39,930
+<font face="Calibri" size="48"><b>15 years old Ikuta Erika will tackle this new challenge !</b></font>
+
+399
+00:16:40,720 --> 00:16:42,090
+<font face="Calibri" size="48"><b>Good afternoon everyone !</b></font>
+
+400
+00:16:42,090 --> 00:16:44,840
+<font face="Calibri" size="48"><b>I'm here in Saitama prefecture, at Yamada middle school</b></font>
+
+401
+00:16:44,840 --> 00:16:47,290
+<font face="Calibri" size="48"><b>to visit the Japanese Game Research Club</b></font>
+
+402
+00:16:47,290 --> 00:16:54,030
+<font face="Calibri" size="48"><b>We have the club president here with us today, Ikuta-san.
+Let's have a word with her.</b></font>
+
+403
+00:16:54,200 --> 00:16:58,080
+<font face="Calibri" size="48"><b>So, Japanese Games Research Club, can you tell us what it is ?</b></font>
+
+404
+00:16:58,080 --> 00:16:59,320
+<font face="Calibri" size="48"><b>Yes ! Um..</b></font>
+
+405
+00:16:59,320 --> 00:17:01,860
+<font face="Calibri" size="48"><b>We, at the Japanese Games Research Club,</b></font>
+
+406
+00:17:01,860 --> 00:17:04,790
+<font face="Calibri" size="48"><b>In a world where video games...</b></font>
+
+407
+00:17:04,790 --> 00:17:05,890
+<font face="Calibri" size="48"><b>Am I speaking too fast ?</b></font>
+
+408
+00:17:05,890 --> 00:17:10,080
+<font face="Calibri" size="48"><b>Basically we try to go against the grain and revive outdoor activities</b></font>
+
+409
+00:17:10,080 --> 00:17:10,800
+<font face="Calibri" size="48"><b>Umm...</b></font>
+
+410
+00:17:10,800 --> 00:17:12,010
+<font face="Calibri" size="48"><b>As the saying goes:</b></font>
+
+411
+00:17:12,010 --> 00:17:14,160
+<font face="Calibri" size="48"><b>"In old things-"</b></font>
+
+412
+00:17:15,370 --> 00:17:16,500
+<font face="Calibri" size="48"><b>"In old things-"</b></font>
+
+413
+00:17:21,120 --> 00:17:21,820
+<font face="Calibri" size="48"><b>Well...</b></font>
+
+414
+00:17:23,160 --> 00:17:26,900
+<font face="Calibri" size="48"><b>It seems we couldn't hear everything because of a little problem with the microphone</b></font>
+
+415
+00:17:26,900 --> 00:17:30,060
+<font face="Calibri" size="48"><b>But I'm sure that she meant to say, "In old things, we find new knowledge"</b></font>
+
+416
+00:17:30,180 --> 00:17:32,060
+<font face="Calibri" size="48"><b>And, um..</b></font>
+
+417
+00:17:32,610 --> 00:17:32,610
+<font size="20" color="#c80d21"><font color="#cf0921">m 0 0 l 100 0 100 100 0 100</font></font>
+
+418
+00:17:32,610 --> 00:17:36,310
+<font face="Calibri" size="60"><b><font size="80">Emotionless</font></b></font>
+
+419
+00:17:37,240 --> 00:17:40,580
+<font face="Calibri" size="48"><b>Is there anything more you can tell us about the club ?</b></font>
+
+420
+00:17:43,760 --> 00:17:44,510
+<font face="Calibri" size="48"><b>Ikuta-san...</b></font>
+
+421
+00:17:44,940 --> 00:17:45,620
+<font face="Calibri" size="48"><b>Ikuta-san !</b></font>
+
+422
+00:17:47,560 --> 00:17:50,260
+<font face="Calibri" size="48"><b>We, at the Japanese Games Research Club,</b></font>
+
+423
+00:17:50,260 --> 00:17:54,780
+<font face="Calibri" size="48"><b>Noticed the modern days trend of indoor entertainment, television, and...</b></font>
+
+424
+00:17:54,780 --> 00:17:56,290
+<font face="Calibri" size="48"><b>We've heard that already...</b></font>
+
+425
+00:17:56,770 --> 00:17:59,340
+<font face="Calibri" size="48"><b>In other words, we aim to practice outdoor activities</b></font>
+
+426
+00:17:59,340 --> 00:18:00,130
+<font face="Calibri" size="48"><b>As the saying goes:</b></font>
+
+427
+00:18:00,130 --> 00:18:02,640
+<font face="Calibri" size="48"><b>"In old things we find new knowledge"</b></font>
+
+428
+00:18:03,850 --> 00:18:03,850
+<font size="20" color="#c80d21"><font color="#cf0921">m 0 0 l 100 0 100 100 0 100</font></font>
+
+429
+00:18:03,850 --> 00:18:06,210
+<font face="Calibri" size="60"><b><font size="50">"I did it" Face.</font></b></font>
+
+430
+00:18:07,840 --> 00:18:09,130
+<font face="Calibri" size="48"><b>See you next week !</b></font>
+
+431
+00:18:14,160 --> 00:18:16,310
+<font face="Calibri" size="48"><b>That emotionless face, she really pulled it off</b></font>
+
+432
+00:18:16,310 --> 00:18:16,310
+<font size="20" color="#c80d21"><font color="#cf0921">m 0 0 l 100 0 100 100 0 100</font></font>
+
+433
+00:18:16,310 --> 00:18:16,820
+<font face="Calibri" size="60"><b><font size="80">Emotionless</font></b></font>
+
+434
+00:18:16,820 --> 00:18:19,320
+<font face="Calibri" size="48"><b>Yeah she had that perfect blank stare, that was good</b></font>
+
+435
+00:18:19,960 --> 00:18:21,230
+<font face="Calibri" size="48"><b>Well then, Tsuka-chan...</b></font>
+
+436
+00:18:21,230 --> 00:18:23,230
+<font face="Calibri" size="48"><b>Please say something a little harsh to her</b></font>
+
+437
+00:18:23,230 --> 00:18:24,330
+<font face="Calibri" size="48"><b>Right</b></font>
+
+438
+00:18:24,330 --> 00:18:27,410
+<font face="Calibri" size="48"><b>Basically she completely 
+ignored the point of the skit (the nervous character)</b></font>
+
+439
+00:18:27,410 --> 00:18:27,410
+<font size="20" color="#c80d21"><font color="#cf0921">m 0 0 l 100 0 100 100 0 100</font></font>
+
+440
+00:18:27,410 --> 00:18:29,580
+<font face="Calibri" size="60"><b>Completely different characters !!</b></font>
+
+441
+00:18:29,580 --> 00:18:30,620
+<font face="Calibri" size="48"><b>That's super harsh !</b></font>
+
+442
+00:18:30,620 --> 00:18:31,390
+<font face="Calibri" size="48"><b>Apologize !</b></font>
+
+443
+00:18:31,390 --> 00:18:32,780
+<font face="Calibri" size="48"><b>So harsh !!</b></font>
+
+444
+00:18:34,530 --> 00:18:38,480
+<font face="Calibri" size="48"><b>Right after, Nogizaka46 new unit announcement !?</b></font>
+
+445
+00:18:39,630 --> 00:18:44,230
+<font face="Calibri" size="48"><b>The 2nd Single will be released on May 2nd</b></font>
+
+446
+00:18:44,230 --> 00:18:48,090
+<font face="Calibri" size="48"><b>And it contains a track where 4 of you sing</b></font>
+
+447
+00:18:48,540 --> 00:18:50,440
+<font face="Calibri" size="48"><b>Who are the 4 people ?</b></font>
+
+448
+00:18:52,170 --> 00:18:53,880
+<font face="Calibri" size="48"><b>The 4 of you sing it ?</b></font>
+
+449
+00:18:54,190 --> 00:18:54,690
+<font face="Calibri" size="48"><b>Yes</b></font>
+
+450
+00:18:55,100 --> 00:18:56,310
+<font face="Calibri" size="48"><b>And what's the title ?</b></font>
+
+451
+00:18:56,490 --> 00:18:58,500
+<font face="Calibri" size="48"><b><i>Guuzen wo iiwake ni shite</i>
+(Using an accident as an excuse)</b></font>
+
+452
+00:18:58,500 --> 00:19:00,110
+<font face="Calibri" size="48"><b>And what's kind of song would that be ?</b></font>
+
+453
+00:19:00,110 --> 00:19:01,840
+<font face="Calibri" size="48"><b>As far as songwriting goes</b></font>
+
+454
+00:19:01,840 --> 00:19:05,250
+<font face="Calibri" size="48"><b>It sounds like it could be used as an anime opening</b></font>
+
+455
+00:19:06,140 --> 00:19:07,210
+<font face="Calibri" size="48"><b>It gets you hype ?</b></font>
+
+456
+00:19:07,210 --> 00:19:08,130
+<font face="Calibri" size="48"><b>Hype ?</b></font>
+
+457
+00:19:08,130 --> 00:19:09,730
+<font face="Calibri" size="48"><b>Kinda like when your focused on a game ?</b></font>
+
+458
+00:19:09,730 --> 00:19:11,730
+<font face="Calibri" size="48"><b>Ah, well, I'm not so sure about that...</b></font>
+
+459
+00:19:11,730 --> 00:19:13,730
+<font face="Calibri" size="48"><b>Forget it, I'll just listen to it !</b></font>
+
+460
+00:19:14,340 --> 00:19:15,450
+<font face="Calibri" size="48"><b>I'm excited for it</b></font>
+
+461
+00:19:20,750 --> 00:19:25,840
+<font face="Times New Roman" size="35">Guuzen wo iiwake ni shite</font>
+
+462
+00:19:25,880 --> 00:19:30,310
+<font face="Times New Roman" size="35">Atarashii sekai knock wo shiyou ka ?</font>
+
+463
+00:19:30,310 --> 00:19:35,850
+<font face="Times New Roman" size="35">Kinou to wa chigau itoshisa no katachi</font>
+
+464
+00:19:44,880 --> 00:19:50,680
+<font face="Times New Roman" size="35">hisashiburi no shibuya wo burabura to</font>
+
+465
+00:19:50,680 --> 00:19:56,380
+<font face="Times New Roman" size="35">PARCO atari aruiteru toki ni</font>
+
+466
+00:19:57,010 --> 00:20:02,710
+<font face="Times New Roman" size="35">sure chigatta bimyou na Johnny Depp</font>
+
+467
+00:20:02,710 --> 00:20:08,080
+<font face="Times New Roman" size="35">masaka konna toko de battari nante ne</font>
+
+468
+00:20:08,710 --> 00:20:14,650
+<font face="Times New Roman" size="35">campus de attemo</font>
+
+469
+00:20:14,650 --> 00:20:20,250
+<font face="Times New Roman" size="35">kitto hanashi kakerarenai</font>
+
+470
+00:20:20,710 --> 00:20:26,210
+<font face="Times New Roman" size="35">hisoka ni akogareteru</font>
+
+471
+00:20:26,210 --> 00:20:32,250
+<font face="Times New Roman" size="35">anata ga konna ni chikaku ni iru no nara</font>
+
+472
+00:20:32,250 --> 00:20:37,450
+<font face="Times New Roman" size="35">hitsuzen wa nakanaka konai</font>
+
+473
+00:20:37,450 --> 00:20:40,280
+<font face="Times New Roman" size="35">kitto junban machi da</font>
+
+474
+00:20:40,280 --> 00:20:44,250
+<font face="Times New Roman" size="35">jibun de tsukamu shikanai yo</font>
+
+475
+00:20:44,250 --> 00:20:49,310
+<font face="Times New Roman" size="35">hitsuzen wa nakanaka konai</font>
+
+476
+00:20:49,310 --> 00:20:53,850
+<font face="Times New Roman" size="35">odoroita you ni koe wo ageyou ka ?</font>
+
+477
+00:20:53,850 --> 00:21:00,010
+<font face="Times New Roman" size="35">ima kara hajimaru kono koi no domino</font>
+
+478
+00:21:00,010 --> 00:21:05,410
+<font face="Times New Roman" size="35">kouen touri koko de atta</font>
+
+479
+00:21:05,410 --> 00:21:10,950
+<font face="Times New Roman" size="35">kakuritsu wa arienai yo ne</font>
+
+480
+00:21:11,680 --> 00:21:19,910
+<font face="Times New Roman" size="35">jijitsu wa kami-sama no okuri mono nanda</font>
+
+481
+00:21:19,910 --> 00:21:25,580
+<font face="Times New Roman" size="35">ganbare jibun yo</font>
+
+482
+00:21:26,050 --> 00:21:31,050
+<font face="Times New Roman" size="35">hitsuzen nakanaka konai</font>
+
+483
+00:21:31,050 --> 00:21:35,450
+<font face="Times New Roman" size="35">odoroita you ni koe wo ageyou ka ?</font>
+
+484
+00:21:35,450 --> 00:21:42,150
+<font face="Times New Roman" size="35">ima kara hajimaru kono koi no domino</font>
+
+485
+00:21:48,970 --> 00:21:50,110
+<font face="Calibri" size="48"><b>I see</b></font>
+
+486
+00:21:51,620 --> 00:21:52,910
+<font face="Calibri" size="48"><b>It was cute</b></font>
+
+487
+00:21:52,910 --> 00:21:55,900
+<font face="Calibri" size="48"><b>Next week, we'll show the 2nd Single in the studio !</b></font>
+
+488
+00:21:57,060 --> 00:21:58,020
+<font face="Calibri" size="48"><b>Wonderful !</b></font>
+
+489
+00:21:58,650 --> 00:22:01,210
+<font face="Calibri" size="48"><b>Can everyone please announce the title of the 2nd Single ?</b></font>
+
+490
+00:22:01,210 --> 00:22:01,950
+<font face="Calibri" size="48"><b>Let's hear it</b></font>
+
+491
+00:22:02,440 --> 00:22:03,350
+<font face="Calibri" size="48"><b>One, two...</b></font>
+
+492
+00:22:03,650 --> 00:22:05,710
+<font face="Calibri" size="48"><b>Oide Shampoo !!</b></font>
+
+493
+00:22:05,770 --> 00:22:06,960
+<font face="Calibri" size="48"><b>Oide Shampoo ?</b></font>
+
+494
+00:22:06,960 --> 00:22:08,960
+<font face="Calibri" size="48"><b>So it's not Guru Guru something ?</b></font>
+
+495
+00:22:09,500 --> 00:22:10,850
+<font face="Calibri" size="48"><b>I thought you were doing a Guru Guru series</b></font>
+
+496
+00:22:10,850 --> 00:22:12,110
+<font face="Calibri" size="48"><b>- They don't have to Guru Guru everything </b></font>
+
+497
+00:22:13,290 --> 00:22:18,310
+<font face="Calibri" size="48"><b>And so, the 2nd Single will be released in full version next week !</b></font>
+
+498
+00:22:20,900 --> 00:22:23,560
+<font face="Calibri" size="48"><b>To celebrate the good reception of Guru Guru Curtain</b></font>
+
+499
+00:22:23,560 --> 00:22:27,270
+<font face="Calibri" size="48"><b>Nogizaka will be holding handshake events all over Japan !</b></font>
+
+500
+00:22:28,960 --> 00:22:31,990
+<font face="Calibri" size="48"><b>Supported by many fans in various places</b></font>
+
+501
+00:22:31,990 --> 00:22:34,810
+<font face="Calibri" size="48"><b>The girls are looking forward to the release of their 2nd Single</b></font>
+
+502
+00:22:34,810 --> 00:22:36,700
+<font face="Calibri" size="48"><b>However, there's a problem...</b></font>
+
+503
+00:22:36,700 --> 00:22:37,890
+<font face="Calibri" size="48"><b>That is...</b></font>
+
+504
+00:22:40,840 --> 00:22:42,730
+<font face="Calibri" size="48"><b>Turmoil in the entertainment world !</b></font>
+
+505
+00:22:44,520 --> 00:22:47,650
+<font face="Calibri" size="48"><b>Nogizaka46's 2nd Single</b></font>
+
+506
+00:22:48,860 --> 00:22:50,820
+<font face="Calibri" size="48"><b>Sashihara Rino's Solo Single</b></font>
+
+507
+00:22:51,610 --> 00:22:51,610
+<font face="Calibri" size="48"><b>"<i>I swear its not a marketing stunt!</i>" - Aki-P </b></font>
+
+508
+00:22:51,610 --> 00:22:54,130
+<font face="Calibri" size="48"><b>Violating the unspoken rule: Releasing the same day !!</b></font>
+
+509
+00:22:55,840 --> 00:23:00,140
+<font face="Calibri" size="48"><b>Basically, she suddenly announced the release date of her Single</b></font>
+
+510
+00:23:00,550 --> 00:23:03,220
+<font face="Calibri" size="48"><b>It started talk about her wanting to rival with Nogizaka46</b></font>
+
+511
+00:23:04,480 --> 00:23:05,980
+<font face="Calibri" size="48"><b>Interim Captain Sakurai said:</b></font>
+
+512
+00:23:06,490 --> 00:23:08,740
+<font face="Calibri" size="48"><b>"She wants to be seen as our rival, so I'll give it to her"</b></font>
+
+513
+00:23:08,740 --> 00:23:09,910
+<font face="Calibri" size="48"><b>"I want results"</b></font>
+
+514
+00:23:09,910 --> 00:23:11,450
+<font face="Calibri" size="48"><b>is her narrative</b></font>
+
+515
+00:23:12,450 --> 00:23:14,900
+<font face="Calibri" size="48"><b>In reponse, Sashiraha said...</b></font>
+
+516
+00:23:15,690 --> 00:23:18,960
+<font face="Calibri" size="48"><b>Speaking about Nogizaka46...</b></font>
+
+517
+00:23:19,330 --> 00:23:20,610
+<font face="Calibri" size="48"><b>Sashihara-san</b></font>
+
+518
+00:23:20,610 --> 00:23:25,600
+<font face="Calibri" size="48"><b>It seems that my Solo Single is to be released on the same day as Nogizaka's Single...</b></font>
+
+519
+00:23:25,840 --> 00:23:27,200
+<font face="Calibri" size="48"><b>Oh my !</b></font>
+
+520
+00:23:27,200 --> 00:23:29,200
+<font face="Calibri" size="48"><b>Of course, Mii-chan, I can count on your support, right ?</b></font>
+
+521
+00:23:29,200 --> 00:23:31,240
+<font face="Calibri" size="48"><b>Yeah for sure ! You can count on me for supporting Nogizaka-</b></font>
+
+522
+00:23:31,240 --> 00:23:31,770
+<font face="Calibri" size="48"><b>- Eh ?</b></font>
+
+523
+00:23:32,180 --> 00:23:33,630
+<font face="Calibri" size="48"><b>Then Yukirin, you'll support me, right ?</b></font>
+
+524
+00:23:33,630 --> 00:23:35,120
+<font face="Calibri" size="48"><b>- Yep ! I'll support Nogizaka !</b></font>
+
+525
+00:23:35,120 --> 00:23:36,050
+<font face="Calibri" size="48"><b>Eh ? Wait a minute...</b></font>
+
+526
+00:23:36,050 --> 00:23:39,220
+<font face="Calibri" size="48"><b>But what about the public ? Who will you guys support ?</b></font>
+
+527
+00:23:39,770 --> 00:23:40,940
+<font face="Calibri" size="48"><b>"Nogizaka !!"</b></font>
+
+528
+00:23:40,940 --> 00:23:41,780
+<font face="Calibri" size="48"><b>- Hey !!</b></font>
+
+529
+00:23:42,210 --> 00:23:43,100
+<font face="Calibri" size="48"><b>Nogizaka</b></font>
+
+530
+00:23:43,680 --> 00:23:44,860
+<font face="Calibri" size="48"><b>Wait a second...</b></font>
+
+531
+00:23:44,860 --> 00:23:53,980
+<font face="Calibri" size="48"><b>Don't worry I've thought about it, I think that with the help of Maeda-san and Yuuko-san, there's no doubt that it will sell well !</b></font>
+
+532
+00:23:53,980 --> 00:23:55,130
+<font face="Calibri" size="48"><b>Sashihara... !</b></font>
+
+533
+00:23:55,580 --> 00:23:56,860
+<font face="Calibri" size="48"><b>You coward !</b></font>
+
+534
+00:23:57,080 --> 00:23:58,510
+<font face="Calibri" size="48"><b>But that's why... !</b></font>
+
+535
+00:23:59,230 --> 00:24:01,320
+<font face="Calibri" size="48"><b>We love you !!!</b></font>
+
+536
+00:24:01,600 --> 00:24:02,750
+<font face="Calibri" size="48"><b>Much obliged</b></font>
+
+537
+00:24:02,850 --> 00:24:04,500
+<font face="Calibri" size="48"><b>Thank you very much</b></font>
+
+538
+00:24:05,360 --> 00:24:07,220
+<font face="Calibri" size="48"><b>She thinks it'll be an easy win</b></font>
+
+539
+00:24:08,750 --> 00:24:10,400
+<font face="Calibri" size="48"><b>Both parties are showing excitement</b></font>
+
+540
+00:24:10,400 --> 00:24:14,330
+<font face="Calibri" size="48"><b>30 days until the fateful release date !</b></font>
+
