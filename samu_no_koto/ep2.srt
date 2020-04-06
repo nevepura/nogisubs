@@ -1,0 +1,1144 @@
+1
+00:00:00,110 --> 00:00:01,100
+<font size="40">Suicide?</font>
+
+2
+00:00:02,700 --> 00:00:03,800
+<font size="40">Oh no</font>
+
+3
+00:00:06,350 --> 00:00:08,650
+<font size="40">Excuse me, could I borrow a rag?</font>
+
+4
+00:00:09,020 --> 00:00:10,580
+<font size="40">A rag right?
+- What's the matter?</font>
+
+5
+00:00:10,580 --> 00:00:11,680
+<font size="40">Looking for a rag</font>
+
+6
+00:00:14,130 --> 00:00:16,230
+<font size="40">Why don't I wipe it for you?
+- No it's fine</font>
+
+7
+00:00:20,490 --> 00:00:21,470
+<font size="40">Sorry about that</font>
+
+8
+00:00:25,510 --> 00:00:26,510
+<font size="40">I was surprised</font>
+
+9
+00:00:27,070 --> 00:00:28,420
+<font size="40">For Samu to have commited suicide</font>
+
+10
+00:00:29,720 --> 00:00:31,020
+<font size="40">Please hand me some tissue as well</font>
+
+11
+00:00:31,350 --> 00:00:37,120
+<font face="@HGGyoshotai" size="72">Kimu no Koto</font>
+
+12
+00:00:39,130 --> 00:00:41,330
+<font size="40">What did the driver say?</font>
+
+13
+00:00:41,920 --> 00:00:45,490
+<font size="40">My sister was staggering towards the truck</font>
+
+14
+00:00:46,270 --> 00:00:49,450
+<font size="40">Even though he honked the car horn and stepped on the brakes as quickly as he could,</font>
+
+15
+00:00:49,450 --> 00:00:50,820
+<font size="40">she didn't stop, he said.</font>
+
+16
+00:00:53,150 --> 00:00:55,280
+<font size="40">She was out to buy something right?
+- Yes</font>
+
+17
+00:00:55,500 --> 00:00:56,840
+<font size="40">What did she buy?</font>
+
+18
+00:00:56,890 --> 00:00:57,590
+<font size="40">Chocolate</font>
+
+19
+00:00:57,840 --> 00:00:58,720
+<font size="40">Chocolate?
+- Yeah</font>
+
+20
+00:00:59,030 --> 00:01:00,080
+<font size="40">Was it Apollo?</font>
+
+21
+00:01:00,610 --> 00:01:01,890
+<font size="40">It was <i>Takenoko no Sato</i> right?</font>
+
+22
+00:01:01,890 --> 00:01:03,620
+<font size="40">No, it was <i>Kinoko no Yama</i> right?</font>
+
+23
+00:01:03,680 --> 00:01:04,650
+<font size="40">Choco Baby</font>
+
+24
+00:01:06,800 --> 00:01:08,630
+<font size="40">It was milk chocolate</font>
+
+25
+00:01:13,240 --> 00:01:14,100
+<font size="40">It couldn't be..</font>
+
+26
+00:01:15,270 --> 00:01:17,110
+<font size="40">So it was milk chocolate after all...</font>
+
+27
+00:01:17,460 --> 00:01:18,340
+<font size="40">Not that</font>
+
+28
+00:01:19,410 --> 00:01:21,280
+<font size="40">I was talking about it being a suicide</font>
+
+29
+00:01:26,340 --> 00:01:28,320
+<font size="40">Here
+- Thank you</font>
+
+30
+00:01:28,450 --> 00:01:29,680
+<font size="40">Is it because you're driving?</font>
+
+31
+00:01:30,540 --> 00:01:32,320
+<font size="40">She just doesn't drink alcohol</font>
+
+32
+00:01:33,490 --> 00:01:34,710
+<font size="40">Please come in</font>
+
+33
+00:01:36,010 --> 00:01:37,320
+<font size="40">If you'd excuse me for a bit</font>
+
+34
+00:01:44,470 --> 00:01:45,950
+<font size="40">For it to have been a suicide...</font>
+
+35
+00:01:46,550 --> 00:01:48,410
+<font size="40">It hasn't been confirmed</font>
+
+36
+00:01:49,110 --> 00:01:51,560
+<font size="40">Maybe she bought chocolate for comfort..?</font>
+
+37
+00:01:51,720 --> 00:01:53,680
+<font size="40">That's what happens to people with dependence</font>
+
+38
+00:01:57,220 --> 00:01:59,270
+<font size="40">Although I don't know on Samu's case but,</font>
+
+39
+00:01:59,770 --> 00:02:01,900
+<font size="40">knowing that you must quit something but you can't.</font>
+
+40
+00:02:02,320 --> 00:02:03,940
+<font size="40">I understand that feeling</font>
+
+41
+00:02:04,500 --> 00:02:07,180
+<font size="40">I had an addiction to drinking alcohol after all</font>
+
+42
+00:02:10,130 --> 00:02:14,000
+<font size="40">2 years ago</font>
+
+43
+00:02:17,250 --> 00:02:20,210
+<font size="40">There's only 10 minutes left, please get ready on standby
+- Okay</font>
+
+44
+00:02:52,020 --> 00:02:54,060
+<font size="40">Kimu? Something wrong?</font>
+
+45
+00:02:54,370 --> 00:03:22,500
+<font size="40">Sorry, I'll be going now</font>
+
+46
+00:03:22,500 --> 00:03:24,690
+<font size="40">I've always been easily nervous</font>
+
+47
+00:03:25,050 --> 00:03:28,110
+<font size="40">Without knowing it, I couldn't stand on stage while sober</font>
+
+48
+00:03:28,820 --> 00:03:29,990
+<font size="40">To make it worse,</font>
+
+49
+00:03:29,990 --> 00:03:32,210
+<font size="40">having this piling anxiety of not being able to sell well</font>
+
+50
+00:03:32,530 --> 00:03:34,580
+<font size="40">I go straight to the bar after work</font>
+
+51
+00:03:35,110 --> 00:03:37,190
+<font size="40">I can forget everything if I drink after all</font>
+
+52
+00:03:41,150 --> 00:03:42,030
+<font size="40">Excuse me!</font>
+
+53
+00:03:43,240 --> 00:03:44,210
+<font size="40">Refill please</font>
+
+54
+00:03:44,470 --> 00:03:46,210
+<font size="40">This will be the last orders for drinks</font>
+
+55
+00:03:46,400 --> 00:03:48,420
+<font size="40">Then another 3 of the one I had</font>
+
+56
+00:03:48,740 --> 00:04:06,360
+<font size="40">3 High balls!</font>
+
+57
+00:04:06,360 --> 00:04:08,190
+<font size="40">As the number of alcohol increased,</font>
+
+58
+00:04:08,190 --> 00:04:09,570
+<font size="40">so did the number of things I did.</font>
+
+59
+00:04:10,200 --> 00:04:15,590
+<font size="40">There was a time I found the button for calling the clerk at the bar in my bag.</font>
+
+60
+00:04:16,000 --> 00:04:19,840
+<font size="40">There has also been a time I was sleeping with a red cone from a construction site.</font>
+
+61
+00:04:42,010 --> 00:04:46,210
+<font size="40">There is a missing part spotted on the bronze statue of a girl smelling a flower.</font>
+
+62
+00:04:46,580 --> 00:04:49,010
+<font size="40">The concerned locals have began to search.</font>
+
+63
+00:04:49,280 --> 00:04:50,710
+<font size="40">Here is a report from the area.</font>
+
+64
+00:04:51,890 --> 00:04:55,280
+<font size="40">I am here at the place where the statue is found, Tsujigaoka Danchi shopping district.</font>
+
+65
+00:04:56,040 --> 00:04:57,830
+<font size="40">As pointed out by my right hand,</font>
+
+66
+00:04:57,830 --> 00:05:02,230
+<font size="40">this is the shopping district's symbol that has grown to be loved by the community, the bronze statue of a girl holding a flower.</font>
+
+67
+00:05:02,660 --> 00:05:05,630
+<font size="40">Like this, the flower that the girl is supposed to be holding</font>
+
+68
+00:05:05,630 --> 00:05:09,960
+<font size="40">has been broken off and stolen by a cold-hearted person.</font>
+
+69
+00:05:11,440 --> 00:05:13,510
+<font size="40">As stated by the woman in charge of cleaning the area,</font>
+
+70
+00:05:13,510 --> 00:05:17,100
+<font size="40">"When I was cleaning the statue, I noticed the flower was gone,"</font>
+
+71
+00:05:17,100 --> 00:05:22,040
+<font size="40">"I couldn't find the broken flower anywhere either while cleaning nearby."</font>
+
+72
+00:05:23,350 --> 00:05:29,350
+<font size="40">So right here, we have the Shopping District's Promotional Association's head, Karasawa-san, to talk about it.</font>
+
+73
+00:05:32,110 --> 00:05:35,110
+<font size="40">First of all, please let us hear your feelings about this.</font>
+
+74
+00:05:36,570 --> 00:05:39,140
+<font size="40">It is the shopping district's symbol after all,</font>
+
+75
+00:05:40,080 --> 00:05:41,720
+<font size="40">it is important and cherished by us.</font>
+
+76
+00:05:43,410 --> 00:05:44,370
+<font size="40">Like this,</font>
+
+77
+00:05:44,370 --> 00:05:47,130
+<font size="40">the people of the shopping district and its locals</font>
+
+78
+00:05:47,130 --> 00:06:01,890
+<font size="40">are furious at this cold-hearted person's prank.</font>
+
+79
+00:06:01,890 --> 00:06:05,710
+<font size="40">The next station is Higashino</font>
+
+80
+00:06:06,320 --> 00:06:07,850
+<font size="40">The exit is at your left</font>
+
+81
+00:06:08,660 --> 00:06:11,740
+<font size="40">Please be careful of leaving things behind</font>
+
+82
+00:06:29,170 --> 00:06:30,210
+<font size="40">This should be fine</font>
+
+83
+00:06:30,830 --> 00:06:32,880
+<font size="40">That flower will go around and be seen by many people</font>
+
+84
+00:06:32,880 --> 00:06:34,880
+<font size="40">and it will be back to where it belongs.</font>
+
+85
+00:06:36,360 --> 00:06:37,000
+<font size="40">Kimu!</font>
+
+86
+00:06:39,180 --> 00:06:40,200
+<font size="40">It really is you!</font>
+
+87
+00:06:40,950 --> 00:06:42,060
+<font size="40">You forgot this!</font>
+
+88
+00:06:46,770 --> 00:06:47,430
+<font size="40">Thanks</font>
+
+89
+00:06:48,230 --> 00:06:49,090
+<font size="40">What's that?</font>
+
+90
+00:06:49,740 --> 00:06:52,370
+<font size="40">I don't know. I just got it from a fan awhile ago.</font>
+
+91
+00:06:52,490 --> 00:06:53,620
+<font size="40">Eh~ I want to see what's inside</font>
+
+92
+00:06:54,080 --> 00:06:56,720
+<font size="40">Sorry, I was told to take a look at it once I'm home</font>
+
+93
+00:06:56,720 --> 00:06:57,740
+<font size="40">It's fine, just a little bit</font>
+
+94
+00:06:57,740 --> 00:06:58,760
+<font size="40">I said you can't</font>
+
+95
+00:06:59,270 --> 00:07:01,080
+<font size="40">Why~ Just show me
+- I said no</font>
+
+96
+00:07:03,050 --> 00:07:07,370
+<font size="40">Every morning that I go here, I always look at it thinking it was cute</font>
+
+97
+00:07:07,370 --> 00:07:09,500
+<font size="40">It was a source of encouragement for me</font>
+
+98
+00:07:09,920 --> 00:07:12,260
+<font size="40">For this to suddenly happen</font>
+
+99
+00:07:12,260 --> 00:07:16,760
+<font size="40">It's so unfortunate, and looking at it now, it's pitiful.</font>
+
+100
+00:07:17,630 --> 00:07:19,470
+<font size="40">That's why I hope it is returned soon</font>
+
+101
+00:07:20,220 --> 00:07:22,520
+<font size="40">Good morning
+- Morning</font>
+
+102
+00:07:26,910 --> 00:07:30,080
+<font size="40">I really can't forgive people like this</font>
+
+103
+00:07:31,620 --> 00:07:32,300
+<font size="40">What's that?</font>
+
+104
+00:07:33,320 --> 00:07:35,590
+<font size="40">Someone took the bronze statue's flower</font>
+
+105
+00:07:36,800 --> 00:07:37,680
+<font size="40">Isn't that horrible?</font>
+
+106
+00:07:40,840 --> 00:07:41,550
+<font size="40">It is</font>
+
+107
+00:07:42,620 --> 00:07:46,500
+<font size="40">The statue itself has no damage besides the missing flower</font>
+
+108
+00:07:46,500 --> 00:07:48,820
+<font size="40">This is the first time this has happened</font>
+
+109
+00:07:49,460 --> 00:07:54,500
+<font size="40">The town is currently discussing strengthening security via installing security cameras.</font>
+
+110
+00:07:56,920 --> 00:08:08,040
+<font size="40">Great job
+- Great job</font>
+
+111
+00:08:08,040 --> 00:08:08,720
+<font size="40">Samu?</font>
+
+112
+00:08:10,780 --> 00:08:11,850
+<font size="40">I told you not to look!</font>
+
+113
+00:08:12,780 --> 00:08:14,530
+<font size="40">Isn't this the thing in the tv?</font>
+
+114
+00:08:18,690 --> 00:08:19,390
+<font size="40">Come with me</font>
+
+115
+00:08:20,850 --> 00:08:21,660
+<font size="40">I'm tired</font>
+
+116
+00:08:23,500 --> 00:08:25,490
+<font size="40">There wasn't much people today either</font>
+
+117
+00:08:25,870 --> 00:08:27,970
+<font size="40">Well it can't be helped.</font>
+
+118
+00:08:35,120 --> 00:08:37,420
+<font size="40">It was a lie, that it was given by a fan</font>
+
+119
+00:08:40,400 --> 00:08:41,700
+<font size="40">Are you the culprit?</font>
+
+120
+00:08:43,010 --> 00:08:46,780
+<font size="40">Probably...I drank too much so I don't recall doing it though</font>
+
+121
+00:08:47,720 --> 00:08:48,960
+<font size="40">You drank that much huh...</font>
+
+122
+00:08:49,770 --> 00:08:50,350
+<font size="40">Yeah</font>
+
+123
+00:08:51,140 --> 00:09:00,930
+<font size="40">It's embarassing, so don't tell the others okay?</font>
+
+124
+00:09:00,930 --> 00:09:02,410
+<font size="40">Then let's go put it back</font>
+
+125
+00:09:02,900 --> 00:09:05,520
+<font size="40">If we put it back to where it was, there will be no problems right?</font>
+
+126
+00:09:05,520 --> 00:09:06,980
+<font size="40">We'll be found out if we do that!</font>
+
+127
+00:09:06,980 --> 00:09:08,780
+<font size="40">Everyone will be shocked if it suddenly returns!</font>
+
+128
+00:09:08,780 --> 00:09:10,780
+<font size="40">I told you we can't!
+- It'll be fine. Let's go?</font>
+
+129
+00:09:15,000 --> 00:09:15,010
+<font size="40"><i>Samu! Wait a minute!
+-It'll be fine I'm telling you</i></font>
+
+130
+00:09:15,010 --> 00:09:17,010
+<font size="40">Samu was really a troublesome person</font>
+
+131
+00:09:17,860 --> 00:09:19,000
+<font size="40">Not minding the atmosphere</font>
+
+132
+00:09:19,460 --> 00:09:22,010
+<font size="40">She didn't mind other people's situation and feelings</font>
+
+133
+00:09:22,980 --> 00:09:24,590
+<font size="40">In the case she didn't get to answer her phone,</font>
+
+134
+00:09:24,590 --> 00:09:27,330
+<font size="40">she's the type to keep on calling back until you answer.</font>
+
+135
+00:09:34,600 --> 00:09:35,720
+<font size="40">Welcome</font>
+
+136
+00:09:41,600 --> 00:09:42,550
+<font size="40">That's it!</font>
+
+137
+00:09:50,130 --> 00:09:51,130
+<font size="40">It'll be fine</font>
+
+138
+00:09:51,700 --> 00:09:54,250
+<font size="40">We're just looking at this famous statue after all</font>
+
+139
+00:09:59,950 --> 00:10:00,650
+<font size="40">Want some?</font>
+
+140
+00:10:01,420 --> 00:10:02,540
+<font size="40">As if I would right now</font>
+
+141
+00:10:15,350 --> 00:10:16,750
+<font size="40">Now's our best chance</font>
+
+142
+00:10:19,190 --> 00:10:20,250
+<font size="40">Get the flower</font>
+
+143
+00:10:25,290 --> 00:10:26,140
+<font size="40">Make it quick</font>
+
+144
+00:10:36,110 --> 00:10:37,810
+<font size="40">Well? Did it stick?</font>
+
+145
+00:10:39,310 --> 00:10:40,480
+<font size="40">Yeah, looks like it.</font>
+
+146
+00:10:41,340 --> 00:10:42,170
+<font size="40">Let's get out of here</font>
+
+147
+00:10:42,170 --> 00:10:42,840
+<font size="40">Wait</font>
+
+148
+00:10:43,550 --> 00:10:44,890
+<font size="40">Wa-What are you doing?</font>
+
+149
+00:10:45,520 --> 00:10:46,910
+<font size="40">Come on, to commemorate this</font>
+
+150
+00:10:53,350 --> 00:10:53,930
+<font size="40">Look</font>
+
+151
+00:10:54,270 --> 00:10:55,990
+<font size="40">We look so ugly</font>
+
+152
+00:10:55,990 --> 00:10:57,490
+<font size="40">Come on already let's go</font>
+
+153
+00:10:58,280 --> 00:11:11,830
+<font size="40">Oh no</font>
+
+154
+00:11:11,830 --> 00:11:13,730
+<font size="40">The flower sticked somehow</font>
+
+155
+00:11:14,570 --> 00:11:16,640
+<font size="40">The incident ended with no problems</font>
+
+156
+00:11:20,110 --> 00:11:23,510
+<font size="40">We have come to the place where the damaged bronze statue is, Tsujigaoka Danchi shopping district.</font>
+
+157
+00:11:24,210 --> 00:11:30,910
+<font size="40">It originally is a statue of a girl smelling a flower but the once missing flower has now been returned.</font>
+
+158
+00:11:31,400 --> 00:11:32,640
+<font size="40">Then again, please take a look.</font>
+
+159
+00:11:32,640 --> 00:11:34,590
+<font size="40">The flower is faced differently.</font>
+
+160
+00:11:36,670 --> 00:11:38,870
+<font size="40">Here is how it looked before being damaged</font>
+
+161
+00:11:42,750 --> 00:11:47,740
+<font size="40">Its original position had the flower facing the girl's face like so, however,</font>
+
+162
+00:11:47,740 --> 00:11:51,160
+<font size="40">right now, as you can see, it is facing the other way around.</font>
+
+163
+00:11:51,520 --> 00:11:53,740
+<font size="40">The girl is now not smelling the flower,</font>
+
+164
+00:11:53,740 --> 00:11:56,090
+<font size="40">it has become the girl that is throwing away a flower.</font>
+
+165
+00:11:56,750 --> 00:11:58,160
+<font size="40">Was it planned to be this kind of prank all along?</font>
+
+166
+00:11:58,160 --> 00:12:02,050
+<font size="40">It's finally over</font>
+
+167
+00:12:02,050 --> 00:12:02,200
+<font size="40"><i>The head of the shopping district's Promotional Association, Karasawa-san, was invited over today</i></font>
+
+168
+00:12:02,200 --> 00:12:04,550
+<font size="40">I like it better like this though</font>
+
+169
+00:12:06,950 --> 00:12:09,690
+<font size="40">Good day. So Karasawa-san, so now the girl is-</font>
+
+170
+00:12:15,410 --> 00:12:19,180
+<font size="40">I'd like to thank all of you for making your way here for Chika</font>
+
+171
+00:12:19,180 --> 00:12:21,770
+<font size="40">Even so, that news had a follow-up.</font>
+
+172
+00:12:22,310 --> 00:12:23,690
+<font size="40">"Why is it that the bronze statue,"</font>
+
+173
+00:12:23,690 --> 00:12:26,760
+<font size="40">"the girl who is not smelling the flower", became a buzz.</font>
+
+174
+00:12:27,300 --> 00:12:29,490
+<font size="40">People came to see the statue</font>
+
+175
+00:12:29,490 --> 00:12:32,640
+<font size="40">The shopping district which was close to closing came back to life</font>
+
+176
+00:12:33,180 --> 00:12:36,280
+<font size="40">The people were able to quickly turn things around,</font>
+
+177
+00:12:36,280 --> 00:12:37,950
+<font size="40">and the situation calmed down.</font>
+
+178
+00:12:40,210 --> 00:12:42,310
+<font size="40">What were you all called again?</font>
+
+179
+00:12:42,540 --> 00:12:44,800
+<font size="40">It was that name that sounded like a baseball team</font>
+
+180
+00:12:45,400 --> 00:12:47,120
+<font size="40">It was "Udagawa White Bears"</font>
+
+181
+00:12:47,120 --> 00:12:49,280
+<font size="40">Right, right, it was "Bears"</font>
+
+182
+00:12:49,670 --> 00:12:51,180
+<font size="40">What did you guys do again?</font>
+
+183
+00:12:53,340 --> 00:12:56,240
+<font size="40">What work could it have been?</font>
+
+184
+00:12:57,150 --> 00:12:58,310
+<font size="40">We sang songs</font>
+
+185
+00:12:58,670 --> 00:13:01,210
+<font size="40">You sang? What was the chorus?</font>
+
+186
+00:13:03,390 --> 00:13:04,420
+<font size="40">We were idols</font>
+
+187
+00:13:04,800 --> 00:13:07,380
+<font size="40">Idols huh?
+- We've already disbanded though</font>
+
+188
+00:13:08,570 --> 00:13:11,210
+<font size="40">I didn't know at all! Were you guys popular?</font>
+
+189
+00:13:12,490 --> 00:13:13,450
+<font size="40">Not really...</font>
+
+190
+00:13:13,450 --> 00:13:17,890
+<font size="40">I see... I mean I've never seen you after all</font>
+
+191
+00:13:19,800 --> 00:13:22,200
+<font size="40">I don't know much about the entertainment world but...</font>
+
+192
+00:13:23,230 --> 00:13:26,330
+<font size="40">It's a pretty cruel world to those without talent</font>
+
+193
+00:13:27,030 --> 00:13:30,990
+<font size="40">You see, when I was young, I drove a taxi.</font>
+
+194
+00:13:31,670 --> 00:13:33,670
+<font size="40">But you see, I couldn't read maps!</font>
+
+195
+00:13:33,670 --> 00:13:34,730
+<font size="40">I quit after half a year!</font>
+
+196
+00:13:35,950 --> 00:13:39,960
+<font size="40">I often had fights with customers, but it's fun to look back on those memories!</font>
+
+197
+00:13:40,950 --> 00:13:41,890
+<font size="40">Here you go</font>
+
+198
+00:13:41,890 --> 00:13:44,450
+<font size="40">I'm sorry, I don't drink alcohol.</font>
+
+199
+00:13:45,110 --> 00:13:46,540
+<font size="40">You should be fine with a little</font>
+
+200
+00:13:47,130 --> 00:13:47,890
+<font size="40">I'm fine</font>
+
+201
+00:13:48,830 --> 00:13:51,230
+<font size="40">You guys are really well-mannered huh~</font>
+
+202
+00:13:51,530 --> 00:13:54,130
+<font size="40">because of that you guys think I won't suspect you?</font>
+
+203
+00:13:55,850 --> 00:13:58,310
+<font size="40">Old man, you've drank too much</font>
+
+204
+00:13:58,580 --> 00:14:02,080
+<font size="40">Let's get you to sober up outside, come on I'll help you stand.</font>
+
+205
+00:14:05,190 --> 00:14:06,240
+<font size="40">See you again~</font>
+
+206
+00:14:10,210 --> 00:14:11,880
+<font size="40">Speaking of idol groups,</font>
+
+207
+00:14:11,880 --> 00:14:15,620
+<font size="40">you might think that there is a strong relationship within the members.</font>
+
+208
+00:14:18,510 --> 00:14:19,930
+<font size="40">But at that time,</font>
+
+209
+00:14:19,930 --> 00:14:22,460
+<font size="40">even though we had to align ourselves everyday,</font>
+
+210
+00:14:23,060 --> 00:14:24,730
+<font size="40">but rather than a friend,</font>
+
+211
+00:14:24,730 --> 00:14:26,940
+<font size="40">and not just someone you want to beat either,</font>
+
+212
+00:14:28,230 --> 00:14:30,580
+<font size="40">with a plastic like superficiality,</font>
+
+213
+00:14:30,580 --> 00:14:33,230
+<font size="40">it was an unreliable relationship like a sponge.</font>
+
+214
+00:14:34,520 --> 00:14:36,820
+<font size="40">With no big problems between members,</font>
+
+215
+00:14:36,820 --> 00:14:39,020
+<font size="40">nor any touching moments,</font>
+
+216
+00:14:39,780 --> 00:14:42,320
+<font size="40">without really meddling on each others lives </font>
+
+217
+00:14:42,320 --> 00:14:43,580
+<font size="40">within ourselves.</font>
+
+218
+00:14:44,450 --> 00:15:12,690
+<font size="40">Only Samu was the troublesome one.</font>
+
+219
+00:15:12,690 --> 00:15:14,220
+<font size="40">You think Komiyama-san will come?</font>
+
+220
+00:15:15,590 --> 00:15:18,030
+<font size="40">He's our ex-manager so he'll probably come right?</font>
+
+221
+00:15:18,390 --> 00:15:20,490
+<font size="40">But the ones he's handling now is busy</font>
+
+222
+00:15:21,460 --> 00:15:22,690
+<font size="40">Are they selling well?
+- Yeah</font>
+
+223
+00:15:23,150 --> 00:15:24,370
+<font size="40">They're pretty popular</font>
+
+224
+00:15:24,370 --> 00:15:25,580
+<font size="40">Their next live is in Budoukan</font>
+
+225
+00:15:27,410 --> 00:15:28,510
+<font size="40">Budoukan huh...</font>
+
+226
+00:15:29,250 --> 00:15:30,310
+<font size="40">That's great for them</font>
+
+227
+00:15:30,710 --> 00:15:32,310
+<font size="40">That's true
+- Yeah</font>
+
+228
+00:15:34,050 --> 00:15:36,820
+<font size="40">If Samu were alive, she would've probably felt the same</font>
+
+229
+00:15:37,720 --> 00:15:40,290
+<font size="40">Samu really died already...</font>
+
+230
+00:15:43,610 --> 00:15:46,110
+<font size="40">Sorry for the trouble I caused you</font>
+
+231
+00:15:46,110 --> 00:15:46,810
+<font size="40">Not at all</font>
+
+232
+00:15:47,320 --> 00:15:51,610
+<font size="40">He's usually very kind but when the alcohol hits, he can be very hard to handle.</font>
+
+233
+00:15:52,320 --> 00:15:53,720
+<font size="40">We kind of figured</font>
+
+234
+00:15:55,320 --> 00:15:57,360
+<font size="40">Is it fine if I join in the conversation?</font>
+
+235
+00:15:58,010 --> 00:16:04,760
+<font size="40">Yes, of course</font>
+
+236
+00:16:04,760 --> 00:16:09,760
+<font size="40">How was Chika around the family?</font>
+
+237
+00:16:10,870 --> 00:16:14,070
+<font size="40">My sister was...a naive person.</font>
+
+238
+00:16:14,710 --> 00:16:16,140
+<font size="40">Naive?
+- Yes</font>
+
+239
+00:16:16,780 --> 00:16:19,630
+<font size="40">She's so spoiled at home</font>
+
+240
+00:16:20,880 --> 00:16:23,480
+<font size="40">She used to follow me wherever I go when she was young</font>
+
+241
+00:16:23,970 --> 00:16:26,400
+<font size="40">When I go out to play with friends, she makes sure to come along</font>
+
+242
+00:16:27,620 --> 00:16:31,120
+<font size="40">That's why I always left the house quietly so that I won't get caught by her,</font>
+
+243
+00:16:32,070 --> 00:16:34,230
+<font size="40">but somehow she senses it and still catches me.</font>
+
+244
+00:16:35,360 --> 00:16:38,270
+<font size="40">I was already of age at that time so I'd play tricks on her</font>
+
+245
+00:16:38,950 --> 00:16:40,530
+<font size="40">she'd follow me even if I teased her.</font>
+
+246
+00:16:41,520 --> 00:16:44,950
+<font size="40">My bicycle was already small and slow even when I'm alone,</font>
+
+247
+00:16:44,950 --> 00:16:46,150
+<font size="40">but she'd still pedal with all her strength.</font>
+
+248
+00:16:47,080 --> 00:16:48,080
+<font size="40">That's cute of her</font>
+
+249
+00:16:49,380 --> 00:16:51,460
+<font size="40">Since I know I can't top her stamina,</font>
+
+250
+00:16:51,460 --> 00:16:53,370
+<font size="40">I tried thinking of a different way.</font>
+
+251
+00:16:54,150 --> 00:16:55,870
+<font size="40">And then actually she often lied</font>
+
+252
+00:16:56,300 --> 00:16:56,880
+<font size="40">Really?</font>
+
+253
+00:16:58,500 --> 00:17:00,880
+<font size="40">It was stupid lies though.</font>
+
+254
+00:17:00,880 --> 00:17:05,120
+<font size="40">Like "my foot got dislocated, or "my heart stopped".</font>
+
+255
+00:17:06,000 --> 00:17:08,170
+<font size="40">Or "I'll be taken away by a big bird"</font>
+
+256
+00:17:08,880 --> 00:17:10,310
+<font size="40">It was quite easy to find out though</font>
+
+257
+00:17:11,230 --> 00:17:13,110
+<font size="40">Was it only lies for deception?</font>
+
+258
+00:17:14,020 --> 00:17:14,800
+<font size="40">Eh what's with that?</font>
+
+259
+00:17:15,630 --> 00:17:17,790
+<font size="40">Like "stopping global warming"</font>
+
+260
+00:17:18,270 --> 00:17:19,610
+<font size="40">Global warming?</font>
+
+261
+00:17:19,610 --> 00:17:22,870
+<font size="40">Yeah, she says it and just stopped one day</font>
+
+262
+00:17:23,200 --> 00:17:25,490
+<font size="40">Nope, I've never heard that one before</font>
+
+263
+00:17:26,090 --> 00:17:28,260
+<font size="40">I see
+- I thought that would be the case</font>
+
+264
+00:17:28,560 --> 00:17:30,150
+<font size="40">But somehow it's just like Samu</font>
+
+265
+00:17:31,870 --> 00:17:32,660
+<font size="40">Samu?</font>
+
+266
+00:17:32,910 --> 00:17:36,740
+<font size="40">Yes, we referred to Chika-san as "Samu"</font>
+
+267
+00:17:37,760 --> 00:17:41,120
+<font size="40">Well, she was the one who told us to call her that</font>
+
+268
+00:17:44,030 --> 00:17:46,510
+<font size="40">I see....</font>
+
+269
+00:17:46,510 --> 00:17:47,430
+<font size="40">Is that so....</font>
+
+270
+00:17:49,760 --> 00:17:52,200
+<font size="40">So she went by as "Samu"...</font>
+
+271
+00:17:57,310 --> 00:18:04,920
+<font size="40">I see</font>
+
+272
+00:18:04,920 --> 00:18:09,750
+<font size="40">"Samu"...was Chika-san not called "Samu" since before?</font>
+
+273
+00:18:12,450 --> 00:18:14,950
+<font size="40">Samu is my nickname</font>
+
+274
+00:18:17,520 --> 00:18:19,110
+<font size="40">I was called "Samu" before</font>
+
+275
+00:18:20,420 --> 00:18:21,580
+<font size="40">"Samu" from Osamu</font>
+
+276
+00:18:26,550 --> 00:18:28,120
+<font size="40">Why would she say that?</font>
+
+277
+00:18:52,550 --> 00:19:00,570
+<font face="@HGGyoshotai" size="72">Samu no Koto</font>
+
+278
+00:19:00,640 --> 00:19:02,550
+<font size="40">Then who is this? A different Samu?</font>
+
+279
+00:19:02,880 --> 00:19:05,580
+<font size="40">The feeling of "My sister's happiness is also my own"</font>
+
+280
+00:19:05,580 --> 00:19:08,040
+<font size="40">I'll quit from being an idol after all</font>
+
+281
+00:19:11,300 --> 00:19:12,450
+<font size="40">Since when did you find out?</font>
+
+282
+00:19:12,490 --> 00:19:15,220
+<font size="40">We're already here so why don't we take a look?</font>
+
