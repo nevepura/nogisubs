@@ -4,10 +4,11 @@ Here there are many subtitles of some of Nogizaka46 tv shows. Which ones?
 * *Nogizakatte, doko?*
 * *Nogizaka Under Construction*
 * *Nogibingo*
+* *Samu No Koto*
 
-The collection is not complete.
+The collection  not complete.
 It's just a way I have to order what I've gathered so far.
-You can find more subs online; you can also find many episodes already subbed.
+You can find more sub files online; you can also find many episodes that are available in streaming and already subbed.
 
 ## Sources
 I haven't made the subs myself. Tere are communities and individuals who take care of it. A few names:
@@ -15,7 +16,8 @@ Good Enough English subs,
 [IkomaSubs](https://ikomasubs.wordpress.com/),
 [Qelopin](http://qelopin.blogspot.com/),
 AIDOL,
-Ikudon
+Ikudon,
+Tamu-haya subs,
 and many more. The credits for the hard work go to them.
 
 ## Usage
